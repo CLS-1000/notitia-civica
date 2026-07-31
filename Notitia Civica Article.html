@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<!-- @dsCard group="Notitia Civica" name="Notitia Civica Article" subtitle="Long-form brief with metadata rail, verdict block, source colophon" -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Narrative Seeding as Asymmetric Pressure — Notitia Civica</title>
+<link rel="stylesheet" href="notitia/notitia.css">
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<style>
+html, body { margin: 0; padding: 0; }
+#nc-root { width: 100%; }
+.nc-article { --nc-accent: var(--nc-ochre); padding: 0; }
+.nc-article-head { border-bottom: 2px solid var(--nc-line-dark); padding: 48px 0; background: var(--nc-bone); }
+.nc-article-head-inner { max-width: 1200px; margin: 0 auto; padding: 0 32px; display: grid; grid-template-columns: 1fr 180px; gap: 40px; }
+.nc-article-kicker { font-family: var(--nc-sans); font-size: 11px; font-weight: 600; letter-spacing: .22em; text-transform: uppercase; color: var(--nc-ochre); margin-bottom: 16px; }
+.nc-article-title { font-family: var(--nc-serif); font-size: 48px; line-height: 1.2; font-weight: 400; margin: 0 0 20px 0; max-width: 620px; transition: font-size 0.3s ease; }
+.nc-article-date { font-family: var(--nc-sans); font-size: 11px; color: var(--nc-ink-3); }
+
+.nc-article-body { max-width: 1200px; margin: 0 auto; padding: 56px 32px; display: grid; grid-template-columns: 1fr 180px; gap: 40px; transition: opacity 0.3s ease; }
+.nc-article-col { max-width: var(--nc-measure); }
+.nc-article-col p { margin: 0 0 24px 0; transition: line-height 0.3s ease; }
+.nc-article-col h2 { font-family: var(--nc-serif); font-size: 28px; font-weight: 500; margin: 40px 0 16px 0; }
+.nc-article-col strong { transition: color 0.3s ease; }
+
+.nc-verdict { border: 1px solid var(--nc-line-dark); margin: 40px 0; }
+.nc-verdict-head { padding: 12px 20px; border-bottom: 1px solid var(--nc-line-dark); background: var(--nc-bone); font-family: var(--nc-sans); font-size: 11px; font-weight: 600; letter-spacing: .18em; text-transform: uppercase; }
+.nc-verdict-body { padding: 20px; display: flex; flex-direction: column; gap: 20px; }
+.nc-verdict-row { display: grid; grid-template-columns: 120px 1fr; gap: 12px; }
+.nc-verdict-row-label { font-family: var(--nc-sans); font-size: 10px; font-weight: 600; letter-spacing: .18em; text-transform: uppercase; color: var(--nc-ink-3); }
+.nc-verdict-row-value { font-family: var(--nc-mono); font-size: 13px; color: var(--nc-ink); }
+
+.nc-source-list { border-top: 1px solid var(--nc-line-dark); margin-top: 48px; padding-top: 32px; }
+.nc-source-head { font-family: var(--nc-sans); font-size: 10px; font-weight: 600; letter-spacing: .18em; text-transform: uppercase; color: var(--nc-ink-3); margin-bottom: 16px; }
+.nc-source-item { font-family: var(--nc-mono); font-size: 11px; line-height: 1.6; margin-bottom: 8px; color: var(--nc-ink-2); }
+
+.nc-footer { border-top: 2px solid var(--nc-line-dark); padding: 40px 32px; background: var(--nc-bone); font-family: var(--nc-sans); font-size: 11px; color: var(--nc-ink-2); line-height: 1.6; }
+
+.nc-tweak-panel { position: fixed; top: 16px; right: 16px; width: 280px; background: rgba(245,244,239,0.98); border: 1px solid var(--nc-line-dark); border-radius: 4px; padding: 20px; z-index: 1000; max-height: 80vh; overflow-y: auto; font-family: var(--nc-sans); font-size: 12px; }
+.nc-tweak-section { margin-bottom: 20px; }
+.nc-tweak-section-title { font-size: 10px; font-weight: 600; letter-spacing: 0.18em; text-transform: uppercase; color: var(--nc-ink-3); margin-bottom: 10px; }
+.nc-tweak-options { display: flex; gap: 8px; flex-wrap: wrap; }
+.nc-tweak-btn { padding: 6px 12px; border: 1px solid var(--nc-line-dark); background: transparent; color: var(--nc-ink); font-size: 11px; cursor: pointer; border-radius: 3px; transition: all 0.2s; }
+.nc-tweak-btn.active { background: var(--nc-ochre); color: white; border-color: var(--nc-ochre); }
+.nc-tweak-btn:hover { border-color: var(--nc-ochre); }
+.nc-tweak-slider { display: flex; flex-direction: column; gap: 8px; }
+.nc-tweak-slider input { width: 100%; }
+.nc-tweak-value { font-family: var(--nc-mono); font-size: 11px; color: var(--nc-ink-3); }
+</style>
+</head>
+<body class="nc nc-article">
+<div class="nc-article-head">
+  <div>
+    <div class="nc-article-kicker">Narrative Operations</div>
+    <h1 class="nc-article-title">Narrative Seeding as Asymmetric Pressure</h1>
+    <p style="font-family: var(--nc-sans); font-size: 13px; color: var(--nc-ink-2); margin: 0;">How a coordinated narrative campaign moves from fringe to mainstream.</p>
+  </div>
+  <div class="nc-rail">
+    <div class="nc-rail-item">
+      <div class="nc-rail-label">Issue</div>
+      <div class="nc-rail-value">#047</div>
+    </div>
+    <div class="nc-rail-item">
+      <div class="nc-rail-label">Series</div>
+      <div class="nc-rail-value accent">NARR-OPS</div>
+    </div>
+    <div class="nc-rail-item">
+      <div class="nc-rail-label">Published</div>
+      <div class="nc-rail-value">2025-07-23</div>
+    </div>
+  </div>
+</div>
+
+<div class="nc-article-body">
+  <div class="nc-article-col">
+    <p><strong>The mechanism is simple and recursive:</strong> seed a claim in a permissive channel, amplify it through a network of ostensibly independent accounts, wait for mainstream outlets to cover it as "controversy," then cite the mainstream coverage as proof the claim is real. Repeat until the false premise becomes background.</p>
+
+    <p>We identified one such campaign across a 47-day window (May 12—June 28, 2025) targeting fiscal policy discourse. The seeding source was a set of 8 coordinated accounts on X and Threads; amplification came through 23 secondary accounts; mainstream pickup occurred in 12 outlets (4 wire services, 2 cable-news chyrons, 6 opinion pieces). By day 47, the false premise appeared in 287 secondary contexts without source attribution.</p>
+
+    <h2>The Timeline</h2>
+    <p><strong>Day 1–7 (Seeding):</strong> The claim appears in a single permissive channel (a 4chan-derivative forum). Engagement is organic but small: 47 unique responders, 230 reactions.</p>
+
+    <p><strong>Day 8–18 (Amplification):</strong> A coordinated set of accounts begins sharing the claim with slight variations. These accounts appear independent: different linguistic markers, different posting times, different topic ranges. But they follow a synchronized pattern: all cite the fringe-channel post within 48 hours of its publication, all use nearly identical hashtags, all tag the same set of 6 media accounts. Engagement jumps to 12,000+ reactions and 1,400 retweets in this phase.</p>
+
+    <p><strong>Day 19–31 (Mainstream Pickup):</strong> Two cable-news chyrons mention "growing concern" about the claim. Three opinion pieces discuss it. A wire-service summary reports that "some observers claim" the premise is true. None cite the original fringe source; all cite the amplification accounts as if they represent genuine grassroots concern.</p>
+
+    <p><strong>Day 32–47 (Recursion):</strong> The false premise spreads into secondary contexts: think-tank op-eds, congressional staff talking points, regulatory comments. No longer attributed to any source; it appears as background assumption.</p>
+
+    <div class="nc-pull">
+      <div class="nc-pull-bar"></div>
+      <p>By the time fact-checkers move, the narrative has already rooted. The original false premise is no longer the story. The story is now: "Why are people talking about this?"</p>
+    </div>
+
+    <h2>What We Tracked</h2>
+    <p>We monitored 847 accounts and 12 fringe forums for narrative seeding patterns over Q2 2025. This campaign is one of eight we identified above the noise floor (a 0.8+ confidence threshold on coordinated behavior). It is mid-tier in sophistication: no synthetic media, no bot-farm signature obfuscation, no major platform system-message escalation. The account coordination was visible to a deterministic detector in real time.</p>
+
+    <p>What made it successful was <strong>mainstream amplification without skepticism.</strong> The wire-service summary that cited the amplification accounts as if they represented genuine concern was the turning point. From that moment, fact-checking became defensive: "We checked this claim and it's false" — but the claim was now already circulating in contexts where the audience had no exposure to the fact-check.</p>
+
+    <h2>The Structural Problem</h2>
+    <p>Narrative seeding works because it exploits a structural asymmetry: a false claim requires fact-checking to debunk; a true claim requires no additional work. The burden of disproof falls on defenders, not on claimants. When mainstream outlets cite the amplified fringe claim without source context, they unknowingly reset the burden: the claim now appears to have independent corroboration.</p>
+
+    <p>This is not a problem solved by better fact-checking. It is a problem solved by transparency: when wire services and cable-news chyrons cite secondary sources, they should identify the original source chain. "Observers claim X" should read as "This claim originated in [fringe source], was amplified by [coordinated network], and is now being repeated in mainstream outlets." That context removes the recursion opportunity.</p>
+
+    <div class="nc-verdict">
+      <div class="nc-verdict-head">Verdict & Confidence</div>
+      <div class="nc-verdict-body">
+        <div class="nc-verdict-row">
+          <div class="nc-verdict-row-label">Coordination</div>
+          <div class="nc-verdict-row-value">CONFIRMED (0.92)</div>
+        </div>
+        <div class="nc-verdict-row">
+          <div class="nc-verdict-row-label">Amplification Efficacy</div>
+          <div class="nc-verdict-row-value">HIGH (0.88)</div>
+        </div>
+        <div class="nc-verdict-row">
+          <div class="nc-verdict-row-label">Mainstream Impact</div>
+          <div class="nc-verdict-row-value">SIGNIFICANT (0.84)</div>
+        </div>
+        <div class="nc-verdict-row">
+          <div class="nc-verdict-row-label">Narrative Status</div>
+          <div class="nc-verdict-row-value">ROOTED</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="nc-source-list">
+      <div class="nc-source-head">Sources &amp; Confidence Methodology</div>
+      <div class="nc-source-item">Coordinated-account detection: linguistic analysis + temporal clustering + shared-hashtag patterns. 92% confidence; validated against manual review of 200-sample set.</div>
+      <div class="nc-source-item">Amplification tracking: follower-list analysis + retweet-graph mapping. Confidence 88%; accounts show <0.3 mutual-follower density outside amplification window (independent behavior).</div>
+      <div class="nc-source-item">Mainstream outlet audits: hand-coded source attribution in 287 secondary mentions. 84% confidence on propagation model; 8% of outlets provided original-source context.</div>
+      <div class="nc-source-item">All raw data available on request. Verification timestamps recorded in append-only ledger. No synthetic claims; all accounts are real, all posts are real.</div>
+    </div>
+  </div>
+
+  <div class="nc-rail">
+    <div class="nc-rail-item">
+      <div class="nc-rail-label">Published By</div>
+      <div class="nc-rail-value">Notitia Civica Editorial</div>
+    </div>
+    <div class="nc-rail-item">
+      <div class="nc-rail-label">Source Count</div>
+      <div class="nc-rail-value">847 accounts monitored</div>
+    </div>
+    <div class="nc-rail-item">
+      <div class="nc-rail-label">Gates Passed</div>
+      <div class="nc-rail-value accent">4 / 4</div>
+    </div>
+    <div class="nc-rail-item">
+      <div class="nc-rail-label">Classification</div>
+      <div class="nc-rail-value">UNCLASSIFIED</div>
+    </div>
+  </div>
+</div>
+
+<div class="nc-footer">
+  <strong>Notitia Civica</strong> is an independent publication. This brief is built on public sources, published without editorial bias, and subject to our full <a href="#" style="color: var(--nc-ink); text-decoration: underline;">confidence methodology</a>. No claims here are classified, speculative, or based on leaked material. Read the <a href="#" style="color: var(--nc-ink); text-decoration: underline;">source list</a> if you want to verify what we found.
+</div>
+<div id="nc-tweak-root"></div>
+<script type="text/babel">
+function ArticleTweaker() {
+  const [tweaks, setTweaks] = React.useState({
+    density: 'standard',
+    contrast: 'medium',
+    layout: 'full'
+  });
+
+  const applyTweaks = () => {
+    const body = document.body;
+    const col = document.querySelector('.nc-article-col');
+    const title = document.querySelector('.nc-article-title');
+    
+    if (tweaks.density === 'compact') {
+      if (col) col.style.lineHeight = '1.4';
+    } else if (tweaks.density === 'spacious') {
+      if (col) col.style.lineHeight = '1.8';
+    } else {
+      if (col) col.style.lineHeight = '1.55';
+    }
+
+    if (tweaks.contrast === 'high') {
+      body.style.filter = 'contrast(1.15)';
+    } else if (tweaks.contrast === 'low') {
+      body.style.filter = 'contrast(0.9)';
+    } else {
+      body.style.filter = 'none';
+    }
+
+    if (tweaks.layout === 'narrow') {
+      if (title) title.style.fontSize = '36px';
+      if (col) col.style.maxWidth = '520px';
+    } else if (tweaks.layout === 'wide') {
+      if (title) title.style.fontSize = '56px';
+      if (col) col.style.maxWidth = '100%';
+    } else {
+      if (title) title.style.fontSize = '48px';
+      if (col) col.style.maxWidth = 'var(--nc-measure)';
+    }
+  };
+
+  React.useEffect(() => {
+    applyTweaks();
+  }, [tweaks]);
+
+  return (
+    <div className="nc-tweak-panel">
+      <div className="nc-tweak-section">
+        <div className="nc-tweak-section-title">Reading Mode</div>
+        <div className="nc-tweak-options">
+          {['compact', 'standard', 'spacious'].map(opt => (
+            <button key={opt} className={`nc-tweak-btn ${tweaks.density === opt ? 'active' : ''}`} onClick={() => setTweaks({...tweaks, density: opt})}>
+              {opt}
+            </button>
+          ))}
+        </div>
+      </div>
+      <div className="nc-tweak-section">
+        <div className="nc-tweak-section-title">Contrast</div>
+        <div className="nc-tweak-options">
+          {['low', 'medium', 'high'].map(opt => (
+            <button key={opt} className={`nc-tweak-btn ${tweaks.contrast === opt ? 'active' : ''}`} onClick={() => setTweaks({...tweaks, contrast: opt})}>
+              {opt}
+            </button>
+          ))}
+        </div>
+      </div>
+      <div className="nc-tweak-section">
+        <div className="nc-tweak-section-title">Layout Width</div>
+        <div className="nc-tweak-options">
+          {['narrow', 'full', 'wide'].map(opt => (
+            <button key={opt} className={`nc-tweak-btn ${tweaks.layout === opt ? 'active' : ''}`} onClick={() => setTweaks({...tweaks, layout: opt})}>
+              {opt}
+            </button>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+ReactDOM.render(<ArticleTweaker />, document.getElementById('nc-tweak-root'));
+</script>
+</body>
+</html>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<!-- @dsCard group="Notitia Civica" name="Notitia Civica Issue Cover" subtitle="Full-bleed cover treatment — stacked accent bands, oversized pull, six-series index strip" -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Notitia Civica — Issue No. 47</title>
+<link rel="stylesheet" href="notitia/notitia.css">
+<style>
+body { margin: 0; padding: 0; background: var(--nc-plaster); }
+.cover { max-width: 1200px; margin: 0 auto; }
+.cover-top { display: grid; grid-template-columns: 1fr 1fr; border-bottom: 2px solid var(--nc-line-dark); }
+.cover-top-left { padding: 64px 48px; display: flex; flex-direction: column; justify-content: space-between; min-height: 520px; border-right: 2px solid var(--nc-line-dark); }
+.cover-issue { font-family: var(--nc-mono); font-size: 13px; color: var(--nc-ink-3); letter-spacing: .05em; }
+.cover-title { font-family: var(--nc-serif); font-size: 88px; line-height: 0.98; font-weight: 400; margin: 40px 0 0 0; letter-spacing: -0.01em; }
+.cover-sub { font-family: var(--nc-sans); font-size: 13px; letter-spacing: .22em; text-transform: uppercase; color: var(--nc-ink-3); margin-top: 24px; }
+.cover-top-right { display: flex; flex-direction: column; }
+.cover-band { flex: 1; display: flex; align-items: center; padding: 0 48px; font-family: var(--nc-sans); font-size: 12px; font-weight: 600; letter-spacing: .28em; text-transform: uppercase; color: var(--nc-plaster); }
+.cover-band + .cover-band { border-top: 1px solid rgba(247,244,238,0.25); }
+
+.cover-pull { padding: 72px 48px; border-bottom: 2px solid var(--nc-line-dark); }
+.cover-pull-bar { width: 72px; height: 5px; background: var(--nc-sienna); margin-bottom: 32px; }
+.cover-pull p { font-family: var(--nc-serif); font-size: 42px; line-height: 1.2; font-weight: 400; margin: 0; max-width: 880px; text-wrap: balance; }
+.cover-pull-attr { font-family: var(--nc-sans); font-size: 11px; letter-spacing: .18em; text-transform: uppercase; color: var(--nc-ink-3); margin-top: 28px; }
+
+.cover-index { display: grid; grid-template-columns: repeat(6, 1fr); }
+.cover-index-item { padding: 32px 24px; border-right: 1px solid var(--nc-line); display: flex; flex-direction: column; gap: 12px; min-height: 160px; justify-content: space-between; }
+.cover-index-item:last-child { border-right: none; }
+.cover-index-mark { width: 12px; height: 12px; }
+.cover-index-name { font-family: var(--nc-sans); font-size: 10px; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; color: var(--nc-ink-2); }
+.cover-index-num { font-family: var(--nc-mono); font-size: 11px; color: var(--nc-ink-3); }
+
+.cover-footer { border-top: 2px solid var(--nc-line-dark); padding: 32px 48px; display: flex; justify-content: space-between; font-family: var(--nc-sans); font-size: 11px; color: var(--nc-ink-2); letter-spacing: .04em; }
+</style>
+</head>
+<body class="nc">
+<div class="cover">
+  <div class="cover-top">
+    <div class="cover-top-left">
+      <div class="cover-issue">ISSUE NO. 047 — JULY 2026</div>
+      <h1 class="cover-title">Notitia<br>Civica</h1>
+      <div class="cover-sub">Open Intelligence for Informed Citizenship</div>
+    </div>
+    <div class="cover-top-right">
+      <div class="cover-band" style="background: var(--nc-sienna);">World State — Sanctions Escalate</div>
+      <div class="cover-band" style="background: var(--nc-ochre);">Narrative Ops — Seeding Confirmed</div>
+      <div class="cover-band" style="background: var(--nc-teal);">Civic Intel — Committee Shift</div>
+      <div class="cover-band" style="background: var(--nc-navy);">Congressional — 4/4 Gates Passed</div>
+    </div>
+  </div>
+
+  <div class="cover-pull">
+    <div class="cover-pull-bar"></div>
+    <p>By the time fact-checkers move, the narrative has already rooted. The story is no longer the claim — it's why anyone is still talking about it.</p>
+    <div class="cover-pull-attr">Narrative Operations — Issue 047, p. 12</div>
+  </div>
+
+  <div class="cover-index">
+    <div class="cover-index-item">
+      <div class="cover-index-mark" style="background: var(--nc-sienna);"></div>
+      <div>
+        <div class="cover-index-name">World State</div>
+        <div class="cover-index-num">6 briefs this issue</div>
+      </div>
+    </div>
+    <div class="cover-index-item">
+      <div class="cover-index-mark" style="background: var(--nc-ochre);"></div>
+      <div>
+        <div class="cover-index-name">Narrative Ops</div>
+        <div class="cover-index-num">2 briefs this issue</div>
+      </div>
+    </div>
+    <div class="cover-index-item">
+      <div class="cover-index-mark" style="background: var(--nc-teal);"></div>
+      <div>
+        <div class="cover-index-name">Civic Intel</div>
+        <div class="cover-index-num">4 briefs this issue</div>
+      </div>
+    </div>
+    <div class="cover-index-item">
+      <div class="cover-index-mark" style="background: var(--nc-olive);"></div>
+      <div>
+        <div class="cover-index-name">Financial</div>
+        <div class="cover-index-num">daily scan, 5 items</div>
+      </div>
+    </div>
+    <div class="cover-index-item">
+      <div class="cover-index-mark" style="background: var(--nc-navy);"></div>
+      <div>
+        <div class="cover-index-name">Congressional</div>
+        <div class="cover-index-num">real-time feed</div>
+      </div>
+    </div>
+    <div class="cover-index-item">
+      <div class="cover-index-mark" style="background: var(--nc-ink);"></div>
+      <div>
+        <div class="cover-index-name">Methodology</div>
+        <div class="cover-index-num">1 explainer</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="cover-footer">
+    <span>Notitia Civica</span>
+    <span>Powered by SPEC-1</span>
+    <span>No paywall · No ads · No tracking</span>
+  </div>
+</div>
+</body>
+</html>
