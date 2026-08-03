@@ -1,0 +1,275 @@
+/* ============================================================
+   NOTITIA CIVICA — Shared Design System
+   notitia/notitia.css
+   All pages link to this stylesheet.
+   ============================================================ */
+
+/* ── 1. Fonts ─────────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* ── 2. Design Tokens ──────────────────────────────────────── */
+:root {
+  /* --- Neutral scale --- */
+  --nc-ink:        #1F1C16;   /* primary text — near-black, warm */
+  --nc-ink-2:      #3D3830;   /* secondary text */
+  --nc-ink-3:      #78726A;   /* labels, captions, metadata */
+  --nc-plaster:    #F7F4EE;   /* lightest background — primary page bg */
+  --nc-bone:       #EDE8DE;   /* section backgrounds, recessed panels */
+  --nc-oat:        #E3DDD2;   /* deep background, PDF/print bg */
+  --nc-line:       #D2CDC3;   /* light rule / subtle border */
+  --nc-line-dark:  #1F1C16;   /* heavy rule — same as --nc-ink */
+
+  /* --- Series accent palette --- */
+  --nc-sienna:   #B83820;   /* World State Brief */
+  --nc-ochre:    #A86B1E;   /* Narrative Operations */
+  --nc-teal:     #266662;   /* Civic Intelligence Brief */
+  --nc-navy:     #1A2D50;   /* Congressional Intelligence */
+  --nc-olive:    #4A5E28;   /* Financial */
+
+  /* --- Active accent (override at the page or element level) --- */
+  --nc-accent: var(--nc-ochre);
+
+  /* --- Typography --- */
+  --nc-serif: "Libre Caslon Text", "Iowan Old Style", Georgia, serif;
+  --nc-sans:  "Inter", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+  --nc-mono:  "Courier Prime", "Courier New", Courier, monospace;
+
+  /* --- Layout --- */
+  --nc-measure: 680px;   /* optimal line length for body copy */
+}
+
+/* ── 3. Base Reset ─────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+body.nc {
+  font-family: var(--nc-serif);
+  color: var(--nc-ink);
+  font-size: 16px;
+  line-height: 1.62;
+  background: var(--nc-plaster);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+}
+
+/* ── 4. Shared Components ─────────────────────────────────── */
+
+/* --- Kicker ---
+   Small all-caps series/category label placed above a headline. */
+.nc-kicker {
+  font-family: var(--nc-sans);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .22em;
+  text-transform: uppercase;
+  color: var(--nc-accent);
+}
+
+/* --- Rail ---
+   Vertical metadata sidebar column alongside article content. */
+.nc-rail {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border-left: 1px solid var(--nc-line-dark);
+  padding-left: 20px;
+}
+
+.nc-rail-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.nc-rail-label {
+  font-family: var(--nc-sans);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: .20em;
+  text-transform: uppercase;
+  color: var(--nc-ink-3);
+}
+
+.nc-rail-value {
+  font-family: var(--nc-mono);
+  font-size: 13px;
+  color: var(--nc-ink);
+  letter-spacing: .03em;
+}
+
+.nc-rail-value.accent { color: var(--nc-accent); }
+
+/* --- Pull Quote ---
+   Editorial emphasis block. Colored accent bar above italic serif quote. */
+.nc-pull {
+  margin: 40px 0;
+}
+
+.nc-pull-bar {
+  width: 64px;
+  height: 4px;
+  background: var(--nc-accent);
+  margin-bottom: 20px;
+}
+
+.nc-pull > p {
+  font-family: var(--nc-serif);
+  font-size: 20px;
+  line-height: 1.42;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--nc-ink);
+  margin: 0;
+  border-left: 3px solid var(--nc-accent);
+  padding-left: 20px;
+}
+
+/* --- Verdict Block ---
+   Structured confidence summary at the end of analytical pieces. */
+.nc-verdict {
+  border: 1px solid var(--nc-line-dark);
+  margin: 40px 0;
+}
+
+.nc-verdict-head {
+  padding: 12px 20px;
+  border-bottom: 1px solid var(--nc-line-dark);
+  background: var(--nc-bone);
+  font-family: var(--nc-sans);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: var(--nc-ink);
+}
+
+.nc-verdict-body {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.nc-verdict-row {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 12px;
+  align-items: baseline;
+}
+
+.nc-verdict-row-label {
+  font-family: var(--nc-sans);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: var(--nc-ink-3);
+}
+
+.nc-verdict-row-value {
+  font-family: var(--nc-mono);
+  font-size: 13px;
+  color: var(--nc-ink);
+  letter-spacing: .04em;
+}
+
+/* --- Source List ---
+   Colophon-style source register placed below article body. */
+.nc-source-list {
+  border-top: 1px solid var(--nc-line-dark);
+  margin-top: 48px;
+  padding-top: 32px;
+}
+
+.nc-source-head {
+  font-family: var(--nc-sans);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: var(--nc-ink-3);
+  margin-bottom: 16px;
+}
+
+.nc-source-item {
+  font-family: var(--nc-mono);
+  font-size: 11px;
+  line-height: 1.65;
+  margin-bottom: 10px;
+  color: var(--nc-ink-2);
+}
+
+/* --- Footer ---
+   Full provenance statement. Appears on all editorial templates. */
+.nc-footer {
+  border-top: 2px solid var(--nc-line-dark);
+  padding: 40px 32px;
+  background: var(--nc-bone);
+  font-family: var(--nc-sans);
+  font-size: 11px;
+  color: var(--nc-ink-2);
+  line-height: 1.7;
+}
+
+/* --- Tweak Panel ---
+   Design-time interactive variant switcher (used in article template). */
+.nc-tweak-panel {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  width: 280px;
+  background: rgba(247, 244, 238, 0.98);
+  border: 1px solid var(--nc-line-dark);
+  border-radius: 4px;
+  padding: 20px;
+  z-index: 1000;
+  max-height: 80vh;
+  overflow-y: auto;
+  font-family: var(--nc-sans);
+  font-size: 12px;
+  box-shadow: 0 4px 24px rgba(31, 28, 22, .12);
+}
+
+.nc-tweak-section {
+  margin-bottom: 20px;
+}
+
+.nc-tweak-section-title {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: var(--nc-ink-3);
+  margin-bottom: 10px;
+}
+
+.nc-tweak-options {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.nc-tweak-btn {
+  padding: 6px 12px;
+  border: 1px solid var(--nc-line-dark);
+  background: transparent;
+  color: var(--nc-ink);
+  font-family: var(--nc-sans);
+  font-size: 11px;
+  cursor: pointer;
+  border-radius: 3px;
+  transition: all .18s;
+}
+
+.nc-tweak-btn.active {
+  background: var(--nc-accent);
+  color: #fff;
+  border-color: var(--nc-accent);
+}
+
+.nc-tweak-btn:hover { border-color: var(--nc-accent); }
+
+.nc-tweak-slider { display: flex; flex-direction: column; gap: 8px; }
+.nc-tweak-slider input { width: 100%; }
+.nc-tweak-value { font-family: var(--nc-mono); font-size: 11px; color: var(--nc-ink-3); }
