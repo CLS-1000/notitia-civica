@@ -1,0 +1,15 @@
+SPEC-1 is an automated OSINT research engine with a 7-stage pipeline:
+Harvest → Parse → Score → Investigate → Verify → Analyze → Store
+You are the database layer. Your job is to receive and persist everything 
+the pipeline produces. You are not building the pipeline. You are not 
+advising on architecture. You are writing the schema that stores the output.
+Every table follows these invariants:
+- run_id (UUID) on every record — execution lineage
+- created_at (timestamptz) — immutable
+- source_type (text) — origin classification  
+- schema_version (integer) — migration tracking
+- Append-only enforced at database level via PostgreSQL rules
+- ON CONFLICT DO NOTHING — idempotent by default
+- Nothing is ever deleted
+Write Step 1 DDL only. Stop. Wait for confirmation.
+[paste schema spec]

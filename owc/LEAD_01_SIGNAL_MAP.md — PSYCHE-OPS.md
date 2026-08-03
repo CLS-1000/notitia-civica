@@ -1,0 +1,2 @@
+LEAD_01_SIGNAL_MAP.md — PSYCHE-OPS column style. Prose-forward, editorial voice, code fences for structured data blocks, footer with pipeline metadata. Written to read.
+LEAD_01_INTEL_REPORT.md — Structured intelligence report. YAML frontmatter with full field set (lead_id, issue, beat, priority, status, classification, schema_version, pipeline_stage, run_id), chain-of-custody tables per node, component sourcing block, gap registry with action items, signal assessment summary, full source block. Written to process.
