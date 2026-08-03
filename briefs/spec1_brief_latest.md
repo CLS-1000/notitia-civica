@@ -1,0 +1,3 @@
+## SPEC-1 DAILY BRIEF — 2026-04-17
+
+[Brief generation failed. Raw stats: {'run_id': 'run-f51fad0699d7', 'started_at': '2026-04-17T10:22:08.414770+00:00', 'signals_harvested': 285, 'signals_parsed': 285, 'opportunities_found': 237, 'investigations_generated': 237, 'outcomes_verified': 237, 'records_stored': 237, 'errors': [], 'psyop_classification': 'NOISE', 'psyop_score': 2, 'psyop_patterns_fired': ['NARRATIVE_CLUSTER'], 'finished_at': '2026-04-17T10:27:49.167937+00:00'}]
