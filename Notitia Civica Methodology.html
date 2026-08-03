@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<!-- @dsCard group="Notitia Civica" name="Notitia Civica Methodology" subtitle="How We Work — gate architecture, confidence language, limitations stated plainly" -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How We Work — Notitia Civica</title>
+<link rel="stylesheet" href="notitia/notitia.css">
+<style>
+body { margin: 0; padding: 0; --nc-accent: var(--nc-ink); }
+.m-head { border-bottom: 2px solid var(--nc-line-dark); padding: 64px 0; }
+.m-head-inner { max-width: 1200px; margin: 0 auto; padding: 0 32px; }
+.m-title { font-family: var(--nc-serif); font-size: 56px; line-height: 1.1; font-weight: 400; margin: 0 0 20px 0; }
+.m-standfirst { font-family: var(--nc-serif); font-size: 20px; line-height: 1.4; color: var(--nc-ink-2); margin: 0; max-width: 680px; }
+
+.m-body { max-width: 1200px; margin: 0 auto; padding: 64px 32px; display: grid; grid-template-columns: 1fr 180px; gap: 40px; }
+.m-col { max-width: var(--nc-measure); }
+.m-col h2 { font-family: var(--nc-serif); font-size: 26px; font-weight: 500; margin: 48px 0 16px 0; }
+.m-col p { margin: 0 0 20px 0; }
+
+.m-gate-row { display: grid; grid-template-columns: 32px 1fr 100px; gap: 16px; align-items: baseline; padding: 16px 0; border-bottom: 1px solid var(--nc-line); }
+.m-gate-num { font-family: var(--nc-mono); font-size: 13px; color: var(--nc-ink-3); }
+.m-gate-name { font-family: var(--nc-sans); font-size: 15px; font-weight: 600; }
+.m-gate-name span { display: block; font-family: var(--nc-serif); font-size: 14px; font-weight: 400; color: var(--nc-ink-2); margin-top: 4px; }
+.m-gate-status { font-family: var(--nc-mono); font-size: 11px; text-align: right; color: var(--nc-ink-3); }
+
+.m-limit { border-left: 3px solid var(--nc-sienna); padding: 4px 0 4px 20px; margin: 24px 0; }
+.m-limit p { color: var(--nc-ink); font-weight: 500; margin: 0; }
+
+.m-footer { border-top: 2px solid var(--nc-line-dark); padding: 40px 32px; background: var(--nc-bone); font-family: var(--nc-sans); font-size: 12px; color: var(--nc-ink-2); line-height: 1.7; }
+.m-footer-inner { max-width: 1200px; margin: 0 auto; }
+</style>
+</head>
+<body class="nc">
+<div class="m-head">
+  <div class="m-head-inner">
+    <div class="nc-kicker" style="margin-bottom: 16px;">Methodology</div>
+    <h1 class="m-title">How We Work</h1>
+    <p class="m-standfirst">Four deterministic gates decide what a human ever sees. No model writes what you read. No claim ships without a confidence score. Here is exactly how, and where it can fail.</p>
+  </div>
+</div>
+
+<div class="m-body">
+  <div class="m-col">
+    <h2>The Gate Architecture</h2>
+    <p>Every candidate signal — a document, a post, a filing — passes through four gates in sequence. All four must pass. There is no override, no editorial exception, no "close enough."</p>
+
+    <div class="m-gate-row">
+      <div class="m-gate-num">01</div>
+      <div class="m-gate-name">Credibility<span>Source track record, corroboration, primary vs. secondary distance</span></div>
+      <div class="m-gate-status">THRESHOLD 0.75</div>
+    </div>
+    <div class="m-gate-row">
+      <div class="m-gate-num">02</div>
+      <div class="m-gate-name">Volume<span>Independent mentions across unrelated sources, not repost count</span></div>
+      <div class="m-gate-status">MIN. 3 SOURCES</div>
+    </div>
+    <div class="m-gate-row">
+      <div class="m-gate-num">03</div>
+      <div class="m-gate-name">Velocity<span>Rate of independent corroboration over a fixed window</span></div>
+      <div class="m-gate-status">72H WINDOW</div>
+    </div>
+    <div class="m-gate-row">
+      <div class="m-gate-num">04</div>
+      <div class="m-gate-name">Novelty<span>Not already reported; not a repackaged prior brief</span></div>
+      <div class="m-gate-status">DEDUP CHECK</div>
+    </div>
+
+    <p style="margin-top: 32px;">A signal that fails any gate is discarded, not queued, not flagged for review. It does not reach an editor. This is by design: the gates exist to keep human judgment scarce and applied only where it earns its cost.</p>
+
+    <h2>What Happens After the Gates</h2>
+    <p>A signal that passes all four gates is handed to a human editor with its full evidence chain: every source, every timestamp, every independent corroboration. The editor's job is synthesis and verification, not discovery — the gates already did discovery. The editor decides confidence language, writes the narrative, and is the only point where judgment enters the pipeline.</p>
+
+    <h2>Confidence Language</h2>
+    <p>We use four terms, always with a numeric score attached: <strong style="color: var(--nc-ink);">CONFIRMED</strong> (0.85+, multiple independent primary sources), <strong style="color: var(--nc-ink);">LIKELY</strong> (0.65–0.84, strong corroboration with some inference), <strong style="color: var(--nc-ink);">POSSIBLE</strong> (0.4–0.64, plausible but thin), <strong style="color: var(--nc-ink);">HOLD</strong> (below 0.4, insufficient — not published as fact, only as an open question if published at all).</p>
+
+    <h2>Where This Fails</h2>
+    <div class="m-limit">
+      <p>The gates measure independence of sources, not truth. A well-coordinated disinformation campaign with genuinely independent-looking amplification vectors can pass Volume and Velocity. We catch this most of the time through the Credibility gate's track-record weighting — not always.</p>
+    </div>
+    <div class="m-limit">
+      <p>We only see what's public. Closed-door negotiations, classified assessments, and private communications are outside our reach by design and by law. If a brief says "unconfirmed," that may mean the truth is simply not visible to open sources yet — not that nothing is happening.</p>
+    </div>
+    <div class="m-limit">
+      <p>Editors write the narrative. The gates are deterministic; the sentence-level framing is not. We publish our source list specifically so you don't have to trust our framing — check the sources yourself.</p>
+    </div>
+
+    <h2>Why We Publish This</h2>
+    <p>Every other intelligence product asks you to trust the verdict. We think that's backwards. You should be able to see the gate a claim passed through, the confidence score it earned, and the exact sources behind it — and decide for yourself whether our judgment matches your own reading of the evidence. If our methodology looks wrong to you, tell us. We'll publish the correction with the same rigor as the original claim.</p>
+  </div>
+
+  <div class="nc-rail">
+    <div class="nc-rail-item">
+      <div class="nc-rail-label">Document</div>
+      <div class="nc-rail-value">Methodology v3</div>
+    </div>
+    <div class="nc-rail-item">
+      <div class="nc-rail-label">Last Revised</div>
+      <div class="nc-rail-value">2026-07-01</div>
+    </div>
+    <div class="nc-rail-item">
+      <div class="nc-rail-label">Gates</div>
+      <div class="nc-rail-value accent">4, sequential</div>
+    </div>
+    <div class="nc-rail-item">
+      <div class="nc-rail-label">Override Policy</div>
+      <div class="nc-rail-value">None</div>
+    </div>
+    <div class="nc-rail-item">
+      <div class="nc-rail-label">Classification</div>
+      <div class="nc-rail-value">UNCLASSIFIED</div>
+    </div>
+  </div>
+</div>
+
+<div class="m-footer">
+  <div class="m-footer-inner">
+    <strong>Notitia Civica</strong> publishes its own limitations on the record because a methodology you can't interrogate isn't a methodology — it's a claim to authority. Disagree with a verdict? <a href="#" style="color: var(--nc-ink); text-decoration: underline;">Contact editorial</a>.
+  </div>
+</div>
+</body>
+</html>

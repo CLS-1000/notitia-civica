@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<!-- @dsCard group="Notitia Civica" name="Notitia Civica PDF Template" subtitle="Print-safe article layout — Letter/A4, flat color, no bleeds, reportlab-compatible" -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PDF Template — Notitia Civica</title>
+<link rel="stylesheet" href="notitia/notitia.css">
+<style>
+body { margin: 0; padding: 0; background: var(--nc-oat); --nc-accent: var(--nc-ochre); }
+.pdf-page { width: 8.5in; min-height: 11in; margin: 40px auto; background: var(--nc-plaster); box-shadow: 0 0 0 1px var(--nc-line); padding: 0.75in; box-sizing: border-box; }
+.pdf-masthead { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 2px solid var(--nc-line-dark); padding-bottom: 16px; margin-bottom: 32px; }
+.pdf-masthead-name { font-family: var(--nc-serif); font-size: 20px; font-weight: 500; }
+.pdf-masthead-meta { font-family: var(--nc-mono); font-size: 10px; color: var(--nc-ink-3); text-align: right; }
+
+.pdf-kicker { font-family: var(--nc-sans); font-size: 10px; font-weight: 600; letter-spacing: .2em; text-transform: uppercase; color: var(--nc-ochre); margin-bottom: 12px; }
+.pdf-title { font-family: var(--nc-serif); font-size: 34px; line-height: 1.15; font-weight: 400; margin: 0 0 14px 0; }
+.pdf-standfirst { font-family: var(--nc-serif); font-size: 15px; line-height: 1.4; color: var(--nc-ink-2); margin: 0 0 32px 0; }
+
+.pdf-body { font-size: 12.5px; line-height: 1.55; column-count: 2; column-gap: 32px; }
+.pdf-body p { margin: 0 0 14px 0; }
+.pdf-body h2 { font-family: var(--nc-serif); font-size: 16px; font-weight: 500; margin: 20px 0 10px 0; column-span: all; }
+
+.pdf-verdict { border: 1px solid var(--nc-line-dark); margin: 20px 0; column-span: all; break-inside: avoid; }
+.pdf-verdict-head { padding: 8px 14px; border-bottom: 1px solid var(--nc-line-dark); background: var(--nc-bone); font-family: var(--nc-sans); font-size: 9px; font-weight: 600; letter-spacing: .16em; text-transform: uppercase; }
+.pdf-verdict-body { padding: 14px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+.pdf-verdict-cell { display: flex; flex-direction: column; gap: 2px; }
+.pdf-verdict-label { font-family: var(--nc-sans); font-size: 8px; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; color: var(--nc-ink-3); }
+.pdf-verdict-value { font-family: var(--nc-mono); font-size: 11px; color: var(--nc-ink); }
+
+.pdf-colophon { border-top: 1px solid var(--nc-line-dark); margin-top: 32px; padding-top: 12px; font-family: var(--nc-sans); font-size: 8.5px; color: var(--nc-ink-3); display: flex; justify-content: space-between; }
+
+@media print {
+  body { background: var(--nc-plaster); }
+  .pdf-page { box-shadow: none; margin: 0; width: auto; min-height: auto; }
+  @page { size: letter; margin: 0; }
+}
+</style>
+</head>
+<body class="nc">
+<div class="pdf-page">
+  <div class="pdf-masthead">
+    <div class="pdf-masthead-name">Notitia Civica</div>
+    <div class="pdf-masthead-meta">ISSUE 047 · NARR-OPS · 2025-07-23<br>CLASSIFICATION: UNCLASSIFIED</div>
+  </div>
+
+  <div class="pdf-kicker">Narrative Operations</div>
+  <h1 class="pdf-title">Narrative Seeding as Asymmetric Pressure</h1>
+  <p class="pdf-standfirst">How a coordinated narrative campaign moves from fringe to mainstream.</p>
+
+  <div class="pdf-body">
+    <p><strong>The mechanism is simple and recursive:</strong> seed a claim in a permissive channel, amplify it through a network of ostensibly independent accounts, wait for mainstream outlets to cover it as "controversy," then cite the mainstream coverage as proof the claim is real.</p>
+    <p>We identified one such campaign across a 47-day window (May 12—June 28, 2025) targeting fiscal policy discourse. The seeding source was 8 coordinated accounts; amplification came through 23 secondary accounts; mainstream pickup occurred in 12 outlets.</p>
+    <h2>The Timeline</h2>
+    <p><strong>Day 1–7:</strong> The claim appears in a single permissive channel. Engagement is organic but small: 47 unique responders.</p>
+    <p><strong>Day 8–18:</strong> A coordinated set of accounts shares the claim with slight variations, all citing the fringe post within 48 hours, using near-identical hashtags.</p>
+    <p><strong>Day 19–31:</strong> Two cable-news chyrons mention "growing concern." None cite the original source; all cite the amplification accounts as genuine grassroots concern.</p>
+    <p><strong>Day 32–47:</strong> The false premise spreads into think-tank op-eds and regulatory comments — no longer attributed to any source.</p>
+
+    <div class="pdf-verdict">
+      <div class="pdf-verdict-head">Verdict &amp; Confidence</div>
+      <div class="pdf-verdict-body">
+        <div class="pdf-verdict-cell"><div class="pdf-verdict-label">Coordination</div><div class="pdf-verdict-value">CONFIRMED 0.92</div></div>
+        <div class="pdf-verdict-cell"><div class="pdf-verdict-label">Amplification</div><div class="pdf-verdict-value">HIGH 0.88</div></div>
+        <div class="pdf-verdict-cell"><div class="pdf-verdict-label">Mainstream Impact</div><div class="pdf-verdict-value">SIGNIFICANT 0.84</div></div>
+        <div class="pdf-verdict-cell"><div class="pdf-verdict-label">Status</div><div class="pdf-verdict-value">ROOTED</div></div>
+      </div>
+    </div>
+
+    <h2>The Structural Problem</h2>
+    <p>Narrative seeding exploits a structural asymmetry: a false claim requires fact-checking to debunk; a true claim requires no additional work. When outlets cite amplified claims without source context, they reset that burden.</p>
+    <p>This is solved by transparency, not better fact-checking: cite the source chain, not just the amplification layer.</p>
+  </div>
+
+  <div class="pdf-colophon">
+    <span>Notitia Civica — Independent Publication</span>
+    <span>Powered by SPEC-1 · Full methodology at notitiacivica.org/methodology</span>
+  </div>
+</div>
+</body>
+</html>
