@@ -27,6 +27,16 @@ Notitia Civica outputs are based on public-source collection, signal clustering,
 
 Internal scoring weights and source ratings are not published. Analytical judgments are separated from sourced facts wherever possible.
 
+See [`methodology/editorial-standard.md`](methodology/editorial-standard.md) for the full reporting standard, [`methodology/confidence-language.md`](methodology/confidence-language.md) for how signal scores map to public language, and [`methodology/source-handling.md`](methodology/source-handling.md) for source types and citation rules.
+
+## SPEC-1
+
+SPEC-1 runs a 7-stage automated OSINT pipeline: Harvest → Parse → Score → Investigate → Verify → Analyze → Store. It produces daily briefs in `briefs/` and structured investigation prompts in `spec-1/prompts/`. See [`spec-1/README.md`](spec-1/README.md) for full pipeline documentation.
+
+## Repository
+
+See [`STRUCTURE.md`](STRUCTURE.md) for a complete directory map and an explanation of how templates, briefs, and published output relate to each other.
+
 ## Publication Status
 
 Public OSINT. Notitia Civica does not claim private access, classified information, or privileged intelligence.

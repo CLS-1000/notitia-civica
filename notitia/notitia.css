@@ -1,0 +1,82 @@
+/* ============================================================
+   NOTITIA CIVICA — Design System
+   notitia/notitia.css
+   
+   Import this file into every Notitia Civica web template.
+   Defines all --nc-* custom properties (design tokens) plus
+   base reset and typography that all templates share.
+   ============================================================ */
+
+/* ── Google Fonts ────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,700;1,6..72,400;1,6..72,700&family=Archivo:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+/* ── Design Tokens ───────────────────────────────────────── */
+:root {
+  /* Warm neutrals — the base carries the page */
+  --nc-plaster:   #F7F4EE;   /* page ground                     */
+  --nc-bone:      #EFEAE0;   /* panels, alternate sections      */
+  --nc-oat:       #E2DACA;   /* deeper field, table stripes     */
+  --nc-ink:       #26241F;   /* charcoal ink — text             */
+  --nc-ink-2:     #555147;   /* secondary text                  */
+  --nc-ink-3:     #8B8578;   /* metadata, captions              */
+  --nc-line:      #C9C1B1;   /* hairlines                       */
+  --nc-line-dark: #26241F;   /* structural rules                */
+
+  /* Series accents — one saturated mid-century hue per series */
+  --nc-sienna:  #B4552D;   /* WORLD STATE BRIEF — geopolitical gravity   */
+  --nc-ochre:   #C79A2E;   /* NARRATIVE OPERATIONS — unease              */
+  --nc-teal:    #3E7C74;   /* CIVIC INTELLIGENCE BRIEF — civic clarity   */
+  --nc-olive:   #6E7040;   /* ECONOMIC / FINANCIAL — measured, material  */
+  --nc-navy:    #3A4A5E;   /* CONGRESSIONAL — institutional weight       */
+  --nc-verm:    #D6482B;   /* SWITCHBOARD tick — engine mark only        */
+
+  --nc-accent: var(--nc-ink);  /* per-page: override with a series hue */
+
+  /* Type */
+  --nc-serif: 'Newsreader', 'Times New Roman', serif;
+  --nc-sans:  'Archivo', 'Helvetica Neue', sans-serif;
+  --nc-mono:  'IBM Plex Mono', monospace;
+
+  /* Layout */
+  --nc-measure: 64ch;
+}
+
+/* ── Base Reset ──────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+/* ── Body defaults ───────────────────────────────────────── */
+body.nc {
+  background: var(--nc-plaster);
+  color: var(--nc-ink);
+  font-family: var(--nc-serif);
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ── Typographic scale ───────────────────────────────────── */
+body.nc p {
+  font-family: var(--nc-serif);
+  font-size: 16px;
+  line-height: 1.65;
+  color: var(--nc-ink-2);
+  margin: 0 0 20px 0;
+}
+
+body.nc a {
+  color: var(--nc-accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+body.nc a:hover {
+  opacity: 0.75;
+}
