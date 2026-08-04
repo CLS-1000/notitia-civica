@@ -1,0 +1,1042 @@
+<!DOCTYPE html>
+<!-- @dsCard group="Notitia Civica" name="Notitia Civica" subtitle="Design system canvas — tokens, typography, components, and page templates" -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Notitia Civica — Design System</title>
+<link rel="stylesheet" href="notitia/notitia.css">
+<style>
+/* ============================================================
+   DESIGN CANVAS LAYOUT & CHROME
+   ============================================================ */
+
+/* ── Two-column canvas layout ──────────────────────────── */
+.dc-layout {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  min-height: 100vh;
+}
+
+/* ── Sidebar navigation ────────────────────────────────── */
+.dc-sidebar {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+  background: var(--nc-ink);
+  color: var(--nc-plaster);
+  padding: 32px 24px 40px;
+  display: flex;
+  flex-direction: column;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(247,244,238,.15) transparent;
+}
+
+.dc-sidebar-logo {
+  font-family: var(--nc-serif);
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  margin: 0 0 3px;
+}
+
+.dc-sidebar-tag {
+  font-family: var(--nc-mono);
+  font-size: 9px;
+  letter-spacing: .22em;
+  text-transform: uppercase;
+  color: rgba(247,244,238,.42);
+  margin-bottom: 36px;
+}
+
+.dc-nav-group {
+  margin-bottom: 28px;
+}
+
+.dc-nav-group-title {
+  font-family: var(--nc-sans);
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: .30em;
+  text-transform: uppercase;
+  color: rgba(247,244,238,.38);
+  margin-bottom: 6px;
+  padding-left: 6px;
+}
+
+/* The class nc-dc-nav is read by support.js */
+.nc-dc-nav a {
+  display: block;
+  font-family: var(--nc-sans);
+  font-size: 12px;
+  color: rgba(247,244,238,.68);
+  text-decoration: none;
+  padding: 6px 8px;
+  border-radius: 3px;
+  transition: background .14s, color .14s;
+  margin-bottom: 1px;
+}
+
+.nc-dc-nav a:hover,
+.nc-dc-nav a.active {
+  background: rgba(247,244,238,.09);
+  color: var(--nc-plaster);
+}
+
+/* ── Main content area ─────────────────────────────────── */
+.dc-main {
+  min-width: 0;
+  background: var(--nc-plaster);
+}
+
+/* ── Generic section wrapper ───────────────────────────── */
+.dc-section {
+  padding: 64px 72px 60px;
+  border-bottom: 1px solid var(--nc-line);
+}
+.dc-section:last-child { border-bottom: none; }
+
+.dc-section-label {
+  font-family: var(--nc-mono);
+  font-size: 10px;
+  letter-spacing: .24em;
+  text-transform: uppercase;
+  color: var(--nc-ink-3);
+  margin-bottom: 6px;
+}
+
+.dc-section-title {
+  font-family: var(--nc-serif);
+  font-size: 38px;
+  font-weight: 400;
+  line-height: 1.12;
+  margin: 0 0 14px;
+  color: var(--nc-ink);
+}
+
+.dc-section-desc {
+  font-family: var(--nc-serif);
+  font-size: 17px;
+  line-height: 1.55;
+  color: var(--nc-ink-2);
+  max-width: 640px;
+  margin: 0 0 40px;
+}
+
+/* ── Hero ──────────────────────────────────────────────── */
+.dc-hero {
+  background: var(--nc-ink);
+  color: var(--nc-plaster);
+  padding: 80px 72px;
+  border-bottom: none;
+}
+
+.dc-hero-pre {
+  font-family: var(--nc-mono);
+  font-size: 10px;
+  letter-spacing: .32em;
+  text-transform: uppercase;
+  color: rgba(247,244,238,.42);
+  margin-bottom: 28px;
+}
+
+.dc-hero-title {
+  font-family: var(--nc-serif);
+  font-size: 76px;
+  font-weight: 400;
+  line-height: .96;
+  letter-spacing: -.01em;
+  margin: 0 0 24px;
+}
+
+.dc-hero-lead {
+  font-family: var(--nc-serif);
+  font-size: 20px;
+  line-height: 1.48;
+  color: rgba(247,244,238,.80);
+  max-width: 580px;
+  margin: 0 0 48px;
+}
+
+.dc-hero-stats {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.dc-hero-stat-key {
+  font-family: var(--nc-sans);
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: .22em;
+  text-transform: uppercase;
+  color: rgba(247,244,238,.40);
+  margin-bottom: 4px;
+}
+
+.dc-hero-stat-val {
+  font-family: var(--nc-mono);
+  font-size: 13px;
+  color: rgba(247,244,238,.80);
+  letter-spacing: .04em;
+}
+
+/* ── Series identity ───────────────────────────────────── */
+.dc-series-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1px;
+  border: 1px solid var(--nc-line-dark);
+  background: var(--nc-line-dark);
+  margin-bottom: 28px;
+}
+
+.dc-series-cell {
+  padding: 24px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.dc-series-badge {
+  display: inline-block;
+  font-family: var(--nc-sans);
+  font-size: 8px;
+  font-weight: 600;
+  letter-spacing: .24em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,.70);
+  background: rgba(0,0,0,.20);
+  padding: 3px 8px 4px;
+  border-radius: 2px;
+  align-self: flex-start;
+}
+
+.dc-series-name {
+  font-family: var(--nc-serif);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.3;
+  color: rgba(255,255,255,.92);
+}
+
+.dc-series-token {
+  font-family: var(--nc-mono);
+  font-size: 9px;
+  letter-spacing: .06em;
+  color: rgba(255,255,255,.45);
+  margin-top: auto;
+}
+
+/* ── Accent switcher strip ─────────────────────────────── */
+.dc-accent-strip {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 36px;
+}
+
+.dc-accent-strip-label {
+  font-family: var(--nc-sans);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: var(--nc-ink-3);
+}
+
+.nc-accent-btn {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: 2px solid transparent;
+  cursor: pointer;
+  outline: none;
+  transition: transform .14s, box-shadow .14s;
+  flex-shrink: 0;
+}
+
+.nc-accent-btn.active {
+  border-color: var(--nc-ink-2);
+  box-shadow: 0 0 0 2px var(--nc-plaster), 0 0 0 4px var(--nc-ink-2);
+}
+
+.nc-accent-btn:hover { transform: scale(1.18); }
+
+/* ── Color token grid ──────────────────────────────────── */
+#nc-color-tokens {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(176px, 1fr));
+  gap: 14px;
+}
+
+.nc-swatch-group-head {
+  grid-column: 1 / -1;
+  font-family: var(--nc-sans);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: .22em;
+  text-transform: uppercase;
+  color: var(--nc-ink-3);
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--nc-line);
+  margin-top: 8px;
+}
+
+.nc-swatch-group-head:first-child { margin-top: 0; }
+
+.nc-swatch {
+  border: 1px solid var(--nc-line);
+  border-radius: 4px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform .12s, box-shadow .12s;
+}
+
+.nc-swatch:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 14px rgba(31,28,22,.10);
+}
+
+.nc-swatch.nc-copied {
+  border-color: var(--nc-teal);
+  box-shadow: 0 0 0 2px rgba(38,102,98,.25);
+}
+
+.nc-swatch-color { height: 60px; }
+
+.nc-swatch-info { padding: 10px 12px; background: var(--nc-plaster); }
+
+.nc-swatch-label {
+  display: block;
+  font-family: var(--nc-sans);
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--nc-ink);
+  margin-bottom: 3px;
+}
+
+.nc-swatch-name {
+  display: block;
+  font-family: var(--nc-mono);
+  font-size: 9.5px;
+  color: var(--nc-accent);
+  letter-spacing: .03em;
+  margin-bottom: 2px;
+}
+
+.nc-swatch-value {
+  display: block;
+  font-family: var(--nc-mono);
+  font-size: 9.5px;
+  color: var(--nc-ink-3);
+}
+
+.nc-swatch-desc {
+  display: block;
+  font-family: var(--nc-sans);
+  font-size: 10px;
+  color: var(--nc-ink-3);
+  margin-top: 5px;
+}
+
+/* ── Typography ────────────────────────────────────────── */
+#nc-type-tokens {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-bottom: 48px;
+}
+
+.nc-type-item {
+  border: 1px solid var(--nc-line);
+  border-radius: 4px;
+  padding: 24px 20px;
+}
+
+.nc-type-sample {
+  font-size: 60px;
+  line-height: 1;
+  margin-bottom: 18px;
+  color: var(--nc-ink);
+}
+
+.nc-type-family {
+  font-family: var(--nc-sans);
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--nc-ink);
+  margin-bottom: 4px;
+}
+
+.nc-type-token {
+  display: block;
+  font-family: var(--nc-mono);
+  font-size: 10px;
+  color: var(--nc-accent);
+  letter-spacing: .03em;
+  margin-bottom: 6px;
+}
+
+.nc-type-note {
+  display: block;
+  font-family: var(--nc-sans);
+  font-size: 10px;
+  color: var(--nc-ink-3);
+  line-height: 1.5;
+}
+
+/* ── Type scale ────────────────────────────────────────── */
+.dc-type-scale { display: flex; flex-direction: column; }
+
+.dc-type-row {
+  display: grid;
+  grid-template-columns: 176px 1fr;
+  gap: 24px;
+  align-items: baseline;
+  padding: 24px 0;
+  border-bottom: 1px solid var(--nc-line);
+}
+.dc-type-row:first-child { padding-top: 0; }
+
+.dc-type-meta {
+  font-family: var(--nc-mono);
+  font-size: 10px;
+  color: var(--nc-ink-3);
+  line-height: 1.8;
+}
+
+.dc-type-meta strong {
+  display: block;
+  font-family: var(--nc-sans);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: var(--nc-ink-3);
+  margin-bottom: 4px;
+}
+
+/* ── Component demos ───────────────────────────────────── */
+.dc-component { margin-bottom: 52px; }
+.dc-component:last-child { margin-bottom: 0; }
+
+.dc-component-label {
+  font-family: var(--nc-sans);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: .20em;
+  text-transform: uppercase;
+  color: var(--nc-ink-3);
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--nc-line);
+  margin-bottom: 20px;
+}
+
+.dc-demo {
+  padding: 32px 36px;
+  background: var(--nc-bone);
+  border: 1px solid var(--nc-line);
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.dc-demo-note {
+  font-family: var(--nc-mono);
+  font-size: 10px;
+  color: var(--nc-ink-3);
+  letter-spacing: .03em;
+  line-height: 1.6;
+}
+
+/* ── Template gallery ──────────────────────────────────── */
+.dc-template-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.dc-template-card {
+  border: 1px solid var(--nc-line-dark);
+  text-decoration: none;
+  color: var(--nc-ink);
+  display: flex;
+  flex-direction: column;
+  transition: transform .14s, box-shadow .14s;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.dc-template-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(31,28,22,.12);
+}
+
+.dc-template-thumb {
+  aspect-ratio: 16 / 9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--nc-serif);
+  font-size: 20px;
+  font-weight: 400;
+  color: rgba(247,244,238,.90);
+  letter-spacing: .04em;
+  padding: 24px;
+  text-align: center;
+  line-height: 1.3;
+}
+
+.dc-template-info {
+  padding: 16px 20px;
+  border-top: 1px solid var(--nc-line-dark);
+  background: var(--nc-plaster);
+  flex: 1;
+}
+
+.dc-template-name {
+  font-family: var(--nc-sans);
+  font-size: 13px;
+  font-weight: 600;
+  margin-bottom: 4px;
+  color: var(--nc-ink);
+}
+
+.dc-template-desc {
+  font-family: var(--nc-serif);
+  font-size: 13px;
+  color: var(--nc-ink-2);
+  line-height: 1.45;
+}
+
+/* ── Usage reference table ─────────────────────────────── */
+.dc-ref-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.dc-ref-table th {
+  font-family: var(--nc-sans);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: .20em;
+  text-transform: uppercase;
+  color: var(--nc-ink-3);
+  text-align: left;
+  padding: 8px 14px;
+  border-bottom: 2px solid var(--nc-line-dark);
+  white-space: nowrap;
+}
+
+.dc-ref-table td {
+  padding: 13px 14px;
+  border-bottom: 1px solid var(--nc-line);
+  vertical-align: top;
+  line-height: 1.55;
+  font-family: var(--nc-serif);
+  font-size: 13px;
+  color: var(--nc-ink-2);
+}
+
+.dc-ref-table code {
+  font-family: var(--nc-mono);
+  font-size: 11px;
+  color: var(--nc-accent);
+  background: var(--nc-bone);
+  padding: 2px 6px;
+  border-radius: 2px;
+  white-space: nowrap;
+}
+
+/* ── Inline util classes ───────────────────────────────── */
+.gap-row { display: flex; flex-direction: column; gap: 14px; }
+.two-col { display: grid; grid-template-columns: 1fr 180px; gap: 40px; }
+</style>
+</head>
+<body class="nc">
+
+<div class="dc-layout">
+
+  <!-- ================================================================
+       SIDEBAR NAVIGATION
+  ================================================================ -->
+  <nav class="dc-sidebar nc-dc-nav">
+    <div class="dc-sidebar-logo">Notitia Civica</div>
+    <div class="dc-sidebar-tag">Design System</div>
+
+    <div class="dc-nav-group">
+      <div class="dc-nav-group-title">Foundation</div>
+      <a href="#brand">Brand &amp; Mission</a>
+      <a href="#series">Series Identities</a>
+      <a href="#colors">Color Tokens</a>
+      <a href="#typography">Typography</a>
+    </div>
+
+    <div class="dc-nav-group">
+      <div class="dc-nav-group-title">Components</div>
+      <a href="#kicker">Kicker</a>
+      <a href="#rail">Rail</a>
+      <a href="#pull">Pull Quote</a>
+      <a href="#verdict">Verdict Block</a>
+      <a href="#sources">Source List</a>
+      <a href="#footer">Footer</a>
+    </div>
+
+    <div class="dc-nav-group">
+      <div class="dc-nav-group-title">Templates</div>
+      <a href="#templates">Page Gallery</a>
+      <a href="#usage">Usage Reference</a>
+    </div>
+  </nav>
+
+  <!-- ================================================================
+       MAIN CONTENT
+  ================================================================ -->
+  <main class="dc-main">
+
+    <!-- ── HERO ──────────────────────────────────────────── -->
+    <section class="dc-hero" id="brand">
+      <div class="dc-hero-pre">Notitia Civica · Design System · Rev. 1</div>
+      <h1 class="dc-hero-title">Notitia<br>Civica</h1>
+      <p class="dc-hero-lead">A public-interest publication turning public signals into newsworthy civic and geopolitical reporting. This canvas documents every token, typeface, and component in the system.</p>
+      <div class="dc-hero-stats">
+        <div>
+          <div class="dc-hero-stat-key">Stylesheet</div>
+          <div class="dc-hero-stat-val">notitia/notitia.css</div>
+        </div>
+        <div>
+          <div class="dc-hero-stat-key">Utilities</div>
+          <div class="dc-hero-stat-val">support.js</div>
+        </div>
+        <div>
+          <div class="dc-hero-stat-key">Fonts</div>
+          <div class="dc-hero-stat-val">Libre Caslon · Inter · Courier Prime</div>
+        </div>
+        <div>
+          <div class="dc-hero-stat-key">Series</div>
+          <div class="dc-hero-stat-val">5 accent colors</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── SERIES IDENTITIES ─────────────────────────────── -->
+    <section class="dc-section" id="series">
+      <div class="dc-section-label">01 — Foundation</div>
+      <h2 class="dc-section-title">Series Identities</h2>
+      <p class="dc-section-desc">Each publication series carries a distinct accent color applied via <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-ochre)">--nc-accent</code>. Override at the page body level to activate a series identity.</p>
+
+      <div class="dc-accent-strip">
+        <span class="dc-accent-strip-label">Live preview →</span>
+        <button class="nc-accent-btn" data-token="--nc-sienna"  style="background:#B83820" title="Sienna — World State"      onclick="NC.setAccent('--nc-sienna')"></button>
+        <button class="nc-accent-btn active" data-token="--nc-ochre" style="background:#A86B1E" title="Ochre — Narrative Ops"   onclick="NC.setAccent('--nc-ochre')"></button>
+        <button class="nc-accent-btn" data-token="--nc-teal"   style="background:#266662" title="Teal — Civic Intelligence"  onclick="NC.setAccent('--nc-teal')"></button>
+        <button class="nc-accent-btn" data-token="--nc-navy"   style="background:#1A2D50" title="Navy — Congressional"       onclick="NC.setAccent('--nc-navy')"></button>
+        <button class="nc-accent-btn" data-token="--nc-olive"  style="background:#4A5E28" title="Olive — Financial"          onclick="NC.setAccent('--nc-olive')"></button>
+      </div>
+
+      <div class="dc-series-grid">
+        <div class="dc-series-cell" style="background:#B83820">
+          <div class="dc-series-badge">WSB</div>
+          <div class="dc-series-name">World State Brief</div>
+          <div class="dc-series-token">--nc-sienna · #B83820</div>
+        </div>
+        <div class="dc-series-cell" style="background:#A86B1E">
+          <div class="dc-series-badge">NARR-OPS</div>
+          <div class="dc-series-name">Narrative Operations</div>
+          <div class="dc-series-token">--nc-ochre · #A86B1E</div>
+        </div>
+        <div class="dc-series-cell" style="background:#266662">
+          <div class="dc-series-badge">CIB</div>
+          <div class="dc-series-name">Civic Intelligence</div>
+          <div class="dc-series-token">--nc-teal · #266662</div>
+        </div>
+        <div class="dc-series-cell" style="background:#1A2D50">
+          <div class="dc-series-badge">CONG-INT</div>
+          <div class="dc-series-name">Congressional Intelligence</div>
+          <div class="dc-series-token">--nc-navy · #1A2D50</div>
+        </div>
+        <div class="dc-series-cell" style="background:#4A5E28">
+          <div class="dc-series-badge">FIN</div>
+          <div class="dc-series-name">Financial</div>
+          <div class="dc-series-token">--nc-olive · #4A5E28</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── COLOR TOKENS ──────────────────────────────────── -->
+    <section class="dc-section" id="colors">
+      <div class="dc-section-label">02 — Foundation</div>
+      <h2 class="dc-section-title">Color Tokens</h2>
+      <p class="dc-section-desc">All colors are defined as CSS custom properties on <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-accent)">:root</code> in <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-accent)">notitia/notitia.css</code>. Click any swatch to copy its token name.</p>
+      <div id="nc-color-tokens"></div>
+    </section>
+
+    <!-- ── TYPOGRAPHY ────────────────────────────────────── -->
+    <section class="dc-section" id="typography">
+      <div class="dc-section-label">03 — Foundation</div>
+      <h2 class="dc-section-title">Typography</h2>
+      <p class="dc-section-desc">Three typeface roles. Serif carries editorial authority. Monospace signals data and provenance. Sans handles labels and interface chrome.</p>
+
+      <div id="nc-type-tokens"></div>
+
+      <div class="dc-type-scale">
+        <div class="dc-type-row">
+          <div class="dc-type-meta">
+            <strong>Display</strong>
+            72 – 88px<br>serif · 400<br>Cover titles, hero heads
+          </div>
+          <div style="font-family:var(--nc-serif);font-size:72px;font-weight:400;line-height:1;letter-spacing:-.01em;color:var(--nc-ink)">Notitia Civica</div>
+        </div>
+        <div class="dc-type-row">
+          <div class="dc-type-meta">
+            <strong>Headline 1</strong>
+            48px<br>serif · 400<br>Page headings
+          </div>
+          <div style="font-family:var(--nc-serif);font-size:48px;font-weight:400;line-height:1.1;color:var(--nc-ink)">Narrative Seeding as Asymmetric Pressure</div>
+        </div>
+        <div class="dc-type-row">
+          <div class="dc-type-meta">
+            <strong>Headline 2</strong>
+            28px<br>serif · 500<br>Section headings
+          </div>
+          <div style="font-family:var(--nc-serif);font-size:28px;font-weight:500;color:var(--nc-ink)">The Structural Problem</div>
+        </div>
+        <div class="dc-type-row">
+          <div class="dc-type-meta">
+            <strong>Body</strong>
+            16px<br>serif · 400 · 1.62 lh<br>Article body
+          </div>
+          <div style="font-family:var(--nc-serif);font-size:16px;line-height:1.62;color:var(--nc-ink);max-width:620px">The mechanism is simple and recursive: seed a claim in a permissive channel, amplify it through a network of ostensibly independent accounts, wait for mainstream outlets to cover it as "controversy," then cite the mainstream coverage as proof the claim is real. Repeat until the false premise becomes background.</div>
+        </div>
+        <div class="dc-type-row">
+          <div class="dc-type-meta">
+            <strong>Kicker / Label</strong>
+            11px<br>sans · 600<br>Category labels
+          </div>
+          <div style="font-family:var(--nc-sans);font-size:11px;font-weight:600;letter-spacing:.22em;text-transform:uppercase;color:var(--nc-accent)">Narrative Operations</div>
+        </div>
+        <div class="dc-type-row">
+          <div class="dc-type-meta">
+            <strong>Data · Mono</strong>
+            11 – 13px<br>mono · 400<br>Scores, IDs, values
+          </div>
+          <div style="font-family:var(--nc-mono);font-size:13px;color:var(--nc-ink);letter-spacing:.04em">CONFIRMED (0.92) · GATES 4/4 · ISSUE-047 · 2026-07-23</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── COMPONENT: KICKER ─────────────────────────────── -->
+    <section class="dc-section" id="kicker">
+      <div class="dc-section-label">04 — Component</div>
+      <h2 class="dc-section-title">Kicker</h2>
+      <p class="dc-section-desc">Small all-caps series label placed above every headline. Uses the active <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-accent)">--nc-accent</code>.</p>
+
+      <div class="dc-component">
+        <div class="dc-component-label">Default — with headline</div>
+        <div class="dc-demo">
+          <div class="nc-kicker" style="margin-bottom:12px">Narrative Operations</div>
+          <h2 style="font-family:var(--nc-serif);font-size:36px;font-weight:400;margin:0;line-height:1.15;color:var(--nc-ink)">Narrative Seeding as Asymmetric Pressure</h2>
+        </div>
+        <div class="dc-demo-note">class="nc-kicker" &mdash; font: var(--nc-sans) 11px 600 &mdash; letter-spacing: .22em &mdash; color: var(--nc-accent)</div>
+      </div>
+
+      <div class="dc-component">
+        <div class="dc-component-label">Series variants</div>
+        <div class="dc-demo gap-row">
+          <div class="nc-kicker" style="--nc-accent:var(--nc-sienna)">World State Brief</div>
+          <div class="nc-kicker" style="--nc-accent:var(--nc-ochre)">Narrative Operations</div>
+          <div class="nc-kicker" style="--nc-accent:var(--nc-teal)">Civic Intelligence Brief</div>
+          <div class="nc-kicker" style="--nc-accent:var(--nc-navy)">Congressional Intelligence</div>
+          <div class="nc-kicker" style="--nc-accent:var(--nc-olive)">Financial</div>
+        </div>
+        <div class="dc-demo-note">Override --nc-accent at the element level with the series token to get the correct series color</div>
+      </div>
+    </section>
+
+    <!-- ── COMPONENT: RAIL ───────────────────────────────── -->
+    <section class="dc-section" id="rail">
+      <div class="dc-section-label">05 — Component</div>
+      <h2 class="dc-section-title">Rail</h2>
+      <p class="dc-section-desc">Vertical metadata sidebar placed alongside article content. Provides structured key-value pairs for issue number, series, dates, and editorial signals.</p>
+
+      <div class="dc-component">
+        <div class="dc-component-label">Article rail — standard layout</div>
+        <div class="dc-demo two-col">
+          <div style="font-family:var(--nc-serif);font-size:15px;line-height:1.62;color:var(--nc-ink-2)">
+            The rail sits in the right column of a two-column article grid. It provides editorial metadata visible at a glance: issue number, series, publication date, and gate score. The label–value pattern uses sans for labels and monospace for values, establishing a clear data register distinct from prose.
+          </div>
+          <div class="nc-rail">
+            <div class="nc-rail-item">
+              <div class="nc-rail-label">Issue</div>
+              <div class="nc-rail-value">#047</div>
+            </div>
+            <div class="nc-rail-item">
+              <div class="nc-rail-label">Series</div>
+              <div class="nc-rail-value accent">NARR-OPS</div>
+            </div>
+            <div class="nc-rail-item">
+              <div class="nc-rail-label">Published</div>
+              <div class="nc-rail-value">2025-07-23</div>
+            </div>
+            <div class="nc-rail-item">
+              <div class="nc-rail-label">Gates Passed</div>
+              <div class="nc-rail-value accent">4 / 4</div>
+            </div>
+            <div class="nc-rail-item">
+              <div class="nc-rail-label">Classification</div>
+              <div class="nc-rail-value">Unclassified</div>
+            </div>
+          </div>
+        </div>
+        <div class="dc-demo-note">class="nc-rail" wraps nc-rail-item(s), each containing nc-rail-label + nc-rail-value &mdash; Add .accent to nc-rail-value to use var(--nc-accent)</div>
+      </div>
+    </section>
+
+    <!-- ── COMPONENT: PULL QUOTE ─────────────────────────── -->
+    <section class="dc-section" id="pull">
+      <div class="dc-section-label">06 — Component</div>
+      <h2 class="dc-section-title">Pull Quote</h2>
+      <p class="dc-section-desc">Editorial emphasis device for the most precise, sourceable claim in a piece. The pull bar variant is used on covers and hero sections above large quotes.</p>
+
+      <div class="dc-component">
+        <div class="dc-component-label">Inline pull quote</div>
+        <div class="dc-demo">
+          <div class="nc-pull">
+            <div class="nc-pull-bar"></div>
+            <p>By the time fact-checkers move, the narrative has already rooted. The original false premise is no longer the story. The story is now: "Why are people talking about this?"</p>
+          </div>
+        </div>
+        <div class="dc-demo-note">class="nc-pull" wraps nc-pull-bar + p &mdash; bar: 64px wide, 4px tall, background var(--nc-accent) &mdash; p: serif 20px italic, left-bordered in var(--nc-accent)</div>
+      </div>
+
+      <div class="dc-component">
+        <div class="dc-component-label">Cover pull (pull-bar standalone)</div>
+        <div class="dc-demo" style="background:var(--nc-ink);padding:48px 40px">
+          <div class="nc-pull-bar" style="--nc-accent:var(--nc-sienna);margin-bottom:28px"></div>
+          <p style="font-family:var(--nc-serif);font-size:36px;font-weight:400;line-height:1.25;color:var(--nc-plaster);margin:0;max-width:640px">By the time fact-checkers move, the narrative has already rooted.</p>
+          <div style="font-family:var(--nc-sans);font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:rgba(247,244,238,.45);margin-top:24px">Narrative Operations — Issue 047, p. 12</div>
+        </div>
+        <div class="dc-demo-note">class="nc-pull-bar" standalone &mdash; override --nc-accent inline for the series color</div>
+      </div>
+    </section>
+
+    <!-- ── COMPONENT: VERDICT BLOCK ──────────────────────── -->
+    <section class="dc-section" id="verdict">
+      <div class="dc-section-label">07 — Component</div>
+      <h2 class="dc-section-title">Verdict Block</h2>
+      <p class="dc-section-desc">Structured confidence summary placed at the end of every analytical piece. States explicit confidence scores for each analytical claim. Required on all published briefs.</p>
+
+      <div class="dc-component">
+        <div class="dc-component-label">Verdict &amp; Confidence</div>
+        <div class="dc-demo">
+          <div class="nc-verdict">
+            <div class="nc-verdict-head">Verdict &amp; Confidence</div>
+            <div class="nc-verdict-body">
+              <div class="nc-verdict-row">
+                <div class="nc-verdict-row-label">Coordination</div>
+                <div class="nc-verdict-row-value">CONFIRMED (0.92)</div>
+              </div>
+              <div class="nc-verdict-row">
+                <div class="nc-verdict-row-label">Amplification Efficacy</div>
+                <div class="nc-verdict-row-value">HIGH (0.88)</div>
+              </div>
+              <div class="nc-verdict-row">
+                <div class="nc-verdict-row-label">Mainstream Impact</div>
+                <div class="nc-verdict-row-value">SIGNIFICANT (0.84)</div>
+              </div>
+              <div class="nc-verdict-row">
+                <div class="nc-verdict-row-label">Narrative Status</div>
+                <div class="nc-verdict-row-value">ROOTED</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="dc-demo-note">class="nc-verdict" &mdash; head / body / row / row-label / row-value &mdash; Confidence scale: CONFIRMED · HIGH · MODERATE · DIRECTIONAL SIGNAL · WATCH ITEM / UNCONFIRMED</div>
+      </div>
+    </section>
+
+    <!-- ── COMPONENT: SOURCE LIST ────────────────────────── -->
+    <section class="dc-section" id="sources">
+      <div class="dc-section-label">08 — Component</div>
+      <h2 class="dc-section-title">Source List</h2>
+      <p class="dc-section-desc">Colophon-style source register placed below the article body. Every published claim must map to a source entry here.</p>
+
+      <div class="dc-component">
+        <div class="dc-component-label">Sources &amp; Confidence Methodology</div>
+        <div class="dc-demo">
+          <div class="nc-source-list">
+            <div class="nc-source-head">Sources &amp; Confidence Methodology</div>
+            <div class="nc-source-item">Coordinated-account detection: linguistic analysis + temporal clustering + shared-hashtag patterns. 92% confidence; validated against manual review of 200-sample set.</div>
+            <div class="nc-source-item">Amplification tracking: follower-list analysis + retweet-graph mapping. Confidence 88%; accounts show &lt;0.3 mutual-follower density outside amplification window (independent behavior).</div>
+            <div class="nc-source-item">Mainstream outlet audits: hand-coded source attribution in 287 secondary mentions. 84% confidence on propagation model. 8% of outlets provided original-source context.</div>
+            <div class="nc-source-item">All raw data available on request. Verification timestamps recorded in append-only ledger. No synthetic claims; all accounts are real, all posts are real.</div>
+          </div>
+        </div>
+        <div class="dc-demo-note">class="nc-source-list" &mdash; nc-source-head + one nc-source-item per source &mdash; mono 11px at var(--nc-ink-2)</div>
+      </div>
+    </section>
+
+    <!-- ── COMPONENT: FOOTER ─────────────────────────────── -->
+    <section class="dc-section" id="footer">
+      <div class="dc-section-label">09 — Component</div>
+      <h2 class="dc-section-title">Footer</h2>
+      <p class="dc-section-desc">Publication footer containing the full provenance and editorial-independence statement. Appears on all editorial templates without exception.</p>
+
+      <div class="dc-component">
+        <div class="dc-component-label">Standard footer</div>
+        <div class="nc-footer">
+          <strong>Notitia Civica</strong> is an independent publication operated by EVASTARARCANA LLC, Portland, Oregon. Reports are based on public records, open-source reporting, official statements, filings, and structured research workflows. Analytical judgments are separated from sourced facts wherever possible. Items marked HOLD did not meet the corroboration threshold and are published as unresolved. SPEC-1 supports source monitoring and signal organization. Editorial responsibility remains human.
+        </div>
+        <div class="dc-demo-note" style="margin-top:10px">class="nc-footer" &mdash; border-top: 2px solid var(--nc-line-dark) &mdash; background: var(--nc-bone) &mdash; sans 11px var(--nc-ink-2)</div>
+      </div>
+    </section>
+
+    <!-- ── TEMPLATES ─────────────────────────────────────── -->
+    <section class="dc-section" id="templates">
+      <div class="dc-section-label">10 — Templates</div>
+      <h2 class="dc-section-title">Page Gallery</h2>
+      <p class="dc-section-desc">Production-ready HTML templates for every Notitia Civica publication context. Each template imports <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-accent)">notitia/notitia.css</code> and carries an <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-accent)">@dsCard</code> annotation.</p>
+
+      <div class="dc-template-grid">
+        <a href="Notitia Civica Issue Cover.html" class="dc-template-card">
+          <div class="dc-template-thumb" style="background:var(--nc-ink)">Issue Cover</div>
+          <div class="dc-template-info">
+            <div class="dc-template-name">Issue Cover</div>
+            <div class="dc-template-desc">Full-bleed cover — stacked accent bands, oversized pull, six-series index strip</div>
+          </div>
+        </a>
+        <a href="Notitia Civica Article.html" class="dc-template-card">
+          <div class="dc-template-thumb" style="background:var(--nc-ochre)">Article</div>
+          <div class="dc-template-info">
+            <div class="dc-template-name">Article</div>
+            <div class="dc-template-desc">Long-form brief with metadata rail, verdict block, source colophon, tweak panel</div>
+          </div>
+        </a>
+        <a href="Notitia Civica Methodology.html" class="dc-template-card">
+          <div class="dc-template-thumb" style="background:var(--nc-ink-2)">Methodology</div>
+          <div class="dc-template-info">
+            <div class="dc-template-name">Methodology</div>
+            <div class="dc-template-desc">How We Work — gate architecture, confidence language, stated limitations</div>
+          </div>
+        </a>
+        <a href="Notitia Civica PDF Template.html" class="dc-template-card">
+          <div class="dc-template-thumb" style="background:var(--nc-sienna)">PDF Template</div>
+          <div class="dc-template-info">
+            <div class="dc-template-name">PDF Template</div>
+            <div class="dc-template-desc">Print-safe layout — Letter / A4, flat color, reportlab-compatible</div>
+          </div>
+        </a>
+        <a href="Congressional Intelligence One-Pager.html" class="dc-template-card">
+          <div class="dc-template-thumb" style="background:var(--nc-navy)">Congressional</div>
+          <div class="dc-template-info">
+            <div class="dc-template-name">Congressional One-Pager</div>
+            <div class="dc-template-desc">Product sheet — navy accent, legislative positioning</div>
+          </div>
+        </a>
+        <a href="templates/print/world-state-brief.html" class="dc-template-card">
+          <div class="dc-template-thumb" style="background:var(--nc-sienna)">World State Brief<br><span style="font-size:12px;opacity:.7">Print</span></div>
+          <div class="dc-template-info">
+            <div class="dc-template-name">World State Brief (Print)</div>
+            <div class="dc-template-desc">Print-first bulletin — monochrome, US Letter, signals / assessment / story leads</div>
+          </div>
+        </a>
+        <a href="templates/print/civic-intelligence-brief.html" class="dc-template-card">
+          <div class="dc-template-thumb" style="background:var(--nc-teal)">Civic Intelligence<br><span style="font-size:12px;opacity:.7">Print</span></div>
+          <div class="dc-template-info">
+            <div class="dc-template-name">Civic Intelligence Brief (Print)</div>
+            <div class="dc-template-desc">Print-first bulletin — local institutions, public accountability</div>
+          </div>
+        </a>
+        <a href="templates/print/narrative-operations.html" class="dc-template-card">
+          <div class="dc-template-thumb" style="background:var(--nc-ochre)">Narrative Ops<br><span style="font-size:12px;opacity:.7">Print</span></div>
+          <div class="dc-template-info">
+            <div class="dc-template-name">Narrative Operations (Print)</div>
+            <div class="dc-template-desc">Print-first bulletin — influence campaigns, information environment</div>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <!-- ── USAGE REFERENCE ───────────────────────────────── -->
+    <section class="dc-section" id="usage">
+      <div class="dc-section-label">11 — Reference</div>
+      <h2 class="dc-section-title">Usage Reference</h2>
+      <p class="dc-section-desc">Implementation checklist for new templates. Every page that extends this design system must satisfy these requirements.</p>
+
+      <table class="dc-ref-table">
+        <thead>
+          <tr>
+            <th style="width:200px">Element</th>
+            <th style="width:340px">Implementation</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Stylesheet</td>
+            <td><code>&lt;link rel="stylesheet" href="notitia/notitia.css"&gt;</code></td>
+            <td>Required on every page. Imports Google Fonts, all custom properties, and base component classes.</td>
+          </tr>
+          <tr>
+            <td>Body class</td>
+            <td><code>&lt;body class="nc"&gt;</code></td>
+            <td>Activates serif base, resets, and background. Without this, token-dependent styles will not render correctly.</td>
+          </tr>
+          <tr>
+            <td>Series accent</td>
+            <td><code>body { --nc-accent: var(--nc-sienna); }</code></td>
+            <td>Override <code>--nc-accent</code> at body level in a page <code>&lt;style&gt;</code> block or inline. Default is <code>--nc-ochre</code>.</td>
+          </tr>
+          <tr>
+            <td>Card annotation</td>
+            <td><code>&lt;!-- @dsCard group="Notitia Civica" name="…" subtitle="…" --&gt;</code></td>
+            <td>HTML comment on line 2 registers the file in the design project card index. Required for all files in the group.</td>
+          </tr>
+          <tr>
+            <td>Kicker</td>
+            <td><code>&lt;div class="nc-kicker"&gt;Series Name&lt;/div&gt;</code></td>
+            <td>Must appear immediately above every article headline. Always uses the active <code>--nc-accent</code>.</td>
+          </tr>
+          <tr>
+            <td>Rail grid</td>
+            <td><code>grid-template-columns: 1fr 180px</code></td>
+            <td>Recommended grid for article body + rail layout. Rail width: 160–200px. Rail class: <code>nc-rail</code>.</td>
+          </tr>
+          <tr>
+            <td>Pull quote</td>
+            <td><code>class="nc-pull"</code> wrapping <code>class="nc-pull-bar"</code> + <code>&lt;p&gt;</code></td>
+            <td>Use for the single most precise, sourceable statement in a piece. Omit if no standout quote exists.</td>
+          </tr>
+          <tr>
+            <td>Verdict block</td>
+            <td><code>class="nc-verdict"</code></td>
+            <td>Required at end of every analytical piece. Minimum 2 rows, maximum 6. Confidence language must follow the standard ladder.</td>
+          </tr>
+          <tr>
+            <td>Confidence ladder</td>
+            <td>Text only — not a component</td>
+            <td>Standard terms in order: <strong>HIGH CONFIDENCE · MODERATE CONFIDENCE · DIRECTIONAL SIGNAL · WATCH ITEM / UNCONFIRMED.</strong> Always spelled out verbatim.</td>
+          </tr>
+          <tr>
+            <td>Source list</td>
+            <td><code>class="nc-source-list"</code></td>
+            <td>Required on all analytical pieces. One <code>nc-source-item</code> per source. Include confidence rationale in each entry.</td>
+          </tr>
+          <tr>
+            <td>Footer</td>
+            <td><code>class="nc-footer"</code></td>
+            <td>Required on all editorial templates. Copy is standardised — do not shorten or rephrase the provenance statement.</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+  </main>
+</div>
+
+<script src="support.js"></script>
+</body>
+</html>
