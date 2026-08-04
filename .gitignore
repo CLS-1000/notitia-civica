@@ -3,3 +3,15 @@
 *.tmp
 intake/raw/private/
 prompts/internal/
+
+# owc/ is a local working cache — not versioned output
+owc/
+
+# Prevent accidental commits of OS-generated folder names
+New folder/
+New folder (2)/
+New folder*/
+
+# Test/draft render artifacts
+brief_test*.pdf
+artifact*.pdf
