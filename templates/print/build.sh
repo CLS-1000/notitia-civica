@@ -12,10 +12,16 @@ set -e
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 BASE="$SCRIPT_DIR/_base.html"
 
+escape_sed() {
+  printf '%s' "$1" | sed 's/[\\&|]/\\&/g'
+}
+
 stamp() {
-  local title="$1"
-  local name="$2"
+  local title
+  local name
   local out="$3"
+  title="$(escape_sed "$1")"
+  name="$(escape_sed "$2")"
   sed \
     -e "s|{{SERIES_TITLE}}|$title|g" \
     -e "s|{{SERIES_NAME}}|$name|g" \
