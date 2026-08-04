@@ -26,9 +26,8 @@ notitia-civica/
 │   ├── notitia.css         — Shared CSS tokens and base styles (import this)
 │   └── README.md           — Design token documentation
 │
-├── owc/                    — Ongoing work cache (local working files)
-│   ├── New folder/         — Working notes and draft prompts (lead 01)
-│   └── New folder (2)/     — Research notes (observable indicators, China)
+├── owc/                    — Ongoing work cache (gitignored; local only)
+│   (intentionally not tracked; see .gitignore)
 │
 ├── published/              — Final published PDFs
 │   ├── PSYCHE-INT_Issue-001.pdf
