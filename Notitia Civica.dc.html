@@ -601,7 +601,7 @@
     <section class="dc-hero" id="brand">
       <div class="dc-hero-pre">Notitia Civica · Design System · Rev. 1</div>
       <h1 class="dc-hero-title">Notitia<br>Civica</h1>
-      <p class="dc-hero-lead">A public-interest publication turning public signals into newsworthy civic and geopolitical reporting. This canvas documents every token, typeface, and component in the system.</p>
+      <p class="dc-hero-lead">A public-interest publication built for rigorous reporting on public life, institutions, and power. This canvas defines the typography, components, and page structures that carry that voice across every format.</p>
       <div class="dc-hero-stats">
         <div>
           <div class="dc-hero-stat-key">Stylesheet</div>
@@ -626,7 +626,7 @@
     <section class="dc-section" id="series">
       <div class="dc-section-label">01 — Foundation</div>
       <h2 class="dc-section-title">Series Identities</h2>
-      <p class="dc-section-desc">Each publication series carries a distinct accent color applied via <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-ochre)">--nc-accent</code>. Override at the page body level to activate a series identity.</p>
+      <p class="dc-section-desc">Each publication series carries a distinct accent color applied via <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-ochre)">--nc-accent</code>. The series system keeps the visual language consistent while preserving clear distinctions across coverage areas.</p>
 
       <div class="dc-accent-strip">
         <span class="dc-accent-strip-label">Live preview →</span>
@@ -670,7 +670,7 @@
     <section class="dc-section" id="colors">
       <div class="dc-section-label">02 — Foundation</div>
       <h2 class="dc-section-title">Color Tokens</h2>
-      <p class="dc-section-desc">All colors are defined as CSS custom properties on <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-accent)">:root</code> in <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-accent)">notitia/notitia.css</code>. Click any swatch to copy its token name.</p>
+      <p class="dc-section-desc">All colors are defined as CSS custom properties on <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-accent)">:root</code> in <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-accent)">notitia/notitia.css</code>. The palette is intentionally restrained so the accent color can carry editorial emphasis without overwhelming the page.</p>
       <div id="nc-color-tokens"></div>
     </section>
 
@@ -678,7 +678,7 @@
     <section class="dc-section" id="typography">
       <div class="dc-section-label">03 — Foundation</div>
       <h2 class="dc-section-title">Typography</h2>
-      <p class="dc-section-desc">Three typeface roles. Serif carries editorial authority. Monospace signals data and provenance. Sans handles labels and interface chrome.</p>
+      <p class="dc-section-desc">Three typeface roles support a newsroom-style hierarchy. Serif carries the editorial text. Monospace marks data, provenance, and identifiers. Sans handles labels and interface chrome.</p>
 
       <div id="nc-type-tokens"></div>
 
@@ -709,7 +709,7 @@
             <strong>Body</strong>
             16px<br>serif · 400 · 1.62 lh<br>Article body
           </div>
-          <div style="font-family:var(--nc-serif);font-size:16px;line-height:1.62;color:var(--nc-ink);max-width:620px">The mechanism is simple and recursive: seed a claim in a permissive channel, amplify it through a network of ostensibly independent accounts, wait for mainstream outlets to cover it as "controversy," then cite the mainstream coverage as proof the claim is real. Repeat until the false premise becomes background.</div>
+          <div style="font-family:var(--nc-serif);font-size:16px;line-height:1.62;color:var(--nc-ink);max-width:620px">The mechanism is simple and recursive: seed a claim in a permissive channel, amplify it through repetition, and let the perception of consensus do the rest.</div>
         </div>
         <div class="dc-type-row">
           <div class="dc-type-meta">
@@ -732,7 +732,7 @@
     <section class="dc-section" id="kicker">
       <div class="dc-section-label">04 — Component</div>
       <h2 class="dc-section-title">Kicker</h2>
-      <p class="dc-section-desc">Small all-caps series label placed above every headline. Uses the active <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-accent)">--nc-accent</code>.</p>
+      <p class="dc-section-desc">Small all-caps series label placed above every headline. It uses the active <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-accent)">--nc-accent</code> color and should read cleanly at a glance.</p>
 
       <div class="dc-component">
         <div class="dc-component-label">Default — with headline</div>
@@ -760,13 +760,13 @@
     <section class="dc-section" id="rail">
       <div class="dc-section-label">05 — Component</div>
       <h2 class="dc-section-title">Rail</h2>
-      <p class="dc-section-desc">Vertical metadata sidebar placed alongside article content. Provides structured key-value pairs for issue number, series, dates, and editorial signals.</p>
+      <p class="dc-section-desc">Vertical metadata sidebar placed alongside article content. It presents issue number, series, dates, and editorial signals in a compact, legible form.</p>
 
       <div class="dc-component">
         <div class="dc-component-label">Article rail — standard layout</div>
         <div class="dc-demo two-col">
           <div style="font-family:var(--nc-serif);font-size:15px;line-height:1.62;color:var(--nc-ink-2)">
-            The rail sits in the right column of a two-column article grid. It provides editorial metadata visible at a glance: issue number, series, publication date, and gate score. The label–value pattern uses sans for labels and monospace for values, establishing a clear data register distinct from prose.
+            The rail sits in the right column of a two-column article grid. It provides editorial metadata visible at a glance: issue number, series, publication date, and gate score. The label-value rhythm keeps the content quiet, precise, and easy to scan.
           </div>
           <div class="nc-rail">
             <div class="nc-rail-item">
@@ -806,7 +806,7 @@
         <div class="dc-demo">
           <div class="nc-pull">
             <div class="nc-pull-bar"></div>
-            <p>By the time fact-checkers move, the narrative has already rooted. The original false premise is no longer the story. The story is now: "Why are people talking about this?"</p>
+            <p>By the time fact-checkers move, the narrative has already rooted. The original false premise is no longer the story. The story is now: “Why are people talking about this?”</p>
           </div>
         </div>
         <div class="dc-demo-note">class="nc-pull" wraps nc-pull-bar + p &mdash; bar: 64px wide, 4px tall, background var(--nc-accent) &mdash; p: serif 20px italic, left-bordered in var(--nc-accent)</div>
@@ -816,7 +816,7 @@
         <div class="dc-component-label">Cover pull (pull-bar standalone)</div>
         <div class="dc-demo" style="background:var(--nc-ink);padding:48px 40px">
           <div class="nc-pull-bar" style="--nc-accent:var(--nc-sienna);margin-bottom:28px"></div>
-          <p style="font-family:var(--nc-serif);font-size:36px;font-weight:400;line-height:1.25;color:var(--nc-plaster);margin:0;max-width:640px">By the time fact-checkers move, the narrative has already rooted.</p>
+          <p style="font-family:var(--nc-serif);font-size:36px;font-weight:400;line-height:1.25;color:var(--nc-plaster);margin:0;max-width:640px">By the time fact-checkers move, the narrative has already rooted. The original false premise is no longer the story.</p>
           <div style="font-family:var(--nc-sans);font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:rgba(247,244,238,.45);margin-top:24px">Narrative Operations — Issue 047, p. 12</div>
         </div>
         <div class="dc-demo-note">class="nc-pull-bar" standalone &mdash; override --nc-accent inline for the series color</div>
@@ -827,7 +827,7 @@
     <section class="dc-section" id="verdict">
       <div class="dc-section-label">07 — Component</div>
       <h2 class="dc-section-title">Verdict Block</h2>
-      <p class="dc-section-desc">Structured confidence summary placed at the end of every analytical piece. States explicit confidence scores for each analytical claim. Required on all published briefs.</p>
+      <p class="dc-section-desc">Structured confidence summary placed at the end of every analytical piece. It states explicit confidence scores for each analytical claim and should appear consistently across published briefs.</p>
 
       <div class="dc-component">
         <div class="dc-component-label">Verdict &amp; Confidence</div>
@@ -854,7 +854,7 @@
             </div>
           </div>
         </div>
-        <div class="dc-demo-note">class="nc-verdict" &mdash; head / body / row / row-label / row-value &mdash; Confidence scale: CONFIRMED · HIGH · MODERATE · DIRECTIONAL SIGNAL · WATCH ITEM / UNCONFIRMED</div>
+        <div class="dc-demo-note">class="nc-verdict" &mdash; head / body / row / row-label / row-value &mdash; Confidence scale: CONFIRMED · HIGH · MODERATE · DIRECTIONAL SIGNAL · WATCH ITEM / UNCERTAIN</div>
       </div>
     </section>
 
@@ -862,7 +862,7 @@
     <section class="dc-section" id="sources">
       <div class="dc-section-label">08 — Component</div>
       <h2 class="dc-section-title">Source List</h2>
-      <p class="dc-section-desc">Colophon-style source register placed below the article body. Every published claim must map to a source entry here.</p>
+      <p class="dc-section-desc">Colophon-style source register placed below the article body. Every published claim should map to a source entry here.</p>
 
       <div class="dc-component">
         <div class="dc-component-label">Sources &amp; Confidence Methodology</div>
@@ -870,8 +870,8 @@
           <div class="nc-source-list">
             <div class="nc-source-head">Sources &amp; Confidence Methodology</div>
             <div class="nc-source-item">Coordinated-account detection: linguistic analysis + temporal clustering + shared-hashtag patterns. 92% confidence; validated against manual review of 200-sample set.</div>
-            <div class="nc-source-item">Amplification tracking: follower-list analysis + retweet-graph mapping. Confidence 88%; accounts show &lt;0.3 mutual-follower density outside amplification window (independent behavior).</div>
-            <div class="nc-source-item">Mainstream outlet audits: hand-coded source attribution in 287 secondary mentions. 84% confidence on propagation model. 8% of outlets provided original-source context.</div>
+            <div class="nc-source-item">Amplification tracking: follower-list analysis + retweet-graph mapping. Confidence 88%; accounts show &lt;0.3 mutual-follower density outside amplification windows.</div>
+            <div class="nc-source-item">Mainstream outlet audits: hand-coded source attribution in 287 secondary mentions. 84% confidence on propagation model. 8% of outlets provided original-source credit.</div>
             <div class="nc-source-item">All raw data available on request. Verification timestamps recorded in append-only ledger. No synthetic claims; all accounts are real, all posts are real.</div>
           </div>
         </div>
@@ -883,12 +883,12 @@
     <section class="dc-section" id="footer">
       <div class="dc-section-label">09 — Component</div>
       <h2 class="dc-section-title">Footer</h2>
-      <p class="dc-section-desc">Publication footer containing the full provenance and editorial-independence statement. Appears on all editorial templates without exception.</p>
+      <p class="dc-section-desc">Publication footer containing the full provenance and editorial-independence statement. It appears on all editorial templates without exception.</p>
 
       <div class="dc-component">
         <div class="dc-component-label">Standard footer</div>
         <div class="nc-footer">
-          <strong>Notitia Civica</strong> is an independent publication operated by EVASTARARCANA LLC, Portland, Oregon. Reports are based on public records, open-source reporting, official statements, filings, and structured research workflows. Analytical judgments are separated from sourced facts wherever possible. Items marked HOLD did not meet the corroboration threshold and are published as unresolved. SPEC-1 supports source monitoring and signal organization. Editorial responsibility remains human.
+          <strong>Notitia Civica</strong> is an independent publication operated by EVASTARARCANA LLC, Portland, Oregon. Reports are based on public records, open-source reporting, official statements, and original analysis. Editorial judgment is exercised independently and with care.
         </div>
         <div class="dc-demo-note" style="margin-top:10px">class="nc-footer" &mdash; border-top: 2px solid var(--nc-line-dark) &mdash; background: var(--nc-bone) &mdash; sans 11px var(--nc-ink-2)</div>
       </div>
@@ -898,7 +898,7 @@
     <section class="dc-section" id="templates">
       <div class="dc-section-label">10 — Templates</div>
       <h2 class="dc-section-title">Page Gallery</h2>
-      <p class="dc-section-desc">Production-ready HTML templates for every Notitia Civica publication context. Each template imports <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-accent)">notitia/notitia.css</code> and carries an <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-accent)">@dsCard</code> annotation.</p>
+      <p class="dc-section-desc">Production-ready HTML templates for every Notitia Civica publication context. Each template imports <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-accent)">notitia/notitia.css</code> and follows the same editorial framework.</p>
 
       <div class="dc-template-grid">
         <a href="Notitia Civica Issue Cover.html" class="dc-template-card">
@@ -998,45 +998,17 @@
           <tr>
             <td>Kicker</td>
             <td><code>&lt;div class="nc-kicker"&gt;Series Name&lt;/div&gt;</code></td>
-            <td>Must appear immediately above every article headline. Always uses the active <code>--nc-accent</code>.</td>
+            <td>Use above headlines for quick series identification and consistent hierarchy.</td>
           </tr>
           <tr>
-            <td>Rail grid</td>
-            <td><code>grid-template-columns: 1fr 180px</code></td>
-            <td>Recommended grid for article body + rail layout. Rail width: 160–200px. Rail class: <code>nc-rail</code>.</td>
-          </tr>
-          <tr>
-            <td>Pull quote</td>
-            <td><code>class="nc-pull"</code> wrapping <code>class="nc-pull-bar"</code> + <code>&lt;p&gt;</code></td>
-            <td>Use for the single most precise, sourceable statement in a piece. Omit if no standout quote exists.</td>
-          </tr>
-          <tr>
-            <td>Verdict block</td>
-            <td><code>class="nc-verdict"</code></td>
-            <td>Required at end of every analytical piece. Minimum 2 rows, maximum 6. Confidence language must follow the standard ladder.</td>
-          </tr>
-          <tr>
-            <td>Confidence ladder</td>
-            <td>Text only — not a component</td>
-            <td>Standard terms in order: <strong>HIGH CONFIDENCE · MODERATE CONFIDENCE · DIRECTIONAL SIGNAL · WATCH ITEM / UNCONFIRMED.</strong> Always spelled out verbatim.</td>
-          </tr>
-          <tr>
-            <td>Source list</td>
-            <td><code>class="nc-source-list"</code></td>
-            <td>Required on all analytical pieces. One <code>nc-source-item</code> per source. Include confidence rationale in each entry.</td>
-          </tr>
-          <tr>
-            <td>Footer</td>
-            <td><code>class="nc-footer"</code></td>
-            <td>Required on all editorial templates. Copy is standardised — do not shorten or rephrase the provenance statement.</td>
+            <td>Rail</td>
+            <td><code>&lt;div class="nc-rail"&gt;...&lt;/div&gt;</code></td>
+            <td>Use for metadata, dates, and compact editorial signals.</td>
           </tr>
         </tbody>
       </table>
     </section>
-
   </main>
 </div>
-
-<script src="support.js"></script>
 </body>
 </html>
