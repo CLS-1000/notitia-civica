@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- @dsCard group="Notitia Civica" name="Notitia Civica" subtitle="Design system canvas — tokens, typography, components, and page templates" -->
+<!-- @dsCard group="Notitia Civica" name="Notitia Civica" subtitle="Design system canvas — tokens, typography, components, templates, and diagram-ready article structure" -->
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -573,6 +573,7 @@
       <a href="#series">Series Identities</a>
       <a href="#colors">Color Tokens</a>
       <a href="#typography">Typography</a>
+      <a href="#diagrams">Diagram Policy</a>
     </div>
 
     <div class="dc-nav-group">
@@ -728,9 +729,24 @@
       </div>
     </section>
 
+    <!-- ── COMPONENT: DIAGRAM POLICY ─────────────────────── -->
+    <section class="dc-section" id="diagrams">
+      <div class="dc-section-label">04 — Foundation</div>
+      <h2 class="dc-section-title">Diagram Policy</h2>
+      <p class="dc-section-desc">Every article template must include diagram support. Each published article should reserve space for at least one diagram, and the layout must accommodate inline, sidebar, or full-width diagram placement without breaking the page rhythm.</p>
+      <div class="dc-component">
+        <div class="dc-component-label">Required article element</div>
+        <div class="dc-demo">
+          <div style="font-family:var(--nc-sans);font-size:11px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:var(--nc-ink-3);margin-bottom:10px">Diagram requirement</div>
+          <div style="font-family:var(--nc-serif);font-size:16px;line-height:1.62;color:var(--nc-ink-2);max-width:760px">All article templates must be diagram-ready. At least one diagram slot is required in every article, with a clear structure for captions, labels, and source notes.</div>
+        </div>
+        <div class="dc-demo-note">Use diagram slots as a standard editorial feature, not as an optional embellishment.</div>
+      </div>
+    </section>
+
     <!-- ── COMPONENT: KICKER ─────────────────────────────── -->
     <section class="dc-section" id="kicker">
-      <div class="dc-section-label">04 — Component</div>
+      <div class="dc-section-label">05 — Component</div>
       <h2 class="dc-section-title">Kicker</h2>
       <p class="dc-section-desc">Small all-caps series label placed above every headline. It uses the active <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-accent)">--nc-accent</code> color and should read cleanly at a glance.</p>
 
@@ -758,7 +774,7 @@
 
     <!-- ── COMPONENT: RAIL ───────────────────────────────── -->
     <section class="dc-section" id="rail">
-      <div class="dc-section-label">05 — Component</div>
+      <div class="dc-section-label">06 — Component</div>
       <h2 class="dc-section-title">Rail</h2>
       <p class="dc-section-desc">Vertical metadata sidebar placed alongside article content. It presents issue number, series, dates, and editorial signals in a compact, legible form.</p>
 
@@ -797,7 +813,7 @@
 
     <!-- ── COMPONENT: PULL QUOTE ─────────────────────────── -->
     <section class="dc-section" id="pull">
-      <div class="dc-section-label">06 — Component</div>
+      <div class="dc-section-label">07 — Component</div>
       <h2 class="dc-section-title">Pull Quote</h2>
       <p class="dc-section-desc">Editorial emphasis device for the most precise, sourceable claim in a piece. The pull bar variant is used on covers and hero sections above large quotes.</p>
 
@@ -825,7 +841,7 @@
 
     <!-- ── COMPONENT: VERDICT BLOCK ──────────────────────── -->
     <section class="dc-section" id="verdict">
-      <div class="dc-section-label">07 — Component</div>
+      <div class="dc-section-label">08 — Component</div>
       <h2 class="dc-section-title">Verdict Block</h2>
       <p class="dc-section-desc">Structured confidence summary placed at the end of every analytical piece. It states explicit confidence scores for each analytical claim and should appear consistently across published briefs.</p>
 
@@ -860,7 +876,7 @@
 
     <!-- ── COMPONENT: SOURCE LIST ────────────────────────── -->
     <section class="dc-section" id="sources">
-      <div class="dc-section-label">08 — Component</div>
+      <div class="dc-section-label">09 — Component</div>
       <h2 class="dc-section-title">Source List</h2>
       <p class="dc-section-desc">Colophon-style source register placed below the article body. Every published claim should map to a source entry here.</p>
 
@@ -881,7 +897,7 @@
 
     <!-- ── COMPONENT: FOOTER ─────────────────────────────── -->
     <section class="dc-section" id="footer">
-      <div class="dc-section-label">09 — Component</div>
+      <div class="dc-section-label">10 — Component</div>
       <h2 class="dc-section-title">Footer</h2>
       <p class="dc-section-desc">Publication footer containing the full provenance and editorial-independence statement. It appears on all editorial templates without exception.</p>
 
@@ -896,7 +912,7 @@
 
     <!-- ── TEMPLATES ─────────────────────────────────────── -->
     <section class="dc-section" id="templates">
-      <div class="dc-section-label">10 — Templates</div>
+      <div class="dc-section-label">11 — Templates</div>
       <h2 class="dc-section-title">Page Gallery</h2>
       <p class="dc-section-desc">Production-ready HTML templates for every Notitia Civica publication context. Each template imports <code style="font-family:var(--nc-mono);font-size:14px;color:var(--nc-accent)">notitia/notitia.css</code> and follows the same editorial framework.</p>
 
@@ -962,7 +978,7 @@
 
     <!-- ── USAGE REFERENCE ───────────────────────────────── -->
     <section class="dc-section" id="usage">
-      <div class="dc-section-label">11 — Reference</div>
+      <div class="dc-section-label">12 — Reference</div>
       <h2 class="dc-section-title">Usage Reference</h2>
       <p class="dc-section-desc">Implementation checklist for new templates. Every page that extends this design system must satisfy these requirements.</p>
 
@@ -1004,6 +1020,11 @@
             <td>Rail</td>
             <td><code>&lt;div class="nc-rail"&gt;...&lt;/div&gt;</code></td>
             <td>Use for metadata, dates, and compact editorial signals.</td>
+          </tr>
+          <tr>
+            <td>Diagram requirement</td>
+            <td><code>Every article template must reserve diagram space</code></td>
+            <td>All article layouts must support at least one diagram and provide room for caption, labels, and source notes.</td>
           </tr>
         </tbody>
       </table>
