@@ -87,6 +87,142 @@ footer{border-top:1px solid var(--line);padding:1.4rem 0 2.4rem;color:var(--mute
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
 </style>
+
+    <!-- SCDS-26 Design System Stylesheet -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Inter:wght@400;500;600&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet">
+    <style>
+      :root {
+        --scds-bg-abyss: #06090F;
+        --scds-bg-surface: #0B111E;
+        --scds-bg-surface-elev: #111927;
+        --scds-bg-surface-sub: #172237;
+        --scds-border-hairline: rgba(148, 163, 184, 0.12);
+        --scds-border-subtle: rgba(245, 158, 11, 0.25);
+        --scds-border-prominent: rgba(245, 158, 11, 0.60);
+        --scds-amber-bright: #FFB020;
+        --scds-amber-core: #F59E0B;
+        --scds-orange-deep: #D97706;
+        --scds-text-primary: #F8FAFC;
+        --scds-text-secondary: #94A3B8;
+        --scds-text-muted: #64748B;
+        --scds-status-law: #10B981;
+        --scds-status-law-bg: rgba(16, 185, 129, 0.12);
+        --scds-status-stopped: #64748B;
+        --scds-status-stopped-bg: rgba(100, 116, 139, 0.15);
+        --scds-status-veto: #EF4444;
+        --scds-status-veto-bg: rgba(239, 68, 68, 0.14);
+      }
+
+      body {
+        background-color: var(--scds-bg-abyss) !important;
+        color: var(--scds-text-primary) !important;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
+        margin: 0;
+        padding: 0;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      /* Banner & Branding */
+      .brand-banner-container {
+        text-align: center;
+        padding: 32px 16px 12px 16px;
+        background: radial-gradient(circle at 50% 0%, rgba(245, 158, 11, 0.08) 0%, transparent 70%);
+      }
+      .brand-banner-container img {
+        max-width: 460px;
+        width: 85%;
+        height: auto;
+        filter: drop-shadow(0 6px 20px rgba(0,0,0,0.6));
+      }
+
+      /* Header & Metrics */
+      header, .header-panel {
+        background-color: var(--scds-bg-surface) !important;
+        border-bottom: 1px solid var(--scds-border-hairline) !important;
+      }
+      h1, h2, h3, .heading-grotesk {
+        font-family: 'Space Grotesk', sans-serif !important;
+        color: var(--scds-text-primary) !important;
+      }
+
+      /* Search & Filtering Bar */
+      input[type="text"], input[type="search"], .search-box {
+        background-color: var(--scds-bg-surface-elev) !important;
+        color: var(--scds-text-primary) !important;
+        border: 1px solid var(--scds-border-subtle) !important;
+        border-radius: 4px !important;
+        padding: 10px 14px !important;
+        font-family: 'IBM Plex Mono', monospace !important;
+      }
+      input[type="text"]:focus, input[type="search"]:focus {
+        border-color: var(--scds-amber-bright) !important;
+        box-shadow: 0 0 10px rgba(245, 158, 11, 0.25) !important;
+        outline: none !important;
+      }
+
+      /* Measure Cards */
+      .card, .measure-card, [class*="card"] {
+        background: var(--scds-bg-surface) !important;
+        border: 1px solid var(--scds-border-hairline) !important;
+        border-radius: 6px !important;
+        box-shadow: 0 4px 14px rgba(6, 9, 15, 0.8) !important;
+        transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease !important;
+      }
+      .card:hover, .measure-card:hover {
+        border-color: var(--scds-border-subtle) !important;
+        box-shadow: 0 6px 20px rgba(6, 9, 15, 0.9), 0 0 12px rgba(245, 158, 11, 0.12) !important;
+      }
+
+      /* Measure Identification & Badges */
+      .measure-id, [class*="prefix"] {
+        font-family: 'IBM Plex Mono', monospace !important;
+        font-weight: 700 !important;
+        color: var(--scds-amber-bright) !important;
+      }
+      .status-badge, .badge, [class*="badge"] {
+        font-family: 'IBM Plex Mono', monospace !important;
+        font-size: 10px !important;
+        font-weight: 600 !important;
+        text-transform: uppercase !important;
+        letter-spacing: 0.05em !important;
+        border-radius: 3px !important;
+        padding: 3px 8px !important;
+      }
+
+      /* Status Pill Colors */
+      .badge-law, [data-status="law"], [class*="status-law"] {
+        background: var(--scds-status-law-bg) !important;
+        color: var(--scds-status-law) !important;
+        border: 1px solid rgba(16, 185, 129, 0.3) !important;
+      }
+      .badge-veto, [data-status="veto"], [class*="status-veto"] {
+        background: var(--scds-status-veto-bg) !important;
+        color: var(--scds-status-veto) !important;
+        border: 1px solid rgba(239, 68, 68, 0.35) !important;
+      }
+      .badge-stopped, [data-status="stopped"], [class*="status-stopped"] {
+        background: var(--scds-status-stopped-bg) !important;
+        color: var(--scds-status-stopped) !important;
+        border: 1px solid rgba(100, 116, 139, 0.3) !important;
+      }
+
+      /* Telemetry Links & Footers */
+      a {
+        color: var(--scds-amber-core) !important;
+        text-decoration: none !important;
+      }
+      a:hover {
+        color: var(--scds-amber-bright) !important;
+        text-decoration: underline !important;
+      }
+      .seal-hash, pre, code {
+        font-family: 'IBM Plex Mono', monospace !important;
+        color: var(--scds-text-secondary) !important;
+      }
+    </style>
+
 </head>
 <body>
 <a class="skip" href="#bills">Skip to the list of bills</a>
