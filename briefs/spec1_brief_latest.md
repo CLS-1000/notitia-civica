@@ -2,14 +2,14 @@
 
 *AI brief unavailable — API key not configured. Rule-based brief generated from cycle data.*
 
-**Run:** run-97ac6fc3f844  
-**Completed:** 2026-10-20T18:12:55.509050+00:00  
+**Run:** run-63192ae7e5f1  
+**Completed:** 2026-10-20T22:31:26.080842+00:00  
 **Signals harvested:** 702  
-**Opportunities found:** 39  
-**Records stored:** 39
+**Opportunities found:** 42  
+**Records stored:** 42
 
 ### Executive Summary
-The cycle harvested 702 signals, 39 cleared all four gates and 39 records were stored. 4 record(s) were elevated (CORROBORATED or ESCALATE). No narrative synthesis was performed; treat every entry as unverified until reviewed.
+The cycle harvested 702 signals, 42 cleared all four gates and 42 records were stored. 4 record(s) were elevated (CORROBORATED or ESCALATE). No narrative synthesis was performed; treat every entry as unverified until reviewed.
 
 ### Elevated Signals
 - **CIPHER_BRIEF** — The reporting from Cipher Brief concerning Russian Hybrid Attack Might Look Like (confidence 0.74) <https://www.thecipherbrief.com/what-a-russian-hybrid-attack-might-look-like>
