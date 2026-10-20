@@ -1,0 +1,159 @@
+<!DOCTYPE html><html><head><meta charset='UTF-8'></head><body>
+<!-- BEGIN: NOTITIA CIVICA HERO COMPONENT -->
+<section class="nc-hero-wrapper">
+  <style>
+    /* Global Reset to eliminate browser tan/beige containers */
+    body, .container, .record-card, .civic-container {
+      background-color: #070B12 !important;
+      color: #FFFFFF !important;
+    }
+    .nc-hero-wrapper {
+      width: 100%;
+      background-color: #070B12;
+      padding: 2.5rem 1.5rem;
+      box-sizing: border-box;
+      display: flex;
+      justify-content: center;
+      border-bottom: 1px solid #1A2636;
+    }
+    .nc-hero-card {
+      max-width: 960px;
+      width: 100%;
+      background: #0A101A;
+      border: 1px solid #1A2636;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      padding: 2.5rem;
+      gap: 3rem;
+      box-sizing: border-box;
+    }
+    @media (max-width: 768px) {
+      .nc-hero-card {
+        flex-direction: column;
+        gap: 1.5rem;
+        padding: 1.5rem;
+        text-align: center;
+      }
+    }
+    .nc-emblem-container {
+      flex-shrink: 0;
+      width: 180px;
+      height: 180px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .nc-emblem-img {
+      width: 100%;
+      height: 100%;
+      filter: drop-shadow(0 0 12px rgba(255, 106, 0, 0.08));
+    }
+    .nc-meta-block {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+    }
+    .nc-system-tag {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 0.75rem;
+    }
+    @media (max-width: 768px) {
+      .nc-system-tag {
+        justify-content: center;
+      }
+    }
+    .nc-status-dot {
+      width: 6px;
+      height: 6px;
+      background-color: #FF6A00;
+      border-radius: 50%;
+      box-shadow: 0 0 6px #FF6A00;
+    }
+    .nc-tag-text {
+      font-family: 'IBM Plex Mono', 'Menlo', monospace;
+      font-size: 0.75rem;
+      color: #536B82;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+    }
+    .nc-primary-heading {
+      font-family: 'IBM Plex Mono', 'Menlo', monospace;
+      font-size: 2rem;
+      font-weight: 700;
+      color: #FFFFFF;
+      letter-spacing: 0.12em;
+      margin: 0 0 0.4rem 0;
+      text-transform: uppercase;
+    }
+    .nc-subheading {
+      font-family: 'IBM Plex Mono', 'Menlo', monospace;
+      font-size: 0.85rem;
+      color: #8C9CAE;
+      letter-spacing: 0.08em;
+      margin: 0 0 1.5rem 0;
+      line-height: 1.4;
+    }
+    .nc-specs-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 1rem;
+      border-top: 1px solid #1A2636;
+      padding-top: 1.25rem;
+    }
+    .nc-spec-item {
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+    .nc-spec-label {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.65rem;
+      color: #536B82;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+    .nc-spec-value {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.8rem;
+      color: #E6EDF3;
+      letter-spacing: 0.05em;
+    }
+    .nc-spec-value.nc-active {
+      color: #FF6A00;
+      font-weight: 600;
+    }
+  </style>
+
+  <div class="nc-hero-card">
+    <div class="nc-emblem-container">
+      <img src="assets/notitia_civica_badge.svg" alt="Notitia Civica Ziggurat" class="nc-emblem-img"/>
+    </div>
+    <div class="nc-meta-block">
+      <div class="nc-system-tag">
+        <span class="nc-status-dot"></span>
+        <span class="nc-tag-text">SWITCHBOARD SYSTEM // 02 / 05</span>
+      </div>
+      <h1 class="nc-primary-heading">NOTITIA CIVICA</h1>
+      <p class="nc-subheading">CIVIC LEDGER &amp; STATUTORY INTELLIGENCE ARCHIVE</p>
+      <div class="nc-specs-grid">
+        <div class="nc-spec-item">
+          <span class="nc-spec-label">DOMAIN</span>
+          <span class="nc-spec-value">LEGISLATIVE &amp; JUDICIAL</span>
+        </div>
+        <div class="nc-spec-item">
+          <span class="nc-spec-label">RECORD BASE</span>
+          <span class="nc-spec-value">STATEWIDE OREGON STATUTE</span>
+        </div>
+        <div class="nc-spec-item">
+          <span class="nc-spec-label">LEDGER STATUS</span>
+          <span class="nc-spec-value nc-active">VERIFIED // ACTIVE</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- END: NOTITIA CIVICA HERO COMPONENT -->
+</body></html>
