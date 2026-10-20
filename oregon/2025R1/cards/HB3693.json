@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3693",
+ "measure_id": "HB3693",
+ "subject": "or_legislature/2025R1/HB3693",
+ "title": "Repeals the requirement to secure firearms in specified circumstances.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3693 did not pass",
+ "claims": [
+  {
+   "text": "HB 3693 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624377
+   ]
+  },
+  {
+   "text": "HB 3693 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661128
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624377,
+    625238,
+    661128
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624377
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624377
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3693&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3693",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5076,
+  "finding_hash": "86e183005610efd54da87b0d723a5373a5a2398970be216a5867e5eebe1b20db",
+  "evidence_digest": "sha256:2ec724705d9b95a7eda2ecca5bde961d73c189c47a515b18250bd495b5dc0b85",
+  "gate_id": "a75f0e3cdc6f4a128befa09df95ec3d7",
+  "gate_seq": 5077
+ }
+}

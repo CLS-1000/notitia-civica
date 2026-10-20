@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3335",
+ "measure_id": "HB3335",
+ "subject": "or_legislature/2025R1/HB3335",
+ "title": "Requires the Department of Land Conservation and Development to study land use siting of renewable energy facilities that are solar photovoltaic power generating facilities and submit findings to the interim committees of the Legislative Assembly related to land use no later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3335 did not pass",
+ "claims": [
+  {
+   "text": "HB 3335 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618806
+   ]
+  },
+  {
+   "text": "HB 3335 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660313
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618806,
+    619204,
+    660313
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618806
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618806
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3335&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3335",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4002,
+  "finding_hash": "7c5d12aeb60fc3f8f565acfb67c0af28c33bb36f9de62d8b939007890a071645",
+  "evidence_digest": "sha256:a085fedc7a0392a2297285bc6c2334da60f786fa21fc29db7e003da3a5cab029",
+  "gate_id": "525064c627a7432f9cfd3dffd5b19f4d",
+  "gate_seq": 4003
+ }
+}

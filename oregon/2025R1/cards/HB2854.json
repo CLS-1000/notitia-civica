@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2854",
+ "measure_id": "HB2854",
+ "subject": "or_legislature/2025R1/HB2854",
+ "title": "Requires the Director of the Department of Consumer and Business Services to adopt amendments to the state building code that mandate certain design features for new school facilities in a designated seismic hazard region.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2854 did not pass",
+ "claims": [
+  {
+   "text": "HB 2854 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614818
+   ]
+  },
+  {
+   "text": "HB 2854 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661163
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614818,
+    617027,
+    661163
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614818
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614818
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2854&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2854",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2559,
+  "finding_hash": "54560dc4b38a0bea8c8ef5f74309b7acef9c3b63653b012a2fb0e4b8eea06163",
+  "evidence_digest": "sha256:8b4b5606c52524f564883f8ff7de9bb4c539d0c5420d34dda6a1e9e0bfc082bb",
+  "gate_id": "10e3a30d197344f7bf571aa4c644295f",
+  "gate_seq": 2560
+ }
+}

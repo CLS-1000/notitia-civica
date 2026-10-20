@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3001",
+ "measure_id": "HB3001",
+ "subject": "or_legislature/2025R1/HB3001",
+ "title": "Appropriates moneys out of the General Fund to the Department of Corrections to provide housing and employment reentry services to Black adults in custody.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3001 did not pass",
+ "claims": [
+  {
+   "text": "HB 3001 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614965
+   ]
+  },
+  {
+   "text": "HB 3001 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660354
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614965,
+    617174,
+    660354
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614965
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614965
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3001&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3001",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3000,
+  "finding_hash": "b90ccc039313fdd2d5ac0a964ecdb3a258b1475e2a04bb35343de05d57c8e170",
+  "evidence_digest": "sha256:d59ba85f42c901399e4b9f14ba8e174cdf8cf168308d12d25b8f766dbc43ff14",
+  "gate_id": "6be4e33ff5fb4906a475bc40ff18c13f",
+  "gate_seq": 3001
+ }
+}

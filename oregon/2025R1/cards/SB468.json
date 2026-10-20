@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 468",
+ "measure_id": "SB468",
+ "subject": "or_legislature/2025R1/SB468",
+ "title": "Provides that a noncompetition agreement is void and unenforceable if entered into with an employee who is a health professional.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 468 did not pass",
+ "claims": [
+  {
+   "text": "SB 468 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615773
+   ]
+  },
+  {
+   "text": "SB 468 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659098
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615773,
+    618040,
+    622195,
+    659098
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615773
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615773
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622195
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659098
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 468&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB468",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7512,
+  "finding_hash": "83be14ec73755edafdf2e4dae9eae780a95990d4630f994ebddd0696683dc5ab",
+  "evidence_digest": "sha256:c9f298012e8cbaaf08c03a1f7cded656e0e43221fe5020471c06337f96ca1fd3",
+  "gate_id": "50ee5f9641a04abba1d93de70eacba5e",
+  "gate_seq": 7513
+ }
+}

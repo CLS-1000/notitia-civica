@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 901",
+ "measure_id": "SB901",
+ "subject": "or_legislature/2025R1/SB901",
+ "title": "Requires the Department of Corrections to study residence requirements for women upon release from a Department of Corrections institution.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 901 did not pass",
+ "claims": [
+  {
+   "text": "SB 901 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618677
+   ]
+  },
+  {
+   "text": "SB 901 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658587
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618677,
+    618848,
+    658587
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618677
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618677
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 901&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB901",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8811,
+  "finding_hash": "86b555fc3039db2098d9fcd9e605ba89f81815455f12c97a6c26851511905577",
+  "evidence_digest": "sha256:91c9ab1abd905b8631feacbd95c8f708ea213005778b6c1773e609904d4e19f7",
+  "gate_id": "f70d1e6218a440de825900f8ff53a62d",
+  "gate_seq": 8812
+ }
+}

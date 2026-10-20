@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2222",
+ "measure_id": "HB2222",
+ "subject": "or_legislature/2025R1/HB2222",
+ "title": "Directs the Oregon Health Authority to prescribe criteria for mobile integrated health care providers to enroll as providers in the state medical assistance program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2222 did not pass",
+ "claims": [
+  {
+   "text": "HB 2222 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614186
+   ]
+  },
+  {
+   "text": "HB 2222 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660191
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614186,
+    616395,
+    627020,
+    635904,
+    638445,
+    638446,
+    660191
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614186
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614186
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627020
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    635904
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638445
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2222&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2222",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 663,
+  "finding_hash": "ac57798e98e4bbe040c2af67b860950e236cedeb099ab7d45267322303f946e1",
+  "evidence_digest": "sha256:2a355e11034d445e03547d4e82f58093f617b2d0223eb54ac75fb1dbc5f3a41f",
+  "gate_id": "7e6d43b770a74f8caffad1c6c176b9e6",
+  "gate_seq": 664
+ }
+}

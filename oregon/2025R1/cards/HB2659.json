@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2659",
+ "measure_id": "HB2659",
+ "subject": "or_legislature/2025R1/HB2659",
+ "title": "Establishes the Oregon Vehicle Industry Board.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2659 did not pass",
+ "claims": [
+  {
+   "text": "HB 2659 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614623
+   ]
+  },
+  {
+   "text": "HB 2659 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660089
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614623,
+    616832,
+    660089
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614623
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614623
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2659&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2659",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1974,
+  "finding_hash": "47f69775b3a0df7660dea361902a71cdb0a4c3c314c61e0ef1110c64fab98c1d",
+  "evidence_digest": "sha256:9c2aa8d561410277f79d0c5fdd9e755f7f23a8b68223073fa0c931e68b44e0da",
+  "gate_id": "662ef05b513a4ec69e7ae5a1e78e5401",
+  "gate_seq": 1975
+ }
+}

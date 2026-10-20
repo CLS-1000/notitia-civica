@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3639",
+ "measure_id": "HB3639",
+ "subject": "or_legislature/2025R1/HB3639",
+ "title": "Prohibits local governments from requiring the payment of a system development charge prior to issuing a certificate of occupancy for a dwelling within an urban growth boundary.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3639 did not pass",
+ "claims": [
+  {
+   "text": "HB 3639 was introduced in the House on February 20, 2025.",
+   "row_ids": [
+    623574
+   ]
+  },
+  {
+   "text": "HB 3639 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660567
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623574,
+    623866,
+    660567
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    623574
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623574
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3639&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3639",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4914,
+  "finding_hash": "64879b7b9ea0ae5db2f602bea720fd292465a36d8ab034d4e12a714732096155",
+  "evidence_digest": "sha256:d9051e3458477d63bdd3acb8da2cb0782ecdc0481dbe7fd741c7f5795b8249fb",
+  "gate_id": "3d17a785ad77417bb791adc4040beaa8",
+  "gate_seq": 4915
+ }
+}

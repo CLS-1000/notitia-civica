@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 910",
+ "measure_id": "SB910",
+ "subject": "or_legislature/2025R1/SB910",
+ "title": "Prescribes requirements for sharing information, training and guidelines for student athletes related to symptoms of a cardiac event.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 910 did not pass",
+ "claims": [
+  {
+   "text": "SB 910 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618686
+   ]
+  },
+  {
+   "text": "SB 910 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659125
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618686,
+    618857,
+    659125
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618686
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618686
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 910&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB910",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8838,
+  "finding_hash": "0728cd251fb2c2de7828bd1872c3e6d240a1816ceefb6ec66458d899c3403c60",
+  "evidence_digest": "sha256:2b92cf36450ddf4d797f52cde3579e505261c1944317724fe437d4c4f95edcca",
+  "gate_id": "97b8ec01c373491882a237fc75025142",
+  "gate_seq": 8839
+ }
+}

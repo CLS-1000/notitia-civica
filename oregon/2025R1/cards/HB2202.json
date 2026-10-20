@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2202",
+ "measure_id": "HB2202",
+ "subject": "or_legislature/2025R1/HB2202",
+ "title": "Modifies certain statutes to clarify roles and responsibilities for the delivery of behavioral health services and to update terminology.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2202 did not pass",
+ "claims": [
+  {
+   "text": "HB 2202 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614166
+   ]
+  },
+  {
+   "text": "HB 2202 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661049
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614166,
+    616375,
+    632913,
+    639028,
+    641154,
+    641155,
+    661049
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614166
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614166
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632913
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639028
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641154
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2202&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2202",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 603,
+  "finding_hash": "b14050dd0057673486fe525bec42db21d8f27b04eeaf29578c354dd7c087d24f",
+  "evidence_digest": "sha256:403c3ef21d4aa5c9bf5a6cdf3b5868b2f9099a0acfb934c05ba1037a19316a03",
+  "gate_id": "603e15bf2ff64859be797fbe7637181c",
+  "gate_seq": 604
+ }
+}

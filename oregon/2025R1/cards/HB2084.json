@@ -1,0 +1,108 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2084",
+ "measure_id": "HB2084",
+ "subject": "or_legislature/2025R1/HB2084",
+ "title": "Requires public contractors to demonstrate and maintain tax compliance as a condition of the execution of a public contract.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2084 did not pass",
+ "claims": [
+  {
+   "text": "HB 2084 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614048
+   ]
+  },
+  {
+   "text": "HB 2084 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660622
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614048,
+    616257,
+    619381,
+    650794,
+    651536,
+    660622
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614048
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614048
+   ]
+  },
+  {
+   "date": "2025-01-23",
+   "when": "January 23, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619381
+   ]
+  },
+  {
+   "date": "2025-06-03",
+   "when": "June 3, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    651536
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660622
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2084&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2084",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 249,
+  "finding_hash": "968b29aa8bd55e98eac4f7dac54b6a2742e359da8b0618f89b46e19b17cc75e7",
+  "evidence_digest": "sha256:c264aaef08f50fe227b1648c8768dd307f2419e352c7f7b9c40c9d74280a49f3",
+  "gate_id": "689dc52cf3cf467fa771f9033c9a1ded",
+  "gate_seq": 250
+ }
+}

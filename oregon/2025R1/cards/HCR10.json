@@ -1,0 +1,249 @@
+{
+ "session": "2025R1",
+ "measure": "HCR 10",
+ "measure_id": "HCR10",
+ "subject": "or_legislature/2025R1/HCR10",
+ "title": "Recognizes and honors former Oregon State Representative Roger Martin (1935-2023) for his service to this state.",
+ "outcome": "adopted",
+ "outcome_label": "Adopted",
+ "headline": "HCR 10 was adopted",
+ "claims": [
+  {
+   "text": "HCR 10 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619503
+   ]
+  },
+  {
+   "text": "HCR 10 was adopted; the last recorded step was on April 15, 2025.",
+   "row_ids": [
+    641040
+   ]
+  },
+  {
+   "text": "Each of the 26 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619503,
+    619875,
+    622652,
+    623147,
+    623552,
+    624329,
+    624909,
+    625808,
+    628050,
+    629154,
+    631844,
+    631949,
+    632452,
+    633647,
+    634737,
+    635496,
+    636419,
+    637283,
+    638254,
+    638922,
+    639367,
+    639790,
+    640266,
+    640759,
+    640998,
+    641040
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619503
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619503
+   ]
+  },
+  {
+   "date": "2025-02-17",
+   "when": "February 17, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    622652
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it be adopted",
+   "rule_id": "rec_be_adopted",
+   "row_ids": [
+    623147
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "read_special_order",
+   "row_ids": [
+    624329
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "adopted",
+   "text": "Adopted by the House",
+   "rule_id": "adopted",
+   "row_ids": [
+    624329
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Arrived in the Senate",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624909
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624909
+   ]
+  },
+  {
+   "date": "2025-03-12",
+   "when": "March 12, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628050
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629154
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it be adopted",
+   "rule_id": "rec_do_adopt",
+   "row_ids": [
+    631844
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    631949
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "final_reading",
+   "row_ids": [
+    640266
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "adopted",
+   "text": "Adopted by the Senate",
+   "rule_id": "adopted",
+   "row_ids": [
+    640266
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    640759
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    640998
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-04-15",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 10&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HCR10",
+ "row_count": 26,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10179,
+  "finding_hash": "05d12fa5d99fb365059680b18c82c46dcb87f4680194f6c30814f446c579616f",
+  "evidence_digest": "sha256:6bfc9323ac2f2f1f381ee02a89066ba17a89c33a06d5c30c567c4593873a7678",
+  "gate_id": "c5a2ba271c57459087cbc432e1d3f83f",
+  "gate_seq": 10180
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2061",
+ "measure_id": "HB2061",
+ "subject": "or_legislature/2025R1/HB2061",
+ "title": "Establishes a task force on the recruitment and retention of case managers and adult protective services workers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2061 did not pass",
+ "claims": [
+  {
+   "text": "HB 2061 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614025
+   ]
+  },
+  {
+   "text": "HB 2061 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660316
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614025,
+    616234,
+    635235,
+    638744,
+    640409,
+    640410,
+    660316
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614025
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614025
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    635235
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638744
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640409
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2061&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2061",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 180,
+  "finding_hash": "b1ea9180745d8a593a81af9ab56e8b38cc8c7b1d1fe2208583fed8adfac8e182",
+  "evidence_digest": "sha256:6a643264e5ff03892fd0635873b7c9688e1cea23c2585eab3cce9fd374916fbd",
+  "gate_id": "0bc1567dcd934b51bf8149853c7e6190",
+  "gate_seq": 181
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3002",
+ "measure_id": "HB3002",
+ "subject": "or_legislature/2025R1/HB3002",
+ "title": "Establishes the Task Force on Data Modernization and directs the task force to report to an interim committee of the Legislative Assembly related to general government no later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3002 did not pass",
+ "claims": [
+  {
+   "text": "HB 3002 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614966
+   ]
+  },
+  {
+   "text": "HB 3002 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660355
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614966,
+    617175,
+    660355
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614966
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614966
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3002&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3002",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3003,
+  "finding_hash": "d18025bfb28fe96c1047fd1f12f2c454ea1be27e446c809a67fc737d40ba0a17",
+  "evidence_digest": "sha256:84b5d84d65fa42a599e02884edb327abba9f817ec8692642e1a867c614c1f9fe",
+  "gate_id": "fb51d0ff3d4a420da7870ad5be46ed46",
+  "gate_seq": 3004
+ }
+}

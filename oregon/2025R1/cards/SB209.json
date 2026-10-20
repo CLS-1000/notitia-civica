@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 209",
+ "measure_id": "SB209",
+ "subject": "or_legislature/2025R1/SB209",
+ "title": "Creates an income or corporate excise tax credit for a taxpayer that employs youth through the Oregon Youth Employment Program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 209 did not pass",
+ "claims": [
+  {
+   "text": "SB 209 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615514
+   ]
+  },
+  {
+   "text": "SB 209 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659418
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615514,
+    617781,
+    659418
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615514
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615514
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 209&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB209",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6735,
+  "finding_hash": "147e6b4882ca001ad5e8c1b03c9c94bc20ea6e923eac46d2daa901db0f6aa41c",
+  "evidence_digest": "sha256:bc54124832582fab610204c2335cc85823346d181062e98b9c806569052e8365",
+  "gate_id": "72df1b01447a464ead4f01eb3e38686e",
+  "gate_seq": 6736
+ }
+}

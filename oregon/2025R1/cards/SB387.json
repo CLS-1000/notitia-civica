@@ -1,0 +1,133 @@
+{
+ "session": "2025R1",
+ "measure": "SB 387",
+ "measure_id": "SB387",
+ "subject": "or_legislature/2025R1/SB387",
+ "title": "Grants higher property tax exemptions for the property of veterans with disabilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 387 did not pass",
+ "claims": [
+  {
+   "text": "SB 387 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615692
+   ]
+  },
+  {
+   "text": "SB 387 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659013
+   ]
+  },
+  {
+   "text": "Each of the 9 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615692,
+    617959,
+    619567,
+    621066,
+    621384,
+    621385,
+    639174,
+    643094,
+    659013
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615692
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615692
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619567
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    621066
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "when": "February 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    621384
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    639174
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659013
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 387&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB387",
+ "row_count": 9,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7269,
+  "finding_hash": "870737166cb1bfcbdbafd54f2d41a883d8e540c32d688141ec80e4b440054cff",
+  "evidence_digest": "sha256:fc2f682180dc98c34a3b1c0bfe8dcaa3f2fb28da9102d5c13a87f65fb66d8035",
+  "gate_id": "c66581daecf044bf84817da80ffbc486",
+  "gate_seq": 7270
+ }
+}

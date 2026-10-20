@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SJM 7",
+ "measure_id": "SJM7",
+ "subject": "or_legislature/2025R1/SJM7",
+ "title": "Requests discussion between Oregon and Idaho governments regarding the relocation of the Oregon and Idaho border.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJM 7 did not pass",
+ "claims": [
+  {
+   "text": "SJM 7 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615230
+   ]
+  },
+  {
+   "text": "SJM 7 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658877
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615230,
+    617497,
+    658877
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615230
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615230
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJM' and MeasureNumber eq 7&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJM7",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10140,
+  "finding_hash": "d5d0710ab5cc693dfa0b422f988318b5dee74fadb33276c910ba69355504a2f0",
+  "evidence_digest": "sha256:3edca1d1be24c61363ebe00887ec04ff44a35695d9f3733276c1e7dd5ef8d4be",
+  "gate_id": "c2bcc7387184450ca8b65aa66dd9b5a5",
+  "gate_seq": 10141
+ }
+}

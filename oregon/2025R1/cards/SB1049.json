@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1049",
+ "measure_id": "SB1049",
+ "subject": "or_legislature/2025R1/SB1049",
+ "title": "Requires the Oregon Liquor and Cannabis Commission to study the interstate commerce of cannabis.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1049 did not pass",
+ "claims": [
+  {
+   "text": "SB 1049 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623059
+   ]
+  },
+  {
+   "text": "SB 1049 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659432
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623059,
+    623131,
+    659432
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623059
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623059
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1049&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1049",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9255,
+  "finding_hash": "b2a37c5bd09244b32938f2942273e2d161174a1537db6ab6cd406dfe8c5429c2",
+  "evidence_digest": "sha256:3de1f6efa527b1a03322215c0f8f2194e26ca0a8e515d77c08628daabfa00db4",
+  "gate_id": "a1101e38058e4cb58e219544b9c9399e",
+  "gate_seq": 9256
+ }
+}

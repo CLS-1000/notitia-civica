@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 935",
+ "measure_id": "SB935",
+ "subject": "or_legislature/2025R1/SB935",
+ "title": "Extends the dates by which the Joint Task Force on Regional Behavioral Health Accountability must provide draft recommendations and submit a final report to the interim committees of the Legislative Assembly related to health.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 935 did not pass",
+ "claims": [
+  {
+   "text": "SB 935 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618711
+   ]
+  },
+  {
+   "text": "SB 935 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659528
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618711,
+    618882,
+    659528
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618711
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618711
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 935&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB935",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8913,
+  "finding_hash": "b0b33f5bc87085ebfefc7eacd8c18e0139cd5262369b234d4b377c334edd8b12",
+  "evidence_digest": "sha256:94cdfeb2b156f3c93b6e9ba81a32388726725463e49293c182e2c43df06b5f66",
+  "gate_id": "1f24d229812a4cf58f07fc9525731697",
+  "gate_seq": 8914
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2832",
+ "measure_id": "HB2832",
+ "subject": "or_legislature/2025R1/HB2832",
+ "title": "Provides that a veteran must provide evidence of eligibility for veterans' preference in public employment at the time of application for a civil service position.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2832 did not pass",
+ "claims": [
+  {
+   "text": "HB 2832 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614796
+   ]
+  },
+  {
+   "text": "HB 2832 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660667
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614796,
+    617005,
+    660667
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614796
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614796
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2832&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2832",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2493,
+  "finding_hash": "e991ebcd11f71de92fa2ed50b2beb668131c268baacdc8c59f5b8a5c26b88496",
+  "evidence_digest": "sha256:0d3e365fe3b8682d9c2bca227625e47eff93f1471670de71c7014a4ed3a444fd",
+  "gate_id": "a933602679ba4b879870167fa06eadb9",
+  "gate_seq": 2494
+ }
+}

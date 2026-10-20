@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3130",
+ "measure_id": "HB3130",
+ "subject": "or_legislature/2025R1/HB3130",
+ "title": "Requires a member of a district school board to file an economic interest statement only if the member receives a stipend from the district school board.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3130 did not pass",
+ "claims": [
+  {
+   "text": "HB 3130 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615094
+   ]
+  },
+  {
+   "text": "HB 3130 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660020
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615094,
+    617303,
+    620559,
+    621452,
+    660020
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615094
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615094
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "when": "February 10, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621452
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660020
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3130&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3130",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3387,
+  "finding_hash": "aed83e1ceb188fdf25fdec71bacd0dc0b64c47a32743ec97f93f7a57a0c7f125",
+  "evidence_digest": "sha256:226bb92a1760027fb2f364179250ffcc5a47a8a0cff454e8e7db37f7614e7953",
+  "gate_id": "5c053e8348af4c958de5bd4ff44e8798",
+  "gate_seq": 3388
+ }
+}

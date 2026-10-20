@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2203",
+ "measure_id": "HB2203",
+ "subject": "or_legislature/2025R1/HB2203",
+ "title": "Requires a behavioral health employer to develop and implement a written safety plan and to provide safety trainings to workers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2203 did not pass",
+ "claims": [
+  {
+   "text": "HB 2203 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614167
+   ]
+  },
+  {
+   "text": "HB 2203 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661050
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614167,
+    616376,
+    629620,
+    639137,
+    641156,
+    641157,
+    661050
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614167
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614167
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629620
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639137
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641156
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2203&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2203",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 606,
+  "finding_hash": "af8aae0e1871a3b908e1f321e20319b89cc31ba1c0980984f3c88e183cdbf119",
+  "evidence_digest": "sha256:ef22e7b2f3794322ffd7c1174685fce7ac34ea173dc07dc9be244a0c3f8577e6",
+  "gate_id": "847444b38da646e49ca813879a91b055",
+  "gate_seq": 607
+ }
+}

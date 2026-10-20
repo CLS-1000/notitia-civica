@@ -1,0 +1,227 @@
+{
+ "session": "2025R1",
+ "measure": "SCR 19",
+ "measure_id": "SCR19",
+ "subject": "or_legislature/2025R1/SCR19",
+ "title": "In memoriam: Leonard Warren Krug, 1957-2024.",
+ "outcome": "adopted",
+ "outcome_label": "Adopted",
+ "headline": "SCR 19 was adopted",
+ "claims": [
+  {
+   "text": "SCR 19 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623031
+   ]
+  },
+  {
+   "text": "SCR 19 was adopted; the last recorded step was on May 22, 2025.",
+   "row_ids": [
+    649161
+   ]
+  },
+  {
+   "text": "Each of the 15 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623031,
+    623103,
+    625715,
+    627338,
+    627422,
+    627751,
+    630025,
+    631893,
+    633459,
+    646779,
+    647473,
+    647803,
+    648562,
+    648718,
+    649161
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623031
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623031
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    625715
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it be adopted",
+   "rule_id": "rec_do_adopt",
+   "row_ids": [
+    627338
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    627422
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "final_reading",
+   "row_ids": [
+    630025
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "adopted",
+   "text": "Adopted by the Senate",
+   "rule_id": "adopted",
+   "row_ids": [
+    630025
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Arrived in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    631893
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    631893
+   ]
+  },
+  {
+   "date": "2025-05-14",
+   "when": "May 14, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    646779
+   ]
+  },
+  {
+   "date": "2025-05-15",
+   "when": "May 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it be adopted",
+   "rule_id": "rec_be_adopted",
+   "row_ids": [
+    647473
+   ]
+  },
+  {
+   "date": "2025-05-19",
+   "when": "May 19, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "read",
+   "row_ids": [
+    647803
+   ]
+  },
+  {
+   "date": "2025-05-19",
+   "when": "May 19, 2025",
+   "chamber": "H",
+   "state": "adopted",
+   "text": "Adopted by the House",
+   "rule_id": "adopted",
+   "row_ids": [
+    647803
+   ]
+  },
+  {
+   "date": "2025-05-20",
+   "when": "May 20, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    648562
+   ]
+  },
+  {
+   "date": "2025-05-21",
+   "when": "May 21, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    648718
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-05-22",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SCR' and MeasureNumber eq 19&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SCR19",
+ "row_count": 15,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10332,
+  "finding_hash": "f78cbad5449bfbe56c829c0c677a6f16b4695603f1740df89c6ab9ccd9243875",
+  "evidence_digest": "sha256:5f39ea1221dc1f25c23d7e0656171f9934e975a2c34c7bc42fd859af1dbeff8d",
+  "gate_id": "15556d06607243f6b5d18276250c135b",
+  "gate_seq": 10333
+ }
+}

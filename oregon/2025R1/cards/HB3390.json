@@ -1,0 +1,192 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3390",
+ "measure_id": "HB3390",
+ "subject": "or_legislature/2025R1/HB3390",
+ "title": "Prescribes the method for creating a ballot title and explanatory statement by a joint legislative committee for any amendment to the Oregon Constitution that passes both houses of the Legislative Assembly during the 2025 regular session and is referred to the people by the Legislative Assembly and for any Act that passes both houses of the Legislative Assembly during the 2025 regular session if the Act is referred to the people by either the Legislative Assembly or by referendum petition.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3390 did not pass",
+ "claims": [
+  {
+   "text": "HB 3390 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619441
+   ]
+  },
+  {
+   "text": "HB 3390 passed the House but did not pass the Senate. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658949
+   ]
+  },
+  {
+   "text": "Each of the 11 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619441,
+    619813,
+    655502,
+    655814,
+    655897,
+    655956,
+    656447,
+    656737,
+    657224,
+    657466,
+    658949
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619441
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619441
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "when": "June 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    655502
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "when": "June 18, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    655814
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "when": "June 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    655897
+   ]
+  },
+  {
+   "date": "2025-06-19",
+   "when": "June 19, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    655956
+   ]
+  },
+  {
+   "date": "2025-06-20",
+   "when": "June 20, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    656447
+   ]
+  },
+  {
+   "date": "2025-06-20",
+   "when": "June 20, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    656447
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Arrived in the Senate",
+   "rule_id": "first_reading",
+   "row_ids": [
+    656737
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    656737
+   ]
+  },
+  {
+   "date": "2025-06-24",
+   "when": "June 24, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    657466
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658949
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3390&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3390",
+ "row_count": 11,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4167,
+  "finding_hash": "762178f49c8622473b1927295fb891407f10ba744ad325841b41ac10b7d4c302",
+  "evidence_digest": "sha256:1086ef2b0f5cf7827445f32781a1d94713311adb6c1f27b04bd0d7613399bed3",
+  "gate_id": "011dca4d6ef84f518289a91c5ecaaa52",
+  "gate_seq": 4168
+ }
+}

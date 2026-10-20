@@ -1,0 +1,120 @@
+{
+ "session": "2025R1",
+ "measure": "SB 727",
+ "measure_id": "SB727",
+ "subject": "or_legislature/2025R1/SB727",
+ "title": "Modifies the definition of \"health care provider\" for purposes of laws concerning job-protected leave.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 727 did not pass",
+ "claims": [
+  {
+   "text": "SB 727 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616032
+   ]
+  },
+  {
+   "text": "SB 727 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658921
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616032,
+    618299,
+    627251,
+    627833,
+    627834,
+    633281,
+    658921
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616032
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616032
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    627251
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    627833
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633281
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658921
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 727&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB727",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8289,
+  "finding_hash": "45c254a33ef0dc07b0c51e09731ae9caa9fb5a07e0eb268da8b341925f3559bb",
+  "evidence_digest": "sha256:6dcf1513285a1f9fe4536d665de5963e5a2e960f8dbc1a74a24e87c7acfa4a17",
+  "gate_id": "fcafa2e72c5a4fe5ae7d25fd303cbf51",
+  "gate_seq": 8290
+ }
+}

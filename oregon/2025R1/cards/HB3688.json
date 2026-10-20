@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3688",
+ "measure_id": "HB3688",
+ "subject": "or_legislature/2025R1/HB3688",
+ "title": "Allows an exclusion from the Oregon taxable estate of a surviving spouse for the unused portion of exclusion that applied to the prior deceased spouse of the decedent.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3688 did not pass",
+ "claims": [
+  {
+   "text": "HB 3688 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624372
+   ]
+  },
+  {
+   "text": "HB 3688 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661123
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624372,
+    625233,
+    637482,
+    661123
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624372
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624372
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    637482
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661123
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3688&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3688",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5061,
+  "finding_hash": "1d8d4b2b6a285987843146bc5573bb42ade51238a50df88eedceaaceed3cd77d",
+  "evidence_digest": "sha256:1ba79d0eda28e87ec1c764970c9caa89e15ef52be49a6a2da19fc74a3e0640a6",
+  "gate_id": "cdaa85e7b6a44009ad32ca6915015331",
+  "gate_seq": 5062
+ }
+}

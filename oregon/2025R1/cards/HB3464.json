@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3464",
+ "measure_id": "HB3464",
+ "subject": "or_legislature/2025R1/HB3464",
+ "title": "Provides that when a person is charged with committing a new felony sex crime while on pretrial release for a felony sex crime, the person is only eligible for release after a hearing during which the court determines whether security release may be denied, and if security release is allowed, the person must deposit the full security amount set by the court.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3464 did not pass",
+ "claims": [
+  {
+   "text": "HB 3464 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620337
+   ]
+  },
+  {
+   "text": "HB 3464 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660842
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620337,
+    621010,
+    660842
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620337
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620337
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3464&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3464",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4389,
+  "finding_hash": "d96439d37b8f6be8180006ed96e30b8f60bc64c6bc53067482a81d86e5a08c79",
+  "evidence_digest": "sha256:296ef7bb99dd148a2cc3d2d9e5783424c71859566b30db55fde97e093398dc45",
+  "gate_id": "14f4e4b7726b4146843414a353a49a05",
+  "gate_seq": 4390
+ }
+}

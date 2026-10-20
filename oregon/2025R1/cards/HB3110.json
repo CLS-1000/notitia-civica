@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3110",
+ "measure_id": "HB3110",
+ "subject": "or_legislature/2025R1/HB3110",
+ "title": "Establishes criteria for state and United States flags to be official flags.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3110 did not pass",
+ "claims": [
+  {
+   "text": "HB 3110 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615074
+   ]
+  },
+  {
+   "text": "HB 3110 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660001
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615074,
+    617283,
+    621093,
+    660001
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615074
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615074
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621093
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660001
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3110&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3110",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3327,
+  "finding_hash": "fd3cb66dfb1dfb859eb9413d30564c00d70da9ce729353ab690b691b1e97509f",
+  "evidence_digest": "sha256:7e37201f0d043714be4c9ecb5e8a0e8da7a483afa86eb98b47494508cdc5bc5b",
+  "gate_id": "d3731e1e5ad541b789d8b9f41a8eb424",
+  "gate_seq": 3328
+ }
+}

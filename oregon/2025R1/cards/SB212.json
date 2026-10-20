@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 212",
+ "measure_id": "SB212",
+ "subject": "or_legislature/2025R1/SB212",
+ "title": "Establishes a ratings system for library materials available to young individuals based on appropriateness for different age groups.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 212 did not pass",
+ "claims": [
+  {
+   "text": "SB 212 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615517
+   ]
+  },
+  {
+   "text": "SB 212 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659421
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615517,
+    617784,
+    659421
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615517
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615517
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 212&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB212",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6744,
+  "finding_hash": "2b4d7b7d0081a217839556199c87c3e597b4be6474c71e766f0b373cabf580ec",
+  "evidence_digest": "sha256:fe43526a94e1f4236ab346cf41e0155e52a49d22f214882cbb6b54784fe85191",
+  "gate_id": "eabac5cbe0f64042bf9ae609631f501c",
+  "gate_seq": 6745
+ }
+}

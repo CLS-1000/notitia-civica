@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3420",
+ "measure_id": "HB3420",
+ "subject": "or_legislature/2025R1/HB3420",
+ "title": "Requires the Department of Education to transfer from the State School Fund to the Talented and Gifted Education Account an amount that equals one percent of the total amount available to school districts as general purpose grants.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3420 did not pass",
+ "claims": [
+  {
+   "text": "HB 3420 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619471
+   ]
+  },
+  {
+   "text": "HB 3420 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659931
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619471,
+    619843,
+    659931
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619471
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619471
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3420&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3420",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4257,
+  "finding_hash": "5a3c00d6f802c2ddc297f0991c37221d0268de397a29b87a7c280ec5d81cb392",
+  "evidence_digest": "sha256:e52add145f91719b5e1d533a813c51870bc4a854f6d7858ed9c4af3496e93a94",
+  "gate_id": "69aa9089e582484c8178736ab57e8188",
+  "gate_seq": 4258
+ }
+}

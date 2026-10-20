@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 497",
+ "measure_id": "SB497",
+ "subject": "or_legislature/2025R1/SB497",
+ "title": "Prohibits a municipality that administers and enforces a building inspection program from adopting construction standards or methods from the Reach Code, or a similar or related code of standards and methods, that exceed or are more stringent than statewide standards and methods that the Director of Department of Consumer and Business Services adopts and administers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 497 did not pass",
+ "claims": [
+  {
+   "text": "SB 497 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615802
+   ]
+  },
+  {
+   "text": "SB 497 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659334
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615802,
+    618069,
+    659334
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615802
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615802
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 497&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB497",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7599,
+  "finding_hash": "be6c20c2e20c88c99f57f81032292376c54a0e26a3c85af91eb7922149b5aaee",
+  "evidence_digest": "sha256:cd178fbbbb3d35954f8d90661e023bc5cee946081cbc51b742d228d97802b8e7",
+  "gate_id": "34a9edcad26e40ff8b6c384673dcc656",
+  "gate_seq": 7600
+ }
+}

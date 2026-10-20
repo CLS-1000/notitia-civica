@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3280",
+ "measure_id": "HB3280",
+ "subject": "or_legislature/2025R1/HB3280",
+ "title": "Establishes a Task Force on Rural Medical Training Facilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3280 did not pass",
+ "claims": [
+  {
+   "text": "HB 3280 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618751
+   ]
+  },
+  {
+   "text": "HB 3280 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660987
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618751,
+    619149,
+    660987
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618751
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618751
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3280&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3280",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3837,
+  "finding_hash": "f6960d638c1c22df21b54d9ada03ee9f807da00646c1a0cd4b58bf827d36d656",
+  "evidence_digest": "sha256:9379cfe8bee857e4814ee1bfc75defa0bae55055705e07560d6c6d4db9dc7244",
+  "gate_id": "f3dcb347b9fb44a9a6daaa3fa937dce9",
+  "gate_seq": 3838
+ }
+}

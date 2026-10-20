@@ -1,0 +1,289 @@
+{
+ "session": "2025R1",
+ "measure": "HB 5031",
+ "measure_id": "HB5031",
+ "subject": "or_legislature/2025R1/HB5031",
+ "title": "Appropriates moneys from the General Fund to the Oregon Public Defense Commission for certain biennial expenses.",
+ "outcome": "law",
+ "outcome_label": "Became law",
+ "headline": "HB 5031 became law",
+ "claims": [
+  {
+   "text": "HB 5031 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613954
+   ]
+  },
+  {
+   "text": "The Governor signed HB 5031 into law on July 24, 2025.",
+   "row_ids": [
+    661860
+   ]
+  },
+  {
+   "text": "Each of the 22 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613954,
+    617449,
+    652662,
+    628909,
+    629290,
+    629644,
+    629979,
+    652664,
+    652663,
+    654417,
+    654765,
+    655192,
+    655729,
+    656009,
+    656065,
+    656283,
+    656416,
+    656750,
+    657284,
+    657321,
+    661860,
+    662172
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613954
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613954
+   ]
+  },
+  {
+   "date": "2025-01-18",
+   "when": "January 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Assigned to a House subcommittee",
+   "rule_id": "assigned_subcommittee",
+   "row_ids": [
+    652662
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629979
+   ]
+  },
+  {
+   "date": "2025-06-09",
+   "when": "June 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    652664
+   ]
+  },
+  {
+   "date": "2025-06-09",
+   "when": "June 9, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Returned to the full House committee",
+   "rule_id": "returned_full_committee",
+   "row_ids": [
+    652663
+   ]
+  },
+  {
+   "date": "2025-06-13",
+   "when": "June 13, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    654417
+   ]
+  },
+  {
+   "date": "2025-06-16",
+   "when": "June 16, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    654765
+   ]
+  },
+  {
+   "date": "2025-06-17",
+   "when": "June 17, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    655192
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "when": "June 18, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    655729
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "when": "June 18, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    655729
+   ]
+  },
+  {
+   "date": "2025-06-19",
+   "when": "June 19, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Arrived in the Senate",
+   "rule_id": "first_reading",
+   "row_ids": [
+    656009
+   ]
+  },
+  {
+   "date": "2025-06-19",
+   "when": "June 19, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    656009
+   ]
+  },
+  {
+   "date": "2025-06-20",
+   "when": "June 20, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    656283
+   ]
+  },
+  {
+   "date": "2025-06-20",
+   "when": "June 20, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    656416
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    656750
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    656750
+   ]
+  },
+  {
+   "date": "2025-06-24",
+   "when": "June 24, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    657284
+   ]
+  },
+  {
+   "date": "2025-06-24",
+   "when": "June 24, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    657321
+   ]
+  },
+  {
+   "date": "2025-07-24",
+   "when": "July 24, 2025",
+   "chamber": "H",
+   "state": "enacted",
+   "text": "Signed into law by the Governor",
+   "rule_id": "governor_signed",
+   "row_ids": [
+    661860
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-08-13",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 5031&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB5031",
+ "row_count": 22,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6048,
+  "finding_hash": "1fd3bed6acb6a2e4e63ddb51df152c6bc242f48a7a64b3c57c76613ea66d56dd",
+  "evidence_digest": "sha256:6acd00c5589e0786b3acc38e2ffce95d90333e3ee7fa3aaa2b6625164792a22a",
+  "gate_id": "c2286d75e3814f0b96c7d59ba034c723",
+  "gate_seq": 6049
+ }
+}

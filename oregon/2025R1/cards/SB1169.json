@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1169",
+ "measure_id": "SB1169",
+ "subject": "or_legislature/2025R1/SB1169",
+ "title": "Expands eligibility for pre-plea conditional discharge to all offenses except Ballot Measure 11 (1994) crimes and driving under the influence of intoxicants.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1169 did not pass",
+ "claims": [
+  {
+   "text": "SB 1169 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624879
+   ]
+  },
+  {
+   "text": "SB 1169 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659561
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624879,
+    625791,
+    629590,
+    659561
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624879
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624879
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629590
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659561
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1169&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1169",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9615,
+  "finding_hash": "34b63b9f083e31ed1d6a5b7d1deab448cd7cc692e4c72252abb876879f1d1c9a",
+  "evidence_digest": "sha256:5469915fb1b5329fd2fcb036040ed67bb25cf424022b678a791c6a120756215e",
+  "gate_id": "ebcf734429d344139b933c9d5d14f059",
+  "gate_seq": 9616
+ }
+}

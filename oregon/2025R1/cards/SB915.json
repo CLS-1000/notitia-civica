@@ -1,0 +1,111 @@
+{
+ "session": "2025R1",
+ "measure": "SB 915",
+ "measure_id": "SB915",
+ "subject": "or_legislature/2025R1/SB915",
+ "title": "Directs the Director of Human Services to ensure that standards and procedures for the assessment and investigation of reports of child abuse committed by certain persons are investigated by a department program that specializes in training, investigations and safety.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 915 did not pass",
+ "claims": [
+  {
+   "text": "SB 915 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618691
+   ]
+  },
+  {
+   "text": "SB 915 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659410
+   ]
+  },
+  {
+   "text": "Each of the 9 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618691,
+    618862,
+    627687,
+    632373,
+    635239,
+    639601,
+    641829,
+    641830,
+    659410
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618691
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618691
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627687
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632373
+   ]
+  },
+  {
+   "date": "2025-04-18",
+   "when": "April 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641829
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 915&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB915",
+ "row_count": 9,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8853,
+  "finding_hash": "9677febbdc7d1a5813aea81ea386d3c7c736585b8c02a937f7cba3316628efec",
+  "evidence_digest": "sha256:941732d4e99faad4da18671bf283709004e9be58f3571f41b91106d978124568",
+  "gate_id": "c4edf7c3a2be4b1080fda37ca7c7a138",
+  "gate_seq": 8854
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 496",
+ "measure_id": "SB496",
+ "subject": "or_legislature/2025R1/SB496",
+ "title": "Repeals limits on the increases to residential rent that a landlord may charge.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 496 did not pass",
+ "claims": [
+  {
+   "text": "SB 496 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615801
+   ]
+  },
+  {
+   "text": "SB 496 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659333
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615801,
+    618068,
+    659333
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615801
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615801
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 496&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB496",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7596,
+  "finding_hash": "5a169ff5ad472f44912b0a19f48750a59dbea64eae42837364aec517ed645562",
+  "evidence_digest": "sha256:2298d721e0a48d8af7d583d3e3da41bf5ddb51db713d70191fd24447b89027d2",
+  "gate_id": "6b362cc9cf1b47fabd11d58a4a172576",
+  "gate_seq": 7597
+ }
+}

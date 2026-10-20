@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3135",
+ "measure_id": "HB3135",
+ "subject": "or_legislature/2025R1/HB3135",
+ "title": "Appropriates moneys to the Oregon Department of Administrative Services to award grants to soil and water conservation districts that operate in certain counties.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3135 did not pass",
+ "claims": [
+  {
+   "text": "HB 3135 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615099
+   ]
+  },
+  {
+   "text": "HB 3135 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660024
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615099,
+    617308,
+    623314,
+    638038,
+    639614,
+    639615,
+    660024
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615099
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615099
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "when": "February 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623314
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638038
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639614
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3135&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3135",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3402,
+  "finding_hash": "fc2e02731f1f1ca210ab2be739b962348eb8397846242bc3b5ccd74387ae45b1",
+  "evidence_digest": "sha256:b317343a9b758c1eaa509909d18cc4f0188a6adcf20795d42e520fad3a183c83",
+  "gate_id": "5f9bb81e9d8f4f9da1e9d7a357f3fd19",
+  "gate_seq": 3403
+ }
+}

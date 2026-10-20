@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 427",
+ "measure_id": "SB427",
+ "subject": "or_legislature/2025R1/SB427",
+ "title": "Prohibits certain proposed changes related to the appropriation or use of water that will result in the diminishment of streamflow.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 427 did not pass",
+ "claims": [
+  {
+   "text": "SB 427 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615732
+   ]
+  },
+  {
+   "text": "SB 427 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659060
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615732,
+    617999,
+    624519,
+    639129,
+    640457,
+    640458,
+    659060
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615732
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615732
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624519
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639129
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    640457
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 427&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB427",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7389,
+  "finding_hash": "7aefc01b00a1686073e6407e6078c2e27e5c4f221063228c035d2808be9a7559",
+  "evidence_digest": "sha256:b711fc618c4591ff71fdb140d207dbf76cc8ce3ddb7088193ad617f7582a5531",
+  "gate_id": "7cc56d81b9554e9e802fcf58e478f247",
+  "gate_seq": 7390
+ }
+}

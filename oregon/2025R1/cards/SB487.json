@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 487",
+ "measure_id": "SB487",
+ "subject": "or_legislature/2025R1/SB487",
+ "title": "Repeals the corporate activity tax.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 487 did not pass",
+ "claims": [
+  {
+   "text": "SB 487 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615792
+   ]
+  },
+  {
+   "text": "SB 487 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659325
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615792,
+    618059,
+    659325
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615792
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615792
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 487&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB487",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7569,
+  "finding_hash": "d30d4e05c9341a3fb5c1154df948227c2dbf603cce6565d26ad55116dfd73717",
+  "evidence_digest": "sha256:4a2b687c2a7a10ea8f5f6f6ed1ccb3f8fd72e9044e764688edcd814b8712d73e",
+  "gate_id": "f56154f0a56a46f0ba0d32874585ce66",
+  "gate_seq": 7570
+ }
+}

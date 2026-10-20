@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 762",
+ "measure_id": "SB762",
+ "subject": "or_legislature/2025R1/SB762",
+ "title": "Repeals the corporate activity tax.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 762 did not pass",
+ "claims": [
+  {
+   "text": "SB 762 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616066
+   ]
+  },
+  {
+   "text": "SB 762 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659167
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616066,
+    618333,
+    659167
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616066
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616066
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 762&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB762",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8394,
+  "finding_hash": "77da1a2645365d6059e142d138582f7fdd1d6fa8a573f6f82795c3c871adb46f",
+  "evidence_digest": "sha256:e11432a905debceae560b91368373c67b198017d8150f6ef845f14bbf6d44d16",
+  "gate_id": "7519a7c4835d4a659579a39dba3cfdcd",
+  "gate_seq": 8395
+ }
+}

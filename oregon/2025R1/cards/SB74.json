@@ -1,0 +1,277 @@
+{
+ "session": "2025R1",
+ "measure": "SB 74",
+ "measure_id": "SB74",
+ "subject": "or_legislature/2025R1/SB74",
+ "title": "Authorizes the Department of State Lands to find in a navigability determination draft report that the state's interest in the waterway extends to the current submerged and submersible lands within the waterway.",
+ "outcome": "law",
+ "outcome_label": "Became law",
+ "headline": "SB 74 became law",
+ "claims": [
+  {
+   "text": "SB 74 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615379
+   ]
+  },
+  {
+   "text": "The Governor signed SB 74 into law on May 27, 2025.",
+   "row_ids": [
+    649878
+   ]
+  },
+  {
+   "text": "Each of the 21 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615379,
+    617646,
+    628369,
+    635795,
+    639135,
+    641439,
+    641552,
+    641991,
+    642279,
+    642389,
+    642636,
+    643071,
+    646061,
+    647034,
+    647318,
+    647865,
+    648542,
+    648720,
+    649878,
+    652501,
+    652526
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615379
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615379
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628369
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639135
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641439
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    641552
+   ]
+  },
+  {
+   "date": "2025-04-22",
+   "when": "April 22, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    642279
+   ]
+  },
+  {
+   "date": "2025-04-22",
+   "when": "April 22, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    642279
+   ]
+  },
+  {
+   "date": "2025-04-22",
+   "when": "April 22, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Arrived in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    642389
+   ]
+  },
+  {
+   "date": "2025-04-22",
+   "when": "April 22, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    642389
+   ]
+  },
+  {
+   "date": "2025-04-28",
+   "when": "April 28, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    643071
+   ]
+  },
+  {
+   "date": "2025-05-12",
+   "when": "May 12, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    646061
+   ]
+  },
+  {
+   "date": "2025-05-14",
+   "when": "May 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    647034
+   ]
+  },
+  {
+   "date": "2025-05-15",
+   "when": "May 15, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    647318
+   ]
+  },
+  {
+   "date": "2025-05-19",
+   "when": "May 19, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    647865
+   ]
+  },
+  {
+   "date": "2025-05-19",
+   "when": "May 19, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    647865
+   ]
+  },
+  {
+   "date": "2025-05-20",
+   "when": "May 20, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    648542
+   ]
+  },
+  {
+   "date": "2025-05-21",
+   "when": "May 21, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    648720
+   ]
+  },
+  {
+   "date": "2025-05-27",
+   "when": "May 27, 2025",
+   "chamber": "S",
+   "state": "enacted",
+   "text": "Signed into law by the Governor",
+   "rule_id": "governor_signed",
+   "row_ids": [
+    649878
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-06",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 74&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB74",
+ "row_count": 21,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6330,
+  "finding_hash": "49b7b2390064c9a6e931a2d6c9d627fdf0bd68bf928c4327f7831cf474920031",
+  "evidence_digest": "sha256:b0cfac78ddc674992ef832ae83a3a29087ccac24787e3e6f557770efb796de7e",
+  "gate_id": "a0def1535f084725bddf1b4af6f8a73d",
+  "gate_seq": 6331
+ }
+}

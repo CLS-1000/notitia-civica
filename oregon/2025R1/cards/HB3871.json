@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3871",
+ "measure_id": "HB3871",
+ "subject": "or_legislature/2025R1/HB3871",
+ "title": "Establishes the Animal Welfare Trust to provide grants to entities that provide veterinary support services related to animals in low-income households or underserved communities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3871 did not pass",
+ "claims": [
+  {
+   "text": "HB 3871 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625047
+   ]
+  },
+  {
+   "text": "HB 3871 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661077
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625047,
+    626456,
+    628918,
+    636198,
+    638150,
+    638151,
+    661077
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625047
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625047
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628918
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636198
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638150
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3871&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3871",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5610,
+  "finding_hash": "9c973de90887a85242ad81a3b7db681602f82cb8851fecd6c51bad2c4d4c8967",
+  "evidence_digest": "sha256:14a5690145b5ffdf9107b2d1458ac54f444c0ac6cb29e669eac79457307a40b5",
+  "gate_id": "ebe6e2efc9e8491c878303941682365b",
+  "gate_seq": 5611
+ }
+}

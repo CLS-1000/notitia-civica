@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3434",
+ "measure_id": "HB3434",
+ "subject": "or_legislature/2025R1/HB3434",
+ "title": "Provides that an individual otherwise eligible for unemployment insurance benefits is not disqualified for any week that the individual's unemployment is due to a labor dispute in active progress at the individual's place of employment.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3434 did not pass",
+ "claims": [
+  {
+   "text": "HB 3434 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619485
+   ]
+  },
+  {
+   "text": "HB 3434 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661309
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619485,
+    619857,
+    661309
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619485
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619485
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3434&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3434",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4299,
+  "finding_hash": "386a012b3339f89ae8a3a7e7cd8268554d8dce45f2520ffa9c8186cb6ad472f9",
+  "evidence_digest": "sha256:94c31fbb97baf2b88a1b8d15fdc8bf7417e9ac576494e7fbf2ef03b75e559c56",
+  "gate_id": "eb4b4e7a1bde4c5cb28bba9b087f4ccc",
+  "gate_seq": 4300
+ }
+}

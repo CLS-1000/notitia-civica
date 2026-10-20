@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 344",
+ "measure_id": "SB344",
+ "subject": "or_legislature/2025R1/SB344",
+ "title": "Directs the Department of Environmental Quality to notify the Attorney General if the air quality index readings for an area of the state reach 250 or higher during seven consecutive days and the cause is believed to be a wildfire originating on lands owned by the United States.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 344 did not pass",
+ "claims": [
+  {
+   "text": "SB 344 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615649
+   ]
+  },
+  {
+   "text": "SB 344 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658731
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615649,
+    617916,
+    658731
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615649
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615649
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 344&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB344",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7140,
+  "finding_hash": "b0851a0b68534f9171ab9d721bd871b5f8d65ff1cde647daf5c4ea90e13b4ac5",
+  "evidence_digest": "sha256:dbe6ad968a990ae557c3855e7de998218ef5e267be1f20db6544e90f4dfe2957",
+  "gate_id": "eaf2f919934e43bc8d400e2975f4eb32",
+  "gate_seq": 7141
+ }
+}

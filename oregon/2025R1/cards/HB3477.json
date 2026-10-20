@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3477",
+ "measure_id": "HB3477",
+ "subject": "or_legislature/2025R1/HB3477",
+ "title": "Modifies state greenhouse gas emissions reduction goals.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3477 did not pass",
+ "claims": [
+  {
+   "text": "HB 3477 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620350
+   ]
+  },
+  {
+   "text": "HB 3477 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661412
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620350,
+    621023,
+    627707,
+    661412
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620350
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620350
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627707
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661412
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3477&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3477",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4428,
+  "finding_hash": "0c51f991a939fe9645df3ca651b3e4ec5414453b5a959583e52349e61c65323d",
+  "evidence_digest": "sha256:0129eed407e44150b1d2346f9627ad9c5908b2a4b041090c4855ac2b7024076f",
+  "gate_id": "783bbcbaf3d4465dba30f4d25c3729d7",
+  "gate_seq": 4429
+ }
+}

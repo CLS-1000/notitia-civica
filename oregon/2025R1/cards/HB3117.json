@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3117",
+ "measure_id": "HB3117",
+ "subject": "or_legislature/2025R1/HB3117",
+ "title": "Directs the State Forestry Department to study funding for preventing, responding to and recovering from natural disasters.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3117 did not pass",
+ "claims": [
+  {
+   "text": "HB 3117 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615081
+   ]
+  },
+  {
+   "text": "HB 3117 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660007
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615081,
+    617290,
+    660007
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615081
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615081
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3117&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3117",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3348,
+  "finding_hash": "06aae9fa80211bb418e3eb1176e008a317d72c4dab4d71fcd17b81b720a97139",
+  "evidence_digest": "sha256:a81cd132ede1267d48a15729dcc9ce6befc463efd0d010b25c9ec29ed89feeb3",
+  "gate_id": "7c3dd35d6b88454db636858cb9fe6498",
+  "gate_seq": 3349
+ }
+}

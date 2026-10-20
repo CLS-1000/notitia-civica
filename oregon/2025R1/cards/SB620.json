@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 620",
+ "measure_id": "SB620",
+ "subject": "or_legislature/2025R1/SB620",
+ "title": "Requires the Attorney General to report annually to the interim committees of the Legislative Assembly related to the judiciary on settlement agreements entered into by the Department of Justice that require the state to pay over $4 million.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 620 did not pass",
+ "claims": [
+  {
+   "text": "SB 620 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615925
+   ]
+  },
+  {
+   "text": "SB 620 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658807
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615925,
+    618192,
+    658807
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615925
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615925
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 620&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB620",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7968,
+  "finding_hash": "a63ef1eaafb7c2b4574c0f5a4c87d9535e564e6505e5ed30b92939624ea0c0d2",
+  "evidence_digest": "sha256:0df3a9ffdb6002d951b29d46420e985b402c06ff1c0e8525d42ba50707ae7976",
+  "gate_id": "c18ecc02e5884c259155307c62a6e02a",
+  "gate_seq": 7969
+ }
+}

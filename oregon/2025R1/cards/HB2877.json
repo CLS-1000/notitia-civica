@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2877",
+ "measure_id": "HB2877",
+ "subject": "or_legislature/2025R1/HB2877",
+ "title": "Directs the Department of Veterans' Affairs to develop and implement one or more pilot programs statewide to provide training, job placement services, financial assistance, technical support and business creation assistance to veterans in the construction and construction materials industries.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2877 did not pass",
+ "claims": [
+  {
+   "text": "HB 2877 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614841
+   ]
+  },
+  {
+   "text": "HB 2877 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661186
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614841,
+    617050,
+    661186
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614841
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614841
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2877&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2877",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2628,
+  "finding_hash": "5c8e1586d673cb05ab84aa490e7c056034ca90d3f876e3f889f45a7b5ca83023",
+  "evidence_digest": "sha256:e04b627824c83b694f3faac3e8bf14498ad8f8bb7591e0394c4254334c5173a8",
+  "gate_id": "19e95d0db8f9463197660e6fdf662031",
+  "gate_seq": 2629
+ }
+}

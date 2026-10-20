@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3559",
+ "measure_id": "HB3559",
+ "subject": "or_legislature/2025R1/HB3559",
+ "title": "Prohibits distributing, selling, attempting to sell or allowing to be sold inhalant delivery systems in this state unless the inhalant delivery systems are listed in a directory maintained by the Attorney General.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3559 did not pass",
+ "claims": [
+  {
+   "text": "HB 3559 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622894
+   ]
+  },
+  {
+   "text": "HB 3559 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660652
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622894,
+    623449,
+    660652
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622894
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622894
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3559&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3559",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4674,
+  "finding_hash": "bf44b7db440679180bfac20f2091476d58f5150e1aa6de88d6bbf39f578c210b",
+  "evidence_digest": "sha256:aa7b87c5c5cfd90fb423bf92f6089a71474509c7c014038b021b8fe27b74abb9",
+  "gate_id": "3b6d09f713334ea4b17617e86d24e215",
+  "gate_seq": 4675
+ }
+}

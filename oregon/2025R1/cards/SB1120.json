@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1120",
+ "measure_id": "SB1120",
+ "subject": "or_legislature/2025R1/SB1120",
+ "title": "Requires the Department of Corrections to implement a list of policies for adults in custody, including policies related to gender-responsive, evidence-based and trauma-informed practices at the Coffee Creek Correctional Facility.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1120 did not pass",
+ "claims": [
+  {
+   "text": "SB 1120 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624830
+   ]
+  },
+  {
+   "text": "SB 1120 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659221
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624830,
+    625742,
+    630314,
+    636694,
+    639640,
+    639641,
+    659221
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624830
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624830
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    630314
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636694
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639640
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1120&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1120",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9468,
+  "finding_hash": "c66ef222b00edc4e81f4d68d951d4d8936ff250ac5edffb903d1b2049629660f",
+  "evidence_digest": "sha256:0208c9564d29a9a6a085df3ddcc89688e1ec08ea227020f245246c3ff7e6985b",
+  "gate_id": "00a8a9ea9afc402e9f0bf21543fc1f29",
+  "gate_seq": 9469
+ }
+}

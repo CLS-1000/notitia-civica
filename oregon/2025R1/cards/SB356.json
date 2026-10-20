@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 356",
+ "measure_id": "SB356",
+ "subject": "or_legislature/2025R1/SB356",
+ "title": "Appropriates moneys to the Invasive Species Council, out of the General Fund, for certain purposes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 356 did not pass",
+ "claims": [
+  {
+   "text": "SB 356 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615661
+   ]
+  },
+  {
+   "text": "SB 356 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658742
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615661,
+    617928,
+    658742
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615661
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615661
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 356&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB356",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7176,
+  "finding_hash": "079b19e692bcd3b684be84fa11888e232b3e37936c5cdd8904ed341732e9046c",
+  "evidence_digest": "sha256:087b75830f962ba683eeb126cf70892ec95c3251ec87a8548d60ba1b467ed055",
+  "gate_id": "d162d086983c44cc965fb012b5267ba7",
+  "gate_seq": 7177
+ }
+}

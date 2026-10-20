@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1149",
+ "measure_id": "SB1149",
+ "subject": "or_legislature/2025R1/SB1149",
+ "title": "Requires the Department of Consumer and Business Services to study insurance for rural electric cooperatives.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1149 did not pass",
+ "claims": [
+  {
+   "text": "SB 1149 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624859
+   ]
+  },
+  {
+   "text": "SB 1149 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659243
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624859,
+    625771,
+    659243
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624859
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624859
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1149&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1149",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9555,
+  "finding_hash": "96162aa330df5542ac320029dbc48c561a4954b1198e0261d6e00957d8f1d583",
+  "evidence_digest": "sha256:592a48971901eb985ccff208c63787f3520678a5ece660751bb66429035934e4",
+  "gate_id": "800657ff65d74d769ff6790e0383cc3c",
+  "gate_seq": 9556
+ }
+}

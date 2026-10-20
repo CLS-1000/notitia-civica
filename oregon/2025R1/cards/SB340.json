@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 340",
+ "measure_id": "SB340",
+ "subject": "or_legislature/2025R1/SB340",
+ "title": "Prohibits an insurer from canceling fire insurance policies, or raising policy premiums by more than three percent, if an insured's property is located within the wildland-urban interface or the insured's primary employment or economic or business activity is farming or resource extraction.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 340 did not pass",
+ "claims": [
+  {
+   "text": "SB 340 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615645
+   ]
+  },
+  {
+   "text": "SB 340 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658727
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615645,
+    617912,
+    658727
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615645
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615645
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 340&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB340",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7128,
+  "finding_hash": "3c7b120702ecd5599529d08b98a6751c5bc9fa5a7c56f09f292614d68a766eda",
+  "evidence_digest": "sha256:ca0b000680a3924543ac41c9e928c881c9909b947e97eefd6d3906d9c9e6e2b6",
+  "gate_id": "9209868dbd2d454f9bc395f58574431a",
+  "gate_seq": 7129
+ }
+}

@@ -1,0 +1,190 @@
+{
+ "session": "2025R1",
+ "measure": "SB 385",
+ "measure_id": "SB385",
+ "subject": "or_legislature/2025R1/SB385",
+ "title": "Modifies the offense of making a false report of child abuse.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 385 did not pass",
+ "claims": [
+  {
+   "text": "SB 385 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615690
+   ]
+  },
+  {
+   "text": "SB 385 passed the Senate but did not pass the House. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659986
+   ]
+  },
+  {
+   "text": "Each of the 11 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615690,
+    617957,
+    620578,
+    627556,
+    628744,
+    628976,
+    629378,
+    629430,
+    629553,
+    645806,
+    659986
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615690
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615690
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620578
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    627556
+   ]
+  },
+  {
+   "date": "2025-03-14",
+   "when": "March 14, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    628744
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    628976
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    629378
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    629378
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Arrived in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    629430
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    629430
+   ]
+  },
+  {
+   "date": "2025-05-08",
+   "when": "May 8, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    645806
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659986
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 385&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB385",
+ "row_count": 11,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7263,
+  "finding_hash": "4d20e9668717acb52fd962df8d65b0e00e663c071e3112425392b1158426fc1e",
+  "evidence_digest": "sha256:1afc547f5b16285e96f4ab191d8ec1e97398e484acb1a75d596e269c7ee61f52",
+  "gate_id": "03e08f530c344d7a842a287667ff2a19",
+  "gate_seq": 7264
+ }
+}

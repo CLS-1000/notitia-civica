@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3966",
+ "measure_id": "HB3966",
+ "subject": "or_legislature/2025R1/HB3966",
+ "title": "Requires a solar energy contractor or person that installs a solar energy system to have a license appropriate for the scope of work the solar energy contractor or person will perform.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3966 did not pass",
+ "claims": [
+  {
+   "text": "HB 3966 was introduced in the House on April 17, 2025.",
+   "row_ids": [
+    641548
+   ]
+  },
+  {
+   "text": "HB 3966 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661294
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    641548,
+    642635,
+    661294
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    641548
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    641548
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3966&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3966",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5895,
+  "finding_hash": "5279f4a88efb0093e35e17f651950a0ec96c8a290e4ff6fad2796966da649435",
+  "evidence_digest": "sha256:f4c93eefd4de67511f670ec64abafc34502cd7158233aa20e91cf733cbf112f5",
+  "gate_id": "edc1aaef690e4ad7b1e10f9b1307a267",
+  "gate_seq": 5896
+ }
+}

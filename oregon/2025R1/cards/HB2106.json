@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2106",
+ "measure_id": "HB2106",
+ "subject": "or_legislature/2025R1/HB2106",
+ "title": "Requires the Attorney General to adopt and maintain a list of foreign adversaries who are ineligible to receive conveyances of certain land, mineral or water interests.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2106 did not pass",
+ "claims": [
+  {
+   "text": "HB 2106 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614070
+   ]
+  },
+  {
+   "text": "HB 2106 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661261
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614070,
+    616279,
+    661261
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614070
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614070
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2106&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2106",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 315,
+  "finding_hash": "ea4bde31cfa188e1c9bdf00c6f307d903163513d1c0f7b7142041467814de95b",
+  "evidence_digest": "sha256:4bee343bfabcad45dde9ccc2d9bfcff564fe74131c4558485a2cb4a02e9949c9",
+  "gate_id": "973f038168e74dda959152653a02399d",
+  "gate_seq": 316
+ }
+}

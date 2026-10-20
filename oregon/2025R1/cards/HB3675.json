@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3675",
+ "measure_id": "HB3675",
+ "subject": "or_legislature/2025R1/HB3675",
+ "title": "Requires the Oregon Health Authority to study staffing plans for hospitals.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3675 did not pass",
+ "claims": [
+  {
+   "text": "HB 3675 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624359
+   ]
+  },
+  {
+   "text": "HB 3675 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660425
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624359,
+    625220,
+    660425
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624359
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624359
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3675&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3675",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5022,
+  "finding_hash": "5d9a7c7d4b54cd91b96e9530b51053637277404f3aa376f99f63daa726269b98",
+  "evidence_digest": "sha256:64bbef46967de3c1e97bb2732d73b09a16105f378ff3b9afb7f4087066b209a3",
+  "gate_id": "4b6f614344e24772870d0cc87392f150",
+  "gate_seq": 5023
+ }
+}

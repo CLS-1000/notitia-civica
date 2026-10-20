@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 642",
+ "measure_id": "SB642",
+ "subject": "or_legislature/2025R1/SB642",
+ "title": "Appropriates moneys to the Department of State Police for the purpose of reducing the backlog of untested sexual assault forensic evidence kits.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 642 did not pass",
+ "claims": [
+  {
+   "text": "SB 642 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615947
+   ]
+  },
+  {
+   "text": "SB 642 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658836
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615947,
+    618214,
+    658836
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615947
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615947
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 642&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB642",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8034,
+  "finding_hash": "42874dcc87c54c063c537298c5253d8be5164fa59febb075ff61e105bcf37c54",
+  "evidence_digest": "sha256:1173374a226bb7b0a75905e0e62d27116785cf0c14489e6ed58036c96d1b8d48",
+  "gate_id": "b333977a056c48eab2ae272daa4e24d8",
+  "gate_seq": 8035
+ }
+}

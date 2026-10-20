@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1035",
+ "measure_id": "SB1035",
+ "subject": "or_legislature/2025R1/SB1035",
+ "title": "Directs the Oregon Department of Emergency Management to procure and maintain vehicles for purposes related to fuel and personnel needs at certain airports.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1035 did not pass",
+ "claims": [
+  {
+   "text": "SB 1035 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623045
+   ]
+  },
+  {
+   "text": "SB 1035 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659440
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623045,
+    623117,
+    628307,
+    635618,
+    638395,
+    638396,
+    659440
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623045
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623045
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628307
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    635618
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638395
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1035&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1035",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9213,
+  "finding_hash": "441717438de24a1f260eeffb211b1bdedbcb62e80601bfb81341142a57cb86c9",
+  "evidence_digest": "sha256:668dd6ea0b0ab097f02510a2c08c4322fbc43b0df700bffe439af5735c8757bf",
+  "gate_id": "b8d010755fa44f9caaffd789da4c0abb",
+  "gate_seq": 9214
+ }
+}

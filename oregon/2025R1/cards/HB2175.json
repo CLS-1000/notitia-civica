@@ -1,0 +1,132 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2175",
+ "measure_id": "HB2175",
+ "subject": "or_legislature/2025R1/HB2175",
+ "title": "Creates the crime of possessing, purchasing, making, delivering or selling a pill press or similar equipment.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2175 did not pass",
+ "claims": [
+  {
+   "text": "HB 2175 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614139
+   ]
+  },
+  {
+   "text": "HB 2175 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660222
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614139,
+    616348,
+    638637,
+    639041,
+    640824,
+    640825,
+    650311,
+    660222
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614139
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614139
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    638637
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639041
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    640824
+   ]
+  },
+  {
+   "date": "2025-05-28",
+   "when": "May 28, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    650311
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660222
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2175&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2175",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 522,
+  "finding_hash": "d48390850e5b2afd318aeab2e892a51b6ca5692a21d668d70866d8554d3523f5",
+  "evidence_digest": "sha256:6e7665c4bb88922e4625685676c76fda89a563a0d9d57e0eaf5cbc15fcb8b1ba",
+  "gate_id": "e6923bdc682c4852b633785e97e411e4",
+  "gate_seq": 523
+ }
+}

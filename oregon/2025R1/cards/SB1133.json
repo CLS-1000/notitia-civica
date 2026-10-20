@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1133",
+ "measure_id": "SB1133",
+ "subject": "or_legislature/2025R1/SB1133",
+ "title": "Allows counties to approve the alteration, restoration or replacement of certain nonresidential structures on rural residential lands for use as an accessory dwelling unit.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1133 did not pass",
+ "claims": [
+  {
+   "text": "SB 1133 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624843
+   ]
+  },
+  {
+   "text": "SB 1133 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659229
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624843,
+    625755,
+    659229
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624843
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624843
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1133&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1133",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9507,
+  "finding_hash": "69f948d450f0951c1f2b020d3adc36d41eb2b28ea79ecd73b7b2f85de96bef0f",
+  "evidence_digest": "sha256:cda295a655d1df3f97b46c5a987d5a1e03b8a4d10367859d7fb0a73158fa6f70",
+  "gate_id": "4e0846efb5c142d289795abdbf9f154c",
+  "gate_seq": 9508
+ }
+}

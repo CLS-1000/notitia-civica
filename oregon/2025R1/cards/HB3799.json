@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3799",
+ "measure_id": "HB3799",
+ "subject": "or_legislature/2025R1/HB3799",
+ "title": "Creates a method by which a health care practitioner may offer to treat a patient who has a terminal disease or severe chronic disease with an investigational product not approved by the United States Food and Drug Administration.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3799 did not pass",
+ "claims": [
+  {
+   "text": "HB 3799 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624975
+   ]
+  },
+  {
+   "text": "HB 3799 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661365
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624975,
+    626384,
+    633987,
+    661365
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624975
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624975
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633987
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661365
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3799&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3799",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5394,
+  "finding_hash": "6611ee5450eead42412e8166c05c6a0b04d0e3e18b8c1e35c41bc0c442958449",
+  "evidence_digest": "sha256:ffcec9efd5bd22a2882f5217c0523ab66387df67cf583bc7e607bb2f3036e830",
+  "gate_id": "28c612dee20c4ddc89913ae3eb66e8de",
+  "gate_seq": 5395
+ }
+}

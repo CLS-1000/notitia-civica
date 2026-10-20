@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3680",
+ "measure_id": "HB3680",
+ "subject": "or_legislature/2025R1/HB3680",
+ "title": "Increases fees related to livestock brands.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3680 did not pass",
+ "claims": [
+  {
+   "text": "HB 3680 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624364
+   ]
+  },
+  {
+   "text": "HB 3680 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660430
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624364,
+    625225,
+    660430
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624364
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624364
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3680&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3680",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5037,
+  "finding_hash": "9cef8dee2a6813f1095df154680560c6bd1651505ae3dbd1c5dd6ed65133d4b8",
+  "evidence_digest": "sha256:0f1ebd6e6572eed3680ead091c9f753c71fc397bc8ed5f9824c80ac063dba9e6",
+  "gate_id": "2b234336571849fdb6dc11b3baf4e1f1",
+  "gate_seq": 5038
+ }
+}

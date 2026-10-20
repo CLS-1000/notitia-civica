@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3360",
+ "measure_id": "HB3360",
+ "subject": "or_legislature/2025R1/HB3360",
+ "title": "Requires that moneys from the corporate income and excise tax kicker be used for the funding of school construction and maintenance projects and infrastructure improvements.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3360 did not pass",
+ "claims": [
+  {
+   "text": "HB 3360 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619411
+   ]
+  },
+  {
+   "text": "HB 3360 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661257
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619411,
+    619783,
+    629226,
+    639577,
+    641183,
+    641184,
+    661257
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619411
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619411
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629226
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639577
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641183
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3360&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3360",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4077,
+  "finding_hash": "676c437c032e4f4c24b20d30a6a671b60215c8d5245fa6a9bfd5a32ce91ce827",
+  "evidence_digest": "sha256:81a927432c969468dd3205a3626f81b310c4d8dc2c610a0eb660e8bec4b0eb4a",
+  "gate_id": "b14395ba362c40c4ac39a4ac51122232",
+  "gate_seq": 4078
+ }
+}

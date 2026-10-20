@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 879",
+ "measure_id": "SB879",
+ "subject": "or_legislature/2025R1/SB879",
+ "title": "Modifies procedure for rebutting presumption of inability to pay child support when an obligor earns wages from work performed while the obligor is a patient at the state hospital or incarcerated.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 879 did not pass",
+ "claims": [
+  {
+   "text": "SB 879 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618655
+   ]
+  },
+  {
+   "text": "SB 879 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659295
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618655,
+    618826,
+    619388,
+    659295
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618655
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618655
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619388
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659295
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 879&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB879",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8745,
+  "finding_hash": "7c9ec134c5f23e218555e88874332b0498aba5d0eb83908e64a40b1bc87fe7df",
+  "evidence_digest": "sha256:1bec131b4b97e93b23dcf7a9cefc78f49fa9aab1de80297673c820c91874da53",
+  "gate_id": "0fdbc18063e44229800bcfabd7cf150b",
+  "gate_seq": 8746
+ }
+}

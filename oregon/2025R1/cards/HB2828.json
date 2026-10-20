@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2828",
+ "measure_id": "HB2828",
+ "subject": "or_legislature/2025R1/HB2828",
+ "title": "Requires public post-secondary institutions to grant 12 academic credits to veterans who have served two or more years on active duty.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2828 did not pass",
+ "claims": [
+  {
+   "text": "HB 2828 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614792
+   ]
+  },
+  {
+   "text": "HB 2828 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660663
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614792,
+    617001,
+    660663
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614792
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614792
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2828&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2828",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2481,
+  "finding_hash": "a7af04f52fa4a448ed7e7e9f7e3aac6c760bd2fc28d6352efb45ca9c8cff2fcc",
+  "evidence_digest": "sha256:3dea493dd9a089f8bcac7b04ffa5e4bfb4d015008c8437653da2cf4297d3479c",
+  "gate_id": "9cacdaeec9194ff18d77172197890613",
+  "gate_seq": 2482
+ }
+}

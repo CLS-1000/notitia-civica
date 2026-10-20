@@ -1,0 +1,275 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3364",
+ "measure_id": "HB3364",
+ "subject": "or_legislature/2025R1/HB3364",
+ "title": "Makes changes related to a water supply grant program.",
+ "outcome": "law",
+ "outcome_label": "Became law",
+ "headline": "HB 3364 became law",
+ "claims": [
+  {
+   "text": "HB 3364 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619415
+   ]
+  },
+  {
+   "text": "The Governor signed HB 3364 into law on May 14, 2025.",
+   "row_ids": [
+    647104
+   ]
+  },
+  {
+   "text": "Each of the 19 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619415,
+    619787,
+    623311,
+    638039,
+    639616,
+    640233,
+    641004,
+    641377,
+    641611,
+    641954,
+    642808,
+    643493,
+    644397,
+    644493,
+    644856,
+    645526,
+    645629,
+    647104,
+    652425
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619415
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619415
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "when": "February 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623311
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638039
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639616
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    640233
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    641377
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    641377
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Arrived in the Senate",
+   "rule_id": "first_reading",
+   "row_ids": [
+    641611
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    641611
+   ]
+  },
+  {
+   "date": "2025-04-24",
+   "when": "April 24, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    642808
+   ]
+  },
+  {
+   "date": "2025-04-29",
+   "when": "April 29, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    643493
+   ]
+  },
+  {
+   "date": "2025-05-05",
+   "when": "May 5, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    644397
+   ]
+  },
+  {
+   "date": "2025-05-05",
+   "when": "May 5, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    644493
+   ]
+  },
+  {
+   "date": "2025-05-06",
+   "when": "May 6, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    644856
+   ]
+  },
+  {
+   "date": "2025-05-06",
+   "when": "May 6, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    644856
+   ]
+  },
+  {
+   "date": "2025-05-08",
+   "when": "May 8, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    645526
+   ]
+  },
+  {
+   "date": "2025-05-08",
+   "when": "May 8, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    645629
+   ]
+  },
+  {
+   "date": "2025-05-14",
+   "when": "May 14, 2025",
+   "chamber": "H",
+   "state": "enacted",
+   "text": "Signed into law by the Governor",
+   "rule_id": "governor_signed",
+   "row_ids": [
+    647104
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-06",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3364&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3364",
+ "row_count": 19,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4089,
+  "finding_hash": "aa340dd4d277de4d8e86151abe82c4dd5fbfc49386416349da4523796d3893ca",
+  "evidence_digest": "sha256:c8cf9458c5e9164144032e0dd3534ff506bc967cd379285281b483d20fa29df5",
+  "gate_id": "72fcf3696a1449f7b9aae4a4a21c32ec",
+  "gate_seq": 4090
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 658",
+ "measure_id": "SB658",
+ "subject": "or_legislature/2025R1/SB658",
+ "title": "Provides that, when an interview is an element of the process of selecting a candidate for a civil service position from an eligibility list, the public employer must interview each veteran applicant who meets the qualifications for the position and shows transferable skills if the duties of the position are performed by only one person within the public employer's organization.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 658 did not pass",
+ "claims": [
+  {
+   "text": "SB 658 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615963
+   ]
+  },
+  {
+   "text": "SB 658 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658852
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615963,
+    618230,
+    623652,
+    658852
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615963
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615963
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623652
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658852
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 658&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB658",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8082,
+  "finding_hash": "9401c874bbc181b1334434bd6e026e3993251f072b084d6742d2497f7db4ae36",
+  "evidence_digest": "sha256:0615f75333c3c963f4b4d49cd76ccf333811eaebf8926b73faa8c4ede14c2dfb",
+  "gate_id": "d3f036d9df8649eca475dcfddfc2cc9b",
+  "gate_seq": 8083
+ }
+}

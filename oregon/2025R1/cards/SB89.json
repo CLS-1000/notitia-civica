@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 89",
+ "measure_id": "SB89",
+ "subject": "or_legislature/2025R1/SB89",
+ "title": "Requires the State Department of Energy to coordinate with other organizations, conduct outreach, establish a statewide navigation and support system and provide information in multiple languages, as part of the department's single resource for providing information and assistance related to available energy efficiency incentives and programs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 89 did not pass",
+ "claims": [
+  {
+   "text": "SB 89 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615394
+   ]
+  },
+  {
+   "text": "SB 89 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659151
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615394,
+    617661,
+    659151
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615394
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615394
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 89&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB89",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6375,
+  "finding_hash": "0a8cb89e26c231df928006986d9c7f91f04b7af990b17584a20470d00a1314c3",
+  "evidence_digest": "sha256:2993e32f958b3871de5e23c4550417629dc7c29a5f952cf820a7c39a0142eb76",
+  "gate_id": "a46b9edc3ce944248fde44eccf3304c3",
+  "gate_seq": 6376
+ }
+}

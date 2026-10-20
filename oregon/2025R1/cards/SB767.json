@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 767",
+ "measure_id": "SB767",
+ "subject": "or_legislature/2025R1/SB767",
+ "title": "Directs each school district board to adopt a prevention curriculum that addresses child sex trafficking.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 767 did not pass",
+ "claims": [
+  {
+   "text": "SB 767 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616071
+   ]
+  },
+  {
+   "text": "SB 767 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659172
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616071,
+    618338,
+    659172
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616071
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616071
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 767&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB767",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8409,
+  "finding_hash": "6f937430ec886a4c4a3f4bda35fdd2219a713be832ff04e70d87801781997315",
+  "evidence_digest": "sha256:ed677fecd18df21ee568bce3e9e1f9655d019d9e50b6288ab4dfb4030dd25a7e",
+  "gate_id": "3670e3f4db0c4fcebdb6b04aa507ea65",
+  "gate_seq": 8410
+ }
+}

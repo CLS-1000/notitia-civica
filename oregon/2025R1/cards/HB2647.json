@@ -1,0 +1,345 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2647",
+ "measure_id": "HB2647",
+ "subject": "or_legislature/2025R1/HB2647",
+ "title": "Establishes the process and requirements by which the City of Monmouth may amend its urban growth boundary to add up to 75 acres and to remove up to 90 acres.",
+ "outcome": "law",
+ "outcome_label": "Became law",
+ "headline": "HB 2647 became law",
+ "claims": [
+  {
+   "text": "HB 2647 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614611
+   ]
+  },
+  {
+   "text": "The Governor signed HB 2647 into law on June 17, 2025.",
+   "row_ids": [
+    655265
+   ]
+  },
+  {
+   "text": "Each of the 34 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614611,
+    616820,
+    628914,
+    629160,
+    629161,
+    634935,
+    639409,
+    641051,
+    641223,
+    641726,
+    642049,
+    642400,
+    642470,
+    642532,
+    643491,
+    644333,
+    644334,
+    645370,
+    647019,
+    648570,
+    648813,
+    649254,
+    671054,
+    649744,
+    650146,
+    650651,
+    651042,
+    651335,
+    651803,
+    652701,
+    653063,
+    653194,
+    655265,
+    661616
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614611
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614611
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    628914
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    629160
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    634935
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639409
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641051
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    641223
+   ]
+  },
+  {
+   "date": "2025-04-22",
+   "when": "April 22, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    642400
+   ]
+  },
+  {
+   "date": "2025-04-22",
+   "when": "April 22, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    642400
+   ]
+  },
+  {
+   "date": "2025-04-23",
+   "when": "April 23, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Arrived in the Senate",
+   "rule_id": "first_reading",
+   "row_ids": [
+    642470
+   ]
+  },
+  {
+   "date": "2025-04-23",
+   "when": "April 23, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    642470
+   ]
+  },
+  {
+   "date": "2025-04-29",
+   "when": "April 29, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    643491
+   ]
+  },
+  {
+   "date": "2025-05-02",
+   "when": "May 2, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    644333
+   ]
+  },
+  {
+   "date": "2025-05-07",
+   "when": "May 7, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    645370
+   ]
+  },
+  {
+   "date": "2025-05-14",
+   "when": "May 14, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    647019
+   ]
+  },
+  {
+   "date": "2025-05-20",
+   "when": "May 20, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    648570
+   ]
+  },
+  {
+   "date": "2025-05-21",
+   "when": "May 21, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    648813
+   ]
+  },
+  {
+   "date": "2025-06-04",
+   "when": "June 4, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    651803
+   ]
+  },
+  {
+   "date": "2025-06-04",
+   "when": "June 4, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    651803
+   ]
+  },
+  {
+   "date": "2025-06-09",
+   "when": "June 9, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "repassed",
+   "row_ids": [
+    652701
+   ]
+  },
+  {
+   "date": "2025-06-10",
+   "when": "June 10, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    653063
+   ]
+  },
+  {
+   "date": "2025-06-10",
+   "when": "June 10, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    653194
+   ]
+  },
+  {
+   "date": "2025-06-17",
+   "when": "June 17, 2025",
+   "chamber": "H",
+   "state": "enacted",
+   "text": "Signed into law by the Governor",
+   "rule_id": "governor_signed",
+   "row_ids": [
+    655265
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-07-07",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2647&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2647",
+ "row_count": 34,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1938,
+  "finding_hash": "6790a3197f153b75dc43a66af9b42b87aebbc3135b8e909dbed682d4830bbc30",
+  "evidence_digest": "sha256:b1ae0c047bd6528c6d4b69721057ec04076a267e3bc6310b81f9a33af086f8b3",
+  "gate_id": "a5cc68351c18425ea0e602e12cd2bedf",
+  "gate_seq": 1939
+ }
+}

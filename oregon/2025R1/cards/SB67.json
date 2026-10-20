@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 67",
+ "measure_id": "SB67",
+ "subject": "or_legislature/2025R1/SB67",
+ "title": "Requires the Employment Department to study issues related to the family and medical leave insurance program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 67 did not pass",
+ "claims": [
+  {
+   "text": "SB 67 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615372
+   ]
+  },
+  {
+   "text": "SB 67 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658609
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615372,
+    617639,
+    658609
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615372
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615372
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 67&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB67",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6309,
+  "finding_hash": "22d9cbc82d366d25a06486875dedaea0181aa1ac317101bbf5a63a79fdbe8a6c",
+  "evidence_digest": "sha256:82d63129da4d99f69592be5a75a6cf6feac10e13b46deccdb18fbc158f30242c",
+  "gate_id": "59469983768244cb9673627c5ebc4f03",
+  "gate_seq": 6310
+ }
+}

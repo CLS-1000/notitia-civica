@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2196",
+ "measure_id": "HB2196",
+ "subject": "or_legislature/2025R1/HB2196",
+ "title": "Creates the crime of harmful communication with a minor.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2196 did not pass",
+ "claims": [
+  {
+   "text": "HB 2196 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614160
+   ]
+  },
+  {
+   "text": "HB 2196 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661043
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614160,
+    616369,
+    661043
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614160
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614160
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2196&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2196",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 585,
+  "finding_hash": "3da7014135f99c6202de4a2d4e9e4fa21df55e488fa2e4a16548ea91ea4f7c47",
+  "evidence_digest": "sha256:a926d1ad50374631fad83a727256e8f85c9cb7210787c1b71d325dcf27de0fb2",
+  "gate_id": "4f2109f0d26e4df692b204eab5f7b227",
+  "gate_seq": 586
+ }
+}

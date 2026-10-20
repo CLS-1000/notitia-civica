@@ -1,0 +1,73 @@
+{
+ "session": "2025R1",
+ "measure": "SB 615",
+ "measure_id": "SB615",
+ "subject": "or_legislature/2025R1/SB615",
+ "title": "Establishes a procedure for charging an aggravated version of certain assault and attempted murder offenses when the defendant causes permanent physical injury to the victim during the commission of the crime.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 615 did not pass",
+ "claims": [
+  {
+   "text": "SB 615 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615920
+   ]
+  },
+  {
+   "text": "SB 615 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658802
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615920,
+    618187,
+    622295,
+    658802
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615920
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615920
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 615&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB615",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7953,
+  "finding_hash": "7872b09f6d80bb2f2a2bd1bd129a7359648c52bfa0a485361b91b3d573434530",
+  "evidence_digest": "sha256:04c44f0825c07d1fbd31fd5b3ba33c3aac89d708a56ca5a3d98217d65566f7f8",
+  "gate_id": "c286f2814cf0471aaac82d1343bce495",
+  "gate_seq": 7954
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 396",
+ "measure_id": "SB396",
+ "subject": "or_legislature/2025R1/SB396",
+ "title": "Requires public universities to establish a common application for undergraduate admission.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 396 did not pass",
+ "claims": [
+  {
+   "text": "SB 396 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615701
+   ]
+  },
+  {
+   "text": "SB 396 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659023
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615701,
+    617968,
+    629626,
+    659023
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615701
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615701
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629626
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659023
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 396&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB396",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7296,
+  "finding_hash": "156833fac241803d83fb83d83ff582eb20986c5a781b3fba0c012f33f22209d3",
+  "evidence_digest": "sha256:aafef283971dbc905e6d36131052d199fa989a30e2596d7e07fad6c6966a74bb",
+  "gate_id": "00612d66ba8b4e5ea15d71f4b0083c26",
+  "gate_seq": 7297
+ }
+}

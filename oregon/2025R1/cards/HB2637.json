@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2637",
+ "measure_id": "HB2637",
+ "subject": "or_legislature/2025R1/HB2637",
+ "title": "Requires the Oregon Youth Authority to study the demographics of youth receiving services from the authority.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2637 did not pass",
+ "claims": [
+  {
+   "text": "HB 2637 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614601
+   ]
+  },
+  {
+   "text": "HB 2637 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660772
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614601,
+    616810,
+    660772
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614601
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614601
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2637&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2637",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1908,
+  "finding_hash": "c79a443a1859c4efb8c01e85c187b128620149bea5a149f152da8ecbc0bc1ba5",
+  "evidence_digest": "sha256:a8f3e5a2f0e54d9e0e27b896257f7625aaeca6818025ab5e2796f93e8879c298",
+  "gate_id": "fd51172ec41942e0837963fc3310c6b4",
+  "gate_seq": 1909
+ }
+}

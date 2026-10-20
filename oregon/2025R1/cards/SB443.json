@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "SB 443",
+ "measure_id": "SB443",
+ "subject": "or_legislature/2025R1/SB443",
+ "title": "Appropriates moneys to the Higher Education Coordinating Commission for distribution to the Area Health Education Center program of Oregon Health and Science University for supporting the Oregon Academy of Family Physicians.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 443 did not pass",
+ "claims": [
+  {
+   "text": "SB 443 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615748
+   ]
+  },
+  {
+   "text": "SB 443 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659074
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615748,
+    618015,
+    631820,
+    634485,
+    638120,
+    639805,
+    639806,
+    659074
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615748
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615748
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    631820
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    634485
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639805
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 443&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB443",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7437,
+  "finding_hash": "5d2633624c7e1f561adbd0b9415eda6fd98b801bd644f726f03f10d01febdd62",
+  "evidence_digest": "sha256:7d7e70014bcd13640802f9b403b5703eae2c3895bc8c119e8b5382cc0c22ce8a",
+  "gate_id": "8772670a70254a08803261b6e10e6b70",
+  "gate_seq": 7438
+ }
+}

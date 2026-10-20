@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1064",
+ "measure_id": "SB1064",
+ "subject": "or_legislature/2025R1/SB1064",
+ "title": "Directs the Water Resources Department to consider water basins in which permitted activity will occur when issuing certain permits.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1064 did not pass",
+ "claims": [
+  {
+   "text": "SB 1064 was introduced in the Senate on February 20, 2025.",
+   "row_ids": [
+    623600
+   ]
+  },
+  {
+   "text": "SB 1064 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659199
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623600,
+    623964,
+    659199
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623600
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623600
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1064&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1064",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9300,
+  "finding_hash": "199501ad03922682a146046793e847630916dc70bac95f773498b18cd8f5fe7f",
+  "evidence_digest": "sha256:a55547a999d48f98bc01cc9d059e191b0ce4ab91997ef5079c5044254137edf9",
+  "gate_id": "945e7140332841e78f7cfd52d77d8bb2",
+  "gate_seq": 9301
+ }
+}

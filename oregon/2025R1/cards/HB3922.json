@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3922",
+ "measure_id": "HB3922",
+ "subject": "or_legislature/2025R1/HB3922",
+ "title": "Creates the crime of possessing, purchasing, making, delivering or selling a pill press or similar equipment.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3922 did not pass",
+ "claims": [
+  {
+   "text": "HB 3922 was introduced in the House on March 13, 2025.",
+   "row_ids": [
+    628249
+   ]
+  },
+  {
+   "text": "HB 3922 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659936
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    628249,
+    628728,
+    659936
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    628249
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    628249
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3922&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3922",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5763,
+  "finding_hash": "6ce7beebae5d88c58c0db0b06e2e884a5e9638b501a0987d3170055e2a373ed1",
+  "evidence_digest": "sha256:c4184fb23c5239090a88151864da1ccdfe0ce51520d38a82c1d49f5b52dd86c5",
+  "gate_id": "ef28513e8b1848ee89a63cb8073806df",
+  "gate_seq": 5764
+ }
+}

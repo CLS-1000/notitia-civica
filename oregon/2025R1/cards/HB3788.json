@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3788",
+ "measure_id": "HB3788",
+ "subject": "or_legislature/2025R1/HB3788",
+ "title": "Directs the Oregon Business Development Department to develop and administer a program to issue grants to certain hospitals near a tsunami inundation zone to enable the hospitals to store fuel and water for emergency purposes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3788 did not pass",
+ "claims": [
+  {
+   "text": "HB 3788 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624964
+   ]
+  },
+  {
+   "text": "HB 3788 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661358
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624964,
+    626373,
+    633802,
+    637405,
+    638475,
+    638476,
+    661358
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624964
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624964
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633802
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637405
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638475
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3788&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3788",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5361,
+  "finding_hash": "65407acb0b7a61fabd655745f29489e1d4975f3651a1d575550ae08e1a3b3573",
+  "evidence_digest": "sha256:d13481e34d1760f25cdfa714358a86e4f30ffa249d1f0601e631727611b985e4",
+  "gate_id": "f00f9406172d48b29d5582c867b563e8",
+  "gate_seq": 5362
+ }
+}

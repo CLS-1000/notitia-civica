@@ -1,0 +1,267 @@
+{
+ "session": "2025R1",
+ "measure": "SB 547",
+ "measure_id": "SB547",
+ "subject": "or_legislature/2025R1/SB547",
+ "title": "Designates the month of April of each year as Oregon Native Plant Appreciation Month.",
+ "outcome": "law",
+ "outcome_label": "Became law",
+ "headline": "SB 547 became law",
+ "claims": [
+  {
+   "text": "SB 547 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615852
+   ]
+  },
+  {
+   "text": "The Governor signed SB 547 into law on June 20, 2025.",
+   "row_ids": [
+    656350
+   ]
+  },
+  {
+   "text": "Each of the 22 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615852,
+    618119,
+    622131,
+    622709,
+    623075,
+    623627,
+    624495,
+    625297,
+    649978,
+    650801,
+    651262,
+    651275,
+    651975,
+    652239,
+    652848,
+    653228,
+    653555,
+    654096,
+    654218,
+    656350,
+    656703,
+    656709
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615852
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615852
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    622131
+   ]
+  },
+  {
+   "date": "2025-02-17",
+   "when": "February 17, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    622709
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    623075
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    623627
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    623627
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Arrived in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624495
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624495
+   ]
+  },
+  {
+   "date": "2025-05-28",
+   "when": "May 28, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    649978
+   ]
+  },
+  {
+   "date": "2025-05-29",
+   "when": "May 29, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    650801
+   ]
+  },
+  {
+   "date": "2025-06-03",
+   "when": "June 3, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    651262
+   ]
+  },
+  {
+   "date": "2025-06-03",
+   "when": "June 3, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    651275
+   ]
+  },
+  {
+   "date": "2025-06-11",
+   "when": "June 11, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    653555
+   ]
+  },
+  {
+   "date": "2025-06-11",
+   "when": "June 11, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    653555
+   ]
+  },
+  {
+   "date": "2025-06-12",
+   "when": "June 12, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    654096
+   ]
+  },
+  {
+   "date": "2025-06-12",
+   "when": "June 12, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    654218
+   ]
+  },
+  {
+   "date": "2025-06-20",
+   "when": "June 20, 2025",
+   "chamber": "S",
+   "state": "enacted",
+   "text": "Signed into law by the Governor",
+   "rule_id": "governor_signed",
+   "row_ids": [
+    656350
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-23",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 547&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB547",
+ "row_count": 22,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7749,
+  "finding_hash": "293dfdb02fcb276ff34a4496b488b483dfb6233ca33b86b4db248b87ccc4b85b",
+  "evidence_digest": "sha256:03520624a7ff3a2d1d51662b6b3426c00e4bd8a46714bce6d1116b54b5e79c47",
+  "gate_id": "49992f8474e0435b91c365265385cc25",
+  "gate_seq": 7750
+ }
+}

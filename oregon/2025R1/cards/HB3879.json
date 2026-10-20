@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3879",
+ "measure_id": "HB3879",
+ "subject": "or_legislature/2025R1/HB3879",
+ "title": "Directs the Governor and Legislative Assembly, in developing an outcomes-based budget, to use a process to establish the priorities of state government.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3879 did not pass",
+ "claims": [
+  {
+   "text": "HB 3879 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625055
+   ]
+  },
+  {
+   "text": "HB 3879 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661083
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625055,
+    626464,
+    661083
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625055
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625055
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3879&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3879",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5634,
+  "finding_hash": "8840aa9da8de059974c4d6ac71e6b12f7d10a58fe980d29a1d24bcab31f78e2b",
+  "evidence_digest": "sha256:48405090f4902dabdf30b1952fd13eb0119d71228ebd88d558b13c0a8a7a09f4",
+  "gate_id": "f39fb06d69b946c2a6e57fd535d25124",
+  "gate_seq": 5635
+ }
+}

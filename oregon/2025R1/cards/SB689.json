@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 689",
+ "measure_id": "SB689",
+ "subject": "or_legislature/2025R1/SB689",
+ "title": "Creates the Oregon Rail Department.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 689 did not pass",
+ "claims": [
+  {
+   "text": "SB 689 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615994
+   ]
+  },
+  {
+   "text": "SB 689 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658886
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615994,
+    618261,
+    658886
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615994
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615994
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 689&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB689",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8175,
+  "finding_hash": "c929de141d83916cb739d7181b3038d43a8791295c6d9c3dab8b12a610f37620",
+  "evidence_digest": "sha256:10a9784e351213aef9b6cf89f93de0c8d24cbbbd70835e25ed77eb0f30d26511",
+  "gate_id": "818cbd2f4b534453b2d9f8f8278e6b32",
+  "gate_seq": 8176
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3850",
+ "measure_id": "HB3850",
+ "subject": "or_legislature/2025R1/HB3850",
+ "title": "Requires the Department of Human Services to study human services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3850 did not pass",
+ "claims": [
+  {
+   "text": "HB 3850 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625026
+   ]
+  },
+  {
+   "text": "HB 3850 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661283
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625026,
+    626435,
+    661283
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625026
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625026
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3850&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3850",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5547,
+  "finding_hash": "45cab6ef0db5576f5a6288816b39d67ba7af4bd38aef427a7d1198f6253b0513",
+  "evidence_digest": "sha256:9d4d196bd9a2818997ae2e8895814455a9d33ecd2179217171616f153469b2b8",
+  "gate_id": "08bd1294cec44725a10402c3a8bde6da",
+  "gate_seq": 5548
+ }
+}

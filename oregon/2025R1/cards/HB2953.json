@@ -1,0 +1,132 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2953",
+ "measure_id": "HB2953",
+ "subject": "or_legislature/2025R1/HB2953",
+ "title": "Removes the percentage cap on the amount of moneys that are distributed from the State School Fund to school districts for students eligible for special education as a child with a disability.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2953 did not pass",
+ "claims": [
+  {
+   "text": "HB 2953 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614917
+   ]
+  },
+  {
+   "text": "HB 2953 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660336
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614917,
+    617126,
+    622802,
+    623421,
+    624077,
+    624078,
+    628958,
+    660336
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614917
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614917
+   ]
+  },
+  {
+   "date": "2025-02-17",
+   "when": "February 17, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622802
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "when": "February 19, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    623421
+   ]
+  },
+  {
+   "date": "2025-02-24",
+   "when": "February 24, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    624077
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628958
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660336
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2953&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2953",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2856,
+  "finding_hash": "1b7d1d97d6865be4b6bfa5686c2b5d209f3f92f72ecd24e77b429bc21705628d",
+  "evidence_digest": "sha256:eded73a772e3d246d1e86eab4db2dca234b82f97969213648496a0b5ea84968d",
+  "gate_id": "ebcb62ad5aa04f83a8900d8cda59ee9c",
+  "gate_seq": 2857
+ }
+}

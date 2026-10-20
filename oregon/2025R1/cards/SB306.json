@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 306",
+ "measure_id": "SB306",
+ "subject": "or_legislature/2025R1/SB306",
+ "title": "Requires the Higher Education Coordinating Commission to study higher education.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 306 did not pass",
+ "claims": [
+  {
+   "text": "SB 306 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615611
+   ]
+  },
+  {
+   "text": "SB 306 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658695
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615611,
+    617878,
+    658695
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615611
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615611
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 306&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB306",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7026,
+  "finding_hash": "5891ab0e29c97fd9908596fc3ef12ae51ef4802aa3636da962280e2d84aa092a",
+  "evidence_digest": "sha256:05f54f7ba0dc0d65fda0c89174688e4590c27be2888d3cd0c6262f0031780aaf",
+  "gate_id": "c3585092aa404fb087d032d4f81f1702",
+  "gate_seq": 7027
+ }
+}

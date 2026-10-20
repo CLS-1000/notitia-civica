@@ -1,0 +1,207 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3426",
+ "measure_id": "HB3426",
+ "subject": "or_legislature/2025R1/HB3426",
+ "title": "Expands offenses relating to the use of an unmanned aircraft system to interfere with official duties to include firefighting and search and rescue efforts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3426 did not pass",
+ "claims": [
+  {
+   "text": "HB 3426 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619477
+   ]
+  },
+  {
+   "text": "HB 3426 passed the House but did not pass the Senate. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659128
+   ]
+  },
+  {
+   "text": "Each of the 17 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619477,
+    619849,
+    626506,
+    639558,
+    641061,
+    641228,
+    641728,
+    642051,
+    642402,
+    642474,
+    642536,
+    644636,
+    648089,
+    649046,
+    649813,
+    649814,
+    659128
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619477
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619477
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626506
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639558
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641061
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    641228
+   ]
+  },
+  {
+   "date": "2025-04-22",
+   "when": "April 22, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    642402
+   ]
+  },
+  {
+   "date": "2025-04-22",
+   "when": "April 22, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    642402
+   ]
+  },
+  {
+   "date": "2025-04-23",
+   "when": "April 23, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Arrived in the Senate",
+   "rule_id": "first_reading",
+   "row_ids": [
+    642474
+   ]
+  },
+  {
+   "date": "2025-04-23",
+   "when": "April 23, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    642474
+   ]
+  },
+  {
+   "date": "2025-05-05",
+   "when": "May 5, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    644636
+   ]
+  },
+  {
+   "date": "2025-05-19",
+   "when": "May 19, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    648089
+   ]
+  },
+  {
+   "date": "2025-05-27",
+   "when": "May 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    649813
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3426&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3426",
+ "row_count": 17,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4275,
+  "finding_hash": "79b2ec077d0922908da5c278e6683c254d66361af2a41687742bcf8c38ad4019",
+  "evidence_digest": "sha256:7751be29c95873a8fe0d42983a81fd8480c146306625bfc8f52ae54aa2f4a73c",
+  "gate_id": "d6d93622998c4d6eaa1bd6b3d1dc0c46",
+  "gate_seq": 4276
+ }
+}

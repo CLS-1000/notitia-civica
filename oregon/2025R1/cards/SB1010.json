@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1010",
+ "measure_id": "SB1010",
+ "subject": "or_legislature/2025R1/SB1010",
+ "title": "Requires the Bureau of Labor and Industries to study issues related to safeguarding protected labor relations activities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1010 did not pass",
+ "claims": [
+  {
+   "text": "SB 1010 was introduced in the Senate on February 11, 2025.",
+   "row_ids": [
+    621780
+   ]
+  },
+  {
+   "text": "SB 1010 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658581
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621780,
+    621885,
+    658581
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    621780
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621780
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1010&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1010",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9138,
+  "finding_hash": "b1733dbf070e7c1273389343c444b02212757e1737f17dced9a3c1ab8b6e35d5",
+  "evidence_digest": "sha256:b2cfeb5ea5c8d7233759852eb70a3f17913bc440209487bb68bda4c9b6585e4a",
+  "gate_id": "3408a4bd96c34bb0a85fa76226685112",
+  "gate_seq": 9139
+ }
+}

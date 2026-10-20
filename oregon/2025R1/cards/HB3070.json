@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3070",
+ "measure_id": "HB3070",
+ "subject": "or_legislature/2025R1/HB3070",
+ "title": "Appropriates moneys to the Department of Justice to fund the management of the Oregon SAE/SANE Certification Commission by the Attorney General's Sexual Assault Task Force.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3070 did not pass",
+ "claims": [
+  {
+   "text": "HB 3070 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615034
+   ]
+  },
+  {
+   "text": "HB 3070 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660949
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615034,
+    617243,
+    621990,
+    622275,
+    622753,
+    623346,
+    623347,
+    660949
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615034
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615034
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621990
+   ]
+  },
+  {
+   "date": "2025-02-17",
+   "when": "February 17, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    622753
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "when": "February 19, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    623346
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3070&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3070",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3207,
+  "finding_hash": "a545f0428c8aba5432533e764c8056d57d2629001d5bed1ad56be49ae35ee14f",
+  "evidence_digest": "sha256:dd5f36e679fcad7bf55045582924903daa3ea6878d46562f7708141c8f59d5a7",
+  "gate_id": "a2ef6e69569043999a755aa4ce6cf0bd",
+  "gate_seq": 3208
+ }
+}

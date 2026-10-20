@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3347",
+ "measure_id": "HB3347",
+ "subject": "or_legislature/2025R1/HB3347",
+ "title": "Directs the Department of Justice to disburse to certain obligees payments of support that have been assigned to the state beginning January 1, 2027.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3347 did not pass",
+ "claims": [
+  {
+   "text": "HB 3347 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619398
+   ]
+  },
+  {
+   "text": "HB 3347 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660126
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619398,
+    619770,
+    623726,
+    632190,
+    633472,
+    633473,
+    660126
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619398
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619398
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623726
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632190
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    633472
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3347&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3347",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4038,
+  "finding_hash": "c3d0c0f69b429dddc26fe676b2b6c84ed3b0733faeed3f862b4af85e3b0a6c1e",
+  "evidence_digest": "sha256:b9b7b781bb6bedc84f91d091e8ef57d3c2b69e0838668c1a8cfaf790e593ed35",
+  "gate_id": "b56093dcd9ea4000a257f172e7c6c6a1",
+  "gate_seq": 4039
+ }
+}

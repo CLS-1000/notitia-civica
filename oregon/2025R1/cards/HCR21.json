@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HCR 21",
+ "measure_id": "HCR21",
+ "subject": "or_legislature/2025R1/HCR21",
+ "title": "Recognizes and honors Holocaust survivor ___. .",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HCR 21 did not pass",
+ "claims": [
+  {
+   "text": "HCR 21 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624259
+   ]
+  },
+  {
+   "text": "HCR 21 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660447
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624259,
+    625291,
+    660447
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624259
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624259
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 21&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HCR21",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10212,
+  "finding_hash": "3ea813edfd3d3dd9eebc6dc32e1652040add90c601fc7c6f446df0fa73718de6",
+  "evidence_digest": "sha256:87832f611c1945befa3cf0a4a3ce24b87c96e6c76cd9aa53280a608eeca9694c",
+  "gate_id": "a7c397f9d32a480f8b6d72b2bd9c2783",
+  "gate_seq": 10213
+ }
+}

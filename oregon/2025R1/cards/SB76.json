@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 76",
+ "measure_id": "SB76",
+ "subject": "or_legislature/2025R1/SB76",
+ "title": "Directs the Water Resources Department to study groundwater permit requirements for small agricultural parcels.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 76 did not pass",
+ "claims": [
+  {
+   "text": "SB 76 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615381
+   ]
+  },
+  {
+   "text": "SB 76 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658615
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615381,
+    617648,
+    658615
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615381
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615381
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 76&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB76",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6336,
+  "finding_hash": "e5ff8b128b2232ea717d159c7d559fa87ec2b11c04990bdb66179020f9a76be7",
+  "evidence_digest": "sha256:51e03f0a57791d15ce326ef4dadd6facdc62c88ffb4469875fdf3fe3db30f675",
+  "gate_id": "f7da441f3062482fb04b59cc2e4025df",
+  "gate_seq": 6337
+ }
+}

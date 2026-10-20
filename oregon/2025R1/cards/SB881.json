@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 881",
+ "measure_id": "SB881",
+ "subject": "or_legislature/2025R1/SB881",
+ "title": "Directs the Oregon Criminal Justice Commission to provide grants and funding for drug treatment and other related services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 881 did not pass",
+ "claims": [
+  {
+   "text": "SB 881 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618657
+   ]
+  },
+  {
+   "text": "SB 881 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659297
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618657,
+    618828,
+    639588,
+    659297
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618657
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618657
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    639588
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659297
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 881&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB881",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8751,
+  "finding_hash": "02d82a1de0cd1e9014400812e84af28bc2af6c88ff5f156594a3fe09dc54300c",
+  "evidence_digest": "sha256:7cf92c227ad5df5ad4cd5b329949580fb8bb0f8e097aefa920b55c398b31398d",
+  "gate_id": "dbb0a51ac1f84493b132abc47077e43a",
+  "gate_seq": 8752
+ }
+}

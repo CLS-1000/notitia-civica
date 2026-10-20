@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 68",
+ "measure_id": "SB68",
+ "subject": "or_legislature/2025R1/SB68",
+ "title": "Requires the Bureau of Labor and Industries to study matters relating to laws concerning unpaid, job-protected leave.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 68 did not pass",
+ "claims": [
+  {
+   "text": "SB 68 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615373
+   ]
+  },
+  {
+   "text": "SB 68 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658610
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615373,
+    617640,
+    658610
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615373
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615373
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 68&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB68",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6312,
+  "finding_hash": "c1338788e71c9fbdd3845d0f858306f8a355f6eb4c6a556997ec22cd65e0ea4e",
+  "evidence_digest": "sha256:1995281d67f87bedf444b5461112a5243dc593636ef5c16893426eef0fc00d09",
+  "gate_id": "c9ce563ecff24014837242ee53a087b9",
+  "gate_seq": 6313
+ }
+}

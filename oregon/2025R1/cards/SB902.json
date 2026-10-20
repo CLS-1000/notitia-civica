@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "SB 902",
+ "measure_id": "SB902",
+ "subject": "or_legislature/2025R1/SB902",
+ "title": "Requires the Public Employees Retirement Board to study age qualifications for retirement.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 902 did not pass",
+ "claims": [
+  {
+   "text": "SB 902 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618678
+   ]
+  },
+  {
+   "text": "SB 902 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658588
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618678,
+    618849,
+    622251,
+    627692,
+    658588
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618678
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618678
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627692
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658588
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 902&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB902",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8814,
+  "finding_hash": "7051a18211092216f479b8f69949d1c841cfe05f00dcd785b0bc359d48a04d2e",
+  "evidence_digest": "sha256:cb1df2565d75bc7b8b262df6929ac71eb2371fe88ea67b0d77a594a2b61e700c",
+  "gate_id": "2f4e5ec0d8a547aba0721b6be6d4c681",
+  "gate_seq": 8815
+ }
+}

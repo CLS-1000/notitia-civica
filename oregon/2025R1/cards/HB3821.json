@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3821",
+ "measure_id": "HB3821",
+ "subject": "or_legislature/2025R1/HB3821",
+ "title": "Requires the Oregon Business Development Department to study the security upgrade needs of small businesses in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3821 did not pass",
+ "claims": [
+  {
+   "text": "HB 3821 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624997
+   ]
+  },
+  {
+   "text": "HB 3821 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660526
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624997,
+    626406,
+    660526
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624997
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624997
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3821&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3821",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5460,
+  "finding_hash": "98bfd96593f604caea675f79e8d5ceac70a7f39ad3a0fd991d4af0650280a70e",
+  "evidence_digest": "sha256:205eb5d81831f7ab6f49c4221ded86491e1c768b6cb84c770233a90d99934896",
+  "gate_id": "66d41412297b41b696afa93507a7bbae",
+  "gate_seq": 5461
+ }
+}

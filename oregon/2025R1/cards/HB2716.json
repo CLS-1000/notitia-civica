@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2716",
+ "measure_id": "HB2716",
+ "subject": "or_legislature/2025R1/HB2716",
+ "title": "Directs the Department of Transportation to notify vehicle dealers when the department discovers documentation, information or fees the vehicle dealer submitted to register or title a vehicle are missing, incomplete or miscalculated.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2716 did not pass",
+ "claims": [
+  {
+   "text": "HB 2716 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614680
+   ]
+  },
+  {
+   "text": "HB 2716 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660111
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614680,
+    616889,
+    660111
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614680
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614680
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2716&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2716",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2145,
+  "finding_hash": "0b8a6b29c751bbbd0a63ad4355ea131a45b0267b7b2d0c61a33da7ee8e56deba",
+  "evidence_digest": "sha256:0315bb1ea0e4852758ccb673d6bdd828e5f5a045d9b46f88969080eb0a9d36b9",
+  "gate_id": "4cff33df052f42fa9a4dba01d02abe07",
+  "gate_seq": 2146
+ }
+}

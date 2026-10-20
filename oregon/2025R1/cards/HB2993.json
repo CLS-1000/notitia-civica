@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2993",
+ "measure_id": "HB2993",
+ "subject": "or_legislature/2025R1/HB2993",
+ "title": "Directs the Oregon Medical Board and Oregon State Board of Nursing to offer language education to health care providers regulated by the boards and make available patient forms in languages patients can comfortably communicate.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2993 did not pass",
+ "claims": [
+  {
+   "text": "HB 2993 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614957
+   ]
+  },
+  {
+   "text": "HB 2993 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660346
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614957,
+    617166,
+    660346
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614957
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614957
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2993&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2993",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2976,
+  "finding_hash": "0d3640ee0076ca687e6f0ea44f3b6fbfa93dfe1f1d4d50f09ef27c039427e862",
+  "evidence_digest": "sha256:2b4d7591bc4984344faf485d1abb325732cae67a07a39ab0b684e38447c9dc62",
+  "gate_id": "0cf5d336d7484930ada4ac6d230e6516",
+  "gate_seq": 2977
+ }
+}

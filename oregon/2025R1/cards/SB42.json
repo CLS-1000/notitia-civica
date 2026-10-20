@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 42",
+ "measure_id": "SB42",
+ "subject": "or_legislature/2025R1/SB42",
+ "title": "Appropriates moneys to the Oregon Health Authority from the General Fund for the Vaccine Access Program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 42 did not pass",
+ "claims": [
+  {
+   "text": "SB 42 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615347
+   ]
+  },
+  {
+   "text": "SB 42 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658982
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615347,
+    617614,
+    632763,
+    639110,
+    640965,
+    640966,
+    658982
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615347
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615347
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632763
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639110
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640965
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 42&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB42",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6234,
+  "finding_hash": "2286e732a2f3093c96d544cadb191fc877d300e5c621c453794bc16e514fdf69",
+  "evidence_digest": "sha256:023d19d8f8eb1760d7499a541d38615d64258af556b8987a0a1ab10cc26e8ec7",
+  "gate_id": "4370fbd808a54da18ba1e41a96895292",
+  "gate_seq": 6235
+ }
+}

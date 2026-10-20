@@ -1,0 +1,193 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3076",
+ "measure_id": "HB3076",
+ "subject": "or_legislature/2025R1/HB3076",
+ "title": "Establishes a state gun dealer licensing program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3076 did not pass",
+ "claims": [
+  {
+   "text": "HB 3076 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615040
+   ]
+  },
+  {
+   "text": "HB 3076 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660955
+   ]
+  },
+  {
+   "text": "Each of the 14 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615040,
+    617249,
+    630409,
+    639055,
+    641055,
+    641056,
+    655608,
+    655610,
+    655609,
+    656579,
+    656817,
+    657236,
+    657846,
+    660955
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615040
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615040
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    630409
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639055
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641055
+   ]
+  },
+  {
+   "date": "2025-06-12",
+   "when": "June 12, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Assigned to a House subcommittee",
+   "rule_id": "assigned_subcommittee",
+   "row_ids": [
+    655608
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "when": "June 18, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    655610
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "when": "June 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Returned to the full House committee",
+   "rule_id": "returned_full_committee",
+   "row_ids": [
+    655609
+   ]
+  },
+  {
+   "date": "2025-06-20",
+   "when": "June 20, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    656579
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    656817
+   ]
+  },
+  {
+   "date": "2025-06-24",
+   "when": "June 24, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    657236
+   ]
+  },
+  {
+   "date": "2025-06-25",
+   "when": "June 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "motion_carried_refer",
+   "row_ids": [
+    657846
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3076&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3076",
+ "row_count": 14,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3225,
+  "finding_hash": "803d91d38852fc5fca0f0e7d39c71eb49cf945f6f9adaadb24dc01235a910695",
+  "evidence_digest": "sha256:7b417a48443c8a15180c455904f83ed21149fefbb88fc8edd0cb554b3637a78a",
+  "gate_id": "14e14b2cc2174b8392a02d359ef0d102",
+  "gate_seq": 3226
+ }
+}

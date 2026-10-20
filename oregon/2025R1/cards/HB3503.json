@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3503",
+ "measure_id": "HB3503",
+ "subject": "or_legislature/2025R1/HB3503",
+ "title": "Requires the Housing and Community Services Department to disburse moneys to Community LendingWorks to provide grants to purchase housing in Clackamas County that will be made available through a community land trust as affordable housing to first-time home buyers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3503 did not pass",
+ "claims": [
+  {
+   "text": "HB 3503 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620376
+   ]
+  },
+  {
+   "text": "HB 3503 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660516
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620376,
+    621049,
+    625832,
+    627540,
+    628098,
+    628099,
+    660516
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620376
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620376
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625832
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    627540
+   ]
+  },
+  {
+   "date": "2025-03-12",
+   "when": "March 12, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    628098
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3503&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3503",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4506,
+  "finding_hash": "386457326bd6058620f9bf4eed11cbe0a7abf5376ab5603734797ea033677155",
+  "evidence_digest": "sha256:364152d75e79f6c65fd3c2651bab67936eedb7c54fa70392434407cb0600c1de",
+  "gate_id": "d6237f41b2de4cd08e161fff3392b75b",
+  "gate_seq": 4507
+ }
+}

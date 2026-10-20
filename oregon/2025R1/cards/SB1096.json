@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1096",
+ "measure_id": "SB1096",
+ "subject": "or_legislature/2025R1/SB1096",
+ "title": "Requires that a person on pretrial release for a crime constituting domestic violence wear a location tracking device that provides real-time location alerts to the victim and law enforcement agencies.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1096 did not pass",
+ "claims": [
+  {
+   "text": "SB 1096 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624295
+   ]
+  },
+  {
+   "text": "SB 1096 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659547
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624295,
+    624471,
+    659547
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624295
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624295
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1096&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1096",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9396,
+  "finding_hash": "bc36a1c1795312ed78c833f67e40eed8f7f5a0e4510c5e169d3ad66c9a609823",
+  "evidence_digest": "sha256:bfe58b24dfcab570f9a468bcfd52379c04d1d0f999abbe716b9fd643e6c79899",
+  "gate_id": "86801ac01638476d946703031a79932a",
+  "gate_seq": 9397
+ }
+}

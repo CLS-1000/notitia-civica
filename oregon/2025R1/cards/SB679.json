@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 679",
+ "measure_id": "SB679",
+ "subject": "or_legislature/2025R1/SB679",
+ "title": "Provides that parties that have caused a certain amount of greenhouse gas emissions are strictly liable to harmed parties for damages incurred as a result of extreme weather attributable to climate change or a climate disaster.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 679 did not pass",
+ "claims": [
+  {
+   "text": "SB 679 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615984
+   ]
+  },
+  {
+   "text": "SB 679 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658879
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615984,
+    618251,
+    658879
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615984
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615984
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 679&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB679",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8145,
+  "finding_hash": "e9e3d0fdafb453542c5d44d1991f8d03bea4b230909d369373ba9595f5144993",
+  "evidence_digest": "sha256:e32da8eda05572a32f221b3d56a46159b0cf9c40ac4c0167c4465fd3e5f637e4",
+  "gate_id": "1626939e020e484d86760269418a5115",
+  "gate_seq": 8146
+ }
+}

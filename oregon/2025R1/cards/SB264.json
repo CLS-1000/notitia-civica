@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 264",
+ "measure_id": "SB264",
+ "subject": "or_legislature/2025R1/SB264",
+ "title": "Requires the Department of Justice to study privacy and submit findings to the interim committees of the Legislative Assembly related to the judiciary not later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 264 did not pass",
+ "claims": [
+  {
+   "text": "SB 264 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615569
+   ]
+  },
+  {
+   "text": "SB 264 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658660
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615569,
+    617836,
+    658660
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615569
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615569
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 264&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB264",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6900,
+  "finding_hash": "9a02947d37ce6019911dee22e19324f536cb77c4d5e4636b5bdf2de17a7ab63a",
+  "evidence_digest": "sha256:0b994c7a3f6c1d7b1e07bef3b6bf0ef834c7c9d8bfa82e10b4ab24626580406f",
+  "gate_id": "36131fc239b3473ab2712aee40421310",
+  "gate_seq": 6901
+ }
+}

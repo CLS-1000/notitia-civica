@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3923",
+ "measure_id": "HB3923",
+ "subject": "or_legislature/2025R1/HB3923",
+ "title": "Requires the Oregon Health Authority to approve the transfer of 500 or more members of a coordinated care organization or dental care organization if the transfer meets specified conditions, unless the transfer diminishes patient care.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3923 did not pass",
+ "claims": [
+  {
+   "text": "HB 3923 was introduced in the House on March 13, 2025.",
+   "row_ids": [
+    628250
+   ]
+  },
+  {
+   "text": "HB 3923 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659937
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    628250,
+    628729,
+    632917,
+    659937
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    628250
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    628250
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632917
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659937
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3923&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3923",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5766,
+  "finding_hash": "4af7f8b770d14543417c2f1267c8aea9fe56747a5c8eced2e18b0239ffca55ed",
+  "evidence_digest": "sha256:9f37f579ca71b81801f26e393d3e610cc5c885a115055cd343e694f1844994eb",
+  "gate_id": "ee086c97fb884e7580565f50b0b56664",
+  "gate_seq": 5767
+ }
+}

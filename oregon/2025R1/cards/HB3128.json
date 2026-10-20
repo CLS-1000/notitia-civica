@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3128",
+ "measure_id": "HB3128",
+ "subject": "or_legislature/2025R1/HB3128",
+ "title": "Provides that the storage of surface water for fire response preparedness does not require a water right application, permit or certificate.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3128 did not pass",
+ "claims": [
+  {
+   "text": "HB 3128 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615092
+   ]
+  },
+  {
+   "text": "HB 3128 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660018
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615092,
+    617301,
+    660018
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615092
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615092
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3128&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3128",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3381,
+  "finding_hash": "676d24ae82ec1c034737be34d84335c49923b26ef833fc955384dd2dc3e69391",
+  "evidence_digest": "sha256:5d411650cfe24955b0d02266fa38237ea8f663a01b05c81966476ab77992460a",
+  "gate_id": "562568c4a61340b7a27a357d0aec98fc",
+  "gate_seq": 3382
+ }
+}

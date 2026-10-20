@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3685",
+ "measure_id": "HB3685",
+ "subject": "or_legislature/2025R1/HB3685",
+ "title": "Requires ballot title statements to include certain information regarding the effects of proposed local option tax measures.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3685 did not pass",
+ "claims": [
+  {
+   "text": "HB 3685 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624369
+   ]
+  },
+  {
+   "text": "HB 3685 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661120
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624369,
+    625230,
+    661120
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624369
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624369
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3685&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3685",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5052,
+  "finding_hash": "9925d7a30c2d017eeb279b5f5c37edb58067328d31e33e6215e45df660608610",
+  "evidence_digest": "sha256:527fb20b63b2748d66134be50a70e93fc0d40e0773fca1e75cc4ef1741ed2ec0",
+  "gate_id": "2c24652879ed4e8c8c22477e9ee3978a",
+  "gate_seq": 5053
+ }
+}

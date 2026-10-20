@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 39",
+ "measure_id": "SB39",
+ "subject": "or_legislature/2025R1/SB39",
+ "title": "Requires the Oregon Health Authority to study primary care in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 39 did not pass",
+ "claims": [
+  {
+   "text": "SB 39 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615344
+   ]
+  },
+  {
+   "text": "SB 39 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658979
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615344,
+    617611,
+    658979
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615344
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615344
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 39&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB39",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6225,
+  "finding_hash": "a02f6cb5ce9e943b81889ac5c92d9475d6180852b6a32c61a4af9ab7e69e2476",
+  "evidence_digest": "sha256:558b978e08f524bff953dc5bba2425b637249dc3d0b4ae828f2caf4bf63924b5",
+  "gate_id": "7c4916cb58274bab95c523bd420e5cdc",
+  "gate_seq": 6226
+ }
+}

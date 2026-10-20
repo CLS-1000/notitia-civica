@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3039",
+ "measure_id": "HB3039",
+ "subject": "or_legislature/2025R1/HB3039",
+ "title": "Requires the Department of Education to study methods for increasing the availability of summer and after-school academic and enrichment programs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3039 did not pass",
+ "claims": [
+  {
+   "text": "HB 3039 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615003
+   ]
+  },
+  {
+   "text": "HB 3039 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659892
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615003,
+    617212,
+    659892
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615003
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615003
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3039&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3039",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3114,
+  "finding_hash": "ddd016501b25cf2c1b98aced83d92f45ccc2a4783f3c055f1c7517c30049fe08",
+  "evidence_digest": "sha256:59286cdf34321488ef1bf6e03ddbdd2520ae3091d8fe51be12b940b18c8f8ef2",
+  "gate_id": "0e039a370613477e853430eb8ac7a618",
+  "gate_seq": 3115
+ }
+}

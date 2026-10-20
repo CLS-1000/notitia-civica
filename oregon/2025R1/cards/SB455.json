@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 455",
+ "measure_id": "SB455",
+ "subject": "or_legislature/2025R1/SB455",
+ "title": "Directs the State Forestry Department to study the economic effects of a certain habitat conservation plan.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 455 did not pass",
+ "claims": [
+  {
+   "text": "SB 455 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615760
+   ]
+  },
+  {
+   "text": "SB 455 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659086
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615760,
+    618027,
+    659086
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615760
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615760
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 455&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB455",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7473,
+  "finding_hash": "e75bb34f588f73ecfff9aee1c73ae773db526b8983b4dd256c007914ce7d557c",
+  "evidence_digest": "sha256:e23a83767b30a80319f7c3d16ac09aa512ce51aa8c6238198aab32e29e3c9349",
+  "gate_id": "989a42d44a514b2ea7140ce5658fbf83",
+  "gate_seq": 7474
+ }
+}

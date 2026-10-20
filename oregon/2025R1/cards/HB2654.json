@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2654",
+ "measure_id": "HB2654",
+ "subject": "or_legislature/2025R1/HB2654",
+ "title": "Establishes the emergency veterans housing program within the Housing and Community Services Department.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2654 did not pass",
+ "claims": [
+  {
+   "text": "HB 2654 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614618
+   ]
+  },
+  {
+   "text": "HB 2654 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660085
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614618,
+    616827,
+    660085
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614618
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614618
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2654&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2654",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1959,
+  "finding_hash": "1478705f7c8e4b8c82035d60d88632ddae79c6a132acac4f22d6cf6d27801b4b",
+  "evidence_digest": "sha256:342a2ab53ced29e5708669aef227995667e9141fe712fdd885cf38432a9f2dfd",
+  "gate_id": "7b0e442149d74c1dbf37b879e60abc82",
+  "gate_seq": 1960
+ }
+}

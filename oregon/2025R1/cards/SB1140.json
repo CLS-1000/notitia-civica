@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1140",
+ "measure_id": "SB1140",
+ "subject": "or_legislature/2025R1/SB1140",
+ "title": "Prohibits employers from imposing requirements that employees speak only English in the workplace unless the employer can demonstrate that the requirement is justified by business necessity and applicable only in limited circumstances.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1140 did not pass",
+ "claims": [
+  {
+   "text": "SB 1140 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624850
+   ]
+  },
+  {
+   "text": "SB 1140 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659235
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624850,
+    625762,
+    659235
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624850
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624850
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1140&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1140",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9528,
+  "finding_hash": "cb9b45c9848e0c7942c50a94d899a126176c23f34ba07a0d2bf9fd1a707960e9",
+  "evidence_digest": "sha256:6647bd394e7d846be8cbb083bf90093e6a340116b04ba51ffa54e69f084388d7",
+  "gate_id": "fbb35501802842b18d21ff4378221fdd",
+  "gate_seq": 9529
+ }
+}

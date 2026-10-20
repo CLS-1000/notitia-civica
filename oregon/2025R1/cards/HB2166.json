@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2166",
+ "measure_id": "HB2166",
+ "subject": "or_legislature/2025R1/HB2166",
+ "title": "Requires the State Department of Agriculture to submit a report on the economic competitiveness of Oregon's agricultural sector to a committee or interim committee of the Legislative Assembly related to natural resources no later than December 31, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2166 did not pass",
+ "claims": [
+  {
+   "text": "HB 2166 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614130
+   ]
+  },
+  {
+   "text": "HB 2166 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660215
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614130,
+    616339,
+    618978,
+    620167,
+    620281,
+    620282,
+    660215
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614130
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614130
+   ]
+  },
+  {
+   "date": "2025-01-22",
+   "when": "January 22, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    618978
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "when": "February 3, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    620167
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "when": "February 3, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    620281
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2166&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2166",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 495,
+  "finding_hash": "dba16ab6795a90058e0220e48594cf0214e9b7307f45fbda5ef1184688d947ff",
+  "evidence_digest": "sha256:2e359edd355bd58c6018717a619ac6ebea734310b30f96f4ee863ed83029e3d8",
+  "gate_id": "70010a41e699443abc0d0e625054abd3",
+  "gate_seq": 496
+ }
+}

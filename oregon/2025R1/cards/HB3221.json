@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3221",
+ "measure_id": "HB3221",
+ "subject": "or_legislature/2025R1/HB3221",
+ "title": "Prohibits a person or government entity that is not registered with the Oregon Health Authority from using a business or trade name with the terms \"urgent\" or \"urgent care\" or from holding itself out using the terms \"urgent\" or \"urgent care\" in any external sign or advertisement.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3221 did not pass",
+ "claims": [
+  {
+   "text": "HB 3221 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615185
+   ]
+  },
+  {
+   "text": "HB 3221 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660175
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615185,
+    617394,
+    619683,
+    637512,
+    639520,
+    639521,
+    660175
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615185
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615185
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619683
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637512
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639520
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3221&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3221",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3660,
+  "finding_hash": "e6a36efefa8e8c964505f63900b8b0d7a7febbf890bc260e0a5630405d106240",
+  "evidence_digest": "sha256:3c2083d382b09a4550a655d3db98329b57c1e3db41daa8af4596c2f5edbc1b0f",
+  "gate_id": "39ac28fa966d478b8ac7639198747e52",
+  "gate_seq": 3661
+ }
+}

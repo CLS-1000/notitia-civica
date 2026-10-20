@@ -1,0 +1,275 @@
+{
+ "session": "2025R1",
+ "measure": "SB 790",
+ "measure_id": "SB790",
+ "subject": "or_legislature/2025R1/SB790",
+ "title": "Renames the position of Administrator of the Oregon Advocacy Commissions Office to executive director of the Oregon Advocacy Commissions Office.",
+ "outcome": "law",
+ "outcome_label": "Became law",
+ "headline": "SB 790 became law",
+ "claims": [
+  {
+   "text": "SB 790 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616094
+   ]
+  },
+  {
+   "text": "The Governor signed SB 790 into law on May 14, 2025.",
+   "row_ids": [
+    647135
+   ]
+  },
+  {
+   "text": "Each of the 19 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616094,
+    618361,
+    633193,
+    638297,
+    639635,
+    639678,
+    640258,
+    640479,
+    640697,
+    642360,
+    643444,
+    643944,
+    644029,
+    644509,
+    644870,
+    644966,
+    647135,
+    648184,
+    648196
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616094
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616094
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633193
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638297
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639635
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    639678
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    640258
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    640258
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Arrived in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    640479
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    640479
+   ]
+  },
+  {
+   "date": "2025-04-22",
+   "when": "April 22, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    642360
+   ]
+  },
+  {
+   "date": "2025-04-29",
+   "when": "April 29, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    643444
+   ]
+  },
+  {
+   "date": "2025-05-01",
+   "when": "May 1, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    643944
+   ]
+  },
+  {
+   "date": "2025-05-01",
+   "when": "May 1, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    644029
+   ]
+  },
+  {
+   "date": "2025-05-05",
+   "when": "May 5, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    644509
+   ]
+  },
+  {
+   "date": "2025-05-05",
+   "when": "May 5, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    644509
+   ]
+  },
+  {
+   "date": "2025-05-06",
+   "when": "May 6, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    644870
+   ]
+  },
+  {
+   "date": "2025-05-06",
+   "when": "May 6, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    644966
+   ]
+  },
+  {
+   "date": "2025-05-14",
+   "when": "May 14, 2025",
+   "chamber": "S",
+   "state": "enacted",
+   "text": "Signed into law by the Governor",
+   "rule_id": "governor_signed",
+   "row_ids": [
+    647135
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-05-20",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 790&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB790",
+ "row_count": 19,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8478,
+  "finding_hash": "24e660926ac3046c254bd485a6109ddeb4b482be1644805cee7b029cf9e37e27",
+  "evidence_digest": "sha256:b0d3e7aa5f01a27c42eaeebf3f9c8f5d4ff6fb71da8463b9b24b134a413a2fca",
+  "gate_id": "20593aaf15f44fe6950267574851b17f",
+  "gate_seq": 8479
+ }
+}

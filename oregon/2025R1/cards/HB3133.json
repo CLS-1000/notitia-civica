@@ -1,0 +1,73 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3133",
+ "measure_id": "HB3133",
+ "subject": "or_legislature/2025R1/HB3133",
+ "title": "Amends conditions under which a county must approve a farm stand on lands zoned for exclusive farm use.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3133 did not pass",
+ "claims": [
+  {
+   "text": "HB 3133 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615097
+   ]
+  },
+  {
+   "text": "HB 3133 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660023
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615097,
+    617306,
+    628921,
+    660023
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615097
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615097
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3133&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3133",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3396,
+  "finding_hash": "5d553f2c59fd9f537bb9d556b8f2e576315bd522f7ff71fe8ab6f9f6b0eb0bf9",
+  "evidence_digest": "sha256:6906a17de08ebf0034549ab7815d13a1ede9e7a3143f0b41d8894cc584e46511",
+  "gate_id": "df0d8698c2c043a6a64dfb95036f5058",
+  "gate_seq": 3397
+ }
+}

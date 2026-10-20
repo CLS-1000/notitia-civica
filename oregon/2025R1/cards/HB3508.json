@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3508",
+ "measure_id": "HB3508",
+ "subject": "or_legislature/2025R1/HB3508",
+ "title": "Directs the State Forestry Department, in collaboration with the Oregon Business Development Department and the Housing and Community Services Department, to study methods for improving active forest management in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3508 did not pass",
+ "claims": [
+  {
+   "text": "HB 3508 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620381
+   ]
+  },
+  {
+   "text": "HB 3508 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660864
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620381,
+    621054,
+    660864
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620381
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620381
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3508&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3508",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4521,
+  "finding_hash": "0e60ee14d0238168cbddb67441f4d6b03aba04112beae7dcdc6de07159e18597",
+  "evidence_digest": "sha256:1708daa67260b9db662b6eaa70a3b8fb2ba928f6ca0310e7b29df84b3535a808",
+  "gate_id": "56fa3d21121b4bcfb388bf533f79957d",
+  "gate_seq": 4522
+ }
+}

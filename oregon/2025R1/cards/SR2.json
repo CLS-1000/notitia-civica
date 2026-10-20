@@ -1,0 +1,133 @@
+{
+ "session": "2025R1",
+ "measure": "SR 2",
+ "measure_id": "SR2",
+ "subject": "or_legislature/2025R1/SR2",
+ "title": "Recognizes the important role of Aurora State Airport in the State of Oregon's emergency preparedness and response efforts.",
+ "outcome": "adopted",
+ "outcome_label": "Adopted",
+ "headline": "SR 2 was adopted",
+ "claims": [
+  {
+   "text": "SR 2 was introduced in the Senate on March 18, 2025.",
+   "row_ids": [
+    629348
+   ]
+  },
+  {
+   "text": "SR 2 was adopted; the last recorded step was on June 9, 2025.",
+   "row_ids": [
+    652667
+   ]
+  },
+  {
+   "text": "Each of the 9 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    629348,
+    629384,
+    641468,
+    650273,
+    651232,
+    651282,
+    651786,
+    652311,
+    652667
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    629348
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    629348
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    641468
+   ]
+  },
+  {
+   "date": "2025-06-03",
+   "when": "June 3, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it be adopted",
+   "rule_id": "rec_do_adopt",
+   "row_ids": [
+    651232
+   ]
+  },
+  {
+   "date": "2025-06-03",
+   "when": "June 3, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    651282
+   ]
+  },
+  {
+   "date": "2025-06-04",
+   "when": "June 4, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "final_reading",
+   "row_ids": [
+    651786
+   ]
+  },
+  {
+   "date": "2025-06-04",
+   "when": "June 4, 2025",
+   "chamber": "S",
+   "state": "adopted",
+   "text": "Adopted by the Senate",
+   "rule_id": "adopted",
+   "row_ids": [
+    651786
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-09",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SR' and MeasureNumber eq 2&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SR2",
+ "row_count": 9,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10392,
+  "finding_hash": "18e514159fea0029e42ee0ed7eaa48d9e4e3a74f435789adea585c72e6254ba2",
+  "evidence_digest": "sha256:1e7473ff5f26cc4068bc57c31105fbb622d36e4e805411e78e0cfd564180698a",
+  "gate_id": "d365ed5c3225427c8c9f274d87f63971",
+  "gate_seq": 10393
+ }
+}

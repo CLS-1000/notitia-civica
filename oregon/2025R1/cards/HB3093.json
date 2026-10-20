@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3093",
+ "measure_id": "HB3093",
+ "subject": "or_legislature/2025R1/HB3093",
+ "title": "Requires law enforcement agencies to take a DNA sample of a person arrested for certain crimes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3093 did not pass",
+ "claims": [
+  {
+   "text": "HB 3093 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615057
+   ]
+  },
+  {
+   "text": "HB 3093 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659977
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615057,
+    617266,
+    632720,
+    638632,
+    639851,
+    639852,
+    659977
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615057
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615057
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632720
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638632
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639851
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3093&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3093",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3276,
+  "finding_hash": "4b3bf5c142920690c70b092e068cc39d97691a943a818a3849d599d5a10d7886",
+  "evidence_digest": "sha256:91b29bee63fb937b6b52884c5734ed4238f0e8d340f394454eba225504957d0c",
+  "gate_id": "f15446e5c50940ea993eb4e67f827dbd",
+  "gate_seq": 3277
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 78",
+ "measure_id": "SB78",
+ "subject": "or_legislature/2025R1/SB78",
+ "title": "Establishes maximum size of replacement dwellings on lands zoned for forest or farm use.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 78 did not pass",
+ "claims": [
+  {
+   "text": "SB 78 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615383
+   ]
+  },
+  {
+   "text": "SB 78 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658617
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615383,
+    617650,
+    626948,
+    658617
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615383
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615383
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626948
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658617
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 78&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB78",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6342,
+  "finding_hash": "928764511888cd7b84b4746697467ed620fe231870354928a49a0b883c883298",
+  "evidence_digest": "sha256:59cd2c752534058107e1721f046ae6e0a0c249205b4ecc6779039b7679cf08dc",
+  "gate_id": "744ea10586c64b8ba3b60634580ba566",
+  "gate_seq": 6343
+ }
+}

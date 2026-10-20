@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3277",
+ "measure_id": "HB3277",
+ "subject": "or_legislature/2025R1/HB3277",
+ "title": "Requires the Oregon Military Department to study military spouses.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3277 did not pass",
+ "claims": [
+  {
+   "text": "HB 3277 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618748
+   ]
+  },
+  {
+   "text": "HB 3277 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660984
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618748,
+    619146,
+    660984
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618748
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618748
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3277&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3277",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3828,
+  "finding_hash": "af243dca78c7724e4aa0d43edb3362ef087b043a9c37742136087d7987761739",
+  "evidence_digest": "sha256:c795eb941abec7d6da803f4463fb2bf3f98f1cf5cf1bba989a6388f146185ac7",
+  "gate_id": "66a0bfcd751b4972b382c968f544e59e",
+  "gate_seq": 3829
+ }
+}

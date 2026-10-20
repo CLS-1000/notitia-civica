@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3935",
+ "measure_id": "HB3935",
+ "subject": "or_legislature/2025R1/HB3935",
+ "title": "Creates the crime of initiating a false report in the first degree.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3935 did not pass",
+ "claims": [
+  {
+   "text": "HB 3935 was introduced in the House on March 18, 2025.",
+   "row_ids": [
+    629397
+   ]
+  },
+  {
+   "text": "HB 3935 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659950
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    629397,
+    629545,
+    639106,
+    659950
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    629397
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    629397
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    639106
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659950
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3935&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3935",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5802,
+  "finding_hash": "4a08ced93d14d2fe9caedb72d754c2599f893e9e51aebbc0abec6975fc03d12b",
+  "evidence_digest": "sha256:186d7dd1fc561d7e4a815ef4b3a886c08142a3a4317e9f71791ea4dde7213239",
+  "gate_id": "cdf135414e474b5b95719e1ad743de69",
+  "gate_seq": 5803
+ }
+}

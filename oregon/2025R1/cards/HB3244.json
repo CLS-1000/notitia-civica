@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3244",
+ "measure_id": "HB3244",
+ "subject": "or_legislature/2025R1/HB3244",
+ "title": "Replaces the requirement that an owner or operator of a municipal solid waste incinerator conduct continuous monitoring or sampling of specified air contaminants with a requirement that the monitoring or sampling be conducted annually.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3244 did not pass",
+ "claims": [
+  {
+   "text": "HB 3244 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615208
+   ]
+  },
+  {
+   "text": "HB 3244 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660048
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615208,
+    617417,
+    660048
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615208
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615208
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3244&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3244",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3729,
+  "finding_hash": "146fbe01cede2b7cd39035df59e4c9c54ad72435a4254c88c50bd84324f9acb4",
+  "evidence_digest": "sha256:72b54178f44c5fb033f94d2989fd09a95b7b19b4a25eaac9551214e787186aa7",
+  "gate_id": "18bf8db8aba246b0acd874af7cc24ad8",
+  "gate_seq": 3730
+ }
+}

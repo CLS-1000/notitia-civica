@@ -1,0 +1,192 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1067",
+ "measure_id": "SB1067",
+ "subject": "or_legislature/2025R1/SB1067",
+ "title": "Authorizes a city within Marion County to control or direct the disposal, transfer or material or energy recovery of solid waste generated within the city.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1067 did not pass",
+ "claims": [
+  {
+   "text": "SB 1067 was introduced in the Senate on February 20, 2025.",
+   "row_ids": [
+    623603
+   ]
+  },
+  {
+   "text": "SB 1067 passed the Senate but did not pass the House. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660809
+   ]
+  },
+  {
+   "text": "Each of the 13 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623603,
+    623967,
+    636722,
+    639555,
+    640579,
+    640772,
+    641352,
+    641579,
+    641745,
+    642644,
+    645488,
+    646371,
+    660809
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623603
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623603
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    636722
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639555
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640579
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    640772
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    641579
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    641579
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Arrived in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    641745
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    641745
+   ]
+  },
+  {
+   "date": "2025-05-08",
+   "when": "May 8, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    645488
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660809
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1067&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1067",
+ "row_count": 13,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9309,
+  "finding_hash": "327632b4e94c8c884945c759e65d282ae313b3b69acf0b7dc2edac1f2b38e00d",
+  "evidence_digest": "sha256:0b75751a2de55589c8be9119809a08615c959543bd82617a95c3d98bfb963eb8",
+  "gate_id": "8bd8b8bd45a64cca904b670175888a66",
+  "gate_seq": 9310
+ }
+}

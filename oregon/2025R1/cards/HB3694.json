@@ -1,0 +1,369 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3694",
+ "measure_id": "HB3694",
+ "subject": "or_legislature/2025R1/HB3694",
+ "title": "Modifies provisions of law related to compensation for student athletes enrolled in a post-secondary institution of education.",
+ "outcome": "law",
+ "outcome_label": "Became law",
+ "headline": "HB 3694 became law",
+ "claims": [
+  {
+   "text": "HB 3694 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624378
+   ]
+  },
+  {
+   "text": "The Governor signed HB 3694 into law on June 26, 2025.",
+   "row_ids": [
+    658036
+   ]
+  },
+  {
+   "text": "Each of the 36 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624378,
+    625239,
+    632307,
+    635227,
+    637845,
+    638195,
+    638901,
+    639315,
+    639765,
+    640191,
+    640302,
+    643560,
+    646771,
+    647641,
+    647792,
+    648435,
+    648916,
+    649239,
+    671017,
+    649729,
+    650131,
+    650636,
+    651017,
+    651269,
+    651535,
+    651537,
+    652659,
+    653513,
+    653474,
+    654472,
+    654473,
+    654689,
+    655743,
+    655829,
+    658036,
+    661953
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624378
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624378
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632307
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    635227
+   ]
+  },
+  {
+   "date": "2025-04-04",
+   "when": "April 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    637845
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    638195
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    639765
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    639765
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Arrived in the Senate",
+   "rule_id": "first_reading",
+   "row_ids": [
+    640191
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    640191
+   ]
+  },
+  {
+   "date": "2025-04-30",
+   "when": "April 30, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    643560
+   ]
+  },
+  {
+   "date": "2025-05-14",
+   "when": "May 14, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    646771
+   ]
+  },
+  {
+   "date": "2025-05-16",
+   "when": "May 16, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    647641
+   ]
+  },
+  {
+   "date": "2025-05-19",
+   "when": "May 19, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    647792
+   ]
+  },
+  {
+   "date": "2025-06-02",
+   "when": "June 2, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    651017
+   ]
+  },
+  {
+   "date": "2025-06-02",
+   "when": "June 2, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    651017
+   ]
+  },
+  {
+   "date": "2025-06-03",
+   "when": "June 3, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "refused_to_concur",
+   "row_ids": [
+    651269
+   ]
+  },
+  {
+   "date": "2025-06-03",
+   "when": "June 3, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "conferees_appointed",
+   "row_ids": [
+    651537
+   ]
+  },
+  {
+   "date": "2025-06-09",
+   "when": "June 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    652659
+   ]
+  },
+  {
+   "date": "2025-06-11",
+   "when": "June 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "conference_recommendation",
+   "row_ids": [
+    653513
+   ]
+  },
+  {
+   "date": "2025-06-13",
+   "when": "June 13, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "adopted_cc_report",
+   "row_ids": [
+    654472
+   ]
+  },
+  {
+   "date": "2025-06-13",
+   "when": "June 13, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "repassed",
+   "row_ids": [
+    654473
+   ]
+  },
+  {
+   "date": "2025-06-16",
+   "when": "June 16, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "adopted_cc_report",
+   "row_ids": [
+    654689
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "when": "June 18, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    655743
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "when": "June 18, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    655829
+   ]
+  },
+  {
+   "date": "2025-06-26",
+   "when": "June 26, 2025",
+   "chamber": "H",
+   "state": "enacted",
+   "text": "Signed into law by the Governor",
+   "rule_id": "governor_signed",
+   "row_ids": [
+    658036
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-07-25",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3694&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3694",
+ "row_count": 36,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5079,
+  "finding_hash": "cef059e5a185fc07f3569286a49fe18990a9e0c87416963a856a61a2a0dde6e7",
+  "evidence_digest": "sha256:bee481071917dddc12e03f39c218ef317436387d43c0b0be1f58b33eaeb74bbb",
+  "gate_id": "4e4de7be9c084520bff528e8672fd66e",
+  "gate_seq": 5080
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2395",
+ "measure_id": "HB2395",
+ "subject": "or_legislature/2025R1/HB2395",
+ "title": "Requires the Department of Veterans' Affairs to distribute moneys for county veterans' service officers to counties that have a population of less than 30,000 and are or will be unable to maintain operations of county veterans' service officers due to budget decreases.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2395 did not pass",
+ "claims": [
+  {
+   "text": "HB 2395 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614359
+   ]
+  },
+  {
+   "text": "HB 2395 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659868
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614359,
+    616568,
+    659868
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614359
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614359
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2395&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2395",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1182,
+  "finding_hash": "ba4d2531a3fe6e055d3d62edaa50cce4db404cb8733a4591d24add9547d85493",
+  "evidence_digest": "sha256:cb64187e61f82113d6071e3ea97ac9a06102acf01bc6d1411b056eeee3276ea6",
+  "gate_id": "f5fda28ccded4fcd9b80d62c11082aa6",
+  "gate_seq": 1183
+ }
+}

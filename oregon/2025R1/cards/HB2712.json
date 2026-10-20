@@ -1,0 +1,312 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2712",
+ "measure_id": "HB2712",
+ "subject": "or_legislature/2025R1/HB2712",
+ "title": "Increases the salaries of state court judges.",
+ "outcome": "law",
+ "outcome_label": "Became law",
+ "headline": "HB 2712 became law",
+ "claims": [
+  {
+   "text": "HB 2712 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614676
+   ]
+  },
+  {
+   "text": "The Governor signed HB 2712 into law on July 31, 2025.",
+   "row_ids": [
+    661988
+   ]
+  },
+  {
+   "text": "Each of the 23 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614676,
+    616885,
+    635070,
+    638631,
+    640026,
+    640027,
+    654174,
+    653014,
+    654176,
+    654175,
+    655135,
+    656173,
+    656306,
+    656847,
+    656872,
+    656968,
+    657407,
+    657502,
+    657560,
+    657995,
+    658172,
+    661988,
+    662174
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614676
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614676
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    635070
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638631
+   ]
+  },
+  {
+   "date": "2025-04-11",
+   "when": "April 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640026
+   ]
+  },
+  {
+   "date": "2025-06-07",
+   "when": "June 7, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Assigned to a House subcommittee",
+   "rule_id": "assigned_subcommittee",
+   "row_ids": [
+    654174
+   ]
+  },
+  {
+   "date": "2025-06-12",
+   "when": "June 12, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    654176
+   ]
+  },
+  {
+   "date": "2025-06-12",
+   "when": "June 12, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Returned to the full House committee",
+   "rule_id": "returned_full_committee",
+   "row_ids": [
+    654175
+   ]
+  },
+  {
+   "date": "2025-06-17",
+   "when": "June 17, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    655135
+   ]
+  },
+  {
+   "date": "2025-06-19",
+   "when": "June 19, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    656173
+   ]
+  },
+  {
+   "date": "2025-06-20",
+   "when": "June 20, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    656306
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    656847
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    656847
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Arrived in the Senate",
+   "rule_id": "first_reading",
+   "row_ids": [
+    656872
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    656872
+   ]
+  },
+  {
+   "date": "2025-06-24",
+   "when": "June 24, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    657407
+   ]
+  },
+  {
+   "date": "2025-06-24",
+   "when": "June 24, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    657502
+   ]
+  },
+  {
+   "date": "2025-06-24",
+   "when": "June 24, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    657560
+   ]
+  },
+  {
+   "date": "2025-06-24",
+   "when": "June 24, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    657560
+   ]
+  },
+  {
+   "date": "2025-06-26",
+   "when": "June 26, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    657995
+   ]
+  },
+  {
+   "date": "2025-06-26",
+   "when": "June 26, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    658172
+   ]
+  },
+  {
+   "date": "2025-07-31",
+   "when": "July 31, 2025",
+   "chamber": "H",
+   "state": "enacted",
+   "text": "Signed into law by the Governor",
+   "rule_id": "governor_signed",
+   "row_ids": [
+    661988
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-08-13",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2712&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2712",
+ "row_count": 23,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2133,
+  "finding_hash": "c09cfb0afbad21b3f84e5a404d5c65351b429056e6e59d09b3cb610fef2e5a35",
+  "evidence_digest": "sha256:f3819c94ea4b608ac51c3f20fb3980a293ab542219e3116c7c2521b664ac9a43",
+  "gate_id": "67b42690602d462cb524f065a8aa9a08",
+  "gate_seq": 2134
+ }
+}

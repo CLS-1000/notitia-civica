@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3131",
+ "measure_id": "HB3131",
+ "subject": "or_legislature/2025R1/HB3131",
+ "title": "Appropriates moneys to the Oregon Watershed Enhancement Board, out of the General Fund, for deposit in the Oregon Agricultural Heritage Fund.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3131 did not pass",
+ "claims": [
+  {
+   "text": "HB 3131 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615095
+   ]
+  },
+  {
+   "text": "HB 3131 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660021
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615095,
+    617304,
+    618981,
+    619310,
+    622042,
+    622436,
+    622437,
+    660021
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615095
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615095
+   ]
+  },
+  {
+   "date": "2025-01-22",
+   "when": "January 22, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    618981
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    622042
+   ]
+  },
+  {
+   "date": "2025-02-13",
+   "when": "February 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    622436
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3131&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3131",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3390,
+  "finding_hash": "5d414e0df51673b1f3532642bfa5c0b695ab808ad29173c511d21d98118210c2",
+  "evidence_digest": "sha256:72eb71f84f1d2fcddc7af8d8991a4df5d2a682870712f642f385d71640999e3d",
+  "gate_id": "2730ec25466c4d44bedb0e3296afe06f",
+  "gate_seq": 3391
+ }
+}

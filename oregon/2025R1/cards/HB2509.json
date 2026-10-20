@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2509",
+ "measure_id": "HB2509",
+ "subject": "or_legislature/2025R1/HB2509",
+ "title": "Directs the State Board of Education to adopt rules related to standards for instructional assistants.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2509 did not pass",
+ "claims": [
+  {
+   "text": "HB 2509 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614473
+   ]
+  },
+  {
+   "text": "HB 2509 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659794
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614473,
+    616682,
+    659794
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614473
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614473
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2509&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2509",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1524,
+  "finding_hash": "751c03f5f6eb8f290f8187dd4630956420c5c428eeb4ea2049b57a657917b62e",
+  "evidence_digest": "sha256:8dec9eea398b1690afac53292cafe0da61f904b1e83d08497b01fabb18c9bc4c",
+  "gate_id": "54b6b760c5584d9697b2f27e56ee424f",
+  "gate_seq": 1525
+ }
+}

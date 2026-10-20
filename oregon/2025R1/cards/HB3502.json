@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3502",
+ "measure_id": "HB3502",
+ "subject": "or_legislature/2025R1/HB3502",
+ "title": "Makes permanent certain provisions related to water right examiner certification.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3502 did not pass",
+ "claims": [
+  {
+   "text": "HB 3502 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620375
+   ]
+  },
+  {
+   "text": "HB 3502 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660618
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620375,
+    621048,
+    660618
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620375
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620375
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3502&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3502",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4503,
+  "finding_hash": "193dc19873ae75d48e946ae8c1af250dfaec7ef7216af04e0b59e1d8c1e463c2",
+  "evidence_digest": "sha256:393f4decc18903ab2091ad3e6c430de15f3bbb1ff061e8f0c78a70e6c3650b91",
+  "gate_id": "0ee3859d8c5f48399a360c6327ec765b",
+  "gate_seq": 4504
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 780",
+ "measure_id": "SB780",
+ "subject": "or_legislature/2025R1/SB780",
+ "title": "Removes the annual limit of $1.53 million, adjusted for inflation, on allocations from the Administrative Services Economic Development Fund to the County Fair Account.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 780 did not pass",
+ "claims": [
+  {
+   "text": "SB 780 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616084
+   ]
+  },
+  {
+   "text": "SB 780 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659184
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616084,
+    618351,
+    620202,
+    634629,
+    637427,
+    637428,
+    659184
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616084
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616084
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "when": "February 3, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620202
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    634629
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    637427
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 780&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB780",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8448,
+  "finding_hash": "ba43dac619caed467df333a7e210d8381d99e53c6ea5a48db3152e88acb5fcf2",
+  "evidence_digest": "sha256:0bf5ca2717aef2239e9f17c7a8d8ff6d2d276622fafdf051ff8f229f91b665d2",
+  "gate_id": "0cecc8105c174bb88e05972e5d7797df",
+  "gate_seq": 8449
+ }
+}

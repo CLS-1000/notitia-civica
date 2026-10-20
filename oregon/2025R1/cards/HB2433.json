@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2433",
+ "measure_id": "HB2433",
+ "subject": "or_legislature/2025R1/HB2433",
+ "title": "Provides that a public body may not discriminate against, or grant preferential treatment to, any individual or group on the basis of race, sex, color, ethnicity or national origin in the operation of public employment, public education or public contracting.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2433 did not pass",
+ "claims": [
+  {
+   "text": "HB 2433 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614397
+   ]
+  },
+  {
+   "text": "HB 2433 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660079
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614397,
+    616606,
+    660079
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614397
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614397
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2433&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2433",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1296,
+  "finding_hash": "bcbf3d37b868bce18930b8b3f08270eea3d333289a3fb291615940ac0c33514c",
+  "evidence_digest": "sha256:f122e4c00aa5a99fa46f413d8fdc184d27e67156d3c1ecdadb6c0a4bae07f17b",
+  "gate_id": "69413507cfde4b748ad5a420bf7b7ef8",
+  "gate_seq": 1297
+ }
+}

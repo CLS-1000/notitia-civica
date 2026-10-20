@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 772",
+ "measure_id": "SB772",
+ "subject": "or_legislature/2025R1/SB772",
+ "title": "Establishes the Indian Health Scholarship Program to provide free tuition and fees for qualifying Indian health profession students in exchange for the student's commitment to work at a tribal service site after graduation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 772 did not pass",
+ "claims": [
+  {
+   "text": "SB 772 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616076
+   ]
+  },
+  {
+   "text": "SB 772 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659177
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616076,
+    618343,
+    627898,
+    639118,
+    641444,
+    641445,
+    659177
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616076
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616076
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627898
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639118
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    641444
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 772&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB772",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8424,
+  "finding_hash": "14f59956d1b88d0647c49f8963e3f26e8195eaf2048ef91f3c8c301ca250ef3d",
+  "evidence_digest": "sha256:16439857f8a337cdba913e293e90455898c1c60122dafd1978ad40a326e2723f",
+  "gate_id": "9ddf476e68164b26965bfb74a0b8b312",
+  "gate_seq": 8425
+ }
+}

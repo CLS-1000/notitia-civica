@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 357",
+ "measure_id": "SB357",
+ "subject": "or_legislature/2025R1/SB357",
+ "title": "Authorizes ports to assess public bodies for a portion of the costs of removing sediment from port waters.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 357 did not pass",
+ "claims": [
+  {
+   "text": "SB 357 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615662
+   ]
+  },
+  {
+   "text": "SB 357 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658743
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615662,
+    617929,
+    632799,
+    658743
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615662
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615662
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632799
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658743
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 357&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB357",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7179,
+  "finding_hash": "6ecbed28df6ccdfe3bcb9d96b0fe9c2160600c5ba445fa8a5575874e0f353128",
+  "evidence_digest": "sha256:2548a17c8df7255fc25ac97d30a07d64fde2842ee3199be2585ae59ec5766131",
+  "gate_id": "729d9656b3f043e693c54c0f6bd6f62a",
+  "gate_seq": 7180
+ }
+}

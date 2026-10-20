@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 756",
+ "measure_id": "SB756",
+ "subject": "or_legislature/2025R1/SB756",
+ "title": "Requires the Oregon Health Authority and coordinated care organizations to reimburse the cost of clinically validated blood pressure cuffs prescribed to medical assistance recipients.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 756 did not pass",
+ "claims": [
+  {
+   "text": "SB 756 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616060
+   ]
+  },
+  {
+   "text": "SB 756 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659163
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616060,
+    618327,
+    659163
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616060
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616060
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 756&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB756",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8376,
+  "finding_hash": "09b628fe249fe338301a04693a7f96970850dd012e9b116510ed155964d2f5ce",
+  "evidence_digest": "sha256:373d16dd04c157e79c9ca8b67bfa944b571a57e2c8101a3db12bc2f60e9d38b0",
+  "gate_id": "f60f92768ff44370be40fa9e9c4afac9",
+  "gate_seq": 8377
+ }
+}

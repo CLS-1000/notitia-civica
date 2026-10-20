@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3068",
+ "measure_id": "HB3068",
+ "subject": "or_legislature/2025R1/HB3068",
+ "title": "Requires the Department of Corrections to study community corrections.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3068 did not pass",
+ "claims": [
+  {
+   "text": "HB 3068 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615032
+   ]
+  },
+  {
+   "text": "HB 3068 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660948
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615032,
+    617241,
+    660948
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615032
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615032
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3068&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3068",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3201,
+  "finding_hash": "2d39254b71c365eb7ea84cddf23811ae233e2cf77c4e55e2e1a249739dea6147",
+  "evidence_digest": "sha256:c6536f21f31270da2d8e53cfca5afe2e0b0c141277dcd81db44551555d5c323d",
+  "gate_id": "c88f32b63b664debab901ad6929b580d",
+  "gate_seq": 3202
+ }
+}

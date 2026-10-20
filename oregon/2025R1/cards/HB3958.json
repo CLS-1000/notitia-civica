@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3958",
+ "measure_id": "HB3958",
+ "subject": "or_legislature/2025R1/HB3958",
+ "title": "Provides that notwithstanding any municipality's ordinance, rule or regulation to the contrary, the state building code applies exclusively and uniformly to any building or structure in which construction, reconstruction, renovation or remodeling occurs for the purpose of converting commercial office space to housing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3958 did not pass",
+ "claims": [
+  {
+   "text": "HB 3958 was introduced in the House on April 10, 2025.",
+   "row_ids": [
+    639654
+   ]
+  },
+  {
+   "text": "HB 3958 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660306
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    639654,
+    640677,
+    660306
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    639654
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    639654
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3958&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3958",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5871,
+  "finding_hash": "f03e9455f5e30d499fe6917ced59e5fc29d68f44e38f55ac93fca71ded7827a3",
+  "evidence_digest": "sha256:881bade2b3ea7c8005cbfcdabb84e5b34a59d245b8e6474eb7e823be407a9713",
+  "gate_id": "cf4ed10ff02c4935ab6070659084f154",
+  "gate_seq": 5872
+ }
+}

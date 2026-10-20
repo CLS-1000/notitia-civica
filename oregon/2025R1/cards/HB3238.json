@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3238",
+ "measure_id": "HB3238",
+ "subject": "or_legislature/2025R1/HB3238",
+ "title": "Requires the office of Enterprise Information Services to study cybersecurity.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3238 did not pass",
+ "claims": [
+  {
+   "text": "HB 3238 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615202
+   ]
+  },
+  {
+   "text": "HB 3238 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660188
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615202,
+    617411,
+    660188
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615202
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615202
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3238&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3238",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3711,
+  "finding_hash": "933737dafefca0bfdd85e59c82127d8bd2050dcdc86e2813b959dc1d77c25293",
+  "evidence_digest": "sha256:aec2b2448fed70b55d22025afe514e7e8461ad0dc32c6b40fd4de338db7ca627",
+  "gate_id": "2c4f1eb257a348df9e9064be6097f3be",
+  "gate_seq": 3712
+ }
+}

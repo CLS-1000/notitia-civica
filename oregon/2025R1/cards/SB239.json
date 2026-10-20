@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 239",
+ "measure_id": "SB239",
+ "subject": "or_legislature/2025R1/SB239",
+ "title": "Requires the State Court Administrator to study lawsuits and submit findings to the interim committees of the Legislative Assembly related to the judiciary not later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 239 did not pass",
+ "claims": [
+  {
+   "text": "SB 239 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615544
+   ]
+  },
+  {
+   "text": "SB 239 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658636
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615544,
+    617811,
+    658636
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615544
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615544
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 239&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB239",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6825,
+  "finding_hash": "2b4c9b3e46f9c5a9ea4511e3b129c538c61146368c7fa40a14770767bdfa8258",
+  "evidence_digest": "sha256:0bcd045f3bd46c5520f6635b0430e301669304922f9528c4589f111b776d2666",
+  "gate_id": "6e9ea1602f1c42f1bfd93544c5383059",
+  "gate_seq": 6826
+ }
+}

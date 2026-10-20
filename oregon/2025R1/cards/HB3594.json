@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3594",
+ "measure_id": "HB3594",
+ "subject": "or_legislature/2025R1/HB3594",
+ "title": "Allows students enrolled full-time in an Oregon institution of higher education to be treated as residents for the purpose of purchasing licenses, tags and permits issued by the State Fish and Wildlife Commission.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3594 did not pass",
+ "claims": [
+  {
+   "text": "HB 3594 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622929
+   ]
+  },
+  {
+   "text": "HB 3594 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659791
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622929,
+    623484,
+    659791
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622929
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622929
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3594&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3594",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4779,
+  "finding_hash": "48d9e44956db8d836bffecc5e09f7912c34b472874b54fa54a574c15fd9dc926",
+  "evidence_digest": "sha256:e69d2fab753552b0fa8b1219a9db734fda49028fba2ecb143517c02fb41a9555",
+  "gate_id": "483367c0827542a4abc86992c7bd736b",
+  "gate_seq": 4780
+ }
+}

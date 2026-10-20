@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3852",
+ "measure_id": "HB3852",
+ "subject": "or_legislature/2025R1/HB3852",
+ "title": "Requires the Department of Human Services to study services for seniors.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3852 did not pass",
+ "claims": [
+  {
+   "text": "HB 3852 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625028
+   ]
+  },
+  {
+   "text": "HB 3852 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661285
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625028,
+    626437,
+    661285
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625028
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625028
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3852&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3852",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5553,
+  "finding_hash": "4b582e4952a78a7b26d6f98e8ef3688edf3f68e16ebf140d232df8b74abcfdfe",
+  "evidence_digest": "sha256:0d402ef4571bdc59a5d57235532d5e53dc7f63d47bab1d92cf88042638cbf9ea",
+  "gate_id": "1798838116fd40829ef7728d3ce654b5",
+  "gate_seq": 5554
+ }
+}

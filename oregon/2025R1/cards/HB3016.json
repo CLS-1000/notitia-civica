@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3016",
+ "measure_id": "HB3016",
+ "subject": "or_legislature/2025R1/HB3016",
+ "title": "Directs the Environmental Quality Commission to establish a program to provide rebate vouchers for the replacement of combustion lawn and garden equipment with zero-emission lawn and garden equipment.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3016 did not pass",
+ "claims": [
+  {
+   "text": "HB 3016 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614980
+   ]
+  },
+  {
+   "text": "HB 3016 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660367
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614980,
+    617189,
+    660367
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614980
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614980
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3016&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3016",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3045,
+  "finding_hash": "442528a555f35b148ad2fa870ff97fce4aef87cc4c20557cc0fa67045bcabd16",
+  "evidence_digest": "sha256:5f729e4b04ff14987a2b3bd03011e8eed785dfc31de281f36552f953ef2f683c",
+  "gate_id": "7986a8556ec1482f9b09a9236380542b",
+  "gate_seq": 3046
+ }
+}

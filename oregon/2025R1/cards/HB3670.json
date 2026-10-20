@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3670",
+ "measure_id": "HB3670",
+ "subject": "or_legislature/2025R1/HB3670",
+ "title": "Requires a company or state agency that diverts a body of water within 15 miles of high-value farmland to conduct a study to ensure that the diversion will not negatively impact the high-value farmland.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3670 did not pass",
+ "claims": [
+  {
+   "text": "HB 3670 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624354
+   ]
+  },
+  {
+   "text": "HB 3670 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660419
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624354,
+    625215,
+    660419
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624354
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624354
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3670&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3670",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5007,
+  "finding_hash": "e3ff9846425f7769e255a38cab8ddc62286bf4d54f3e123d77f049440c4e5ad1",
+  "evidence_digest": "sha256:ff95ad71d3b7e637a070f302f6cb1eb6a1991d6c36213264f7c512e8742b4fa7",
+  "gate_id": "b19f0b08888249848c7e77c761ca2ff5",
+  "gate_seq": 5008
+ }
+}

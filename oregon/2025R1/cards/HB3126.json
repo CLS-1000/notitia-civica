@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3126",
+ "measure_id": "HB3126",
+ "subject": "or_legislature/2025R1/HB3126",
+ "title": "Directs the Teacher Standards and Practices Commission to establish by rule a five-year pilot program to license teachers other than career and technical education teachers in this state in a manner similar to the career and technical education teaching license program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3126 did not pass",
+ "claims": [
+  {
+   "text": "HB 3126 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615090
+   ]
+  },
+  {
+   "text": "HB 3126 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660017
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615090,
+    617299,
+    660017
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615090
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615090
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3126&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3126",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3375,
+  "finding_hash": "a1507cf90d1d8fedbf1d03f6b3ecabac667086e43d126a83c4f3838dfab5ce6f",
+  "evidence_digest": "sha256:b3b5887578889e4719263d685fac0bc1a1d2094a612b73cc16c356f4d9321349",
+  "gate_id": "abf39275ed5e404faa185cb6f1bc1a26",
+  "gate_seq": 3376
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3625",
+ "measure_id": "HB3625",
+ "subject": "or_legislature/2025R1/HB3625",
+ "title": "Allows a public safety agency to charge fees to an entity that overuses the public safety services of the agency.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3625 did not pass",
+ "claims": [
+  {
+   "text": "HB 3625 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622960
+   ]
+  },
+  {
+   "text": "HB 3625 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660141
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622960,
+    623515,
+    660141
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622960
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622960
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3625&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3625",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4872,
+  "finding_hash": "a0ee415622139af6ff52fce714dac605c3405428794712950ae27269fab3380b",
+  "evidence_digest": "sha256:6a3bfaf288613e116f743dc01e5600ec4f081e635d11599342265ae59e3c6905",
+  "gate_id": "327e26a6c4754efebff3a0f52b805ead",
+  "gate_seq": 4873
+ }
+}

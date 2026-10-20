@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 510",
+ "measure_id": "SB510",
+ "subject": "or_legislature/2025R1/SB510",
+ "title": "Requires the Public Utility Commission to study the rate impacts associated with implementing the reduction of greenhouse gas emissions required by House Bill 2021 (2021).",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 510 did not pass",
+ "claims": [
+  {
+   "text": "SB 510 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615815
+   ]
+  },
+  {
+   "text": "SB 510 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659346
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615815,
+    618082,
+    659346
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615815
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615815
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 510&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB510",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7638,
+  "finding_hash": "90b1df52209633710ef3b2d5924da71cc5d7183a5dd67e85b06fcbee957a1ee3",
+  "evidence_digest": "sha256:4afaa785fc27b618585141d3b12004181f605d545f2411fd6f92059e2b77072b",
+  "gate_id": "5d08bb04a7534accab36344d480f6b47",
+  "gate_seq": 7639
+ }
+}

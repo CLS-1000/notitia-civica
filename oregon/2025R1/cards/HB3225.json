@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3225",
+ "measure_id": "HB3225",
+ "subject": "or_legislature/2025R1/HB3225",
+ "title": "Specifies qualifications for a physician who is among the majority of the shareholders or directors of a professional corporation organized for the purpose of practicing medicine.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3225 did not pass",
+ "claims": [
+  {
+   "text": "HB 3225 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615189
+   ]
+  },
+  {
+   "text": "HB 3225 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660178
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615189,
+    617398,
+    633984,
+    660178
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615189
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615189
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633984
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660178
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3225&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3225",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3672,
+  "finding_hash": "80fd6de3577edb326e7302593cdc97c286871bc7722d36eae96c81562e89f4e7",
+  "evidence_digest": "sha256:5ce243971550bd97b841e6ced2be279e66d2495d77d32015aac687da8bfc8398",
+  "gate_id": "4d2a6990b6c244419ed63ccfdbccecb4",
+  "gate_seq": 3673
+ }
+}

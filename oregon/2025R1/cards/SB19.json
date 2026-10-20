@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 19",
+ "measure_id": "SB19",
+ "subject": "or_legislature/2025R1/SB19",
+ "title": "Modifies vehicle emissions testing exemptions to include motor vehicles and engines with model years that predate the current year by less than six years.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 19 did not pass",
+ "claims": [
+  {
+   "text": "SB 19 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615324
+   ]
+  },
+  {
+   "text": "SB 19 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659409
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615324,
+    617591,
+    659409
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615324
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615324
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 19&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB19",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6165,
+  "finding_hash": "1726bc1ef544e399d1ae8fa02126bdcdf8f02ec8909bca8e37b1855e1d1bd387",
+  "evidence_digest": "sha256:d2999db4ae562ff0f5bf449f9e5395c58660d7c4f3258bdefb9a85ab2606a000",
+  "gate_id": "a65a5f7213404d2c849eac9d0fc0eb6f",
+  "gate_seq": 6166
+ }
+}

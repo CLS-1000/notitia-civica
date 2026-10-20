@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2164",
+ "measure_id": "HB2164",
+ "subject": "or_legislature/2025R1/HB2164",
+ "title": "Appropriates moneys to the State Department of Agriculture for purposes related to a program of state inspection for the processing and sale of meat products from nonamenable species.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2164 did not pass",
+ "claims": [
+  {
+   "text": "HB 2164 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614128
+   ]
+  },
+  {
+   "text": "HB 2164 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660213
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614128,
+    616337,
+    618979,
+    620166,
+    620279,
+    620280,
+    660213
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614128
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614128
+   ]
+  },
+  {
+   "date": "2025-01-22",
+   "when": "January 22, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    618979
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "when": "February 3, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    620166
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "when": "February 3, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    620279
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2164&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2164",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 489,
+  "finding_hash": "21708671d457147b90845a3236bca316f22857c3903bf60112fe9a850c4be18e",
+  "evidence_digest": "sha256:726e8b5713e235d953b3bcfb67e6b8987b054803e3d13813249e7077df526fb3",
+  "gate_id": "a33fbe2e16b8458db12c1da6107365ce",
+  "gate_seq": 490
+ }
+}

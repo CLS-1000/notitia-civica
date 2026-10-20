@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1007",
+ "measure_id": "SB1007",
+ "subject": "or_legislature/2025R1/SB1007",
+ "title": "Modifies provisions relating to petitions for compensation for wrongful conviction.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1007 did not pass",
+ "claims": [
+  {
+   "text": "SB 1007 was introduced in the Senate on February 11, 2025.",
+   "row_ids": [
+    621777
+   ]
+  },
+  {
+   "text": "SB 1007 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658578
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621777,
+    621882,
+    625431,
+    629216,
+    630252,
+    630253,
+    658578
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    621777
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621777
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625431
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629216
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    630252
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1007&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1007",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9129,
+  "finding_hash": "4dfc190b9ecda5b6d097fba5b0c72874b4734be07b2c43780e4dd6b65500e24f",
+  "evidence_digest": "sha256:8a36535044b0701975d1bc115603b6ae075986655626aa2c4283c6d81ba03fb7",
+  "gate_id": "ead3d0b38ed044d19a5b48fa0cf43231",
+  "gate_seq": 9130
+ }
+}

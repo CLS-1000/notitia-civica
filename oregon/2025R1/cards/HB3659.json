@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3659",
+ "measure_id": "HB3659",
+ "subject": "or_legislature/2025R1/HB3659",
+ "title": "Prescribes methodology for the preparation of revenue estimates used in the budgeting process and as applicable to the surplus revenue refund process.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3659 did not pass",
+ "claims": [
+  {
+   "text": "HB 3659 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624343
+   ]
+  },
+  {
+   "text": "HB 3659 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660408
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624343,
+    625204,
+    660408
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624343
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624343
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3659&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3659",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4974,
+  "finding_hash": "cecfa01c3fd9edeae1dcd537ae0451f0bdbb67f1c2bb846e592d2a6f0dbcfc9a",
+  "evidence_digest": "sha256:ae4ffdb46df37e17808ce37487d21dfaa0cf0f9195f42b7f9c7786a642e4ef57",
+  "gate_id": "1600d85676ca43c399462536b111da0f",
+  "gate_seq": 4975
+ }
+}

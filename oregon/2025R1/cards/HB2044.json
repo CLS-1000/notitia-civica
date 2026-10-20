@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2044",
+ "measure_id": "HB2044",
+ "subject": "or_legislature/2025R1/HB2044",
+ "title": "Requires the Department of Education, in collaboration with the STEM Investment Council, to conduct specified reviews for the purpose of developing and recommending standards by which technology-based competitive student activities may satisfy high school diploma requirements or career and technical education program requirements.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2044 did not pass",
+ "claims": [
+  {
+   "text": "HB 2044 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614008
+   ]
+  },
+  {
+   "text": "HB 2044 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660811
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614008,
+    616217,
+    660811
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614008
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614008
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2044&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2044",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 129,
+  "finding_hash": "c12277830f0a09819950408df8bae127edf21d9367381f07ed01dbb87fa3fbc2",
+  "evidence_digest": "sha256:9398c1afad7bbf000a0294b9cf4d73bc0d70c055ce03d9c30a53af5e4d8b85bc",
+  "gate_id": "39f07b2fcbf24457a57b3a180570c5d7",
+  "gate_seq": 130
+ }
+}

@@ -1,0 +1,275 @@
+{
+ "session": "2025R1",
+ "measure": "SB 166",
+ "measure_id": "SB166",
+ "subject": "or_legislature/2025R1/SB166",
+ "title": "Changes the term \"member\" of the Oregon State Bar to the term \"licensee\" of the Oregon State Bar.",
+ "outcome": "law",
+ "outcome_label": "Became law",
+ "headline": "SB 166 became law",
+ "claims": [
+  {
+   "text": "SB 166 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615471
+   ]
+  },
+  {
+   "text": "The Governor signed SB 166 into law on May 7, 2025.",
+   "row_ids": [
+    645283
+   ]
+  },
+  {
+   "text": "Each of the 19 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615471,
+    617738,
+    619076,
+    619989,
+    620671,
+    620910,
+    621805,
+    623095,
+    623523,
+    641081,
+    642375,
+    642626,
+    642786,
+    643115,
+    643410,
+    643518,
+    645283,
+    646788,
+    646796
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615471
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615471
+   ]
+  },
+  {
+   "date": "2025-01-23",
+   "when": "January 23, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619076
+   ]
+  },
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    619989
+   ]
+  },
+  {
+   "date": "2025-02-05",
+   "when": "February 5, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    620671
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    620910
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    621805
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    621805
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Arrived in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    623095
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623095
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    641081
+   ]
+  },
+  {
+   "date": "2025-04-22",
+   "when": "April 22, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    642375
+   ]
+  },
+  {
+   "date": "2025-04-23",
+   "when": "April 23, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    642626
+   ]
+  },
+  {
+   "date": "2025-04-24",
+   "when": "April 24, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    642786
+   ]
+  },
+  {
+   "date": "2025-04-28",
+   "when": "April 28, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    643115
+   ]
+  },
+  {
+   "date": "2025-04-28",
+   "when": "April 28, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    643115
+   ]
+  },
+  {
+   "date": "2025-04-29",
+   "when": "April 29, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    643410
+   ]
+  },
+  {
+   "date": "2025-04-29",
+   "when": "April 29, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    643518
+   ]
+  },
+  {
+   "date": "2025-05-07",
+   "when": "May 7, 2025",
+   "chamber": "S",
+   "state": "enacted",
+   "text": "Signed into law by the Governor",
+   "rule_id": "governor_signed",
+   "row_ids": [
+    645283
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-05-14",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 166&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB166",
+ "row_count": 19,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6606,
+  "finding_hash": "3269144141d6e905795203c83f25a288efe614fe4b20c50594a595e6675d755d",
+  "evidence_digest": "sha256:f5d6e67d66a0152081c77b5ddc75c0325ae5724c63eee648c9eee5eb38010ff2",
+  "gate_id": "5e220bf9616e4de4a4c6bdd4017c726c",
+  "gate_seq": 6607
+ }
+}

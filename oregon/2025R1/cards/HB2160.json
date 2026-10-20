@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2160",
+ "measure_id": "HB2160",
+ "subject": "or_legislature/2025R1/HB2160",
+ "title": "Requires the Department of Transportation to study the development of uniform standards for speed bump height and markings.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2160 did not pass",
+ "claims": [
+  {
+   "text": "HB 2160 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614124
+   ]
+  },
+  {
+   "text": "HB 2160 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660210
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614124,
+    616333,
+    660210
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614124
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614124
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2160&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2160",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 477,
+  "finding_hash": "d9afbb4ef69e6487600cde94615b5d1e50cc87eb93919f21df54a641580d6d5f",
+  "evidence_digest": "sha256:b1418ea408006ae1e2ef7844161eef51a14b3144bc79c619eb96be50f098bae7",
+  "gate_id": "645763bf70a74f72ab67233af1a2c48f",
+  "gate_seq": 478
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 177",
+ "measure_id": "SB177",
+ "subject": "or_legislature/2025R1/SB177",
+ "title": "Modifies discovery procedures.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 177 did not pass",
+ "claims": [
+  {
+   "text": "SB 177 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615482
+   ]
+  },
+  {
+   "text": "SB 177 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659504
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615482,
+    617749,
+    659504
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615482
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615482
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 177&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB177",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6639,
+  "finding_hash": "5c4f651d61eb562e10ded9b969d3b5d2f7947b7bd86e59236318c6a830183e38",
+  "evidence_digest": "sha256:82b982dea9b29124fc820e0ea1b0ee955d0077ce022606c4d31f1a2e8fd47825",
+  "gate_id": "bd017bb0fc084f5bbaeea92eaf4d6553",
+  "gate_seq": 6640
+ }
+}

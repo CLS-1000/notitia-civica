@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3894",
+ "measure_id": "HB3894",
+ "subject": "or_legislature/2025R1/HB3894",
+ "title": "Allows the State Forester to lease forestlands for the purpose of siting energy facilities that use wind energy.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3894 did not pass",
+ "claims": [
+  {
+   "text": "HB 3894 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625070
+   ]
+  },
+  {
+   "text": "HB 3894 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661098
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625070,
+    626479,
+    661098
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625070
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625070
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3894&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3894",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5679,
+  "finding_hash": "8a33937b95b0db3be392d1b6882f8fbe1b20edd4ef3fd253b146ab6d4c6d242a",
+  "evidence_digest": "sha256:36166696d06c5102cac5561d2277e3125a9d0dbcae489421c27d72a2ced76ed0",
+  "gate_id": "20e7be2f1fbe455e81100b81b305f90a",
+  "gate_seq": 5680
+ }
+}

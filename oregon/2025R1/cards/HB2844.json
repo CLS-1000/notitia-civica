@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2844",
+ "measure_id": "HB2844",
+ "subject": "or_legislature/2025R1/HB2844",
+ "title": "Creates statewide preparedness offices in the Oregon Department of Administrative Services and the Oregon Department of Public Safety Standards and Training.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2844 did not pass",
+ "claims": [
+  {
+   "text": "HB 2844 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614808
+   ]
+  },
+  {
+   "text": "HB 2844 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660679
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614808,
+    617017,
+    660679
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614808
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614808
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2844&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2844",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2529,
+  "finding_hash": "a2e91c135cbcec9ea0e243344fdf0b5c4f721eec385201c361543d8df980f5a7",
+  "evidence_digest": "sha256:18acf4463b71d8a1eba1919886e189ff5c3f54548e867e3d9a38698d746bde5c",
+  "gate_id": "d0ccb5851b2341feafc82ed9cd369789",
+  "gate_seq": 2530
+ }
+}

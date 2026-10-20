@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 237",
+ "measure_id": "SB237",
+ "subject": "or_legislature/2025R1/SB237",
+ "title": "Requires the Oregon Youth Authority to study the demographics of juveniles in the juvenile justice system in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 237 did not pass",
+ "claims": [
+  {
+   "text": "SB 237 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615542
+   ]
+  },
+  {
+   "text": "SB 237 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658635
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615542,
+    617809,
+    658635
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615542
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615542
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 237&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB237",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6819,
+  "finding_hash": "56d0be363a898e48d51920c975e7e69e3c1f101876bd25ed3496a2e866d6128d",
+  "evidence_digest": "sha256:6f04da42356f501d7320072e844f50a3ca9a2bf6f7601199ccf774582a127ba4",
+  "gate_id": "e6f3436ffa22474198023b86f7396b23",
+  "gate_seq": 6820
+ }
+}

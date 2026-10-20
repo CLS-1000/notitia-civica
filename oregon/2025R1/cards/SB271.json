@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 271",
+ "measure_id": "SB271",
+ "subject": "or_legislature/2025R1/SB271",
+ "title": "Requires the Department of Public Safety Standards and Training to study public safety standards.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 271 did not pass",
+ "claims": [
+  {
+   "text": "SB 271 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615576
+   ]
+  },
+  {
+   "text": "SB 271 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658667
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615576,
+    617843,
+    658667
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615576
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615576
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 271&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB271",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6921,
+  "finding_hash": "ef4df9b44c5686594647a1c018ff6ec45ce348c5c302e07239ab30ab539999ae",
+  "evidence_digest": "sha256:0d1db70ecf20658e54c0f374dd5a52b910cb61f4df43f9c02d3b8f43f8de26aa",
+  "gate_id": "bc1e2283a15f467b96a02f5d4efea5cf",
+  "gate_seq": 6922
+ }
+}

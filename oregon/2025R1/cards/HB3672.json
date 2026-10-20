@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3672",
+ "measure_id": "HB3672",
+ "subject": "or_legislature/2025R1/HB3672",
+ "title": "Permits contracting agencies to grant a preference in awarding a public improvement contract to a benefit company organized in this state and with a majority of the benefit company's employees located in this state, or to prospective contractors that fabricate or process construction materials in this state, if the increase in the cost of the construction materials does not exceed a specified percentage.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3672 did not pass",
+ "claims": [
+  {
+   "text": "HB 3672 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624356
+   ]
+  },
+  {
+   "text": "HB 3672 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660421
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624356,
+    625217,
+    660421
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624356
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624356
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3672&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3672",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5013,
+  "finding_hash": "31a7aaa4becc17c4f10e25933755504be1f7788715c41b2dda37e55edc1fe9df",
+  "evidence_digest": "sha256:3350f68939b51277817ad218ddd5d18d77ed85b3ed4ed9a2f37358067e25ce54",
+  "gate_id": "a8e779ecba1647569ad967b9edee2202",
+  "gate_seq": 5014
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2207",
+ "measure_id": "HB2207",
+ "subject": "or_legislature/2025R1/HB2207",
+ "title": "Directs the Oregon Health Authority to adopt standards for external quality reviews of coordinated care organizations that are aligned with standards published by the National Committee for Quality Assurance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2207 did not pass",
+ "claims": [
+  {
+   "text": "HB 2207 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614171
+   ]
+  },
+  {
+   "text": "HB 2207 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661053
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614171,
+    616380,
+    661053
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614171
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614171
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2207&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2207",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 618,
+  "finding_hash": "8d729fb1d8251cb04b7068169f249ad265b6637ebcb420f3b0a0f971b854523d",
+  "evidence_digest": "sha256:f02f50cb385865b9a38a6a62c2464357437f7e3f981353eb3560f79a1742fa0d",
+  "gate_id": "a4dce43427da429daa950ccfa4c7b561",
+  "gate_seq": 619
+ }
+}

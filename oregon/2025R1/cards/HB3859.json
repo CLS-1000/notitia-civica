@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3859",
+ "measure_id": "HB3859",
+ "subject": "or_legislature/2025R1/HB3859",
+ "title": "Abolishes the Educator Advancement Council and educator networks.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3859 did not pass",
+ "claims": [
+  {
+   "text": "HB 3859 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625035
+   ]
+  },
+  {
+   "text": "HB 3859 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661067
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625035,
+    626444,
+    661067
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625035
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625035
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3859&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3859",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5574,
+  "finding_hash": "34ba737c2f9e19857fc2c8d622b9330dfaf42cdde95419f9c2923e41fde3fadc",
+  "evidence_digest": "sha256:17177197311fbd6cce57c5ebe581b138fbeb86f3c97844fe94c3f2f120f353f5",
+  "gate_id": "90691f23cdc949919b839e13c248a66a",
+  "gate_seq": 5575
+ }
+}

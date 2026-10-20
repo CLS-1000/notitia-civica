@@ -1,0 +1,337 @@
+{
+ "session": "2025R1",
+ "measure": "SB 230",
+ "measure_id": "SB230",
+ "subject": "or_legislature/2025R1/SB230",
+ "title": "Directs the Oregon Health Authority to require oral health care providers to complete an intake screening with an enrollee of the Veterans Dental Program within 60 days after the enrollee initiates contact with the provider.",
+ "outcome": "law",
+ "outcome_label": "Became law",
+ "headline": "SB 230 became law",
+ "claims": [
+  {
+   "text": "SB 230 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615535
+   ]
+  },
+  {
+   "text": "The Governor signed SB 230 into law on July 24, 2025.",
+   "row_ids": [
+    661812
+   ]
+  },
+  {
+   "text": "Each of the 26 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615535,
+    617802,
+    619566,
+    628304,
+    629690,
+    629691,
+    650295,
+    650297,
+    650296,
+    652377,
+    653920,
+    654071,
+    654822,
+    655239,
+    655413,
+    656573,
+    656820,
+    657330,
+    657875,
+    658065,
+    658285,
+    659619,
+    659723,
+    661812,
+    662061,
+    662084
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615535
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615535
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619566
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    628304
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    629690
+   ]
+  },
+  {
+   "date": "2025-05-23",
+   "when": "May 23, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Assigned to a Senate subcommittee",
+   "rule_id": "assigned_subcommittee",
+   "row_ids": [
+    650295
+   ]
+  },
+  {
+   "date": "2025-05-28",
+   "when": "May 28, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    650297
+   ]
+  },
+  {
+   "date": "2025-05-28",
+   "when": "May 28, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Returned to the full Senate committee",
+   "rule_id": "returned_full_committee",
+   "row_ids": [
+    650296
+   ]
+  },
+  {
+   "date": "2025-06-06",
+   "when": "June 6, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    652377
+   ]
+  },
+  {
+   "date": "2025-06-12",
+   "when": "June 12, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    653920
+   ]
+  },
+  {
+   "date": "2025-06-12",
+   "when": "June 12, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    654071
+   ]
+  },
+  {
+   "date": "2025-06-16",
+   "when": "June 16, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    654822
+   ]
+  },
+  {
+   "date": "2025-06-16",
+   "when": "June 16, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    654822
+   ]
+  },
+  {
+   "date": "2025-06-17",
+   "when": "June 17, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Arrived in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    655239
+   ]
+  },
+  {
+   "date": "2025-06-17",
+   "when": "June 17, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    655239
+   ]
+  },
+  {
+   "date": "2025-06-20",
+   "when": "June 20, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    656573
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    656820
+   ]
+  },
+  {
+   "date": "2025-06-24",
+   "when": "June 24, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    657330
+   ]
+  },
+  {
+   "date": "2025-06-26",
+   "when": "June 26, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    658065
+   ]
+  },
+  {
+   "date": "2025-06-26",
+   "when": "June 26, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    658065
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "repassed",
+   "row_ids": [
+    658285
+   ]
+  },
+  {
+   "date": "2025-06-30",
+   "when": "June 30, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    659619
+   ]
+  },
+  {
+   "date": "2025-06-30",
+   "when": "June 30, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    659723
+   ]
+  },
+  {
+   "date": "2025-07-24",
+   "when": "July 24, 2025",
+   "chamber": "S",
+   "state": "enacted",
+   "text": "Signed into law by the Governor",
+   "rule_id": "governor_signed",
+   "row_ids": [
+    661812
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-08-08",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 230&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB230",
+ "row_count": 26,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6798,
+  "finding_hash": "3db3b133f67a858a317c0dd54b55201abb0b7d96c8f7443384c0fe3a19fd0590",
+  "evidence_digest": "sha256:8e5880687097ac82d11ab5fc5456971d2b2372fe0cc4798f768de66020b8883d",
+  "gate_id": "c8801a1e654347eca768fc8ca97bd060",
+  "gate_seq": 6799
+ }
+}

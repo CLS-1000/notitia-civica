@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2152",
+ "measure_id": "HB2152",
+ "subject": "or_legislature/2025R1/HB2152",
+ "title": "Directs the State Department of Energy to develop and implement a Statewide Geographic Diversity of Fueling Stations for Disaster Reserves Priority Action Plan.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2152 did not pass",
+ "claims": [
+  {
+   "text": "HB 2152 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614116
+   ]
+  },
+  {
+   "text": "HB 2152 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660204
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614116,
+    616325,
+    625384,
+    638965,
+    640822,
+    640823,
+    660204
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614116
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614116
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625384
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638965
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640822
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2152&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2152",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 453,
+  "finding_hash": "fa3986b21e5fca7825a9c0bd5878522ddec1a3d9b66e0b409e4bbce9e587d736",
+  "evidence_digest": "sha256:de59ef97932d6b572bed14202246e6097f4e1f0a447843f4c5c86c9a175d5018",
+  "gate_id": "45ae0e9eb4b14c41b6c3e33ac5e3df4e",
+  "gate_seq": 454
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "session": "2025R1",
+ "measure": "SCR 5",
+ "measure_id": "SCR5",
+ "subject": "or_legislature/2025R1/SCR5",
+ "title": "Commends the 2023 and 2024 back-to-back state champion Thurston High School baseball teams for outstanding seasons.",
+ "outcome": "adopted",
+ "outcome_label": "Adopted",
+ "headline": "SCR 5 was adopted",
+ "claims": [
+  {
+   "text": "SCR 5 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615214
+   ]
+  },
+  {
+   "text": "SCR 5 was adopted; the last recorded step was on May 14, 2025.",
+   "row_ids": [
+    646828
+   ]
+  },
+  {
+   "text": "Each of the 15 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615214,
+    617481,
+    622127,
+    622816,
+    623071,
+    623616,
+    624254,
+    625302,
+    645201,
+    645821,
+    646099,
+    646100,
+    646589,
+    646818,
+    646828
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615214
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615214
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    622127
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it be adopted",
+   "rule_id": "rec_do_adopt",
+   "row_ids": [
+    622816
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    623071
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "final_reading",
+   "row_ids": [
+    623616
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "adopted",
+   "text": "Adopted by the Senate",
+   "rule_id": "adopted",
+   "row_ids": [
+    623616
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Arrived in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624254
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624254
+   ]
+  },
+  {
+   "date": "2025-05-07",
+   "when": "May 7, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    645201
+   ]
+  },
+  {
+   "date": "2025-05-08",
+   "when": "May 8, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it be adopted",
+   "rule_id": "rec_be_adopted",
+   "row_ids": [
+    645821
+   ]
+  },
+  {
+   "date": "2025-05-12",
+   "when": "May 12, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "read_special_order",
+   "row_ids": [
+    646100
+   ]
+  },
+  {
+   "date": "2025-05-12",
+   "when": "May 12, 2025",
+   "chamber": "H",
+   "state": "adopted",
+   "text": "Adopted by the House",
+   "rule_id": "adopted",
+   "row_ids": [
+    646100
+   ]
+  },
+  {
+   "date": "2025-05-13",
+   "when": "May 13, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    646589
+   ]
+  },
+  {
+   "date": "2025-05-14",
+   "when": "May 14, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    646818
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-05-14",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SCR' and MeasureNumber eq 5&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SCR5",
+ "row_count": 15,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10290,
+  "finding_hash": "252797a6b485f12a975c2bbaaef86ba91ac6b74f2d4583097d3d0d1e2d49210c",
+  "evidence_digest": "sha256:2f5b4319d490945c8e6996124eccdcac5fe8c3c3b456b88766517a6a890d199b",
+  "gate_id": "3422cfc24d4a4f8b88bf99f4a2d75e16",
+  "gate_seq": 10291
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 328",
+ "measure_id": "SB328",
+ "subject": "or_legislature/2025R1/SB328",
+ "title": "Prohibits an animal shelter from destroying a dog or cat on the basis of a lack of space for housing the dog or cat.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 328 did not pass",
+ "claims": [
+  {
+   "text": "SB 328 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615633
+   ]
+  },
+  {
+   "text": "SB 328 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658715
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615633,
+    617900,
+    658715
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615633
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615633
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 328&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB328",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7092,
+  "finding_hash": "ca0b6ea5e054c949af7a30fe7d6594920080bd0c6ff794720524d5248299faae",
+  "evidence_digest": "sha256:9c911efa61f23746f4fc7607cb20d17fbef726755a4637501c2ee5a4fe2d447d",
+  "gate_id": "dc696f865c9245fe8f349edc54239c71",
+  "gate_seq": 7093
+ }
+}

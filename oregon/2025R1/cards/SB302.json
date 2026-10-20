@@ -1,0 +1,311 @@
+{
+ "session": "2025R1",
+ "measure": "SB 302",
+ "measure_id": "SB302",
+ "subject": "or_legislature/2025R1/SB302",
+ "title": "Requires the Department of Education to conduct an audit of assessments administered to kindergarteners in public schools.",
+ "outcome": "vetoed",
+ "outcome_label": "Vetoed",
+ "headline": "SB 302 was vetoed by the Governor",
+ "claims": [
+  {
+   "text": "SB 302 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615607
+   ]
+  },
+  {
+   "text": "The Governor vetoed SB 302 on June 5, 2025.",
+   "row_ids": [
+    652312
+   ]
+  },
+  {
+   "text": "The veto stood (recorded June 27, 2025).",
+   "row_ids": [
+    658561
+   ]
+  },
+  {
+   "text": "Each of the 25 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615607,
+    617874,
+    638097,
+    639387,
+    640321,
+    640767,
+    641347,
+    641561,
+    670757,
+    641739,
+    642638,
+    647092,
+    648079,
+    648709,
+    648890,
+    649271,
+    649723,
+    650271,
+    650203,
+    650410,
+    652312,
+    657626,
+    652702,
+    658560,
+    658561
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615607
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615607
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    638097
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639387
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640321
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    640767
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    641561
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    641561
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Arrived in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    641739
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    641739
+   ]
+  },
+  {
+   "date": "2025-05-14",
+   "when": "May 14, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    647092
+   ]
+  },
+  {
+   "date": "2025-05-19",
+   "when": "May 19, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    648079
+   ]
+  },
+  {
+   "date": "2025-05-21",
+   "when": "May 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    648709
+   ]
+  },
+  {
+   "date": "2025-05-21",
+   "when": "May 21, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    648890
+   ]
+  },
+  {
+   "date": "2025-05-27",
+   "when": "May 27, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    649723
+   ]
+  },
+  {
+   "date": "2025-05-27",
+   "when": "May 27, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    649723
+   ]
+  },
+  {
+   "date": "2025-05-28",
+   "when": "May 28, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    650203
+   ]
+  },
+  {
+   "date": "2025-05-29",
+   "when": "May 29, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    650410
+   ]
+  },
+  {
+   "date": "2025-06-05",
+   "when": "June 5, 2025",
+   "chamber": "S",
+   "state": "vetoed",
+   "text": "Vetoed by the Governor",
+   "rule_id": "governor_vetoed",
+   "row_ids": [
+    652312
+   ]
+  },
+  {
+   "date": "2025-06-09",
+   "when": "June 9, 2025",
+   "chamber": "S",
+   "state": "tabled",
+   "text": "Set aside (tabled) in the Senate",
+   "rule_id": "motion_to_table",
+   "row_ids": [
+    652702
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "veto_sustained",
+   "text": "Veto stood: the Legislature did not override it",
+   "rule_id": "veto_sustained",
+   "row_ids": [
+    658561
+   ]
+  }
+ ],
+ "topics": [
+  "veto"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 302&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB302",
+ "row_count": 25,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7014,
+  "finding_hash": "f51b55b9b69ea9929fe63802c5bd9f680e5722b3f0b8d0b270b04edb518cef2c",
+  "evidence_digest": "sha256:960556a241bf9a5304c81d503173dde5266d4f036c9f7cf32bbce3ea16f1f91a",
+  "gate_id": "a866a9cc970b4c469e1abd92f4eb263b",
+  "gate_seq": 7015
+ }
+}

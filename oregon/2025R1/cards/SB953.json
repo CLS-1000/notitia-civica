@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 953",
+ "measure_id": "SB953",
+ "subject": "or_legislature/2025R1/SB953",
+ "title": "Establishes the Task Force on Transitions into Kindergarten.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 953 did not pass",
+ "claims": [
+  {
+   "text": "SB 953 was introduced in the Senate on January 28, 2025.",
+   "row_ids": [
+    619529
+   ]
+  },
+  {
+   "text": "SB 953 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659261
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619529,
+    619561,
+    623295,
+    628945,
+    630250,
+    630251,
+    659261
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    619529
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619529
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "when": "February 19, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623295
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    628945
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    630250
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 953&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB953",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8967,
+  "finding_hash": "b8459d878ca8ba35485791950367bbaa817da9e494233a4bdceb45ace319459b",
+  "evidence_digest": "sha256:ee6177ad543e8e0972484f76fd4513969d025d2fba06b77f95d4332db88d9aff",
+  "gate_id": "bfe4fd21eb6945a0888a7e0b66c91521",
+  "gate_seq": 8968
+ }
+}

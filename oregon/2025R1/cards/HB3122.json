@@ -1,0 +1,107 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3122",
+ "measure_id": "HB3122",
+ "subject": "or_legislature/2025R1/HB3122",
+ "title": "Directs the State Parks and Recreation Department to exercise good-faith efforts to enter into an agreement with the United States Department of the Interior's Bureau of Reclamation and Bureau of Land Management to establish and implement an access fee for use of Owyhee Lake Road.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3122 did not pass",
+ "claims": [
+  {
+   "text": "HB 3122 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615086
+   ]
+  },
+  {
+   "text": "HB 3122 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660012
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615086,
+    617295,
+    621657,
+    623235,
+    660012
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615086
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615086
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "when": "February 10, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621657
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    623235
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660012
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3122&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3122",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3363,
+  "finding_hash": "8ab7cdbad5dc409333a71a961518709c613d9dd30f192818c4e872630ae9522e",
+  "evidence_digest": "sha256:a40db35170f51e2c22964c5188299b228adefeef81da348d4634e611acb031e3",
+  "gate_id": "2bd0cb4c45b84d4183a76d09e3c14c9d",
+  "gate_seq": 3364
+ }
+}

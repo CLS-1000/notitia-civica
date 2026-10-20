@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1084",
+ "measure_id": "SB1084",
+ "subject": "or_legislature/2025R1/SB1084",
+ "title": "Imposes excise tax on net investment income of public universities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1084 did not pass",
+ "claims": [
+  {
+   "text": "SB 1084 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624283
+   ]
+  },
+  {
+   "text": "SB 1084 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659142
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624283,
+    624459,
+    659142
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624283
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624283
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1084&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1084",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9360,
+  "finding_hash": "cd4f1eac279dd38c290bab203aeac2c4b08a50ea536987fa71a77cb8f2f0669a",
+  "evidence_digest": "sha256:89ce2921499e3e3750da434917e8e570c867a2107af6abc1a71cbd3e44dc600d",
+  "gate_id": "1959aa1a5eb440c8bc50de6407428681",
+  "gate_seq": 9361
+ }
+}

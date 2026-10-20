@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2937",
+ "measure_id": "HB2937",
+ "subject": "or_legislature/2025R1/HB2937",
+ "title": "Directs the Oregon Health Authority to maintain a state public health laboratory, administer a newborn bloodspot screening program and implement additional programs related to newborn bloodspot screening.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2937 did not pass",
+ "claims": [
+  {
+   "text": "HB 2937 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614901
+   ]
+  },
+  {
+   "text": "HB 2937 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660513
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614901,
+    617110,
+    660513
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614901
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614901
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2937&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2937",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2808,
+  "finding_hash": "abd2f422a00101b5ab02ad52696288fdc08174e924fa83d27e9337c205a846e0",
+  "evidence_digest": "sha256:f066738da54e60e07ad9170a0cdb46b1a19201f0d3dbd012780dadd12b531848",
+  "gate_id": "57d22b00e5e84cf0bb305b059018e3bd",
+  "gate_seq": 2809
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2731",
+ "measure_id": "HB2731",
+ "subject": "or_legislature/2025R1/HB2731",
+ "title": "Authorizes the Department of Education to use moneys in the Statewide Education Initiatives Account to fund grants to manage programs of study in agricultural science and technology between school years.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2731 did not pass",
+ "claims": [
+  {
+   "text": "HB 2731 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614695
+   ]
+  },
+  {
+   "text": "HB 2731 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660147
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614695,
+    616904,
+    660147
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614695
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614695
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2731&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2731",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2190,
+  "finding_hash": "a930b5fb1d807203dfcc5ef677f54ad922a5d04c40646f7071176c30bf010580",
+  "evidence_digest": "sha256:dc224a98e39dc2c3ce3dc8ef2227a3316e7a007b4ab04dd10b630650eee1cb1b",
+  "gate_id": "7b26a61fb3b34947b00b760bd388c0e0",
+  "gate_seq": 2191
+ }
+}

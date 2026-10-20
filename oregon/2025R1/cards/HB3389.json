@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3389",
+ "measure_id": "HB3389",
+ "subject": "or_legislature/2025R1/HB3389",
+ "title": "Requires the Secretary of State to study elections.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3389 did not pass",
+ "claims": [
+  {
+   "text": "HB 3389 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619440
+   ]
+  },
+  {
+   "text": "HB 3389 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659904
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619440,
+    619812,
+    659904
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619440
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619440
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3389&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3389",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4164,
+  "finding_hash": "072315eb558fbc6d204293f00d4bbc676a13d5c3245c0f9aeef7127c2f18fd9f",
+  "evidence_digest": "sha256:757f102a739da6797dbe2d120b7243f6631e1f3f02aec4f90270340830264245",
+  "gate_id": "3c3f160d05fb4c5dbfa998691c66eb77",
+  "gate_seq": 4165
+ }
+}

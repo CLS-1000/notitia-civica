@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2034",
+ "measure_id": "HB2034",
+ "subject": "or_legislature/2025R1/HB2034",
+ "title": "Removes statutory provisions related to religion in public charter schools.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2034 did not pass",
+ "claims": [
+  {
+   "text": "HB 2034 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613998
+   ]
+  },
+  {
+   "text": "HB 2034 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660456
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613998,
+    616207,
+    660456
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613998
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613998
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2034&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2034",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 99,
+  "finding_hash": "120ef1f54914e0d02a90adc0df338a03295dcef529c6360b83bc2aab42f23fe8",
+  "evidence_digest": "sha256:acd387dfb1c29864621e76657eb0b23f9c212705bd411a2ce6d4a4049fc595a4",
+  "gate_id": "39ca5a16324744bb8a7b7c99031d9f27",
+  "gate_seq": 100
+ }
+}

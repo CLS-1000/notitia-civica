@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3686",
+ "measure_id": "HB3686",
+ "subject": "or_legislature/2025R1/HB3686",
+ "title": "Establishes the date and process for a special election to be held on November 4, 2025, for electors to approve or reject a proposed constitutional amendment that would require future constitutional amendments or revisions to obtain a three-fifths majority vote of the votes cast for adoption.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3686 did not pass",
+ "claims": [
+  {
+   "text": "HB 3686 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624370
+   ]
+  },
+  {
+   "text": "HB 3686 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661121
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624370,
+    625231,
+    661121
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624370
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624370
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3686&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3686",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5055,
+  "finding_hash": "7175eeb3500aec6fd46329416ff3ce002287bc51585795f3ea58f0ead1ba322e",
+  "evidence_digest": "sha256:ebf1f9b5b7a43d8b2e028872615ebc8b0b3ee7794bbf67aa4e95f8571e677cb9",
+  "gate_id": "739724b5c7714d8cac11beb31601c9f0",
+  "gate_seq": 5056
+ }
+}

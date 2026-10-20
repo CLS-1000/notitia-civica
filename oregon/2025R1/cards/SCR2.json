@@ -1,0 +1,73 @@
+{
+ "session": "2025R1",
+ "measure": "SCR 2",
+ "measure_id": "SCR2",
+ "subject": "or_legislature/2025R1/SCR2",
+ "title": "Recognizes the important role of Aurora State Airport in the State of Oregon's emergency preparedness and response efforts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SCR 2 did not pass",
+ "claims": [
+  {
+   "text": "SCR 2 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615211
+   ]
+  },
+  {
+   "text": "SCR 2 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659043
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615211,
+    617478,
+    622321,
+    659043
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615211
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615211
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SCR' and MeasureNumber eq 2&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SCR2",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10281,
+  "finding_hash": "fba6dcea8b247fc7b6fcdad53cdd8cc8fd2e597979272d83d546be15e2904278",
+  "evidence_digest": "sha256:484d4b5fa39476c25bb9018b4ed3bcf7f9b82ff64b40d652a2ccebd479cf0cfb",
+  "gate_id": "404e6aaf088a440fb98d8cd361a47c34",
+  "gate_seq": 10282
+ }
+}

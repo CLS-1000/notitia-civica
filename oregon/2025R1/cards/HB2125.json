@@ -1,0 +1,192 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2125",
+ "measure_id": "HB2125",
+ "subject": "or_legislature/2025R1/HB2125",
+ "title": "Authorizes the Director of the Employment Department to waive the unpaid waiting week period for unemployment insurance claimants who are unable to perform services due a state-declared emergency related to severe weather.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2125 did not pass",
+ "claims": [
+  {
+   "text": "HB 2125 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614089
+   ]
+  },
+  {
+   "text": "HB 2125 passed the House but did not pass the Senate. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659537
+   ]
+  },
+  {
+   "text": "Each of the 13 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614089,
+    616298,
+    620802,
+    635056,
+    637820,
+    638181,
+    638887,
+    639301,
+    639666,
+    639773,
+    639835,
+    643306,
+    659537
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614089
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614089
+   ]
+  },
+  {
+   "date": "2025-02-05",
+   "when": "February 5, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620802
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    635056
+   ]
+  },
+  {
+   "date": "2025-04-04",
+   "when": "April 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    637820
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    638181
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    639666
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    639666
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Arrived in the Senate",
+   "rule_id": "first_reading",
+   "row_ids": [
+    639773
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    639773
+   ]
+  },
+  {
+   "date": "2025-04-29",
+   "when": "April 29, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    643306
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659537
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2125&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2125",
+ "row_count": 13,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 372,
+  "finding_hash": "fac306eab930ba9989ccf4623297236c0426a24f86641ed971cbd9b851bf672d",
+  "evidence_digest": "sha256:0d6059a2e54e7ef229ca635640d5dc3fdde543c1289614b888382673851bf19e",
+  "gate_id": "b9bd450bd16544599c728d1471ea3efe",
+  "gate_seq": 373
+ }
+}

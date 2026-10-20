@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2392",
+ "measure_id": "HB2392",
+ "subject": "or_legislature/2025R1/HB2392",
+ "title": "Requires school districts to develop, review or revise an individualized suicide prevention protection plan for each student who demonstrates suicidal behavior.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2392 did not pass",
+ "claims": [
+  {
+   "text": "HB 2392 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614356
+   ]
+  },
+  {
+   "text": "HB 2392 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660059
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614356,
+    616565,
+    660059
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614356
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614356
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2392&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2392",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1173,
+  "finding_hash": "f2aba0210f516b55642a73a438b48536078d881b97acc4de7e2cc5a63fcdae09",
+  "evidence_digest": "sha256:01410497ef24673048b9cdfa3a71dde7e4d75b8f44401f50d5ef6ce2156cd016",
+  "gate_id": "5601c420b74143e3a60bf28880bd11d1",
+  "gate_seq": 1174
+ }
+}

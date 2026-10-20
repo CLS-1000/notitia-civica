@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3437",
+ "measure_id": "HB3437",
+ "subject": "or_legislature/2025R1/HB3437",
+ "title": "Prohibits distributing, selling, attempting to sell or offering to sell flavored inhalant delivery system products or flavored tobacco products in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3437 did not pass",
+ "claims": [
+  {
+   "text": "HB 3437 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619488
+   ]
+  },
+  {
+   "text": "HB 3437 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661509
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619488,
+    619860,
+    661509
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619488
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619488
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3437&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3437",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4308,
+  "finding_hash": "23ce008af9ba7532b1d7c5ae500f77f4445301a0ed5660dc7e6abe61b85207ae",
+  "evidence_digest": "sha256:ccde6a658bc86cd56b145f31724c7869e43b9573580d16c3f1b497514bb9a645",
+  "gate_id": "e92f952bd6e944a49b75066ff2aec183",
+  "gate_seq": 4309
+ }
+}

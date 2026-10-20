@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 612",
+ "measure_id": "SB612",
+ "subject": "or_legislature/2025R1/SB612",
+ "title": "Directs the Department of Corrections to establish and update a list of each undocumented individual who has been charged with or convicted of a crime in this state and each crime for which an undocumented individual has been charged or convicted.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 612 did not pass",
+ "claims": [
+  {
+   "text": "SB 612 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615917
+   ]
+  },
+  {
+   "text": "SB 612 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658799
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615917,
+    618184,
+    658799
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615917
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615917
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 612&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB612",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7944,
+  "finding_hash": "6cc91b9bcc0b1aaa11648b4c35fa9b7b6de4b5949b06992a4e6a94b21294e932",
+  "evidence_digest": "sha256:a2ba3eb9db646f8d1e2c5ed0cb9f08dbf3d4e9dcd3dec2df1703b5c409125841",
+  "gate_id": "b9779b11f66b463ebcdccadb36d500d3",
+  "gate_seq": 7945
+ }
+}

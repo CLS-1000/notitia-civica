@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2521",
+ "measure_id": "HB2521",
+ "subject": "or_legislature/2025R1/HB2521",
+ "title": "Requires the Department of Veterans' Affairs to conduct a statewide study on the status of small businesses owned by veterans.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2521 did not pass",
+ "claims": [
+  {
+   "text": "HB 2521 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614485
+   ]
+  },
+  {
+   "text": "HB 2521 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661494
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614485,
+    616694,
+    661494
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614485
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614485
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2521&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2521",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1560,
+  "finding_hash": "4618db9b9168940b4647194c7a1ca31f126609ecb8386ef32de4c69e85b02013",
+  "evidence_digest": "sha256:038a381cbe2d3437342ff37c1d3faf5a81c2b6582f1b9efe51490b8b49d78fc5",
+  "gate_id": "2fe843e17981486389738685fdbb9ccb",
+  "gate_seq": 1561
+ }
+}

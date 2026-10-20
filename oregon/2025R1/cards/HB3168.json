@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3168",
+ "measure_id": "HB3168",
+ "subject": "or_legislature/2025R1/HB3168",
+ "title": "Directs the Department of Human Services to adopt rules to require an agency that hires, trains and supervises direct support professionals using state funds received from the department to implement enhanced staffing ratios under specified circumstances.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3168 did not pass",
+ "claims": [
+  {
+   "text": "HB 3168 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615132
+   ]
+  },
+  {
+   "text": "HB 3168 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660165
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615132,
+    617341,
+    625923,
+    632358,
+    634570,
+    634571,
+    660165
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615132
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615132
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625923
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632358
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    634570
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3168&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3168",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3501,
+  "finding_hash": "f11932e5c5e797694ff15537d4d7015f5f32a01787301a3a9eef026bc1780dce",
+  "evidence_digest": "sha256:cda943988d909b4b386068f74c8515843d3350259b58233ce014c171dfee3bde",
+  "gate_id": "4b3d5bf961dc423f86c7ba8b1d2b9fb0",
+  "gate_seq": 3502
+ }
+}

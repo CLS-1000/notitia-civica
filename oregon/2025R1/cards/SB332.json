@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 332",
+ "measure_id": "SB332",
+ "subject": "or_legislature/2025R1/SB332",
+ "title": "Directs the State Department of Fish and Wildlife to develop a game fish carcass recovery project.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 332 did not pass",
+ "claims": [
+  {
+   "text": "SB 332 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615637
+   ]
+  },
+  {
+   "text": "SB 332 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658719
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615637,
+    617904,
+    658719
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615637
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615637
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 332&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB332",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7104,
+  "finding_hash": "5edc35dba4fd180c44befd66ce9467a2828c83b486079836a65706fcc1e04ae1",
+  "evidence_digest": "sha256:cf965426c8acd47780fe2da45e8e14b304cce01b1933c49f6c48530002e6f6e4",
+  "gate_id": "40cffb5decf54e559bb2137c8d3fa553",
+  "gate_seq": 7105
+ }
+}

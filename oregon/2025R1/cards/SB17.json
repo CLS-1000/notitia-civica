@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 17",
+ "measure_id": "SB17",
+ "subject": "or_legislature/2025R1/SB17",
+ "title": "Establishes the eligibility for renewable energy certificates for facilities that generate electricity from the direct combustion of municipal solid waste and became operational before January 1, 1995, if such facilities register with the Western Renewable Energy Generation Information System at any time, and for up to 11 average megawatts of electricity generated, per calendar year, from the combustion of biogenic material.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 17 did not pass",
+ "claims": [
+  {
+   "text": "SB 17 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615322
+   ]
+  },
+  {
+   "text": "SB 17 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659407
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615322,
+    617589,
+    659407
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615322
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615322
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 17&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB17",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6159,
+  "finding_hash": "4b7c2ccf40412340915b8e52a971f04fcd81118c934a97037ca117a745c6e8d6",
+  "evidence_digest": "sha256:c43e15d33c534757d61e39cb56ea2fee88d40849aff5b07dadc21bfddb7724a0",
+  "gate_id": "1be34e39a1e74fcf9ac96913682194dc",
+  "gate_seq": 6160
+ }
+}

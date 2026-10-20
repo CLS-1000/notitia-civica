@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1006",
+ "measure_id": "SB1006",
+ "subject": "or_legislature/2025R1/SB1006",
+ "title": "Directs all state agencies, statewide elected officials and other entities to seek legislative changes only through legislative measures requested and introduced by members and committees of the Legislative Assembly.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1006 did not pass",
+ "claims": [
+  {
+   "text": "SB 1006 was introduced in the Senate on February 11, 2025.",
+   "row_ids": [
+    621776
+   ]
+  },
+  {
+   "text": "SB 1006 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658577
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621776,
+    621881,
+    629866,
+    658577
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    621776
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621776
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629866
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658577
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1006&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1006",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9126,
+  "finding_hash": "1b9aea772dd00fe5ce85ea8627b276bd1597db0dd52ada62e4701895eb617ec4",
+  "evidence_digest": "sha256:826fc549fff48b685001a4aae246ed00aad0574343f7030e4fd288131803b245",
+  "gate_id": "6662453b0bb14648afcd9889ed3a89ab",
+  "gate_seq": 9127
+ }
+}

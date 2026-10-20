@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 334",
+ "measure_id": "SB334",
+ "subject": "or_legislature/2025R1/SB334",
+ "title": "Directs the Department of Consumer and Business Services to study certain financial impacts of wildfire damages.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 334 did not pass",
+ "claims": [
+  {
+   "text": "SB 334 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615639
+   ]
+  },
+  {
+   "text": "SB 334 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658721
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615639,
+    617906,
+    658721
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615639
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615639
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 334&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB334",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7110,
+  "finding_hash": "68ae2813987333545b5b6faccf9f388fb783e40e941d2b4f0e568da05eb91316",
+  "evidence_digest": "sha256:922608989139eac5af504e4ae687beb065e3ffca19715065d5dd31270123cb2d",
+  "gate_id": "3433a78cbd404646b005478ee82bf7d9",
+  "gate_seq": 7111
+ }
+}

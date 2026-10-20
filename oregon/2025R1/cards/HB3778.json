@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3778",
+ "measure_id": "HB3778",
+ "subject": "or_legislature/2025R1/HB3778",
+ "title": "Directs the Director of the Department of Consumer and Business Services to notify the United States Secretary of Labor of the intent to withdraw the federally approved state plan.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3778 did not pass",
+ "claims": [
+  {
+   "text": "HB 3778 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624954
+   ]
+  },
+  {
+   "text": "HB 3778 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661348
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624954,
+    626363,
+    661348
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624954
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624954
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3778&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3778",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5331,
+  "finding_hash": "bfc074e0f4c744fd3b45b11449f183c97ef62b4d334b52a0b4b71b78615e6518",
+  "evidence_digest": "sha256:b0d752da588e4712c80509e943b07e16686c90b229bd87d085aae61f6e006094",
+  "gate_id": "9810036dd476444e9ed47ed141825753",
+  "gate_seq": 5332
+ }
+}

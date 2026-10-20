@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3774",
+ "measure_id": "HB3774",
+ "subject": "or_legislature/2025R1/HB3774",
+ "title": "Repeals the changes made by House Bill 3124 (2021) to the statutes governing local removal of homeless individuals from established camping sites.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3774 did not pass",
+ "claims": [
+  {
+   "text": "HB 3774 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624950
+   ]
+  },
+  {
+   "text": "HB 3774 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661344
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624950,
+    626359,
+    661344
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624950
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624950
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3774&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3774",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5319,
+  "finding_hash": "4cccb3a7e7c76d55bc5f8d10661f06c1f4e0698de4b78e89494ae1919175d7a8",
+  "evidence_digest": "sha256:1418cc44cd718f2397049c75a92238a3c60c7965ea85a100cc4cec92ea39e8a5",
+  "gate_id": "720b31182c1948aa98dc829b2d3ceef9",
+  "gate_seq": 5320
+ }
+}

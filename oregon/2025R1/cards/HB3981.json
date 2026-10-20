@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3981",
+ "measure_id": "HB3981",
+ "subject": "or_legislature/2025R1/HB3981",
+ "title": "Delays, until July 1, 2026, the requirement that a producer responsibility organization transfer materials to responsible end markets.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3981 did not pass",
+ "claims": [
+  {
+   "text": "HB 3981 was introduced in the House on June 4, 2025.",
+   "row_ids": [
+    651912
+   ]
+  },
+  {
+   "text": "HB 3981 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659953
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    651912,
+    653877,
+    659953
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-06-04",
+   "when": "June 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    651912
+   ]
+  },
+  {
+   "date": "2025-06-04",
+   "when": "June 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    651912
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3981&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3981",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5940,
+  "finding_hash": "ff544405ea24f68d1bcce8499d7e4813742a110a8eec4546cd68807e664b56de",
+  "evidence_digest": "sha256:502e975e87b12960ad2ed6c31490cb7b2175ec9e3a1da155e6f0eb5933e1bc91",
+  "gate_id": "a8da5279aa0d4891a85cb17eac24c158",
+  "gate_seq": 5941
+ }
+}

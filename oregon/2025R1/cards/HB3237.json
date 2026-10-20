@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3237",
+ "measure_id": "HB3237",
+ "subject": "or_legislature/2025R1/HB3237",
+ "title": "Directs the Oregon Department of Emergency Management to administer a grant program in support of projects to consolidate and modernize or upgrade public safety answering points.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3237 did not pass",
+ "claims": [
+  {
+   "text": "HB 3237 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615201
+   ]
+  },
+  {
+   "text": "HB 3237 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660187
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615201,
+    617410,
+    660187
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615201
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615201
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3237&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3237",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3708,
+  "finding_hash": "b84615dd5be9cd719ee294e890e39755ac09afb0d28d084927fb9b2c162ce5e3",
+  "evidence_digest": "sha256:7716a8477cfc7db2508327c87d0cd9875514dc433f75f4191b7bef5c5939ab4b",
+  "gate_id": "37bab1ae7d0f4c0da70af9c72bf914c2",
+  "gate_seq": 3709
+ }
+}

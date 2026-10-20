@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 977",
+ "measure_id": "SB977",
+ "subject": "or_legislature/2025R1/SB977",
+ "title": "Requires the Higher Education Coordinating Commission to work with Portland State University and community colleges to establish a post-secondary program for youth with intellectual and developmental disabilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 977 did not pass",
+ "claims": [
+  {
+   "text": "SB 977 was introduced in the Senate on February 4, 2025.",
+   "row_ids": [
+    620439
+   ]
+  },
+  {
+   "text": "SB 977 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658993
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620439,
+    620464,
+    628896,
+    639415,
+    640330,
+    640331,
+    658993
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620439
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620439
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628896
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639415
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640330
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 977&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB977",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9039,
+  "finding_hash": "614e8079142b4962017ecb7e0d80f17682e340a2ba79ebe4229855f46d6556e3",
+  "evidence_digest": "sha256:f1d3e9dcc083c13b9ba911fc24ef705b69a4f37dc6e87f9be3af49fda9bff505",
+  "gate_id": "6d66446532cc43678036b63e3a873c93",
+  "gate_seq": 9040
+ }
+}

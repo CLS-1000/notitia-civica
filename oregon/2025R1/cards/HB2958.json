@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2958",
+ "measure_id": "HB2958",
+ "subject": "or_legislature/2025R1/HB2958",
+ "title": "Increases the amount of the earned income tax credit.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2958 did not pass",
+ "claims": [
+  {
+   "text": "HB 2958 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614922
+   ]
+  },
+  {
+   "text": "HB 2958 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660340
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614922,
+    617131,
+    624577,
+    649398,
+    650430,
+    650431,
+    660340
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614922
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614922
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624577
+   ]
+  },
+  {
+   "date": "2025-05-22",
+   "when": "May 22, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    649398
+   ]
+  },
+  {
+   "date": "2025-05-29",
+   "when": "May 29, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    650430
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2958&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2958",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2871,
+  "finding_hash": "9ce952503b9afb11c3f26219354c13622f847de99643205a949082522bf73bc5",
+  "evidence_digest": "sha256:151128b2654efc9dbbe1d8425915d9889f813f087c2b0ea83936df9b549ea218",
+  "gate_id": "a9ce6045209345f082416f4d0a32ea65",
+  "gate_seq": 2872
+ }
+}

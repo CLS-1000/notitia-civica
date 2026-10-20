@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3845",
+ "measure_id": "HB3845",
+ "subject": "or_legislature/2025R1/HB3845",
+ "title": "Requires the Oregon Health Authority to study Medicaid supplemental reimbursement for ground emergency medical transportation services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3845 did not pass",
+ "claims": [
+  {
+   "text": "HB 3845 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625021
+   ]
+  },
+  {
+   "text": "HB 3845 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660601
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625021,
+    626430,
+    660601
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625021
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625021
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3845&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3845",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5532,
+  "finding_hash": "49d4db144c16526b262da67657beb344fd2a7c8c508261c802a3ccbc94f20ece",
+  "evidence_digest": "sha256:50671042d944b11678186905a044812f4ebf26830ef664d263478aff9d927e2b",
+  "gate_id": "f510dd74e3e8463f90a7d5cc52c506a8",
+  "gate_seq": 5533
+ }
+}

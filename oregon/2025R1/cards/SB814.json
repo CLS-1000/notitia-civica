@@ -1,0 +1,277 @@
+{
+ "session": "2025R1",
+ "measure": "SB 814",
+ "measure_id": "SB814",
+ "subject": "or_legislature/2025R1/SB814",
+ "title": "Modifies eligibility criteria for the long-term rental assistance program for certain individuals under 25 years of age.",
+ "outcome": "law",
+ "outcome_label": "Became law",
+ "headline": "SB 814 became law",
+ "claims": [
+  {
+   "text": "SB 814 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616118
+   ]
+  },
+  {
+   "text": "The Governor signed SB 814 into law on May 19, 2025.",
+   "row_ids": [
+    648020
+   ]
+  },
+  {
+   "text": "Each of the 21 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616118,
+    618385,
+    620754,
+    624661,
+    625692,
+    626005,
+    626877,
+    627475,
+    628443,
+    641466,
+    643741,
+    644745,
+    644886,
+    645259,
+    645653,
+    646138,
+    646585,
+    646820,
+    648020,
+    652415,
+    652433
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616118
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616118
+   ]
+  },
+  {
+   "date": "2025-02-05",
+   "when": "February 5, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620754
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    624661
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    625692
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    626005
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    626877
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    626877
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Arrived in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    627475
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    627475
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    641466
+   ]
+  },
+  {
+   "date": "2025-04-30",
+   "when": "April 30, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    643741
+   ]
+  },
+  {
+   "date": "2025-05-06",
+   "when": "May 6, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    644745
+   ]
+  },
+  {
+   "date": "2025-05-06",
+   "when": "May 6, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    644886
+   ]
+  },
+  {
+   "date": "2025-05-12",
+   "when": "May 12, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    646138
+   ]
+  },
+  {
+   "date": "2025-05-12",
+   "when": "May 12, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    646138
+   ]
+  },
+  {
+   "date": "2025-05-13",
+   "when": "May 13, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    646585
+   ]
+  },
+  {
+   "date": "2025-05-14",
+   "when": "May 14, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    646820
+   ]
+  },
+  {
+   "date": "2025-05-19",
+   "when": "May 19, 2025",
+   "chamber": "S",
+   "state": "enacted",
+   "text": "Signed into law by the Governor",
+   "rule_id": "governor_signed",
+   "row_ids": [
+    648020
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-06",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 814&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB814",
+ "row_count": 21,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8550,
+  "finding_hash": "44beca2754686e518ea3ebab2b7fc58a1d11f447b736dd8028198df1af5543fb",
+  "evidence_digest": "sha256:afba9812f9ed6f17391d5eae97c0d3beb20881a184816fa27608b16aed4766c6",
+  "gate_id": "736d133116c54bd6b0bc73bec7dbd69e",
+  "gate_seq": 8551
+ }
+}

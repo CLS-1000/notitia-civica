@@ -1,0 +1,293 @@
+{
+ "session": "2025R1",
+ "measure": "SB 463",
+ "measure_id": "SB463",
+ "subject": "or_legislature/2025R1/SB463",
+ "title": "Requires the Oregon Department of Administrative Services to submit by January 31 of each even-numbered year a report to the Legislative Assembly concerning the soundness of the state's Insurance Fund.",
+ "outcome": "law",
+ "outcome_label": "Became law",
+ "headline": "SB 463 became law",
+ "claims": [
+  {
+   "text": "SB 463 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615768
+   ]
+  },
+  {
+   "text": "The Governor signed SB 463 into law on June 9, 2025.",
+   "row_ids": [
+    652906
+   ]
+  },
+  {
+   "text": "Each of the 26 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615768,
+    618035,
+    618810,
+    632312,
+    633357,
+    636578,
+    636579,
+    637157,
+    638249,
+    638913,
+    639343,
+    639682,
+    639797,
+    640690,
+    644144,
+    644952,
+    646255,
+    646469,
+    646941,
+    647443,
+    650029,
+    650602,
+    650723,
+    652906,
+    656332,
+    656381
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615768
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615768
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    618810
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    633357
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    636578
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    637157
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    639682
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    639682
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Arrived in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    639797
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    639797
+   ]
+  },
+  {
+   "date": "2025-05-01",
+   "when": "May 1, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    644144
+   ]
+  },
+  {
+   "date": "2025-05-06",
+   "when": "May 6, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    644952
+   ]
+  },
+  {
+   "date": "2025-05-12",
+   "when": "May 12, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    646255
+   ]
+  },
+  {
+   "date": "2025-05-13",
+   "when": "May 13, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    646469
+   ]
+  },
+  {
+   "date": "2025-05-15",
+   "when": "May 15, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    647443
+   ]
+  },
+  {
+   "date": "2025-05-15",
+   "when": "May 15, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    647443
+   ]
+  },
+  {
+   "date": "2025-05-28",
+   "when": "May 28, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "repassed",
+   "row_ids": [
+    650029
+   ]
+  },
+  {
+   "date": "2025-05-29",
+   "when": "May 29, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    650602
+   ]
+  },
+  {
+   "date": "2025-05-29",
+   "when": "May 29, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    650723
+   ]
+  },
+  {
+   "date": "2025-06-09",
+   "when": "June 9, 2025",
+   "chamber": "S",
+   "state": "enacted",
+   "text": "Signed into law by the Governor",
+   "rule_id": "governor_signed",
+   "row_ids": [
+    652906
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-20",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 463&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB463",
+ "row_count": 26,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7497,
+  "finding_hash": "46e18146809d2168b39015859c78d8eab7c8ed999bedc4cf12d25df4936c77f9",
+  "evidence_digest": "sha256:95e55ffc6fc6fac7a8289c390cdca97c4af076d5b2f8536c81d11f76bae7d463",
+  "gate_id": "4a894f0d6bcb4edfb822538afd3ec082",
+  "gate_seq": 7498
+ }
+}

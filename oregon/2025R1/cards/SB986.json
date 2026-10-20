@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 986",
+ "measure_id": "SB986",
+ "subject": "or_legislature/2025R1/SB986",
+ "title": "Appropriates moneys to the State Department of Agriculture out of the General Fund for purposes related to the brand inspection program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 986 did not pass",
+ "claims": [
+  {
+   "text": "SB 986 was introduced in the Senate on February 6, 2025.",
+   "row_ids": [
+    620892
+   ]
+  },
+  {
+   "text": "SB 986 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659578
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620892,
+    621392,
+    623667,
+    659578
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620892
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620892
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623667
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659578
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 986&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB986",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9066,
+  "finding_hash": "4cdb01687e9b4b52c58bc7cd36727f87a236af6a95163a082fbf1bb758cf6e7c",
+  "evidence_digest": "sha256:d9526608995e6b43a660a1c717db5a02b1a79737c961d2886ec461f2d7219271",
+  "gate_id": "818c53d366b848f39655050fa7f90bc9",
+  "gate_seq": 9067
+ }
+}

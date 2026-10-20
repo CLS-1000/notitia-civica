@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1",
+ "measure_id": "SB1",
+ "subject": "or_legislature/2025R1/SB1",
+ "title": "Allows for the provision of epinephrine in schools by methods other than injections.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1 did not pass",
+ "claims": [
+  {
+   "text": "SB 1 was introduced in the Senate on March 24, 2025.",
+   "row_ids": [
+    631929
+   ]
+  },
+  {
+   "text": "SB 1 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659265
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    631929,
+    631998,
+    642871,
+    659265
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    631929
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    631929
+   ]
+  },
+  {
+   "date": "2025-04-24",
+   "when": "April 24, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    642871
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659265
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6111,
+  "finding_hash": "123698fcfb9ac41509fbbfbd20141f2ce6689da011f3658491abdd45d8c19c39",
+  "evidence_digest": "sha256:140caacf5978582c47828779211288b0f0269f6a453854394a5bf6d1af1f09bf",
+  "gate_id": "79ed119b18fb44f08309507d9476895e",
+  "gate_seq": 6112
+ }
+}

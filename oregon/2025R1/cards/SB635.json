@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "SB 635",
+ "measure_id": "SB635",
+ "subject": "or_legislature/2025R1/SB635",
+ "title": "Directs Oregon State University to conduct a feasibility study on nuclear energy generation in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 635 did not pass",
+ "claims": [
+  {
+   "text": "SB 635 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615940
+   ]
+  },
+  {
+   "text": "SB 635 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658829
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615940,
+    618207,
+    626700,
+    627560,
+    658829
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615940
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615940
+   ]
+  },
+  {
+   "date": "2025-03-05",
+   "when": "March 5, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626700
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658829
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 635&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB635",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8013,
+  "finding_hash": "274e4eb17a247c37281bdfd028783c5f067f965ba4c6af41fa8e48c7282cebe7",
+  "evidence_digest": "sha256:4ea3348ac88f8cb395475d060549a9daeddab9fd76ce90bad03bb3338a7ac5d1",
+  "gate_id": "47273ea620ec4eb6b66c54250feff031",
+  "gate_seq": 8014
+ }
+}

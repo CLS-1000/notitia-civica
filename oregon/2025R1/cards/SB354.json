@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 354",
+ "measure_id": "SB354",
+ "subject": "or_legislature/2025R1/SB354",
+ "title": "Directs the State Department of Fish and Wildlife to include the relocation of beavers from western Oregon to central and eastern Oregon in a program for voluntarily relocating beavers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 354 did not pass",
+ "claims": [
+  {
+   "text": "SB 354 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615659
+   ]
+  },
+  {
+   "text": "SB 354 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658740
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615659,
+    617926,
+    623664,
+    658740
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615659
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615659
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623664
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658740
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 354&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB354",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7170,
+  "finding_hash": "59bb26488e6ae6455217ae3327c3f087cfba9373493006de63619f1dc1e72ee8",
+  "evidence_digest": "sha256:a4588dc89fb2688b771d974ebfe26a9acbacbdbdbb932039fa3fe1ce7a613f02",
+  "gate_id": "60c5188078954e91a1d21be7dd643ba0",
+  "gate_seq": 7171
+ }
+}

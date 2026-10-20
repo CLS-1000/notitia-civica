@@ -1,0 +1,236 @@
+{
+ "session": "2025R1",
+ "measure": "HCR 25",
+ "measure_id": "HCR25",
+ "subject": "or_legislature/2025R1/HCR25",
+ "title": "Recognizes and honors Carol Rulla for her remarkable contributions to Gresham and to the people of this state.",
+ "outcome": "adopted",
+ "outcome_label": "Adopted",
+ "headline": "HCR 25 was adopted",
+ "claims": [
+  {
+   "text": "HCR 25 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624912
+   ]
+  },
+  {
+   "text": "HCR 25 was adopted; the last recorded step was on May 27, 2025.",
+   "row_ids": [
+    649838
+   ]
+  },
+  {
+   "text": "Each of the 24 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624912,
+    626495,
+    638019,
+    639856,
+    640476,
+    641017,
+    641410,
+    641736,
+    642063,
+    642415,
+    642489,
+    642785,
+    643110,
+    643336,
+    643409,
+    647018,
+    647730,
+    647796,
+    648439,
+    648920,
+    649227,
+    649539,
+    649819,
+    649838
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624912
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624912
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    638019
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it be adopted",
+   "rule_id": "rec_be_adopted",
+   "row_ids": [
+    639856
+   ]
+  },
+  {
+   "date": "2025-04-28",
+   "when": "April 28, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "read",
+   "row_ids": [
+    643110
+   ]
+  },
+  {
+   "date": "2025-04-28",
+   "when": "April 28, 2025",
+   "chamber": "H",
+   "state": "adopted",
+   "text": "Adopted by the House",
+   "rule_id": "adopted",
+   "row_ids": [
+    643110
+   ]
+  },
+  {
+   "date": "2025-04-29",
+   "when": "April 29, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Arrived in the Senate",
+   "rule_id": "first_reading",
+   "row_ids": [
+    643336
+   ]
+  },
+  {
+   "date": "2025-04-29",
+   "when": "April 29, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    643336
+   ]
+  },
+  {
+   "date": "2025-05-14",
+   "when": "May 14, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    647018
+   ]
+  },
+  {
+   "date": "2025-05-19",
+   "when": "May 19, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it be adopted",
+   "rule_id": "rec_do_adopt",
+   "row_ids": [
+    647730
+   ]
+  },
+  {
+   "date": "2025-05-19",
+   "when": "May 19, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    647796
+   ]
+  },
+  {
+   "date": "2025-05-22",
+   "when": "May 22, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "final_reading",
+   "row_ids": [
+    649227
+   ]
+  },
+  {
+   "date": "2025-05-22",
+   "when": "May 22, 2025",
+   "chamber": "S",
+   "state": "adopted",
+   "text": "Adopted by the Senate",
+   "rule_id": "adopted",
+   "row_ids": [
+    649227
+   ]
+  },
+  {
+   "date": "2025-05-23",
+   "when": "May 23, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    649539
+   ]
+  },
+  {
+   "date": "2025-05-27",
+   "when": "May 27, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    649819
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-05-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 25&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HCR25",
+ "row_count": 24,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10224,
+  "finding_hash": "50a32d4c159beb825153dc9239775fc2b923c78c68a36af766610d1c6b861d91",
+  "evidence_digest": "sha256:a5123f3fba8bda2cf4362393167aef9170b1fa195abbdc11498f7b80dec8e167",
+  "gate_id": "1bf57d064ed8411cb9618bbb40eef33d",
+  "gate_seq": 10225
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3456",
+ "measure_id": "HB3456",
+ "subject": "or_legislature/2025R1/HB3456",
+ "title": "Requires district school boards and public library boards to adopt policies to provide for Internet safety for students and minors.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3456 did not pass",
+ "claims": [
+  {
+   "text": "HB 3456 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620329
+   ]
+  },
+  {
+   "text": "HB 3456 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660834
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620329,
+    621002,
+    660834
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620329
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620329
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3456&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3456",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4365,
+  "finding_hash": "f38d7b52d10bb0fb78937a60f8662016c1f25cb5378a1c62892d9c0e9a605040",
+  "evidence_digest": "sha256:6326eb8d2d64165ff86ddd2f162c05a43b3d7856f9f6dcae45ea73abbf250bc5",
+  "gate_id": "ef7fe4f89cf64235bc8f0078b0a57eb7",
+  "gate_seq": 4366
+ }
+}

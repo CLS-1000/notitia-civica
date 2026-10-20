@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1150",
+ "measure_id": "SB1150",
+ "subject": "or_legislature/2025R1/SB1150",
+ "title": "Requires the Department of Consumer and Business Services to study insurance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1150 did not pass",
+ "claims": [
+  {
+   "text": "SB 1150 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624860
+   ]
+  },
+  {
+   "text": "SB 1150 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659244
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624860,
+    625772,
+    659244
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624860
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624860
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1150&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1150",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9558,
+  "finding_hash": "34fba820c3e252e8f4a4ef92644c1820b282f143424b3c1f31374436154a3a92",
+  "evidence_digest": "sha256:00b2d102c7d0cd18a6132927a991f32cb27b68c9743c9fa6e18aab42668d44a0",
+  "gate_id": "39c70a250da6425eb7b6e61bf22e8117",
+  "gate_seq": 9559
+ }
+}

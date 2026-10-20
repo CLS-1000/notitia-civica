@@ -1,0 +1,107 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2055",
+ "measure_id": "HB2055",
+ "subject": "or_legislature/2025R1/HB2055",
+ "title": "Provides that when offering a service with age restrictions, a private entity is allowed to swipe a driver's license to verify a person's age, regardless of how old the person looks.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2055 did not pass",
+ "claims": [
+  {
+   "text": "HB 2055 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614019
+   ]
+  },
+  {
+   "text": "HB 2055 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660822
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614019,
+    616228,
+    623222,
+    671072,
+    660822
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614019
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614019
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623222
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    671072
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660822
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2055&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2055",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 162,
+  "finding_hash": "50deca2ae4bb431bf2c40b9ff39ca45388bb2431eb6b7bc27829405a7f366fd5",
+  "evidence_digest": "sha256:d63f0bca16371912e023fe1f1155e827d707007e897210e13bd70b6789693191",
+  "gate_id": "fdd66653877c45f1afda9320c6e12b3a",
+  "gate_seq": 163
+ }
+}

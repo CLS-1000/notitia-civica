@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "SB 526",
+ "measure_id": "SB526",
+ "subject": "or_legislature/2025R1/SB526",
+ "title": "Prohibits the sale of new clothes washers that are not equipped with a microfiber filtration system, beginning January 1, 2030.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 526 did not pass",
+ "claims": [
+  {
+   "text": "SB 526 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615831
+   ]
+  },
+  {
+   "text": "SB 526 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659363
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615831,
+    618098,
+    622194,
+    622768,
+    659363
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615831
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615831
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622194
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659363
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 526&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB526",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7686,
+  "finding_hash": "51848b419a01de14938424195fef4d2136b9b9350c7fa2c542834fb0a3f00f54",
+  "evidence_digest": "sha256:f9785f4181395176fb08aab06d25352629b40b751819de240e5394e3ae6cf70c",
+  "gate_id": "a08a15f6796c4259964baa1216ce29a3",
+  "gate_seq": 7687
+ }
+}

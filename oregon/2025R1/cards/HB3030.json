@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3030",
+ "measure_id": "HB3030",
+ "subject": "or_legislature/2025R1/HB3030",
+ "title": "Authorizes the Higher Education Coordinating Commission to award grants to school administrator candidates who have experience with diverse populations to use at approved educator preparation programs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3030 did not pass",
+ "claims": [
+  {
+   "text": "HB 3030 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614994
+   ]
+  },
+  {
+   "text": "HB 3030 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659888
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614994,
+    617203,
+    633356,
+    638740,
+    640434,
+    640435,
+    659888
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614994
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614994
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633356
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638740
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640434
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3030&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3030",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3087,
+  "finding_hash": "85e84f144172f06a40f10fee0bc873ae99bac62c5a59514c2371a92eb0d96c1b",
+  "evidence_digest": "sha256:31773d074efb48ed929d50996d7be322b16f84f8e95fc51e1b8f5725a82f4589",
+  "gate_id": "2c398e363a1646f3be5485fb7d2187ce",
+  "gate_seq": 3088
+ }
+}

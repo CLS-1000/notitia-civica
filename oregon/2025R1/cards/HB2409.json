@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2409",
+ "measure_id": "HB2409",
+ "subject": "or_legislature/2025R1/HB2409",
+ "title": "Directs the Office of Outdoor Recreation to establish a rural community and land stewardship technical assistance and planning pilot program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2409 did not pass",
+ "claims": [
+  {
+   "text": "HB 2409 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614373
+   ]
+  },
+  {
+   "text": "HB 2409 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659882
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614373,
+    616582,
+    659882
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614373
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614373
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2409&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2409",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1224,
+  "finding_hash": "69723623939b94b722a007ed7a4ec54db13cca3d40c1e1e6244e56e7cec46f7b",
+  "evidence_digest": "sha256:106cf4d3eb9b1b326a0d3850b55a7d9db5dac05e52c246bac342dc10ccf128bb",
+  "gate_id": "898bc37c059244e482a1147505d59aa9",
+  "gate_seq": 1225
+ }
+}

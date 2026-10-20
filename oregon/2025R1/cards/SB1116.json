@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1116",
+ "measure_id": "SB1116",
+ "subject": "or_legislature/2025R1/SB1116",
+ "title": "Directs the Oregon Criminal Justice Commission to study the establishment of the Family Preservation Project pilot program at the Coffee Creek Correctional Facility.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1116 did not pass",
+ "claims": [
+  {
+   "text": "SB 1116 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624826
+   ]
+  },
+  {
+   "text": "SB 1116 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659217
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624826,
+    625738,
+    659217
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624826
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624826
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1116&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1116",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9456,
+  "finding_hash": "7b15612abe1ad4db99f454fa688ce364f075a82f29c8d8709b8e6d63b4c3aa52",
+  "evidence_digest": "sha256:93f70e6126f194554124fc0862a65cc4a848072cff5e29574633b9f315ca4938",
+  "gate_id": "bb004484e4ec43a699ee0c54c3ea33be",
+  "gate_seq": 9457
+ }
+}

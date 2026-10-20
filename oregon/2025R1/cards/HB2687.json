@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2687",
+ "measure_id": "HB2687",
+ "subject": "or_legislature/2025R1/HB2687",
+ "title": "Removes a provision that excluded certain temporary agricultural workers from grant eligibility.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2687 did not pass",
+ "claims": [
+  {
+   "text": "HB 2687 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614651
+   ]
+  },
+  {
+   "text": "HB 2687 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660292
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614651,
+    616860,
+    660292
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614651
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614651
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2687&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2687",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2058,
+  "finding_hash": "de5ba9656f650204e531fd8b5f6a04333eb0c8e17d96e47b5c10d40222cc2663",
+  "evidence_digest": "sha256:767dd76477c7cf56afb59e9463cc70077a96de4aeb5e6d5666f3564d0f6d681e",
+  "gate_id": "cc6d49f0a25f4bdba66a41d913cd894b",
+  "gate_seq": 2059
+ }
+}

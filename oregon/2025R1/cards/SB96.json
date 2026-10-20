@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 96",
+ "measure_id": "SB96",
+ "subject": "or_legislature/2025R1/SB96",
+ "title": "Increases the salaries of state court judges.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 96 did not pass",
+ "claims": [
+  {
+   "text": "SB 96 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615401
+   ]
+  },
+  {
+   "text": "SB 96 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659443
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615401,
+    617668,
+    624154,
+    625857,
+    626778,
+    626779,
+    659443
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615401
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615401
+   ]
+  },
+  {
+   "date": "2025-02-24",
+   "when": "February 24, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624154
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    625857
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    626778
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 96&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB96",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6396,
+  "finding_hash": "1ff08fdf1c7b788d8cc0b1166784ccb15158c9e0cba4fb15ae0882198be65e5c",
+  "evidence_digest": "sha256:d154383d423b0dc6be37d152fb7e4bf2a7ad94daaf222668e64ef51ac67da3d8",
+  "gate_id": "95c54bf7e4fd4f41bf6b1e948082cab0",
+  "gate_seq": 6397
+ }
+}

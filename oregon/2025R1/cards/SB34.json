@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "SB 34",
+ "measure_id": "SB34",
+ "subject": "or_legislature/2025R1/SB34",
+ "title": "Requires the Department of Human Services to study the information that a long term care facility must disclose about its owners and operators and the feasibility of implementing an online portal to collect and share information about long term care facilities with the public.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 34 did not pass",
+ "claims": [
+  {
+   "text": "SB 34 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615339
+   ]
+  },
+  {
+   "text": "SB 34 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658974
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615339,
+    617606,
+    627685,
+    636896,
+    639595,
+    641804,
+    641805,
+    658974
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615339
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615339
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627685
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636896
+   ]
+  },
+  {
+   "date": "2025-04-18",
+   "when": "April 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641804
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 34&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB34",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6210,
+  "finding_hash": "4ab22a2d3e44ccc43768d76c3c4ad13134cdd12c998206d058d5f095000851f8",
+  "evidence_digest": "sha256:bbdba292b776dbf438654937cc3b2a7c913108aff0c32c60cd8cec1d6a2b28d9",
+  "gate_id": "2b354e14e2bf480d9b13bad61e2e3e73",
+  "gate_seq": 6211
+ }
+}

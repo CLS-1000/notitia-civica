@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3427",
+ "measure_id": "HB3427",
+ "subject": "or_legislature/2025R1/HB3427",
+ "title": "Creates an Oregon personal income tax subtraction for income of a taxpayer with three or more dependent children under the age of 18.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3427 did not pass",
+ "claims": [
+  {
+   "text": "HB 3427 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619478
+   ]
+  },
+  {
+   "text": "HB 3427 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660133
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619478,
+    619850,
+    660133
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619478
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619478
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3427&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3427",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4278,
+  "finding_hash": "0f338d6f25f0a679b118c6721aa99d9116d27eb9ce715fb4c3eed1b25d5986cb",
+  "evidence_digest": "sha256:1004d9c9c66262cb411e606b3e06a74a44b1b0d8c41e996cd8f363fb90802952",
+  "gate_id": "a1edb429396a465a9cf7450600575ac8",
+  "gate_seq": 4279
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3645",
+ "measure_id": "HB3645",
+ "subject": "or_legislature/2025R1/HB3645",
+ "title": "Requires the State Forestry Department to study wildfires.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3645 did not pass",
+ "claims": [
+  {
+   "text": "HB 3645 was introduced in the House on February 20, 2025.",
+   "row_ids": [
+    623580
+   ]
+  },
+  {
+   "text": "HB 3645 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660571
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623580,
+    623872,
+    660571
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    623580
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623580
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3645&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3645",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4932,
+  "finding_hash": "86422f8689879840143f9db3cd622bd9b5a885514f07fed9ccd529f5634f6f5f",
+  "evidence_digest": "sha256:57cc1be6d96b1e407606e15696cdc72de8bd20e3c96eb792068e83bd0acdc729",
+  "gate_id": "f8b24101efc94a79a1ae16cffe60cc29",
+  "gate_seq": 4933
+ }
+}

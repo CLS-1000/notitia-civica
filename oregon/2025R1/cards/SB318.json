@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 318",
+ "measure_id": "SB318",
+ "subject": "or_legislature/2025R1/SB318",
+ "title": "Provides that certain substitute teachers are eligible to enroll in a health benefit plan offered by the Oregon Educators Benefit Board.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 318 did not pass",
+ "claims": [
+  {
+   "text": "SB 318 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615623
+   ]
+  },
+  {
+   "text": "SB 318 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658705
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615623,
+    617890,
+    658705
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615623
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615623
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 318&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB318",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7062,
+  "finding_hash": "df2abba620fc03baf946578810c32319456697e69b477d7714af5283d1ba505d",
+  "evidence_digest": "sha256:6ba99fdb5129c924cc963c351ba9accf686d01a4c78d3580e27d8fb6770048ed",
+  "gate_id": "61ddb4c1332c48b4a78055c742bd9ddc",
+  "gate_seq": 7063
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 154",
+ "measure_id": "SB154",
+ "subject": "or_legislature/2025R1/SB154",
+ "title": "Requires the Universal Health Plan Governance Board to study universal health care.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 154 did not pass",
+ "claims": [
+  {
+   "text": "SB 154 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615459
+   ]
+  },
+  {
+   "text": "SB 154 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659489
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615459,
+    617726,
+    659489
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615459
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615459
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 154&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB154",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6570,
+  "finding_hash": "7f74e91e98cd23bfa3666f2a706e88a3efc9169e52626e636f8187ebb36d813f",
+  "evidence_digest": "sha256:c8f3651d9ecd67790084bc09471783ff104fc1d2c09fcaf057fa1221a63b7e58",
+  "gate_id": "251c0d4582004d44b8f8a0411ef363e9",
+  "gate_seq": 6571
+ }
+}

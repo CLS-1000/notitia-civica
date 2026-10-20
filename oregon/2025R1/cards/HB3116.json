@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3116",
+ "measure_id": "HB3116",
+ "subject": "or_legislature/2025R1/HB3116",
+ "title": "Appropriates moneys from the General Fund to the Water Resources Department for place-based water planning.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3116 did not pass",
+ "claims": [
+  {
+   "text": "HB 3116 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615080
+   ]
+  },
+  {
+   "text": "HB 3116 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660006
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615080,
+    617289,
+    629649,
+    638037,
+    639612,
+    639613,
+    660006
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615080
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615080
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629649
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638037
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639612
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3116&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3116",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3345,
+  "finding_hash": "42796ed3c1d9b1745cf122fca2e68ce76cf2f8dc84b18423445300530ef6bb7f",
+  "evidence_digest": "sha256:03e8c4dfdcf0ebe1858253dbb5bfa51fbfbe7083f1274bfc0a1af7519c09265d",
+  "gate_id": "c0f638be21d84d04b152e84bfe87c33f",
+  "gate_seq": 3346
+ }
+}

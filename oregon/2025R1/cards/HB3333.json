@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3333",
+ "measure_id": "HB3333",
+ "subject": "or_legislature/2025R1/HB3333",
+ "title": "Creates an Oregon personal income tax subtraction for teachers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3333 did not pass",
+ "claims": [
+  {
+   "text": "HB 3333 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618804
+   ]
+  },
+  {
+   "text": "HB 3333 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660311
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618804,
+    619202,
+    660311
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618804
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618804
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3333&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3333",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3996,
+  "finding_hash": "689d76fad578ca6e2971fda74fafd895e8da8eec660945ec2057cc5714e9fb10",
+  "evidence_digest": "sha256:97037362ad75228148a7c1ecfd667e1c898e39eb55abd7d32950f3a1c98c77ea",
+  "gate_id": "a9faec31ac7e4c14b843dc14d1520a63",
+  "gate_seq": 3997
+ }
+}

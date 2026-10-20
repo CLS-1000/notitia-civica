@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 330",
+ "measure_id": "SB330",
+ "subject": "or_legislature/2025R1/SB330",
+ "title": "Directs the Public Utility Commission to adopt standards requiring the underground placement of electric power lines.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 330 did not pass",
+ "claims": [
+  {
+   "text": "SB 330 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615635
+   ]
+  },
+  {
+   "text": "SB 330 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658717
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615635,
+    617902,
+    658717
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615635
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615635
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 330&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB330",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7098,
+  "finding_hash": "3e417e2892a4db94f15d4294fa8f5ea38f645a1671accd80bdec8b8d087dd44a",
+  "evidence_digest": "sha256:37e5f5c0a3e94c6641aad61e298c8630f9b9fb18fd2761251e87b11e697cc450",
+  "gate_id": "d7f3c21c00ce4ae6a9aeb436662845ea",
+  "gate_seq": 7099
+ }
+}

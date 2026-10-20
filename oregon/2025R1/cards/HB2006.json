@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2006",
+ "measure_id": "HB2006",
+ "subject": "or_legislature/2025R1/HB2006",
+ "title": "Limits to 25 the number of legislative measures that a member of the Legislative Assembly may ask the Legislative Counsel to prepare for a regular session of the Legislative Assembly that begins in an odd-numbered year.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2006 did not pass",
+ "claims": [
+  {
+   "text": "HB 2006 was introduced in the House on April 16, 2025.",
+   "row_ids": [
+    641216
+   ]
+  },
+  {
+   "text": "HB 2006 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660327
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    641216,
+    641840,
+    650795,
+    660327
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    641216
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    641216
+   ]
+  },
+  {
+   "date": "2025-05-29",
+   "when": "May 29, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    650795
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660327
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2006&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2006",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 15,
+  "finding_hash": "340715a24e72bc53d4138cea42859da4bbb7b5d5c0379c0ed6708d410981439c",
+  "evidence_digest": "sha256:a35023e1273df7f378317becce55ba68cf4690aa086c85e9bf37b5136b4798f6",
+  "gate_id": "b38ff8e68fec42fdbf0b23e42b2a2ac8",
+  "gate_seq": 16
+ }
+}

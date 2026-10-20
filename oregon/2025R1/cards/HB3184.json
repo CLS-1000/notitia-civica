@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3184",
+ "measure_id": "HB3184",
+ "subject": "or_legislature/2025R1/HB3184",
+ "title": "Provides that a homestead may not be sold on execution to satisfy a judgment that does not exceed the amount of the homestead exemption.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3184 did not pass",
+ "claims": [
+  {
+   "text": "HB 3184 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615148
+   ]
+  },
+  {
+   "text": "HB 3184 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660881
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615148,
+    617357,
+    660881
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615148
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615148
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3184&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3184",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3549,
+  "finding_hash": "218906959b2eac159c7fef4641638af16aee9e8f87657811b4dadeeeea508700",
+  "evidence_digest": "sha256:5e1782ddb18ced119cd5a0d127ea33e08be2691e89e63cf7d96a1d75b5f8cef6",
+  "gate_id": "bed6ccf63c5346c98406127c9331555f",
+  "gate_seq": 3550
+ }
+}

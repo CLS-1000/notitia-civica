@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SCR 3",
+ "measure_id": "SCR3",
+ "subject": "or_legislature/2025R1/SCR3",
+ "title": "Requires written authorization from the chief sponsor of a bill before a legislative concept containing an emergency clause may be accepted for filing. Requires written authorization from the sponsor of the amendment before an amendment that adds an emergency clause to a bill may be adopted by a committee.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SCR 3 did not pass",
+ "claims": [
+  {
+   "text": "SCR 3 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615212
+   ]
+  },
+  {
+   "text": "SCR 3 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659096
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615212,
+    617479,
+    659096
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615212
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615212
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SCR' and MeasureNumber eq 3&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SCR3",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10284,
+  "finding_hash": "be7f65cf3d7b52530de350bca47972f6797f3ed5e765b2db3da77a151d116928",
+  "evidence_digest": "sha256:e1909766fbb11a21609eef0c9a61993bc321de1b9ce89ea5b343c1944ddd1e94",
+  "gate_id": "eda1b66209bf43d199e9a234d1bcfd55",
+  "gate_seq": 10285
+ }
+}

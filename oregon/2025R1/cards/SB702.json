@@ -1,0 +1,132 @@
+{
+ "session": "2025R1",
+ "measure": "SB 702",
+ "measure_id": "SB702",
+ "subject": "or_legislature/2025R1/SB702",
+ "title": "Prohibits distributing, selling, attempting to sell or offering to sell flavored inhalant delivery system products or flavored tobacco products in this state, except from premises established as a store by the Oregon Liquor and Cannabis Commission and licensed by the Department of Revenue or authorized by a local government.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 702 did not pass",
+ "claims": [
+  {
+   "text": "SB 702 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616007
+   ]
+  },
+  {
+   "text": "SB 702 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658896
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616007,
+    618274,
+    626111,
+    638937,
+    640461,
+    640462,
+    648784,
+    658896
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616007
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616007
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626111
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638937
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640461
+   ]
+  },
+  {
+   "date": "2025-05-21",
+   "when": "May 21, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    648784
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658896
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 702&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB702",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8214,
+  "finding_hash": "96eac752965684be71828e92aa8d31ec56ac98726a80d0f0b9ddde8a061c2f67",
+  "evidence_digest": "sha256:30f22e7d40c1ab5cc64ef01000b1fe09ebe7b0a4821fdc1f1e503d4f434e2c08",
+  "gate_id": "ce7ddb015a704283bd941c8b086530fe",
+  "gate_seq": 8215
+ }
+}

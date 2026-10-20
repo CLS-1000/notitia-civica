@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2377",
+ "measure_id": "HB2377",
+ "subject": "or_legislature/2025R1/HB2377",
+ "title": "Requires the Oregon Business Development Department to study the economic development of ports in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2377 did not pass",
+ "claims": [
+  {
+   "text": "HB 2377 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614341
+   ]
+  },
+  {
+   "text": "HB 2377 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660718
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614341,
+    616550,
+    660718
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614341
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614341
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2377&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2377",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1128,
+  "finding_hash": "74cd5c9379df5b43c80c88a9f12408e2992f1d4a418c6f97790aa347e650a956",
+  "evidence_digest": "sha256:d7ca1652faa36dc56d4b021f594d6dddd71566938e45ec0f407a3add64368a7e",
+  "gate_id": "2a006154ae204d25add79a517a2a2e40",
+  "gate_seq": 1129
+ }
+}

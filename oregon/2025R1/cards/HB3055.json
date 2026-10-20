@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3055",
+ "measure_id": "HB3055",
+ "subject": "or_legislature/2025R1/HB3055",
+ "title": "Requires school districts to comply with statewide summative assessment participation requirements and to demonstrate improved student achievement on statewide summative assessments to be eligible for state funding related to the High School Graduation and College and Career Readiness Act.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3055 did not pass",
+ "claims": [
+  {
+   "text": "HB 3055 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615019
+   ]
+  },
+  {
+   "text": "HB 3055 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660374
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615019,
+    617228,
+    660374
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615019
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615019
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3055&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3055",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3162,
+  "finding_hash": "51cdd41e8ddefd9b7df9dc0d091d9ad55a613edb172b944ce78d14f4b55ea3c7",
+  "evidence_digest": "sha256:7fb0f1a85178a97ce722c6db9c0ba08d5eb58262f42861bd2e010efd2afefbe5",
+  "gate_id": "7b84239afa0e427e8cda526d0a9a3400",
+  "gate_seq": 3163
+ }
+}

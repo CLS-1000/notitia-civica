@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3648",
+ "measure_id": "HB3648",
+ "subject": "or_legislature/2025R1/HB3648",
+ "title": "Directs the Department of State Police to study locations where controlled substances can be incinerated.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3648 did not pass",
+ "claims": [
+  {
+   "text": "HB 3648 was introduced in the House on February 20, 2025.",
+   "row_ids": [
+    623583
+   ]
+  },
+  {
+   "text": "HB 3648 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660574
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623583,
+    623875,
+    660574
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    623583
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623583
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3648&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3648",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4941,
+  "finding_hash": "e2d35ca9fae33103e541b0d8df33850ad7bfe88cea61de9419c19c51a765d746",
+  "evidence_digest": "sha256:e4a8dd3dc1f038442b95b3ce186ff48c1aed900717ffc7bdcfb259189d3c6700",
+  "gate_id": "06b63d0bccdc4ef0a708dff0a20ebead",
+  "gate_seq": 4942
+ }
+}

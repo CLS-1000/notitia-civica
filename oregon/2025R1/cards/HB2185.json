@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2185",
+ "measure_id": "HB2185",
+ "subject": "or_legislature/2025R1/HB2185",
+ "title": "Removes the requirement that a student must receive approval from the student's resident school district before enrolling in a virtual public charter school that is not sponsored by the school district if a specified percentage of students in the school district already are enrolled in virtual public charter schools that are not sponsored by the school district.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2185 did not pass",
+ "claims": [
+  {
+   "text": "HB 2185 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614149
+   ]
+  },
+  {
+   "text": "HB 2185 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660232
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614149,
+    616358,
+    660232
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614149
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614149
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2185&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2185",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 552,
+  "finding_hash": "021fa26356f4002a033ed166957b7c7fadea2c196728c7c40751be27dcf7cc28",
+  "evidence_digest": "sha256:ca150bf4a38783c6cb33814a97fd5e7a9aa48dc01ee27be0e2e638911cb308ac",
+  "gate_id": "c8ab95d5eb1240adb3f06afff6ce719b",
+  "gate_seq": 553
+ }
+}

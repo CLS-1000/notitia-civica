@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3072",
+ "measure_id": "HB3072",
+ "subject": "or_legislature/2025R1/HB3072",
+ "title": "Requires the Judicial Department to study ways to improve the efficiency of the process for setting aside convictions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3072 did not pass",
+ "claims": [
+  {
+   "text": "HB 3072 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615036
+   ]
+  },
+  {
+   "text": "HB 3072 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660951
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615036,
+    617245,
+    660951
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615036
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615036
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3072&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3072",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3213,
+  "finding_hash": "1aa7a94d66fd4f2c002d27e493abf5f7185b486c5e5009660fd3f04da6c53e24",
+  "evidence_digest": "sha256:1a9a3a77ea8de5d633d4ff4a4acb83b82f56f2cc1a58fc2e1a41cffae7a77fe9",
+  "gate_id": "87f2ed28f10c4f35b3f28c76c3204ada",
+  "gate_seq": 3214
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1001",
+ "measure_id": "SB1001",
+ "subject": "or_legislature/2025R1/SB1001",
+ "title": "Appropriates moneys from the General Fund to the Oregon Department of Administrative Services for distribution to the Coast Community Health Center, or a successor entity, to provide health care services and apprenticeships.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1001 did not pass",
+ "claims": [
+  {
+   "text": "SB 1001 was introduced in the Senate on February 6, 2025.",
+   "row_ids": [
+    620907
+   ]
+  },
+  {
+   "text": "SB 1001 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658576
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620907,
+    621407,
+    630537,
+    637855,
+    639827,
+    639828,
+    658576
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620907
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620907
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    630537
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637855
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639827
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1001&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1001",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9111,
+  "finding_hash": "ef347c5ec35b2924493327f9f3fd6a58b525c9db11eb6636c4a740f286fc9863",
+  "evidence_digest": "sha256:8c0a5aebebb8cf72e1b33b241c29bac51752d41992983b7ac7602b36f869f894",
+  "gate_id": "9f37762d83e6488a830a82970ca736b1",
+  "gate_seq": 9112
+ }
+}

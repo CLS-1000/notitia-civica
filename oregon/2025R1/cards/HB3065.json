@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3065",
+ "measure_id": "HB3065",
+ "subject": "or_legislature/2025R1/HB3065",
+ "title": "Requires each city with a population of less than 200,000 to establish local standards to promote housing stability no later than July 1, 2027.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3065 did not pass",
+ "claims": [
+  {
+   "text": "HB 3065 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615029
+   ]
+  },
+  {
+   "text": "HB 3065 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660945
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615029,
+    617238,
+    660945
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615029
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615029
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3065&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3065",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3192,
+  "finding_hash": "ae1e45e65d585d43830e6da3b99a1b6e15f6b1abd1508f3a037a74bb99b9ca4b",
+  "evidence_digest": "sha256:01ea4e90b2a1cfca9efb3b84672c9e6f139d0abdee64c52fb9a5dfbd929edb4f",
+  "gate_id": "0789fe6e828d44679e365ac8cf72fd12",
+  "gate_seq": 3193
+ }
+}

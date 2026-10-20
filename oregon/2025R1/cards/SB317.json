@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 317",
+ "measure_id": "SB317",
+ "subject": "or_legislature/2025R1/SB317",
+ "title": "Increases over time the percentage cap on the amount of moneys that are distributed from the State School Fund to school districts for students eligible for special education as a child with a disability.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 317 did not pass",
+ "claims": [
+  {
+   "text": "SB 317 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615622
+   ]
+  },
+  {
+   "text": "SB 317 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658704
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615622,
+    617889,
+    658704
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615622
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615622
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 317&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB317",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7059,
+  "finding_hash": "39a07650bbd5c4e248a004d609babbf15a2d1c30ca949510e2bcbb1c008d3c6d",
+  "evidence_digest": "sha256:602cab4fa07bbf80ce3f82cac2cbdcead9f221ce8c2f600ac16d97bcc65d2f1f",
+  "gate_id": "00661be362e747059726d6f5e06123df",
+  "gate_seq": 7060
+ }
+}

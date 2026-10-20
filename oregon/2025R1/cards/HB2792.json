@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2792",
+ "measure_id": "HB2792",
+ "subject": "or_legislature/2025R1/HB2792",
+ "title": "Requires a hospital to report the amount the hospital spends for individuals to replace employees involved in a strike or lockout.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2792 did not pass",
+ "claims": [
+  {
+   "text": "HB 2792 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614756
+   ]
+  },
+  {
+   "text": "HB 2792 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660486
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614756,
+    616965,
+    621714,
+    660486
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614756
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614756
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "when": "February 10, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621714
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660486
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2792&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2792",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2373,
+  "finding_hash": "69b29ba0024c79059509eb218f9b4b49d2274b773057f63dcb01a32a64844a44",
+  "evidence_digest": "sha256:0e68e78c155dab3df6927b56dee37ca01685ecd50b3e35db442deccad3129d9f",
+  "gate_id": "bc9d96492125446fb7d746d971dab9a1",
+  "gate_seq": 2374
+ }
+}

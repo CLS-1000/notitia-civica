@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3004",
+ "measure_id": "HB3004",
+ "subject": "or_legislature/2025R1/HB3004",
+ "title": "Directs the Youth Development Division toconduct a comprehensive review of initiatives aimed at reducing community violence in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3004 did not pass",
+ "claims": [
+  {
+   "text": "HB 3004 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614968
+   ]
+  },
+  {
+   "text": "HB 3004 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660356
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614968,
+    617177,
+    632267,
+    639571,
+    640089,
+    640090,
+    660356
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614968
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614968
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632267
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639571
+   ]
+  },
+  {
+   "date": "2025-04-11",
+   "when": "April 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640089
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3004&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3004",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3009,
+  "finding_hash": "1720496b99d0d5e4d3208448d18998c15285677b714557b8cc03c0757e02e192",
+  "evidence_digest": "sha256:9e3598ce1088feb1a98c11f70201b3d9ae1836f6e39bce81edd8c193c1b91dd6",
+  "gate_id": "3551a1ebe18f4f32a45c1b831de428c4",
+  "gate_seq": 3010
+ }
+}

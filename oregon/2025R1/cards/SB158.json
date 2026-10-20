@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 158",
+ "measure_id": "SB158",
+ "subject": "or_legislature/2025R1/SB158",
+ "title": "Allows a landlord and a tenant to agree to a recurring charge in lieu of a security deposit.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 158 did not pass",
+ "claims": [
+  {
+   "text": "SB 158 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615463
+   ]
+  },
+  {
+   "text": "SB 158 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659494
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615463,
+    617730,
+    623382,
+    659494
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615463
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615463
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "when": "February 19, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623382
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659494
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 158&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB158",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6582,
+  "finding_hash": "18ed1049c65e0f101f27df76b0bc0654774d8ba273af275542076504774fb98e",
+  "evidence_digest": "sha256:a8abe4fa2090cf8a46216ae7a1b953b81e99fd0c1e8cbc02678b1a0aedca5e02",
+  "gate_id": "e25641987acd403391c348a98b610ddf",
+  "gate_seq": 6583
+ }
+}

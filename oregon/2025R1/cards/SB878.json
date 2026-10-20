@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 878",
+ "measure_id": "SB878",
+ "subject": "or_legislature/2025R1/SB878",
+ "title": "Allows an occupying homeowner outside of an urban growth boundary to site one additional family dwelling unit on the tract of the home.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 878 did not pass",
+ "claims": [
+  {
+   "text": "SB 878 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618654
+   ]
+  },
+  {
+   "text": "SB 878 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659294
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618654,
+    618825,
+    624663,
+    659294
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618654
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618654
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624663
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659294
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 878&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB878",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8742,
+  "finding_hash": "48396db12e14929c56c3de7c99bdb2a27fd32332323620c4a948b8d2a700eb1f",
+  "evidence_digest": "sha256:1e684842bb36d76754697e81213262ca6f8cf4f864a4e0ec86bac34c43a98f56",
+  "gate_id": "a91e48fea437445da4e86edab3ec1207",
+  "gate_seq": 8743
+ }
+}

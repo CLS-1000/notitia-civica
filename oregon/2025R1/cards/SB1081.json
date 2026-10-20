@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1081",
+ "measure_id": "SB1081",
+ "subject": "or_legislature/2025R1/SB1081",
+ "title": "Exempts from Oregon personal income taxation a taxpayer with Oregon adjusted gross income that is equal to or less than 120 percent of the median Oregon adjusted gross income.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1081 did not pass",
+ "claims": [
+  {
+   "text": "SB 1081 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624280
+   ]
+  },
+  {
+   "text": "SB 1081 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659139
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624280,
+    624456,
+    659139
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624280
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624280
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1081&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1081",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9351,
+  "finding_hash": "303f1a1afa43947f16f5936f0fae7630eb2f78079875311a0dcdfac88a11756a",
+  "evidence_digest": "sha256:6adf077624ba9ef8d59d7aab9bf5a42dfbdee3322fd73b33026a7fd8cc678bb1",
+  "gate_id": "e6a3ac2b7684420e86f50b8e04f62139",
+  "gate_seq": 9352
+ }
+}

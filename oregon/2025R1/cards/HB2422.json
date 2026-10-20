@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2422",
+ "measure_id": "HB2422",
+ "subject": "or_legislature/2025R1/HB2422",
+ "title": "Requires that lands zoned to allow density of one or fewer dwellings per acre to be considered a rural use.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2422 did not pass",
+ "claims": [
+  {
+   "text": "HB 2422 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614386
+   ]
+  },
+  {
+   "text": "HB 2422 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660068
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614386,
+    616595,
+    621534,
+    660068
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614386
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614386
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "when": "February 10, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621534
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660068
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2422&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2422",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1263,
+  "finding_hash": "65a87063c8ab9cecf9d390da6892175ae36e2724fa7bd5e27edacd91c489d0fb",
+  "evidence_digest": "sha256:2aa0a1d435af8855dfca7ed501ae247450cb6d447b41c1d2aae8a1c5cc65d368",
+  "gate_id": "b17ed74b46ce471d8c85aa0ee950b206",
+  "gate_seq": 1264
+ }
+}

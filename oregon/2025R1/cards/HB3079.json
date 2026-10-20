@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3079",
+ "measure_id": "HB3079",
+ "subject": "or_legislature/2025R1/HB3079",
+ "title": "Requires the Department of Human Services to update its 2022 estimate of costs to implement youth experiencing homelessness programs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3079 did not pass",
+ "claims": [
+  {
+   "text": "HB 3079 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615043
+   ]
+  },
+  {
+   "text": "HB 3079 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660958
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615043,
+    617252,
+    622219,
+    624208,
+    660958
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615043
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615043
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624208
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660958
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3079&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3079",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3234,
+  "finding_hash": "4db46180e25c20d4b8ef6b9ab7a647918ba275101373dc73a27cd3078aeb74cc",
+  "evidence_digest": "sha256:b9ae42eb96b536001304284916dd6345d50f0b30cf9876b50a19a812180a6df6",
+  "gate_id": "57f1223e38f1452ea8a74089bf8ad15b",
+  "gate_seq": 3235
+ }
+}

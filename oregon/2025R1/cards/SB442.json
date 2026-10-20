@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 442",
+ "measure_id": "SB442",
+ "subject": "or_legislature/2025R1/SB442",
+ "title": "Establishes the COFA Shared Services Office to assist COFA citizens in applying for and accessing benefits and services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 442 did not pass",
+ "claims": [
+  {
+   "text": "SB 442 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615747
+   ]
+  },
+  {
+   "text": "SB 442 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659073
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615747,
+    618014,
+    636176,
+    639069,
+    640568,
+    640569,
+    659073
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615747
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615747
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    636176
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639069
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640568
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 442&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB442",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7434,
+  "finding_hash": "51f38b1df57a3759b1c3df6d195cf80b4dba759e0b2488c1df659ebded93e3dd",
+  "evidence_digest": "sha256:de9f03384a5fb844f7e1224fc4d66ff774cc2f98e2b7fb071899d2eb1ee4065e",
+  "gate_id": "141a9906d3c84266a36e4639a82bba67",
+  "gate_seq": 7435
+ }
+}

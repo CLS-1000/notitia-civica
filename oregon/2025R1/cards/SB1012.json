@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1012",
+ "measure_id": "SB1012",
+ "subject": "or_legislature/2025R1/SB1012",
+ "title": "Requires a health care practitioner to exercise the proper degree of care to preserve the health and life of a child born alive, regardless of whether the birth was the result of an induced abortion.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1012 did not pass",
+ "claims": [
+  {
+   "text": "SB 1012 was introduced in the Senate on February 11, 2025.",
+   "row_ids": [
+    621782
+   ]
+  },
+  {
+   "text": "SB 1012 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659266
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621782,
+    621887,
+    659266
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    621782
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621782
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1012&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1012",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9144,
+  "finding_hash": "92de6221688af5bdf5a288e918ca09d8a1636d2bfde51f2380257b311b0d28a8",
+  "evidence_digest": "sha256:63991261ebd435f5c1c7c2fee85e4b344697cf39b6bac4d9a1da0cfc2cce0399",
+  "gate_id": "d4b86dc3e3184e32b32ba4d11f090797",
+  "gate_seq": 9145
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3290",
+ "measure_id": "HB3290",
+ "subject": "or_legislature/2025R1/HB3290",
+ "title": "Requires the Oregon Liquor and Cannabis Commission to study alcohol delivery.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3290 did not pass",
+ "claims": [
+  {
+   "text": "HB 3290 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618761
+   ]
+  },
+  {
+   "text": "HB 3290 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660997
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618761,
+    619159,
+    660997
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618761
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618761
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3290&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3290",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3867,
+  "finding_hash": "d1cd2ad91c8acf70b919e7ec5fbf65d46f24f77ddc00c50cfe500f748c341da9",
+  "evidence_digest": "sha256:ee08bc1312f6a0259d7f46609ff108bb155df368cbfff878d7ae678aa0ed2d74",
+  "gate_id": "87cdc5ac2af545e6b201726c4c3b876d",
+  "gate_seq": 3868
+ }
+}

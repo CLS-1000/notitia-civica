@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 748",
+ "measure_id": "SB748",
+ "subject": "or_legislature/2025R1/SB748",
+ "title": "Authorizes the Employment Department to require drug testing for an initial claim for unemployment benefits if the claimant was fired by the claimant's most recent employer for unlawful drug use or suitable work is available for the claimant only in an occupation that regularly conducts drug testing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 748 did not pass",
+ "claims": [
+  {
+   "text": "SB 748 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616053
+   ]
+  },
+  {
+   "text": "SB 748 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659156
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616053,
+    618320,
+    619386,
+    659156
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616053
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616053
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619386
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659156
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 748&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB748",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8352,
+  "finding_hash": "4c1cc388919e4864fc8b5d50829f3d0bc9474883d1c872699ce75810b1dc4b0c",
+  "evidence_digest": "sha256:52807d445f13cac7bb096482e994ab54e2fdfff86b81cf6daaf94ab47e0432a3",
+  "gate_id": "ef68a88983d44731b601e6aa06d9f29e",
+  "gate_seq": 8353
+ }
+}

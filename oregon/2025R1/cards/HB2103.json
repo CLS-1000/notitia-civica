@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2103",
+ "measure_id": "HB2103",
+ "subject": "or_legislature/2025R1/HB2103",
+ "title": "Directs the State Board of Pharmacy to adopt rules to classify xylazine as a Schedule IV controlled substance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2103 did not pass",
+ "claims": [
+  {
+   "text": "HB 2103 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614067
+   ]
+  },
+  {
+   "text": "HB 2103 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660637
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614067,
+    616276,
+    660637
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614067
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614067
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2103&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2103",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 306,
+  "finding_hash": "662319c8e53b76f7b13efda49ec857c0456424a6d919446150e0b8f2af5e366a",
+  "evidence_digest": "sha256:53ef5a1b789e0df5b7fb78356265e02a7283f819599b83e2993cbe6de8ae4019",
+  "gate_id": "5b6ce3487b04446fbf536a61db187b8d",
+  "gate_seq": 307
+ }
+}

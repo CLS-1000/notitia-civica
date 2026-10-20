@@ -1,0 +1,132 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2476",
+ "measure_id": "HB2476",
+ "subject": "or_legislature/2025R1/HB2476",
+ "title": "Directs the Oregon Health Authority to study issues related to fitness to proceed and to provide the results of the study to the appropriate interim committees of the Legislative Assembly no later than December 31, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2476 did not pass",
+ "claims": [
+  {
+   "text": "HB 2476 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614440
+   ]
+  },
+  {
+   "text": "HB 2476 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661442
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614440,
+    616649,
+    633927,
+    639047,
+    640073,
+    640074,
+    642631,
+    661442
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614440
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614440
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633927
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639047
+   ]
+  },
+  {
+   "date": "2025-04-11",
+   "when": "April 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    640073
+   ]
+  },
+  {
+   "date": "2025-04-23",
+   "when": "April 23, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    642631
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661442
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2476&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2476",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1425,
+  "finding_hash": "915921133814940272a5adf6437174ffb20a2b174e6d4109eea33226ab57713b",
+  "evidence_digest": "sha256:950e6e05ecf2dc39ddb6a7dc4f84e089250efbf3336cf681d68c302bbe36d88b",
+  "gate_id": "32495bab33f7498ab1bffe33a25627d2",
+  "gate_seq": 1426
+ }
+}

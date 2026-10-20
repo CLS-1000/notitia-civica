@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 738",
+ "measure_id": "SB738",
+ "subject": "or_legislature/2025R1/SB738",
+ "title": "Changes the age limit and the required period during which certain foster children were in care to be eligible to receive tuition waivers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 738 did not pass",
+ "claims": [
+  {
+   "text": "SB 738 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616043
+   ]
+  },
+  {
+   "text": "SB 738 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658927
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616043,
+    618310,
+    636200,
+    639404,
+    641527,
+    641528,
+    658927
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616043
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616043
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    636200
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639404
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641527
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 738&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB738",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8322,
+  "finding_hash": "bbdccfd829c85e5da71b9020c2408fcb2254ecdc4f47f4c2810a2dbbe99df505",
+  "evidence_digest": "sha256:70d2ebcaf35db621060b1db09b40312dcec7130a3c6dc3347dba8239ecede14a",
+  "gate_id": "ecfd575241944be3af390c80de011fbe",
+  "gate_seq": 8323
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2776",
+ "measure_id": "HB2776",
+ "subject": "or_legislature/2025R1/HB2776",
+ "title": "Directs the Oregon Department of Emergency Management to study and make recommendations regarding improvements to the operations of the department.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2776 did not pass",
+ "claims": [
+  {
+   "text": "HB 2776 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614740
+   ]
+  },
+  {
+   "text": "HB 2776 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661156
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614740,
+    616949,
+    661156
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614740
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614740
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2776&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2776",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2325,
+  "finding_hash": "e8790c4bbe0e91c8b9fb3f9d93e876cc2428cf6395334b09092fa5d8fd4865f9",
+  "evidence_digest": "sha256:67523b72638b09b458fcbe090c76c77ad730efd6b8988314622e90e7d0c8fe5c",
+  "gate_id": "25884cd8c2e44dc5accd1c5eadee89c5",
+  "gate_seq": 2326
+ }
+}

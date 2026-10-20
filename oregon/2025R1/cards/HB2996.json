@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2996",
+ "measure_id": "HB2996",
+ "subject": "or_legislature/2025R1/HB2996",
+ "title": "Prohibits the Department of Human Services from substantiating allegations of child neglect based solely on the financial resources of the child's parent or guardian.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2996 did not pass",
+ "claims": [
+  {
+   "text": "HB 2996 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614960
+   ]
+  },
+  {
+   "text": "HB 2996 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660349
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614960,
+    617169,
+    660349
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614960
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614960
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2996&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2996",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2985,
+  "finding_hash": "3768f04e08fd5fb4c9b48ce89767dfcf290e5f17e86ae5731f5bfad165aa14ce",
+  "evidence_digest": "sha256:1ac351802bb348cd8ad588dcd7963d9d86b04d0aec8298fbd43d5437e3e1c772",
+  "gate_id": "ec66b8aa29ec4384a2beb2185226f026",
+  "gate_seq": 2986
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1034",
+ "measure_id": "SB1034",
+ "subject": "or_legislature/2025R1/SB1034",
+ "title": "Removes provisions that allow the Energy Facility Siting Council to find that an energy facility is in compliance with statewide planning goals even when the council determines that the facility does not comply with applicable substantive criteria from the affected local government's land use plan and regulations that the facility must be evaluated against if the council determines that the facility otherwise complies with applicable statewide planning goals.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1034 did not pass",
+ "claims": [
+  {
+   "text": "SB 1034 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623044
+   ]
+  },
+  {
+   "text": "SB 1034 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659439
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623044,
+    623116,
+    635003,
+    639553,
+    640332,
+    640333,
+    652280,
+    659439
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623044
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623044
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    635003
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639553
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    640332
+   ]
+  },
+  {
+   "date": "2025-06-05",
+   "when": "June 5, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    652280
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659439
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1034&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1034",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9210,
+  "finding_hash": "4e79ecf8cf46c94587842502dbff8f2eb5d76f5f440c47ed360cba9eab9afe94",
+  "evidence_digest": "sha256:b4e12ce8b2ec1c6580caa9ca44258a6fcca53e76f93ae267b53a8bdff8b4293f",
+  "gate_id": "dc25a712e4cb48929d9ceceb71e2be08",
+  "gate_seq": 9211
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 364",
+ "measure_id": "SB364",
+ "subject": "or_legislature/2025R1/SB364",
+ "title": "Requires the Department of Environmental Quality to study marine ecosystem data.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 364 did not pass",
+ "claims": [
+  {
+   "text": "SB 364 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615669
+   ]
+  },
+  {
+   "text": "SB 364 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658749
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615669,
+    617936,
+    658749
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615669
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615669
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 364&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB364",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7200,
+  "finding_hash": "5686d1464f2919af93a75df55661400d89542a6456aa1341b0e360b6336daef3",
+  "evidence_digest": "sha256:3dfda3a64137234195a8684cb8472c1e1301ee6246055d8805facd62e21c2894",
+  "gate_id": "e3d696cb2ca54076b49fa5b1d5faa98a",
+  "gate_seq": 7201
+ }
+}

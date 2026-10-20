@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2894",
+ "measure_id": "HB2894",
+ "subject": "or_legislature/2025R1/HB2894",
+ "title": "Allocates $500,000 of lottery revenue to the Oregon Military Department for purposes of providing tuition waivers for eligible post-secondary institutions to members of the Oregon National Guard.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2894 did not pass",
+ "claims": [
+  {
+   "text": "HB 2894 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614858
+   ]
+  },
+  {
+   "text": "HB 2894 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661203
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614858,
+    617067,
+    661203
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614858
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614858
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2894&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2894",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2679,
+  "finding_hash": "7fa2dfc4e05e766b9b07e429fe20b1b2122d19cf0380913169962f0c700557b2",
+  "evidence_digest": "sha256:7cbee78585a331b35c591f9124ee368a6b6031a9240eb44a90036f30af1cedbd",
+  "gate_id": "cd9e6fdfcd8b4f20b9a0be9c4438c902",
+  "gate_seq": 2680
+ }
+}

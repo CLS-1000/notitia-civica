@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2868",
+ "measure_id": "HB2868",
+ "subject": "or_legislature/2025R1/HB2868",
+ "title": "Directs a court to consider, when determining aggravation in imposition of a criminal sentence, evidence that the defendant committed the crime during an emergency, an evacuation while an emergency was in effect or within one year after an emergency ceases, provided that the emergency is related to a natural disaster and the defendant took advantage of circumstances related to the emergency, evacuation or recovery from the emergency.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2868 did not pass",
+ "claims": [
+  {
+   "text": "HB 2868 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614832
+   ]
+  },
+  {
+   "text": "HB 2868 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661177
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614832,
+    617041,
+    661177
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614832
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614832
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2868&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2868",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2601,
+  "finding_hash": "99e12e90e080099bf9371af7cd50d00aa22098ae4030f24edf822d967a0bfeaa",
+  "evidence_digest": "sha256:310ac1cd2568405f202830048080377d6f9e884011a8e5c9bdeb8a8389f1405e",
+  "gate_id": "f0b5040347be4d20885d9d5e6623b057",
+  "gate_seq": 2602
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3345",
+ "measure_id": "HB3345",
+ "subject": "or_legislature/2025R1/HB3345",
+ "title": "Requires taxis and rideshare vehicles to have rideshare plates that have cherry red lettering and numbering.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3345 did not pass",
+ "claims": [
+  {
+   "text": "HB 3345 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619396
+   ]
+  },
+  {
+   "text": "HB 3345 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660377
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619396,
+    619768,
+    626914,
+    660377
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619396
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619396
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626914
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660377
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3345&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3345",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4032,
+  "finding_hash": "6746da275da5e7d3536409658ef5045922b20849d99a16b11550076390ab591c",
+  "evidence_digest": "sha256:0d19ad38596a3cdc385289458eab500e0f5a5d7326ea3d2de819d53dec76e153",
+  "gate_id": "2761e8737af04a9c8f05f1887fee3f0a",
+  "gate_seq": 4033
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3783",
+ "measure_id": "HB3783",
+ "subject": "or_legislature/2025R1/HB3783",
+ "title": "Requires the State Department of Energy to study energy.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3783 did not pass",
+ "claims": [
+  {
+   "text": "HB 3783 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624959
+   ]
+  },
+  {
+   "text": "HB 3783 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661353
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624959,
+    626368,
+    661353
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624959
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624959
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3783&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3783",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5346,
+  "finding_hash": "0007404350fe05b0a747ded166063b25bd958197bbeecb27c76c0db6a470fcc6",
+  "evidence_digest": "sha256:5e7e92d8c52b401ebc23c94c9d08e4a1391d3ef90fa369fadd58b60c15c967e9",
+  "gate_id": "875beb2f68884a06a89830dec28dcb90",
+  "gate_seq": 5347
+ }
+}

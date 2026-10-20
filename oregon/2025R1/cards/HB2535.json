@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2535",
+ "measure_id": "HB2535",
+ "subject": "or_legislature/2025R1/HB2535",
+ "title": "Creates a new way of committing the crime of theft in the second degree when the theft occurs from a dwelling or within the curtilage of a residence.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2535 did not pass",
+ "claims": [
+  {
+   "text": "HB 2535 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614499
+   ]
+  },
+  {
+   "text": "HB 2535 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660275
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614499,
+    616708,
+    660275
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614499
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614499
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2535&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2535",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1602,
+  "finding_hash": "73c2afb79e842135c21943b8fa88387f3241b5627db9977faa63508a68d8a863",
+  "evidence_digest": "sha256:532ba50a7edcfaec7f8102e9cc6891526eb88e0fd1e5a25f67b5d8c04c68335f",
+  "gate_id": "601ede465d3d4a7b84c357ecb0deff32",
+  "gate_seq": 1603
+ }
+}

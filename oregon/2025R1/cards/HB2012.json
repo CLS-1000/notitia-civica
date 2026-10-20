@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2012",
+ "measure_id": "HB2012",
+ "subject": "or_legislature/2025R1/HB2012",
+ "title": "Modifies the definition of \"private security entity\" for purposes of private security requirements.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2012 did not pass",
+ "claims": [
+  {
+   "text": "HB 2012 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613977
+   ]
+  },
+  {
+   "text": "HB 2012 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659803
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613977,
+    616186,
+    659803
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613977
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613977
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2012&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2012",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 33,
+  "finding_hash": "16624d97bd0cd9afa584269f78e2a907cbcd4fba013003bd694556696facb72f",
+  "evidence_digest": "sha256:1f882819c5f3e1d268703f6af6800e382ed72ecfd0b54b439e4af5d8c5323095",
+  "gate_id": "ff490ae0051f457789b05fd9655fcbd8",
+  "gate_seq": 34
+ }
+}

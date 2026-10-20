@@ -1,0 +1,133 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2050",
+ "measure_id": "HB2050",
+ "subject": "or_legislature/2025R1/HB2050",
+ "title": "Exempts from state income tax all federal retirement pay or pension received for service in the Armed Forces of the United States for a taxpayer who is a disabled veteran or member of a reserve component or the National Guard.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2050 did not pass",
+ "claims": [
+  {
+   "text": "HB 2050 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614014
+   ]
+  },
+  {
+   "text": "HB 2050 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660817
+   ]
+  },
+  {
+   "text": "Each of the 9 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614014,
+    616223,
+    629462,
+    637404,
+    638964,
+    640810,
+    640811,
+    652291,
+    660817
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614014
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614014
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629462
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637404
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640810
+   ]
+  },
+  {
+   "date": "2025-06-05",
+   "when": "June 5, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    652291
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660817
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2050&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2050",
+ "row_count": 9,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 147,
+  "finding_hash": "ff965d47527f52cdbb36cff1c941d3996ebb7fe0e24f5f5b7e2c6e72cd580e8b",
+  "evidence_digest": "sha256:517dba3728c01b739086428192073d518e01317e959651629dd3ae2f9ac46a3b",
+  "gate_id": "b6dda39ba18041fd8e47fd171b767caf",
+  "gate_seq": 148
+ }
+}

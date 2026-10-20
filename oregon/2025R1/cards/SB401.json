@@ -1,0 +1,107 @@
+{
+ "session": "2025R1",
+ "measure": "SB 401",
+ "measure_id": "SB401",
+ "subject": "or_legislature/2025R1/SB401",
+ "title": "Increases the weight allotted for children in poverty for purposes of State School Fund distributions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 401 did not pass",
+ "claims": [
+  {
+   "text": "SB 401 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615706
+   ]
+  },
+  {
+   "text": "SB 401 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659028
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615706,
+    617973,
+    629625,
+    639402,
+    659028
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615706
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615706
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629625
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639402
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659028
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 401&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB401",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7311,
+  "finding_hash": "47f5c5460b2ec42f579aef59b7903f121bd0106e4b871c2cf7217a2425846a48",
+  "evidence_digest": "sha256:38727fbcb69ceb861bad79ae6899ec593c77657065f873118136048b64b24291",
+  "gate_id": "cf96884fad9e4eb3bbc9148a5c2914b7",
+  "gate_seq": 7312
+ }
+}

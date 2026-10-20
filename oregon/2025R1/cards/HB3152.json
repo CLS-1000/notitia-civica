@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3152",
+ "measure_id": "HB3152",
+ "subject": "or_legislature/2025R1/HB3152",
+ "title": "Requires the Secretary of State to establish an electronic filing system to allow a candidate for nomination or election to a county or city office held at a primary or general election to file a portrait and statement electronically with the secretary if the candidate cannot have the portrait and statement printed in the county voters' pamphlet.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3152 did not pass",
+ "claims": [
+  {
+   "text": "HB 3152 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615116
+   ]
+  },
+  {
+   "text": "HB 3152 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660787
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615116,
+    617325,
+    660787
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615116
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615116
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3152&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3152",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3453,
+  "finding_hash": "7647055a12dcf8126bb1e39c23de3bbd406c3b3e9e404c55c0962f118e66b2ec",
+  "evidence_digest": "sha256:6db6febb495287461194187ed5234020e9b809607cf1a02a0aeb7fb5632dc334",
+  "gate_id": "16329e90d9cc420aa027f512632b65a2",
+  "gate_seq": 3454
+ }
+}

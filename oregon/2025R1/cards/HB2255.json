@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2255",
+ "measure_id": "HB2255",
+ "subject": "or_legislature/2025R1/HB2255",
+ "title": "Provides that courts may not defer to an agency's interpretation of a statute or rule.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2255 did not pass",
+ "claims": [
+  {
+   "text": "HB 2255 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614219
+   ]
+  },
+  {
+   "text": "HB 2255 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660258
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614219,
+    616428,
+    660258
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614219
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614219
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2255&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2255",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 762,
+  "finding_hash": "25e273f19abf4edaf0e559e5ba4c7cd5b018d6fb4e31572531e96475ab2eb700",
+  "evidence_digest": "sha256:aa6a6dbcbebd3bac64c44403841177ee28da69891dd09610735d005e108743ba",
+  "gate_id": "125570f0963c44e39616a8f61ba4f9d5",
+  "gate_seq": 763
+ }
+}

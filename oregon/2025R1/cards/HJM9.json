@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HJM 9",
+ "measure_id": "HJM9",
+ "subject": "or_legislature/2025R1/HJM9",
+ "title": "Urges the President of the United States to carry out foreign policy and defense doctrines that are rational, well-understood and well-reasoned. Urges the President to appoint, and the Senate to confirm, foreign policy and defense officials possessing sufficient professional experience and understanding of global dynamics and international law to carry out such doctrines.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJM 9 did not pass",
+ "claims": [
+  {
+   "text": "HJM 9 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613912
+   ]
+  },
+  {
+   "text": "HJM 9 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660504
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613912,
+    618961,
+    660504
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613912
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613912
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJM' and MeasureNumber eq 9&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJM9",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10104,
+  "finding_hash": "9b2f793ebfa70e7f5794fd80876a6d546c7ba11432dbc1ed82b9f4a40431bd61",
+  "evidence_digest": "sha256:a2c230815fa110fdad4a6df251dc4d540638038927733e94e6d235f859c0ffbf",
+  "gate_id": "ab6e6c4146024371b5a0bee5f40391e0",
+  "gate_seq": 10105
+ }
+}

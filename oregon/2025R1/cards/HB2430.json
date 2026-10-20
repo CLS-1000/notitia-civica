@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2430",
+ "measure_id": "HB2430",
+ "subject": "or_legislature/2025R1/HB2430",
+ "title": "Increases the additional amount paid for electric vehicle registration.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2430 did not pass",
+ "claims": [
+  {
+   "text": "HB 2430 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614394
+   ]
+  },
+  {
+   "text": "HB 2430 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660076
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614394,
+    616603,
+    660076
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614394
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614394
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2430&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2430",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1287,
+  "finding_hash": "b9ec80123c9aa6e6bdbb67860fc7858e98fd26a88e24423ab8d2f805a2ab723f",
+  "evidence_digest": "sha256:614827e0666aa43a0d74f8beda756d13a51c27cc73c8bbfbd5a941ac7466963b",
+  "gate_id": "8d382bc07eee4bd7a549f56f4477d362",
+  "gate_seq": 1288
+ }
+}

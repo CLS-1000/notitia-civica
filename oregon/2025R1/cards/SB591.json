@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 591",
+ "measure_id": "SB591",
+ "subject": "or_legislature/2025R1/SB591",
+ "title": "Requires the Oregon Health Authority to study the long term care facility assessment.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 591 did not pass",
+ "claims": [
+  {
+   "text": "SB 591 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615896
+   ]
+  },
+  {
+   "text": "SB 591 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658782
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615896,
+    618163,
+    658782
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615896
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615896
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 591&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB591",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7881,
+  "finding_hash": "4101eb7778765593a52279819ce7eed2923506e93d49c44ddb40e0a85c5d97ff",
+  "evidence_digest": "sha256:bedcb6d945176aae99f7f7667fda486e5dbf457cf91ad9e6653ac856d3339fa2",
+  "gate_id": "9de036012612427aa31c74375e45e0d2",
+  "gate_seq": 7882
+ }
+}

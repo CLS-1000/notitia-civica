@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3886",
+ "measure_id": "HB3886",
+ "subject": "or_legislature/2025R1/HB3886",
+ "title": "Modifies the definition of \"supervisory employee\" to exclude certain strike-prohibited public employees.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3886 did not pass",
+ "claims": [
+  {
+   "text": "HB 3886 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625062
+   ]
+  },
+  {
+   "text": "HB 3886 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661090
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625062,
+    626471,
+    661090
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625062
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625062
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3886&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3886",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5655,
+  "finding_hash": "d54c2dc1a9533cb3943ccdf84e559106207919bbf7ad7c4179e7e805482a26fc",
+  "evidence_digest": "sha256:91e11a735efbb239a2748747092f2c3fdc110a7e0e29ee1a9db10fb86eb131d2",
+  "gate_id": "64232e7217e64654ab0f0e64d7fa90e6",
+  "gate_seq": 5656
+ }
+}

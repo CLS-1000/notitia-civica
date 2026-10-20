@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 36",
+ "measure_id": "SB36",
+ "subject": "or_legislature/2025R1/SB36",
+ "title": "Requires the Department of Consumer and Business Services to study patient billing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 36 did not pass",
+ "claims": [
+  {
+   "text": "SB 36 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615341
+   ]
+  },
+  {
+   "text": "SB 36 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658976
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615341,
+    617608,
+    658976
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615341
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615341
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 36&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB36",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6216,
+  "finding_hash": "584c7c1fb083c048bc181faad2b4f7f0ecb06fa68616fe983bf2e2ee8bde305a",
+  "evidence_digest": "sha256:cdf0493364704a3fab6012b232ad2566a7a554d257e4322da35339a6dd717700",
+  "gate_id": "9829b4b40da647feae53d75499e18f6c",
+  "gate_seq": 6217
+ }
+}

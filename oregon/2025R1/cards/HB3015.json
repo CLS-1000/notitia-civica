@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3015",
+ "measure_id": "HB3015",
+ "subject": "or_legislature/2025R1/HB3015",
+ "title": "Prohibits certain food and beverage items sold to students in public schools from including Red Number 3, potassium bromate or propylparaben.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3015 did not pass",
+ "claims": [
+  {
+   "text": "HB 3015 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614979
+   ]
+  },
+  {
+   "text": "HB 3015 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660366
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614979,
+    617188,
+    660366
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614979
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614979
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3015&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3015",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3042,
+  "finding_hash": "f1d503a842b9923f3a8c013fdd2789c7fccf4186c2638c08047b2e6f5526a721",
+  "evidence_digest": "sha256:e40e4c2a772b35ea436493674708786ac4865ac4d2cc2820b48c93907a1f98b3",
+  "gate_id": "32a05b5e8d03423b9a41b36c5619db95",
+  "gate_seq": 3043
+ }
+}

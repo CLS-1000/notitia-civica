@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2042",
+ "measure_id": "HB2042",
+ "subject": "or_legislature/2025R1/HB2042",
+ "title": "Requires the Oregon Health Authority to develop, implement and administer a program to support consumer engagement efforts aimed at increasing and optimizing consumer involvement in planning and decision-making surrounding the access to, and the delivery of, behavioral health services in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2042 did not pass",
+ "claims": [
+  {
+   "text": "HB 2042 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614006
+   ]
+  },
+  {
+   "text": "HB 2042 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660858
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614006,
+    616215,
+    660858
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614006
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614006
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2042&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2042",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 123,
+  "finding_hash": "1b1a840b7869bb075f9e964c4ddf36e46dbc93d8b759c3eba6de4dced0a20bcb",
+  "evidence_digest": "sha256:124b701b11a15fa9f3cdc86775304818f888a2538c998f6762ae20d2e743fce0",
+  "gate_id": "7e8610f025e944fc8534363835740255",
+  "gate_seq": 124
+ }
+}

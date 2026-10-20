@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 63",
+ "measure_id": "SB63",
+ "subject": "or_legislature/2025R1/SB63",
+ "title": "Imposes personal income tax at flat rate if a taxpayer has an adjusted gross income below threshold amount.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 63 did not pass",
+ "claims": [
+  {
+   "text": "SB 63 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615368
+   ]
+  },
+  {
+   "text": "SB 63 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658605
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615368,
+    617635,
+    658605
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615368
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615368
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 63&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB63",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6297,
+  "finding_hash": "39b608394907c956f3d8a2005bbb3170c33f68d0feaf343e1b2ce1d2d9b70c09",
+  "evidence_digest": "sha256:94e475100a8ee5ee6d332f77d517abd15d3f5faae2aba79be72480a89697fdf0",
+  "gate_id": "49242c64617d448693e48fd515fc918c",
+  "gate_seq": 6298
+ }
+}

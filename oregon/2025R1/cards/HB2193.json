@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2193",
+ "measure_id": "HB2193",
+ "subject": "or_legislature/2025R1/HB2193",
+ "title": "Prohibits a person from engaging in or refusing to engage in an economic relationship with a resident of this state, or allowing or barring the resident from entry into a place of public accommodation, on the basis of or with reference to any score, rating, appraisal, assessment or other evaluation of the resident's social standing or reputation, adherence to or expression of a religious, moral or political belief or doctrine, compliance with a public health mandate or exercise of a constitutionally protected right, including the right to free expression or freedom of association or assembly.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2193 did not pass",
+ "claims": [
+  {
+   "text": "HB 2193 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614157
+   ]
+  },
+  {
+   "text": "HB 2193 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661040
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614157,
+    616366,
+    661040
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614157
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614157
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2193&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2193",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 576,
+  "finding_hash": "40e681ff688531f4a907c3db68c77de95337eb33a2bd988254ce57e6735be1ea",
+  "evidence_digest": "sha256:4eb479a8b75d5def5e7591468545352755359260d00a81c092167e53cef90907",
+  "gate_id": "14212fa89e194efbb1cadb74c148acba",
+  "gate_seq": 577
+ }
+}

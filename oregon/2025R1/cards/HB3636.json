@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3636",
+ "measure_id": "HB3636",
+ "subject": "or_legislature/2025R1/HB3636",
+ "title": "Requires insurers to offer personal injury protection benefits to persons insured under the insurer's motor vehicle liability policy, but makes the decision to elect to receive personal injury protection benefits optional.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3636 did not pass",
+ "claims": [
+  {
+   "text": "HB 3636 was introduced in the House on February 20, 2025.",
+   "row_ids": [
+    623571
+   ]
+  },
+  {
+   "text": "HB 3636 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660565
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623571,
+    623863,
+    660565
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    623571
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623571
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3636&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3636",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4905,
+  "finding_hash": "9ab70b684f2d500829f937e878070b9be90d4bd01ea5a4a7767140bad2ab80bf",
+  "evidence_digest": "sha256:7703993fbbbf734f3d9022939845f873a6e60343d49c10467badf6c455cc76c8",
+  "gate_id": "800457f47f5a4a16978fc31888dfc8f8",
+  "gate_seq": 4906
+ }
+}

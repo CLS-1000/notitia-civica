@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 367",
+ "measure_id": "SB367",
+ "subject": "or_legislature/2025R1/SB367",
+ "title": "Prohibits the Governor or a state officer or agency from requiring a lawful ongoing business concern to close or suspend operations during a declared state of emergency or a declared state of public health emergency.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 367 did not pass",
+ "claims": [
+  {
+   "text": "SB 367 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615672
+   ]
+  },
+  {
+   "text": "SB 367 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658752
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615672,
+    617939,
+    658752
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615672
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615672
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 367&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB367",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7209,
+  "finding_hash": "3dd5da20669791be0b3308ca642b8ac2ebb4d1d4303ba734420457d8ed5b39a1",
+  "evidence_digest": "sha256:24a64b305fb0ac0f0ccf531c4a4c1ad8a134e8e8f4b993aff871f713354450e5",
+  "gate_id": "acd3c3fc38af4d1ea22aae6b526caacd",
+  "gate_seq": 7210
+ }
+}

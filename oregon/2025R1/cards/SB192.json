@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 192",
+ "measure_id": "SB192",
+ "subject": "or_legislature/2025R1/SB192",
+ "title": "Requires the Oregon Criminal Justice Commission to study the effect of different types of sentences on rates of recidivism.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 192 did not pass",
+ "claims": [
+  {
+   "text": "SB 192 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615497
+   ]
+  },
+  {
+   "text": "SB 192 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659516
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615497,
+    617764,
+    659516
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615497
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615497
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 192&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB192",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6684,
+  "finding_hash": "2afcfc5b31a54282324c77d385d28da1bb964a8a42d0f105411c77f37ea8e632",
+  "evidence_digest": "sha256:ad9cf4c01cc547a4ad2b34d428d3185373245418bf5d82ad3bea1b5990baf9bd",
+  "gate_id": "29551399a5f644eaaf0f4b28a6777a3f",
+  "gate_seq": 6685
+ }
+}

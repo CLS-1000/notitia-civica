@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2498",
+ "measure_id": "HB2498",
+ "subject": "or_legislature/2025R1/HB2498",
+ "title": "Directs the Department of Transportation to study issues related to driving privileges and to report to an appropriate committee or interim committee of the Legislative Assembly on or before September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2498 did not pass",
+ "claims": [
+  {
+   "text": "HB 2498 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614462
+   ]
+  },
+  {
+   "text": "HB 2498 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661463
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614462,
+    616671,
+    661463
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614462
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614462
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2498&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2498",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1491,
+  "finding_hash": "fada61eecdb3d79a34fe0c3d23d25812f96af0712e67b5f3268f1a54e71870f0",
+  "evidence_digest": "sha256:409763aa2b027f9766be711966c534b621f15c5d6026596920dafcece2b9b4f4",
+  "gate_id": "03554ae334be475883974440d2af6735",
+  "gate_seq": 1492
+ }
+}

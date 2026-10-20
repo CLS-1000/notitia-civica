@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2371",
+ "measure_id": "HB2371",
+ "subject": "or_legislature/2025R1/HB2371",
+ "title": "Prohibits the amount of tuition that is waived for qualified students from being reduced by the amount of specified student aid received by the qualified students.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2371 did not pass",
+ "claims": [
+  {
+   "text": "HB 2371 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614335
+   ]
+  },
+  {
+   "text": "HB 2371 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660714
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614335,
+    616544,
+    660714
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614335
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614335
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2371&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2371",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1110,
+  "finding_hash": "967f72a94438de8676f6e0421dafa99b6e884ae88320b202707259ddae3f9fcb",
+  "evidence_digest": "sha256:d6cbad238af826160a5f1252c790988a2a46d87e40564cd0acaba2880b024cbc",
+  "gate_id": "b9f2a2775feb4712a7afc64f64b3315b",
+  "gate_seq": 1111
+ }
+}

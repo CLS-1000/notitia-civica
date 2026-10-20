@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 248",
+ "measure_id": "SB248",
+ "subject": "or_legislature/2025R1/SB248",
+ "title": "Requires the Department of Consumer and Business Services to study liens.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 248 did not pass",
+ "claims": [
+  {
+   "text": "SB 248 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615553
+   ]
+  },
+  {
+   "text": "SB 248 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658644
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615553,
+    617820,
+    658644
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615553
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615553
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 248&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB248",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6852,
+  "finding_hash": "3f4661418465d57b57c34d0ed2cec86ec1453bd135e8760fc16db45938fc178e",
+  "evidence_digest": "sha256:2053609425aeef0bdf33cbf18bec7d8938e9f234bb6dd976a10ac17c442acaba",
+  "gate_id": "77e3eb52b47d4d04bb187bde8711eb72",
+  "gate_seq": 6853
+ }
+}

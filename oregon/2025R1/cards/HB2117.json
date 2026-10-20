@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2117",
+ "measure_id": "HB2117",
+ "subject": "or_legislature/2025R1/HB2117",
+ "title": "Restores the corporate excise tax credit allowed for qualified research activities at an increased maximum amount.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2117 did not pass",
+ "claims": [
+  {
+   "text": "HB 2117 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614081
+   ]
+  },
+  {
+   "text": "HB 2117 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661272
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614081,
+    616290,
+    661272
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614081
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614081
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2117&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2117",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 348,
+  "finding_hash": "1f7218479b4cf0d341357ba651dea9875d0de63fefb26accf8db1c54e82a5234",
+  "evidence_digest": "sha256:737f90ce46aeb9cf6192d36f0db8db92a075d8c808471e32fee80b8ae314d37c",
+  "gate_id": "efd5a3279a8e4b29906a5fd4c1f3c0b0",
+  "gate_seq": 349
+ }
+}

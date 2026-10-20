@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3547",
+ "measure_id": "HB3547",
+ "subject": "or_legislature/2025R1/HB3547",
+ "title": "Exempts institutions for mental diseases from the requirement to obtain a certificate of need from the Oregon Health Authority.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3547 did not pass",
+ "claims": [
+  {
+   "text": "HB 3547 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621753
+   ]
+  },
+  {
+   "text": "HB 3547 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659960
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621753,
+    622090,
+    659960
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621753
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621753
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3547&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3547",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4638,
+  "finding_hash": "5cef08df59dd5a45e0dcf3ecf4ab74d0933f28030f9df7f7e6f8e9c7eec58526",
+  "evidence_digest": "sha256:b3d382a546f9701ac304d3f30aab39d64b36dc6a33be32b1baaa073920826b83",
+  "gate_id": "ecbe6dc1ee1c44f98df07bb1a0fd4d15",
+  "gate_seq": 4639
+ }
+}

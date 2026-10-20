@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1101",
+ "measure_id": "SB1101",
+ "subject": "or_legislature/2025R1/SB1101",
+ "title": "Requires a county clerk to cancel a voter registration in accordance with the requirements of the federal National Voter Registration Act of 1993.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1101 did not pass",
+ "claims": [
+  {
+   "text": "SB 1101 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624300
+   ]
+  },
+  {
+   "text": "SB 1101 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659550
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624300,
+    624476,
+    659550
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624300
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624300
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1101&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1101",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9411,
+  "finding_hash": "edbce7c9b139157ee1ea5c6111a28f5fbe07de1ffe03538469f9d160c3851a1d",
+  "evidence_digest": "sha256:46c837be721ad54a9704d2eceff6a67a1335931ad4ebe9bd1f61d2153c6119b4",
+  "gate_id": "c1b204a369974587b3c3536d40af0d94",
+  "gate_seq": 9412
+ }
+}

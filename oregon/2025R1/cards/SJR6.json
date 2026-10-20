@@ -1,0 +1,81 @@
+{
+ "session": "2025R1",
+ "measure": "SJR 6",
+ "measure_id": "SJR6",
+ "subject": "or_legislature/2025R1/SJR6",
+ "title": "Amends the Oregon Constitution to require that a question of whether to recall a public officer must appear on the ballot at the next regularly scheduled election. Refers the proposed amendment to the people for their approval or rejection at the next regular general election.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJR 6 did not pass",
+ "claims": [
+  {
+   "text": "SJR 6 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615237
+   ]
+  },
+  {
+   "text": "SJR 6 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658634
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615237,
+    617504,
+    658634
+   ]
+  },
+  {
+   "text": "SJR 6 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    658634
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615237
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615237
+   ]
+  }
+ ],
+ "topics": [
+  "ballot",
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJR' and MeasureNumber eq 6&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJR6",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9993,
+  "finding_hash": "64e5ffbc1a0eb0fda6b857057b7d5a0e4e07ea88efd04fd7c1dbd0232e9e5f4c",
+  "evidence_digest": "sha256:4c49034fc22a5becd6745eecc8742176f8a915f50f4af58d1c043c79e09ec95c",
+  "gate_id": "d7aab264808342edbd1e3d43f557e8ab",
+  "gate_seq": 9994
+ }
+}

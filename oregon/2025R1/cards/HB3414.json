@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3414",
+ "measure_id": "HB3414",
+ "subject": "or_legislature/2025R1/HB3414",
+ "title": "Requires the Oregon Department of Emergency Management to study emergency management.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3414 did not pass",
+ "claims": [
+  {
+   "text": "HB 3414 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619465
+   ]
+  },
+  {
+   "text": "HB 3414 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659925
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619465,
+    619837,
+    659925
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619465
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619465
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3414&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3414",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4239,
+  "finding_hash": "997da766b7a5a2eaeb5b70734d3ff7610df31bf546a10c5807cde380d70f6d23",
+  "evidence_digest": "sha256:773e0535e9e2aa60c56205e068369acc6a396a276bd5f0cefb0163d7cd4e919b",
+  "gate_id": "dff6a4b2a9834932a149b8f828171d70",
+  "gate_seq": 4240
+ }
+}

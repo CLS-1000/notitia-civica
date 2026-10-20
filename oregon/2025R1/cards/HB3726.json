@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3726",
+ "measure_id": "HB3726",
+ "subject": "or_legislature/2025R1/HB3726",
+ "title": "Authorizes the Department of Corrections to hire retired corrections officers subject to specific conditions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3726 did not pass",
+ "claims": [
+  {
+   "text": "HB 3726 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624410
+   ]
+  },
+  {
+   "text": "HB 3726 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660383
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624410,
+    625271,
+    660383
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624410
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624410
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3726&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3726",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5175,
+  "finding_hash": "c82dc4ec0877f7b4f112538cf54e18418a459961161c6684f9e0fcc50d65d8f9",
+  "evidence_digest": "sha256:053e2052a38e7375762dfc4b330ffbe1a66a854882bca83bf1418c6463510fd4",
+  "gate_id": "f6e983223cc047c3babe3fccc4c12c59",
+  "gate_seq": 5176
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3279",
+ "measure_id": "HB3279",
+ "subject": "or_legislature/2025R1/HB3279",
+ "title": "Authorizes the Oregon Department of Emergency Management to issue temporary professional licenses during states of emergency to individuals formerly licensed by certain professional licensing boards.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3279 did not pass",
+ "claims": [
+  {
+   "text": "HB 3279 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618750
+   ]
+  },
+  {
+   "text": "HB 3279 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660986
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618750,
+    619148,
+    660986
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618750
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618750
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3279&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3279",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3834,
+  "finding_hash": "3e1c7f05388574d87eb3e7599d0b960ad45a5e7359c9ea2e48544e3ed68475a2",
+  "evidence_digest": "sha256:7dd8600ffbee67d2d2aea9c145d91565293fb90050347c333834d00fc284c258",
+  "gate_id": "03679343824b47d2b91786b2e77d5094",
+  "gate_seq": 3835
+ }
+}

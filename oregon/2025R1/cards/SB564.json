@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 564",
+ "measure_id": "SB564",
+ "subject": "or_legislature/2025R1/SB564",
+ "title": "Directs the Department of Transportation to conduct a study and make a report on increasing the capacity of motor vehicle travel on a portion of U.S. Highway 20.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 564 did not pass",
+ "claims": [
+  {
+   "text": "SB 564 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615869
+   ]
+  },
+  {
+   "text": "SB 564 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659391
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615869,
+    618136,
+    621972,
+    638644,
+    639813,
+    639814,
+    659391
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615869
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615869
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621972
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638644
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639813
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 564&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB564",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7800,
+  "finding_hash": "da86f5070fa6f1b1631d5bb3b8bc7079591e336e4912fbfe15b3549cd93b349e",
+  "evidence_digest": "sha256:9224e3a2d129d259f817b45764cf28e9d0eb791a46cc65c6524c72bba4978442",
+  "gate_id": "82d4f6973cf5467685772da98757273a",
+  "gate_seq": 7801
+ }
+}

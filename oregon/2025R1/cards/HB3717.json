@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3717",
+ "measure_id": "HB3717",
+ "subject": "or_legislature/2025R1/HB3717",
+ "title": "Appropriates moneys to the Department of Transportation to create an emergency contact information form and make the form available for individuals to voluntarily provide emergency contact information for inclusion in the individual's record for police officers to use, during or after emergency situations, to contact those listed.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3717 did not pass",
+ "claims": [
+  {
+   "text": "HB 3717 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624401
+   ]
+  },
+  {
+   "text": "HB 3717 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660451
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624401,
+    625262,
+    660451
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624401
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624401
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3717&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3717",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5148,
+  "finding_hash": "25100db930daa773b3f358de4284fe60e3ddee896d6b4f12fc113ca796d8de14",
+  "evidence_digest": "sha256:a53d4a441a8f75ec85ceb2b46bf38de4d2d06071284d82d992c231fe9e58a112",
+  "gate_id": "5acb7b47f7134c0a89da26562ac8baff",
+  "gate_seq": 5149
+ }
+}

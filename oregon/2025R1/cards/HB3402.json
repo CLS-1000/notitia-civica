@@ -1,0 +1,108 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3402",
+ "measure_id": "HB3402",
+ "subject": "or_legislature/2025R1/HB3402",
+ "title": "Directs the Division of Audits to conduct performance audits of the Department of Transportation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3402 did not pass",
+ "claims": [
+  {
+   "text": "HB 3402 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619453
+   ]
+  },
+  {
+   "text": "HB 3402 reached the House floor but did not get a final vote when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658558
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619453,
+    619825,
+    658491,
+    658534,
+    658545,
+    658558
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619453
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619453
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    658491
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    658534
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    658545
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3402&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3402",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4203,
+  "finding_hash": "bd99ad5c0538ac11b3a1b139e6374707936df55b70b51266a5b627326a009b1e",
+  "evidence_digest": "sha256:1ee631354f7af50713d25050d543f0a2b6ac180d5c5439aa4254d92f8bbc83a5",
+  "gate_id": "89311c4eb0b94bea9be4e1016c5296d8",
+  "gate_seq": 4204
+ }
+}

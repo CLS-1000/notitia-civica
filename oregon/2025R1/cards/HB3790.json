@@ -1,0 +1,73 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3790",
+ "measure_id": "HB3790",
+ "subject": "or_legislature/2025R1/HB3790",
+ "title": "Directs the Oregon Liquor and Cannabis Commission to issue a cannabis health care technician certification to a qualified individual.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3790 did not pass",
+ "claims": [
+  {
+   "text": "HB 3790 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624966
+   ]
+  },
+  {
+   "text": "HB 3790 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661359
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624966,
+    626375,
+    643055,
+    661359
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624966
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624966
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3790&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3790",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5367,
+  "finding_hash": "2bcd555212bec294060b6be7a2d91e519d44855532e40953ccb0351a2c5def7b",
+  "evidence_digest": "sha256:43cf3189754427bbf585dead69e68a755f3bb860c11742507aa546f36ee880b7",
+  "gate_id": "f88c60e58ac14fbcbb3f784a71d2d221",
+  "gate_seq": 5368
+ }
+}

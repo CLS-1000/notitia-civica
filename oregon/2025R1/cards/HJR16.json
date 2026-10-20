@@ -1,0 +1,81 @@
+{
+ "session": "2025R1",
+ "measure": "HJR 16",
+ "measure_id": "HJR16",
+ "subject": "or_legislature/2025R1/HJR16",
+ "title": "Proposes an amendment to the Oregon Constitution to establish the office of Lieutenant Governor and places the Lieutenant Governor first in the line to succeed the Governor if the Governor's office becomes vacant mid-term. Establishes the duration of the term of office of Lieutenant Governor at four years, but provides that the first term of office, elected in the 2028 regular general election, is only two years.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJR 16 did not pass",
+ "claims": [
+  {
+   "text": "HJR 16 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621724
+   ]
+  },
+  {
+   "text": "HJR 16 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660589
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621724,
+    622101,
+    660589
+   ]
+  },
+  {
+   "text": "HJR 16 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    660589
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621724
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621724
+   ]
+  }
+ ],
+ "topics": [
+  "ballot",
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJR' and MeasureNumber eq 16&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJR16",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9957,
+  "finding_hash": "8eb60ceeef83db4e180114495fb108609c643e434aaff7663e8d25536a9d29f3",
+  "evidence_digest": "sha256:aadbe322ddd0b3f41e6f641308c5c1415a7c09b0033fda2592be1180e2440b42",
+  "gate_id": "28e607fd290441af8e92a093f841322b",
+  "gate_seq": 9958
+ }
+}

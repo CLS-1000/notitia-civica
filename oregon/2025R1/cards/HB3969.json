@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3969",
+ "measure_id": "HB3969",
+ "subject": "or_legislature/2025R1/HB3969",
+ "title": "Creates the crime of initiating a false report in the first degree.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3969 did not pass",
+ "claims": [
+  {
+   "text": "HB 3969 was introduced in the House on April 23, 2025.",
+   "row_ids": [
+    642456
+   ]
+  },
+  {
+   "text": "HB 3969 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660604
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    642456,
+    642831,
+    660604
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-04-23",
+   "when": "April 23, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    642456
+   ]
+  },
+  {
+   "date": "2025-04-23",
+   "when": "April 23, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    642456
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3969&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3969",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5904,
+  "finding_hash": "0275380f45a4996723d224e60527d6d5fd82df5285b80e879d26fbb2d171f00e",
+  "evidence_digest": "sha256:4d13f0f741cee6912cd72edf1efabbbb9833a81094f4bf920e8c297b23d1031b",
+  "gate_id": "aaf8b6f7dcbe4f16bfb90b4bc1589e84",
+  "gate_seq": 5905
+ }
+}

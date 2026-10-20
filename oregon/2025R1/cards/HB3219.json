@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3219",
+ "measure_id": "HB3219",
+ "subject": "or_legislature/2025R1/HB3219",
+ "title": "Appropriates moneys to the Higher Education Coordinating Commission for distribution to the Oregon Hazards Lab at the University of Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3219 did not pass",
+ "claims": [
+  {
+   "text": "HB 3219 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615183
+   ]
+  },
+  {
+   "text": "HB 3219 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660173
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615183,
+    617392,
+    623543,
+    628180,
+    628752,
+    628753,
+    660173
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615183
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615183
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623543
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    628180
+   ]
+  },
+  {
+   "date": "2025-03-14",
+   "when": "March 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    628752
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3219&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3219",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3654,
+  "finding_hash": "60a6545b660c221bbbce73ce1ddbe07eb3ab5da5ff93330e0cf8011d4722d518",
+  "evidence_digest": "sha256:d2af0d8dd399945b7649047088f5db38569b2a016b6dff93c3cdbd94eb7924ef",
+  "gate_id": "06ba19d8dcef4d18a05d136b88885347",
+  "gate_seq": 3655
+ }
+}

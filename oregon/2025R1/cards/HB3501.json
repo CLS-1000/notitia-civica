@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3501",
+ "measure_id": "HB3501",
+ "subject": "or_legislature/2025R1/HB3501",
+ "title": "Prohibits the consideration of whether certain changes related to water rights would impair or be detrimental to the public interest.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3501 did not pass",
+ "claims": [
+  {
+   "text": "HB 3501 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620374
+   ]
+  },
+  {
+   "text": "HB 3501 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660617
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620374,
+    621047,
+    627328,
+    638042,
+    639617,
+    639618,
+    660617
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620374
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620374
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627328
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638042
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    639617
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3501&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3501",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4500,
+  "finding_hash": "fce52bb4119baf499fac93c9e6e46084ac6371d7a6c5a584a4490cfe68983dd7",
+  "evidence_digest": "sha256:def8d08e7b2b67d399c64686266dd21a32120cb043b81343d68ed80eed61f6e9",
+  "gate_id": "91f1b223809941bc82438500adefc76f",
+  "gate_seq": 4501
+ }
+}

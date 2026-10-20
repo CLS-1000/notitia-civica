@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2368",
+ "measure_id": "HB2368",
+ "subject": "or_legislature/2025R1/HB2368",
+ "title": "Directs district school boards to ensure that the curriculum of each course of study offered by a school district is made available to the public on the school district's website.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2368 did not pass",
+ "claims": [
+  {
+   "text": "HB 2368 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614332
+   ]
+  },
+  {
+   "text": "HB 2368 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660712
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614332,
+    616541,
+    660712
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614332
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614332
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2368&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2368",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1101,
+  "finding_hash": "24e168c535824a0f0f4551e14ba7e092d4ed7256cfb95ec7537f80208b721863",
+  "evidence_digest": "sha256:211369952f4bf0eb6720965b2f933b79816c0f8d8fc43d091ac1fc74a92b0a11",
+  "gate_id": "c7161c825f2f4a1885d495e78b0e2508",
+  "gate_seq": 1102
+ }
+}

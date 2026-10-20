@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 178",
+ "measure_id": "SB178",
+ "subject": "or_legislature/2025R1/SB178",
+ "title": "Provides that a district attorney may require the payment of a fee reasonably calculated to reimburse costs before providing discovery to a defendant.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 178 did not pass",
+ "claims": [
+  {
+   "text": "SB 178 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615483
+   ]
+  },
+  {
+   "text": "SB 178 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659505
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615483,
+    617750,
+    638552,
+    659505
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615483
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615483
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    638552
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659505
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 178&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB178",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6642,
+  "finding_hash": "23edd1c8d8a419166b03ac76b407a37c246107acfc35a664ab30c0dc10151cc6",
+  "evidence_digest": "sha256:f10d10fc1798ac1964b4d8e33fda69389221ec9a02aa77957035bbd9893ea3ff",
+  "gate_id": "327de28bfc254e6f89514bfdc3da9869",
+  "gate_seq": 6643
+ }
+}

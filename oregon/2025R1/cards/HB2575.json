@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2575",
+ "measure_id": "HB2575",
+ "subject": "or_legislature/2025R1/HB2575",
+ "title": "Provides a parent with alternative educational choices if a student fails to achieve reading proficiency by the end of the third grade.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2575 did not pass",
+ "claims": [
+  {
+   "text": "HB 2575 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614539
+   ]
+  },
+  {
+   "text": "HB 2575 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660905
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614539,
+    616748,
+    660905
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614539
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614539
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2575&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2575",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1722,
+  "finding_hash": "6743083c9b0e268a7c6b8b057abc1bbd4655ddf4b917d77d8c3ffffc6b4fc346",
+  "evidence_digest": "sha256:e157f51fd23312188d2a6166c875318d31502444d796c70134169891611f05c9",
+  "gate_id": "3d4901c9394b4f1e8d5d2845bf547a26",
+  "gate_seq": 1723
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3689",
+ "measure_id": "HB3689",
+ "subject": "or_legislature/2025R1/HB3689",
+ "title": "Authorizes the Governor to commute a person's prison sentence to allow for the removal of the person.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3689 did not pass",
+ "claims": [
+  {
+   "text": "HB 3689 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624373
+   ]
+  },
+  {
+   "text": "HB 3689 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661124
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624373,
+    625234,
+    661124
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624373
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624373
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3689&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3689",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5064,
+  "finding_hash": "d35147a2ec8ae9292012a2f4702a658edae3a6af456d718460da16d29b389f0b",
+  "evidence_digest": "sha256:92d7d69fdd8bb52ee23e91efcc8973cd8dd1f5e6af975e1df515fb59981248d5",
+  "gate_id": "194f9a3967aa4d1a800231e7649bd10f",
+  "gate_seq": 5065
+ }
+}

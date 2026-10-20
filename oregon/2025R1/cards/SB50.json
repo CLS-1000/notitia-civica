@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 50",
+ "measure_id": "SB50",
+ "subject": "or_legislature/2025R1/SB50",
+ "title": "Allows the Housing and Community Services Department to use certain moneys in the Local Innovation and Fast Track Housing Program Fund set aside to purchase multifamily housing to convert to affordable housing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 50 did not pass",
+ "claims": [
+  {
+   "text": "SB 50 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615355
+   ]
+  },
+  {
+   "text": "SB 50 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658761
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615355,
+    617622,
+    628037,
+    634812,
+    638374,
+    638375,
+    658761
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615355
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615355
+   ]
+  },
+  {
+   "date": "2025-03-12",
+   "when": "March 12, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628037
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    634812
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638374
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 50&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB50",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6258,
+  "finding_hash": "2ace8ad90007dddf7b984eb881102f6126a2a8ae2b4821372258a31123437b3e",
+  "evidence_digest": "sha256:a138456e2bcf8b46f5525a36538d68b1cb5e3f020c6ee7ffe5f12a0a58d6fac0",
+  "gate_id": "2de94e87d62e41ffa24a5f52ba3c2c8c",
+  "gate_seq": 6259
+ }
+}

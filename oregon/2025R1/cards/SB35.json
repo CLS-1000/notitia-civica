@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 35",
+ "measure_id": "SB35",
+ "subject": "or_legislature/2025R1/SB35",
+ "title": "Requires the Oregon Health Authority to study medical assistance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 35 did not pass",
+ "claims": [
+  {
+   "text": "SB 35 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615340
+   ]
+  },
+  {
+   "text": "SB 35 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658975
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615340,
+    617607,
+    658975
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615340
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615340
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 35&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB35",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6213,
+  "finding_hash": "1145f25b5554eb2232b24ec1a9fd346b05e0507bb23407c0c7a04213349ee3dc",
+  "evidence_digest": "sha256:a419a96798795e01dad5f03f317b9aa5f206795ef45d6c23d90beec095f0ad60",
+  "gate_id": "d783e12e7b564fa58278df73eca9ce77",
+  "gate_seq": 6214
+ }
+}

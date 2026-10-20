@@ -1,0 +1,107 @@
+{
+ "session": "2025R1",
+ "measure": "SB 912",
+ "measure_id": "SB912",
+ "subject": "or_legislature/2025R1/SB912",
+ "title": "Prescribes duties to protect children and provide for children's basic needs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 912 did not pass",
+ "claims": [
+  {
+   "text": "SB 912 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618688
+   ]
+  },
+  {
+   "text": "SB 912 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659127
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618688,
+    618859,
+    626800,
+    636905,
+    659127
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618688
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618688
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626800
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636905
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659127
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 912&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB912",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8844,
+  "finding_hash": "bffa743ba8104a938a6e14f11a52c6098a51803f138db733ba5ea8e692a8736c",
+  "evidence_digest": "sha256:53d4836171273d646b360b168bd84680faa9be48601fe6e7d3011956f8f249b8",
+  "gate_id": "aaed379d539c49f599cac15e8fcabc05",
+  "gate_seq": 8845
+ }
+}

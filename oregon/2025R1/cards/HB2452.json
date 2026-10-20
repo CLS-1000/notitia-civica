@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2452",
+ "measure_id": "HB2452",
+ "subject": "or_legislature/2025R1/HB2452",
+ "title": "Directs the Department of Early Learning and Care to establish a program to award grants to child care resource and referral entities to help parents or guardians of children access child care.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2452 did not pass",
+ "claims": [
+  {
+   "text": "HB 2452 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614416
+   ]
+  },
+  {
+   "text": "HB 2452 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661486
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614416,
+    616625,
+    623428,
+    638746,
+    640417,
+    640418,
+    661486
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614416
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614416
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623428
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638746
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640417
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2452&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2452",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1353,
+  "finding_hash": "834035250143161ba2484eebbc49d8ae5ce6eabcdd20d206e6181577d181c71d",
+  "evidence_digest": "sha256:edbf1a7820cc3254c396f269384b8351c8d124176f509a266279bf5f5d43d82e",
+  "gate_id": "f2f2cb3ffe384308aee258366969ed8f",
+  "gate_seq": 1354
+ }
+}

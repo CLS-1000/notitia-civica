@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2219",
+ "measure_id": "HB2219",
+ "subject": "or_legislature/2025R1/HB2219",
+ "title": "Directs the Oregon Health Authority and coordinated care organizations, to the extent permitted by federal law, to establish reimbursement rates for labor and delivery services provided by hospitals to medical assistance recipients that are no less than the costs to provide the services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2219 did not pass",
+ "claims": [
+  {
+   "text": "HB 2219 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614183
+   ]
+  },
+  {
+   "text": "HB 2219 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661063
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614183,
+    616392,
+    661063
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614183
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614183
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2219&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2219",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 654,
+  "finding_hash": "a0f223f00112bd26829fee6a6e109495512a645a193d9485d03e3a3a7ba1ce5e",
+  "evidence_digest": "sha256:c0b94878ab5ac62c1e2954287d3ef690afb67f2bf0e6048a2d3beb200752fe7c",
+  "gate_id": "374bb1620a5a403d9e4433b79ba78fa0",
+  "gate_seq": 655
+ }
+}

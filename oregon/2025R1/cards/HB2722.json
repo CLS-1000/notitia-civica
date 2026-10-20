@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2722",
+ "measure_id": "HB2722",
+ "subject": "or_legislature/2025R1/HB2722",
+ "title": "Directs the Department of Transportation to enter into agreements with any qualified provider to assist the department with certain functions of the department.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2722 did not pass",
+ "claims": [
+  {
+   "text": "HB 2722 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614686
+   ]
+  },
+  {
+   "text": "HB 2722 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660117
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614686,
+    616895,
+    660117
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614686
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614686
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2722&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2722",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2163,
+  "finding_hash": "9a84b5027c7d34f66a30433303787165eab465e2a721c2e9a221e7079bb0c756",
+  "evidence_digest": "sha256:35578da83bb98b4d9be767068d3c0f8a93b51fb44ded439dd06d29db7142525d",
+  "gate_id": "d4ab47cca6104858bcd5eed2d76c4061",
+  "gate_seq": 2164
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2524",
+ "measure_id": "HB2524",
+ "subject": "or_legislature/2025R1/HB2524",
+ "title": "Directs the Department of Veterans' Affairs to establish a grant program for court and community care programs providing services to children of veterans and veteran families.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2524 did not pass",
+ "claims": [
+  {
+   "text": "HB 2524 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614488
+   ]
+  },
+  {
+   "text": "HB 2524 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661496
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614488,
+    616697,
+    661496
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614488
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614488
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2524&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2524",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1569,
+  "finding_hash": "00b9a96b40e478596acafcc74defa157c9ccc84e578f9dfdf19227672df05507",
+  "evidence_digest": "sha256:651189965c253ec1bcae208d82a6b66f4bf7fb0c8eb3b0fa0a02de0ebbcfe003",
+  "gate_id": "0c47cf1a8d804d2f89005d462aae41d5",
+  "gate_seq": 1570
+ }
+}

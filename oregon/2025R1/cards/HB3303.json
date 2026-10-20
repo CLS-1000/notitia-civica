@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3303",
+ "measure_id": "HB3303",
+ "subject": "or_legislature/2025R1/HB3303",
+ "title": "Directs the Oregon Business Development Department to study infrastructure financing in Oregon by considering and evaluating tools the state may use to have a positive effect on infrastructure and housing costs in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3303 did not pass",
+ "claims": [
+  {
+   "text": "HB 3303 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618774
+   ]
+  },
+  {
+   "text": "HB 3303 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661009
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618774,
+    619172,
+    661009
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618774
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618774
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3303&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3303",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3906,
+  "finding_hash": "b61213a192ed654d04bd3d7ff9cc29dbaf36d794a9eade16f82471bff2c1d071",
+  "evidence_digest": "sha256:f412aa667172d81ade2fb42c2cd466fe4d2ba6598269771ac16d2d1d2cc60b44",
+  "gate_id": "517005b796324bdc9fc0844eb75d9d05",
+  "gate_seq": 3907
+ }
+}

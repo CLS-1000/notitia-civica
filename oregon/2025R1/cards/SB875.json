@@ -1,0 +1,333 @@
+{
+ "session": "2025R1",
+ "measure": "SB 875",
+ "measure_id": "SB875",
+ "subject": "or_legislature/2025R1/SB875",
+ "title": "Modifies the Oregon Foster Children's Bill of Rights and the Oregon Foster Children's Sibling Bill of Rights.",
+ "outcome": "vetoed",
+ "outcome_label": "Vetoed",
+ "headline": "SB 875 was vetoed by the Governor",
+ "claims": [
+  {
+   "text": "SB 875 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618651
+   ]
+  },
+  {
+   "text": "The Governor vetoed SB 875 on June 24, 2025.",
+   "row_ids": [
+    657536
+   ]
+  },
+  {
+   "text": "On June 25, 2025 the Senate voted to pass it over the veto, but an override needs both chambers.",
+   "row_ids": [
+    657693
+   ]
+  },
+  {
+   "text": "The veto stood (recorded June 27, 2025).",
+   "row_ids": [
+    658564
+   ]
+  },
+  {
+   "text": "Each of the 30 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618651,
+    618822,
+    624335,
+    632371,
+    634942,
+    635352,
+    636413,
+    637274,
+    638230,
+    638802,
+    639751,
+    642676,
+    649115,
+    650433,
+    651124,
+    651522,
+    651973,
+    652237,
+    652846,
+    653226,
+    653547,
+    653722,
+    654057,
+    654925,
+    654973,
+    657536,
+    657625,
+    657693,
+    658076,
+    658564
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618651
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618651
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624335
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632371
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    634942
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    635352
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    638230
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    638230
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Arrived in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    638802
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    638802
+   ]
+  },
+  {
+   "date": "2025-04-24",
+   "when": "April 24, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    642676
+   ]
+  },
+  {
+   "date": "2025-05-22",
+   "when": "May 22, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    649115
+   ]
+  },
+  {
+   "date": "2025-05-29",
+   "when": "May 29, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    650433
+   ]
+  },
+  {
+   "date": "2025-06-02",
+   "when": "June 2, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    651124
+   ]
+  },
+  {
+   "date": "2025-06-11",
+   "when": "June 11, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    653547
+   ]
+  },
+  {
+   "date": "2025-06-11",
+   "when": "June 11, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    653547
+   ]
+  },
+  {
+   "date": "2025-06-12",
+   "when": "June 12, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "repassed",
+   "row_ids": [
+    654057
+   ]
+  },
+  {
+   "date": "2025-06-16",
+   "when": "June 16, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    654925
+   ]
+  },
+  {
+   "date": "2025-06-16",
+   "when": "June 16, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    654973
+   ]
+  },
+  {
+   "date": "2025-06-24",
+   "when": "June 24, 2025",
+   "chamber": "S",
+   "state": "vetoed",
+   "text": "Vetoed by the Governor",
+   "rule_id": "governor_vetoed",
+   "row_ids": [
+    657536
+   ]
+  },
+  {
+   "date": "2025-06-25",
+   "when": "June 25, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Senate voted to pass it over the Governor's veto",
+   "rule_id": "repassed",
+   "row_ids": [
+    657693
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "veto_sustained",
+   "text": "Veto stood: the Legislature did not override it",
+   "rule_id": "veto_sustained",
+   "row_ids": [
+    658564
+   ]
+  }
+ ],
+ "topics": [
+  "veto"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 875&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB875",
+ "row_count": 30,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8733,
+  "finding_hash": "c8f3f1a888bf7c356dacf8e81a53fdd1653a3a9e9cc7a35596d3cf85de2ee4b6",
+  "evidence_digest": "sha256:2ff9be58a6d6e0cbca4f2eb1c1fe429437d24fad69515a60329dafdda1d32870",
+  "gate_id": "d317528f02534a8cb7534627e63ece4c",
+  "gate_seq": 8734
+ }
+}

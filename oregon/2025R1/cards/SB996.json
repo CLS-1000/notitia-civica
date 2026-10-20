@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 996",
+ "measure_id": "SB996",
+ "subject": "or_legislature/2025R1/SB996",
+ "title": "Allows the siting and operation of a small modular reactor energy facility without requiring that there be a licensed repository for the disposal of high-level radioactive waste.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 996 did not pass",
+ "claims": [
+  {
+   "text": "SB 996 was introduced in the Senate on February 6, 2025.",
+   "row_ids": [
+    620902
+   ]
+  },
+  {
+   "text": "SB 996 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659533
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620902,
+    621402,
+    659533
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620902
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620902
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 996&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB996",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9096,
+  "finding_hash": "95b84b879b1fdb558bc69e8fb80185e70e96596697b51abcc275cb7e9de3944e",
+  "evidence_digest": "sha256:65fb564d57437997841e28fe02db24b2814cd378b595ce51c7011156955bdc37",
+  "gate_id": "2aec02d5ec844103b15c2b279ee7a946",
+  "gate_seq": 9097
+ }
+}

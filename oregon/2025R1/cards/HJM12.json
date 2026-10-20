@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HJM 12",
+ "measure_id": "HJM12",
+ "subject": "or_legislature/2025R1/HJM12",
+ "title": "Urges the President of the United States, the Director of the National Park Service and the Congress of the United States to provide the funding needed to complete the full historic restoration of the Chateau at Oregon Caves National Monument.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJM 12 did not pass",
+ "claims": [
+  {
+   "text": "HJM 12 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624262
+   ]
+  },
+  {
+   "text": "HJM 12 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660422
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624262,
+    625294,
+    660422
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624262
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624262
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJM' and MeasureNumber eq 12&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJM12",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10113,
+  "finding_hash": "a158b2b2a9f8d9c02135e5fb3fa8521df7ca2f00a628b063d90f2f4ef5f5fe4a",
+  "evidence_digest": "sha256:9d50ad0da53ac8e045d43b60231557750b681256657a87c53904c5faccbf97bc",
+  "gate_id": "c56ae1ded09c4e039fb04fbb53492265",
+  "gate_seq": 10114
+ }
+}

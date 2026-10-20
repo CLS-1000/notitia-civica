@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3965",
+ "measure_id": "HB3965",
+ "subject": "or_legislature/2025R1/HB3965",
+ "title": "Directs the Oregon Department of Administrative Services to award a grant of $2 million to the City of Klamath Falls to bring commercial air service to a regional airport.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3965 did not pass",
+ "claims": [
+  {
+   "text": "HB 3965 was introduced in the House on April 16, 2025.",
+   "row_ids": [
+    641218
+   ]
+  },
+  {
+   "text": "HB 3965 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660328
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    641218,
+    642232,
+    660328
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    641218
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    641218
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3965&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3965",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5892,
+  "finding_hash": "f1df0e979ad145d5d4d8b8822ed432d87f11a354b12f48302faa6d51a4169ef8",
+  "evidence_digest": "sha256:4c0bfd67d52cd673ca3f4015a6e29985fd8cb9bf2b1e77ea38f203b2f67074b4",
+  "gate_id": "3b4bcff4023945fea5f0892a061e1576",
+  "gate_seq": 5893
+ }
+}

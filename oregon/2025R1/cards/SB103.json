@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 103",
+ "measure_id": "SB103",
+ "subject": "or_legislature/2025R1/SB103",
+ "title": "Modifies experience and education requirements to take the certified public accountant examination and qualify for a certificate of certified public accountant.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 103 did not pass",
+ "claims": [
+  {
+   "text": "SB 103 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615408
+   ]
+  },
+  {
+   "text": "SB 103 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659445
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615408,
+    617675,
+    619640,
+    659445
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615408
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615408
+   ]
+  },
+  {
+   "date": "2025-01-29",
+   "when": "January 29, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619640
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659445
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 103&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB103",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6417,
+  "finding_hash": "b6d2b1371ade2c17a064bdb9fc8e478c38329bc7e521caafadd5df610d00f744",
+  "evidence_digest": "sha256:e73b306e32ad2f199e3c33a612d29709158c2b0673047124e9b619e6c5e29bc8",
+  "gate_id": "e31ddf1c2c544f47815378f84db8b5f1",
+  "gate_seq": 6418
+ }
+}

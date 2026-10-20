@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2827",
+ "measure_id": "HB2827",
+ "subject": "or_legislature/2025R1/HB2827",
+ "title": "Authorizes the Governor, if necessitated by an emergency, to require any person in this state to accept and fulfill orders for the manufacture, sale or distribution of certain goods.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2827 did not pass",
+ "claims": [
+  {
+   "text": "HB 2827 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614791
+   ]
+  },
+  {
+   "text": "HB 2827 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660662
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614791,
+    617000,
+    660662
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614791
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614791
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2827&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2827",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2478,
+  "finding_hash": "edbb960105d33b342d215037d647bea21e547b273d11c45008c99b18bc0d1ac5",
+  "evidence_digest": "sha256:24b483000c02e668be3354ab749d67c193b9dec82486c70d1926060e2a8f8df5",
+  "gate_id": "106a65cc4b124bab984e41d421aa8591",
+  "gate_seq": 2479
+ }
+}

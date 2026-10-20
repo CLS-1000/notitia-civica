@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3100",
+ "measure_id": "HB3100",
+ "subject": "or_legislature/2025R1/HB3100",
+ "title": "Allocates lottery funds to the Oregon Business Development Department to develop a unified trade strategy for Oregon in collaboration with the Port of Portland, the Oregon Tourism Commission, the State Department of Agriculture and other stakeholders.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3100 did not pass",
+ "claims": [
+  {
+   "text": "HB 3100 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615064
+   ]
+  },
+  {
+   "text": "HB 3100 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659991
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615064,
+    617273,
+    624596,
+    629669,
+    631860,
+    631861,
+    659991
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615064
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615064
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624596
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629669
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    631860
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3100&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3100",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3297,
+  "finding_hash": "6843b19f413c8f65005a651d0d72c8e26338b66a73ca3f729916ece24959b325",
+  "evidence_digest": "sha256:d3c38af8125862538891368d6828c2b78415584958e849e3b5a6481f0053e0d9",
+  "gate_id": "2cb3c579497b42368d282938c9955fe7",
+  "gate_seq": 3298
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1045",
+ "measure_id": "SB1045",
+ "subject": "or_legislature/2025R1/SB1045",
+ "title": "Provides that a student enrolled at a career school licensed in this state may receive an Oregon Promise grant.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1045 did not pass",
+ "claims": [
+  {
+   "text": "SB 1045 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623055
+   ]
+  },
+  {
+   "text": "SB 1045 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659404
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623055,
+    623127,
+    659404
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623055
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623055
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1045&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1045",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9243,
+  "finding_hash": "e8fbb4ac117b51c262f49f7c0f7c3a349f27c4367318dde3b8efe7891a903026",
+  "evidence_digest": "sha256:cd0c3728c5c2ecfa64235de7aa8077ebeb2ffc2382efad06739cf59a451e6b54",
+  "gate_id": "653fe5e598854eb19451f574327aab3e",
+  "gate_seq": 9244
+ }
+}

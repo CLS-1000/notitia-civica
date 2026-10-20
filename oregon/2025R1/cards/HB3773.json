@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3773",
+ "measure_id": "HB3773",
+ "subject": "or_legislature/2025R1/HB3773",
+ "title": "Requires the Oregon Health Authority to adopt by rule qualification criteria for veteran-specific personal health navigators as an additional category of traditional health workers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3773 did not pass",
+ "claims": [
+  {
+   "text": "HB 3773 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624949
+   ]
+  },
+  {
+   "text": "HB 3773 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661343
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624949,
+    626358,
+    635732,
+    638975,
+    640866,
+    640867,
+    661343
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624949
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624949
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    635732
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638975
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640866
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3773&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3773",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5316,
+  "finding_hash": "b6712862c22fe427b61e0031387c928c969d45c5c04905194490294350975c8e",
+  "evidence_digest": "sha256:a21e5bc936d13abe2623de0e0a4c5f0491143d35251db47e0486b31a7873f109",
+  "gate_id": "e29d9aa359df4b269d94b75baa2ba883",
+  "gate_seq": 5317
+ }
+}

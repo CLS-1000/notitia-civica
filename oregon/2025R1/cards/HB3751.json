@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3751",
+ "measure_id": "HB3751",
+ "subject": "or_legislature/2025R1/HB3751",
+ "title": "Prohibits receiving compensation for performing certain services for or on behalf of an applicant or a claimant for a veteran's benefit except as provided in applicable federal or state law.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3751 did not pass",
+ "claims": [
+  {
+   "text": "HB 3751 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624927
+   ]
+  },
+  {
+   "text": "HB 3751 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660464
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624927,
+    626336,
+    660464
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624927
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624927
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3751&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3751",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5250,
+  "finding_hash": "530f7ae54c37163592f4dcb75d291ce5a9d5c5f8ae3b7188a5db2a630df5d51c",
+  "evidence_digest": "sha256:e15c837769b41efeb2830fba4989a936f73dff90c15e539216248dd5763d7ed3",
+  "gate_id": "5c1dc1ed45974a7cbd90aa1eaa823d74",
+  "gate_seq": 5251
+ }
+}

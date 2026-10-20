@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "SB 249",
+ "measure_id": "SB249",
+ "subject": "or_legislature/2025R1/SB249",
+ "title": "Requires the Oregon Health Authority to study mental health treatment.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 249 did not pass",
+ "claims": [
+  {
+   "text": "SB 249 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615554
+   ]
+  },
+  {
+   "text": "SB 249 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658645
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615554,
+    617821,
+    619037,
+    619367,
+    658645
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615554
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615554
+   ]
+  },
+  {
+   "date": "2025-01-23",
+   "when": "January 23, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    619037
+   ]
+  },
+  {
+   "date": "2025-01-27",
+   "when": "January 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    619367
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 249&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB249",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6855,
+  "finding_hash": "f60dffb1304dd708528d23d80034618d404c1a77bddf764163b909ecdc98a468",
+  "evidence_digest": "sha256:d932717b414de3fe73757a8141395c916d9f79bc59764c1f4d826ce1e9a15e9f",
+  "gate_id": "e80704bc76a24935ba6092ce87b2ef53",
+  "gate_seq": 6856
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2328",
+ "measure_id": "HB2328",
+ "subject": "or_legislature/2025R1/HB2328",
+ "title": "Requires the Department of Consumer and Business Services to study loans.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2328 did not pass",
+ "claims": [
+  {
+   "text": "HB 2328 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614292
+   ]
+  },
+  {
+   "text": "HB 2328 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659859
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614292,
+    616501,
+    659859
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614292
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614292
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2328&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2328",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 981,
+  "finding_hash": "ce2964662265576f9d5aabbbce116258c0778eee129f820a098d4d3d99c87f14",
+  "evidence_digest": "sha256:2422022ea6e0134ad446ad7e1d7a92a9b438c894e991a62831a38247589b5812",
+  "gate_id": "fd5b1d473a63487ea460d8e9dfc9e56a",
+  "gate_seq": 982
+ }
+}

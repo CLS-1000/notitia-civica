@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3974",
+ "measure_id": "HB3974",
+ "subject": "or_legislature/2025R1/HB3974",
+ "title": "Limits the applicant screening charge a residential landlord may collect to $20.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3974 did not pass",
+ "claims": [
+  {
+   "text": "HB 3974 was introduced in the House on May 19, 2025.",
+   "row_ids": [
+    647797
+   ]
+  },
+  {
+   "text": "HB 3974 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661066
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    647797,
+    648766,
+    650923,
+    661066
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-05-19",
+   "when": "May 19, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    647797
+   ]
+  },
+  {
+   "date": "2025-05-19",
+   "when": "May 19, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    647797
+   ]
+  },
+  {
+   "date": "2025-06-02",
+   "when": "June 2, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    650923
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661066
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3974&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3974",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5919,
+  "finding_hash": "ec73277e31c7557821cdb0cef007ee342c0991e8d62a7533d1a719df0c665e0c",
+  "evidence_digest": "sha256:d08a7cd44e3dc7b89ce86d990ea763d0226c9fecb240484d35bceb22a6e302aa",
+  "gate_id": "8b0bb5e4d7224b3ea3358f79dfcfb520",
+  "gate_seq": 5920
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3160",
+ "measure_id": "HB3160",
+ "subject": "or_legislature/2025R1/HB3160",
+ "title": "Directs the State Fire Marshal to study funding for fire districts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3160 did not pass",
+ "claims": [
+  {
+   "text": "HB 3160 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615124
+   ]
+  },
+  {
+   "text": "HB 3160 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660794
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615124,
+    617333,
+    660794
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615124
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615124
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3160&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3160",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3477,
+  "finding_hash": "9ca0aed6d4defa598badaae723af5774956547dbfe28a1b496b6850ed035462c",
+  "evidence_digest": "sha256:709d75e938967614cafa230fa96b4be2b4446ae39b2ef95831b834ce5375e83f",
+  "gate_id": "b65190aff690446db195b6384e9c4167",
+  "gate_seq": 3478
+ }
+}

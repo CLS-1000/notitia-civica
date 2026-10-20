@@ -1,0 +1,132 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3823",
+ "measure_id": "HB3823",
+ "subject": "or_legislature/2025R1/HB3823",
+ "title": "Exempts from property taxes personal property used by a business to generate or store energy for consumption by the business on its premises.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3823 did not pass",
+ "claims": [
+  {
+   "text": "HB 3823 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624999
+   ]
+  },
+  {
+   "text": "HB 3823 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660528
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624999,
+    626408,
+    630009,
+    632336,
+    634207,
+    634208,
+    643513,
+    660528
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624999
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624999
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    630009
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632336
+   ]
+  },
+  {
+   "date": "2025-03-28",
+   "when": "March 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    634207
+   ]
+  },
+  {
+   "date": "2025-04-29",
+   "when": "April 29, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    643513
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660528
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3823&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3823",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5466,
+  "finding_hash": "3b4006453f8924bbf79b48551956c8391d91d8f3a23c5045ddba61f5e5c541f0",
+  "evidence_digest": "sha256:cf22988210429502cccb20400cc3157c4e374c902458b2fe3ba8810d67e73c62",
+  "gate_id": "be7a31ad51f04a0f8af4bb42ca357357",
+  "gate_seq": 5467
+ }
+}

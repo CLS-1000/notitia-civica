@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2652",
+ "measure_id": "HB2652",
+ "subject": "or_legislature/2025R1/HB2652",
+ "title": "Requires a public university to submit any proposed change in affiliation with an athletic association, conference or organization with authority over intercollegiate sports to the appropriate legislative committees for review.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2652 did not pass",
+ "claims": [
+  {
+   "text": "HB 2652 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614616
+   ]
+  },
+  {
+   "text": "HB 2652 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660083
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614616,
+    616825,
+    660083
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614616
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614616
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2652&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2652",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1953,
+  "finding_hash": "d6f4f1f1a6c4aba87c7cf290637fe6a097ba57a648f7ce87d7b3fafe8795d022",
+  "evidence_digest": "sha256:4b77a635fd20fa26ee6e73d095c0b48277090225f5436e2fb2a3e3ad510f68c2",
+  "gate_id": "92882a538eac46159a31698b451ba351",
+  "gate_seq": 1954
+ }
+}

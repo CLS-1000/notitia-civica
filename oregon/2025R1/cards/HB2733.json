@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2733",
+ "measure_id": "HB2733",
+ "subject": "or_legislature/2025R1/HB2733",
+ "title": "Requires the court to consider the defendant having a concealed face during the crime, with the intent to avoid arrest or facilitate the commission of the crime, as aggravation for sentencing purposes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2733 did not pass",
+ "claims": [
+  {
+   "text": "HB 2733 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614697
+   ]
+  },
+  {
+   "text": "HB 2733 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660149
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614697,
+    616906,
+    660149
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614697
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614697
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2733&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2733",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2196,
+  "finding_hash": "5830741e5d91ce399232002e79103384b48926b684e2ed043a904e00ee88e7ac",
+  "evidence_digest": "sha256:57e8035fe60bfecc4ffe5219c2d8137a4fc41d569c1b34548f8aa639852b7c5b",
+  "gate_id": "2f75460d34db4bd2bc1a17c9adc940a1",
+  "gate_seq": 2197
+ }
+}

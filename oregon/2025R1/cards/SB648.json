@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 648",
+ "measure_id": "SB648",
+ "subject": "or_legislature/2025R1/SB648",
+ "title": "Provides that, for the estates of decedents dying on or after January 1, 2026, Oregon estate tax is not due unless the value of the Oregon taxable estate exceeds $13.61 million.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 648 did not pass",
+ "claims": [
+  {
+   "text": "SB 648 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615953
+   ]
+  },
+  {
+   "text": "SB 648 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658842
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615953,
+    618220,
+    622024,
+    658842
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615953
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615953
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622024
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658842
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 648&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB648",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8052,
+  "finding_hash": "538863be3cbcade21a0cd0c67db396a0d463ef3a4075c089c033e87449d94788",
+  "evidence_digest": "sha256:6f9618ff577d39984ca74fcaa0f84a3a6af44a62e8b4c950caec4661b211edf3",
+  "gate_id": "facee1ec73da4a5485b63d8b4e50e2d1",
+  "gate_seq": 8053
+ }
+}

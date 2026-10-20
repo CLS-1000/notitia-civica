@@ -1,0 +1,229 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2322",
+ "measure_id": "HB2322",
+ "subject": "or_legislature/2025R1/HB2322",
+ "title": "Authorizes state CHIPS Fund grants and loans to businesses that are eligible for federal semiconductor financial assistance under the CHIPS Act but have not applied for it.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2322 did not pass",
+ "claims": [
+  {
+   "text": "HB 2322 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614286
+   ]
+  },
+  {
+   "text": "HB 2322 passed the House but did not pass the Senate. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658574
+   ]
+  },
+  {
+   "text": "Each of the 17 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614286,
+    616495,
+    629672,
+    638016,
+    639723,
+    639724,
+    655605,
+    655607,
+    655606,
+    656576,
+    656814,
+    657233,
+    657695,
+    658474,
+    657712,
+    657831,
+    658574
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614286
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614286
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629672
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638016
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639723
+   ]
+  },
+  {
+   "date": "2025-06-12",
+   "when": "June 12, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Assigned to a House subcommittee",
+   "rule_id": "assigned_subcommittee",
+   "row_ids": [
+    655605
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "when": "June 18, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    655607
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "when": "June 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Returned to the full House committee",
+   "rule_id": "returned_full_committee",
+   "row_ids": [
+    655606
+   ]
+  },
+  {
+   "date": "2025-06-20",
+   "when": "June 20, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    656576
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    656814
+   ]
+  },
+  {
+   "date": "2025-06-24",
+   "when": "June 24, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    657233
+   ]
+  },
+  {
+   "date": "2025-06-25",
+   "when": "June 25, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    657695
+   ]
+  },
+  {
+   "date": "2025-06-25",
+   "when": "June 25, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    657695
+   ]
+  },
+  {
+   "date": "2025-06-25",
+   "when": "June 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Arrived in the Senate",
+   "rule_id": "first_reading",
+   "row_ids": [
+    657712
+   ]
+  },
+  {
+   "date": "2025-06-25",
+   "when": "June 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    657712
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2322&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2322",
+ "row_count": 17,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 963,
+  "finding_hash": "58f18a3ae737a0cc0f76c6d86f5598f9d22e3a9433ff2a38b405dedf01b1cdfc",
+  "evidence_digest": "sha256:24669be98345fb754f1b131ed0e07ff9a521a22346a3ff3ae0b7a544596f3a03",
+  "gate_id": "3d99846902534c8e9555940192192357",
+  "gate_seq": 964
+ }
+}

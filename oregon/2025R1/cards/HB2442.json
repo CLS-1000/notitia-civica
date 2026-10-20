@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2442",
+ "measure_id": "HB2442",
+ "subject": "or_legislature/2025R1/HB2442",
+ "title": "Requires evidence of citizenship for persons registering to vote for the first time in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2442 did not pass",
+ "claims": [
+  {
+   "text": "HB 2442 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614406
+   ]
+  },
+  {
+   "text": "HB 2442 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661476
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614406,
+    616615,
+    651014,
+    651287,
+    661476
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614406
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614406
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2442&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2442",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1323,
+  "finding_hash": "6bbc41b1e94023c567b48355435c6e2c625baa9cd21591ac7bb278cc1c83acab",
+  "evidence_digest": "sha256:4f1e1fc5188eeb2fafae77e0ab84b2a9bdf0b1b3591df42b4b056560a2b42e72",
+  "gate_id": "202862c11ea548f5b1ffbe738b86ccd4",
+  "gate_seq": 1324
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HCR 20",
+ "measure_id": "HCR20",
+ "subject": "or_legislature/2025R1/HCR20",
+ "title": "Modifies Legislative Branch Personnel Rule 27 to eliminate confidential reports or information being used for investigations performed under the rule by requiring disclosure at conclusion of investigation. Authorizes an investigation respondent to obtain independent counsel to be paid for by the Legislative Equity Officer.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HCR 20 did not pass",
+ "claims": [
+  {
+   "text": "HCR 20 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624258
+   ]
+  },
+  {
+   "text": "HCR 20 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661122
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624258,
+    625290,
+    661122
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624258
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624258
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 20&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HCR20",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10209,
+  "finding_hash": "00210a5033e84b012326943960cd0f39c18213e4831758b9c5ec0f32f1a20d27",
+  "evidence_digest": "sha256:34fbbc15f32a8fa9f3fe1f1c4096b5fabb0d1d76c701a3750dbaf91f25d11765",
+  "gate_id": "3584c3eab23a4b17b1b7233d7b6d398e",
+  "gate_seq": 10210
+ }
+}

@@ -1,0 +1,170 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3624",
+ "measure_id": "HB3624",
+ "subject": "or_legislature/2025R1/HB3624",
+ "title": "Directs education service districts to provide and pay for examinations administered to homeschooled children.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3624 did not pass",
+ "claims": [
+  {
+   "text": "HB 3624 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622959
+   ]
+  },
+  {
+   "text": "HB 3624 passed the House but did not pass the Senate. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659136
+   ]
+  },
+  {
+   "text": "Each of the 13 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622959,
+    623514,
+    635001,
+    639580,
+    640107,
+    640108,
+    640237,
+    641008,
+    641381,
+    641652,
+    642010,
+    642100,
+    659136
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622959
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622959
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    635001
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639580
+   ]
+  },
+  {
+   "date": "2025-04-11",
+   "when": "April 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640107
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    640237
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    641652
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    641652
+   ]
+  },
+  {
+   "date": "2025-04-21",
+   "when": "April 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Arrived in the Senate",
+   "rule_id": "first_reading",
+   "row_ids": [
+    642010
+   ]
+  },
+  {
+   "date": "2025-04-21",
+   "when": "April 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    642010
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3624&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3624",
+ "row_count": 13,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4869,
+  "finding_hash": "9447560f0feafc704c3a6ac1f748a576be0627f7dacc62b52be5e425a1c9840b",
+  "evidence_digest": "sha256:b066e99f5890980e03c32495a0e506c937a9f728c86ee5cba6efaa2c465656cb",
+  "gate_id": "36f794634a6542e7a989ddb9e625ace9",
+  "gate_seq": 4870
+ }
+}

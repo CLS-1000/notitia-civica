@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 211",
+ "measure_id": "SB211",
+ "subject": "or_legislature/2025R1/SB211",
+ "title": "Requires the Department of Education to study issues related to wrap-around support services for students.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 211 did not pass",
+ "claims": [
+  {
+   "text": "SB 211 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615516
+   ]
+  },
+  {
+   "text": "SB 211 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659420
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615516,
+    617783,
+    659420
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615516
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615516
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 211&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB211",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6741,
+  "finding_hash": "41914a1f03af48bdb32f2bf0f11c2a45e86cd19a555668904d115ecae21868f8",
+  "evidence_digest": "sha256:062682bd6ddf6d2ba7201b541c9e47d3470c385134786e6f15b5891f21316e5e",
+  "gate_id": "6a0b3f3e42284035a6a21b07aaeedfa4",
+  "gate_seq": 6742
+ }
+}

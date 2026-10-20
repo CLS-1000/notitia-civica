@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3735",
+ "measure_id": "HB3735",
+ "subject": "or_legislature/2025R1/HB3735",
+ "title": "Directs the Oregon Advocacy Commissions Office to hire permanent staff to convene affinity group task forces to develop recommendations on addressing health inequities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3735 did not pass",
+ "claims": [
+  {
+   "text": "HB 3735 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624419
+   ]
+  },
+  {
+   "text": "HB 3735 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660389
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624419,
+    625280,
+    660389
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624419
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624419
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3735&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3735",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5202,
+  "finding_hash": "fb9d11b24cb1e7bdd658475e4ead4b4dec3c15c08a3ed34da573af9abc52f928",
+  "evidence_digest": "sha256:8c5e7e34f9f6ed308548942e946ce7ce15f62ac71dc511c3f633b987ffca5210",
+  "gate_id": "aaf1fa1d34e44d979d38e27acc880453",
+  "gate_seq": 5203
+ }
+}

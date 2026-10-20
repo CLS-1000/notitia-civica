@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2822",
+ "measure_id": "HB2822",
+ "subject": "or_legislature/2025R1/HB2822",
+ "title": "Requires the State Department of Fish and Wildlife to submit a report on the effects on Oregon wolf populations of changes in certain protections for the gray wolf during the last 10 years.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2822 did not pass",
+ "claims": [
+  {
+   "text": "HB 2822 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614786
+   ]
+  },
+  {
+   "text": "HB 2822 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660657
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614786,
+    616995,
+    660657
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614786
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614786
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2822&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2822",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2463,
+  "finding_hash": "890be42482bf5bc8d6b47d496fa0c06afea15b1d2777a6f1b0d2936af8d8bc60",
+  "evidence_digest": "sha256:662aed4b094615687d9139a95602a847f739c81b8523dd0598509d823db7e01d",
+  "gate_id": "8a78ef1eecea492e9b65b2d5631daf14",
+  "gate_seq": 2464
+ }
+}

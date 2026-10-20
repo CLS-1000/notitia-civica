@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2018",
+ "measure_id": "HB2018",
+ "subject": "or_legislature/2025R1/HB2018",
+ "title": "Amends the allowable uses of moneys appropriated to the Oregon Business Development Department for distribution to the City of Madras.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2018 did not pass",
+ "claims": [
+  {
+   "text": "HB 2018 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613983
+   ]
+  },
+  {
+   "text": "HB 2018 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661301
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613983,
+    616192,
+    621995,
+    661301
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613983
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613983
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621995
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661301
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2018&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2018",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 51,
+  "finding_hash": "127c43d6e03aab14c63df587ffa3d68e9041f21ef4b94398c214148825a7d2ee",
+  "evidence_digest": "sha256:6c94e8ba8bc67ba8b15bb8290d67747efc4aa551e1649c55a8992cbafa589d51",
+  "gate_id": "bce2682ae5674479adc137e7daffdb8c",
+  "gate_seq": 52
+ }
+}

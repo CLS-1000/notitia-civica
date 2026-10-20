@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2842",
+ "measure_id": "HB2842",
+ "subject": "or_legislature/2025R1/HB2842",
+ "title": "Appropriates moneys to the Oregon Department of Administrative Services for distribution to an organization and Polk County forprograms for providing free drop-in childcare for people with business at a county courthouse or with other governmental business and data collection regarding the programs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2842 did not pass",
+ "claims": [
+  {
+   "text": "HB 2842 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614806
+   ]
+  },
+  {
+   "text": "HB 2842 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660677
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614806,
+    617015,
+    620826,
+    622841,
+    623549,
+    623550,
+    660677
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614806
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614806
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620826
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    622841
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    623549
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2842&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2842",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2523,
+  "finding_hash": "b96828f48075d4bef4b845336ad230c5ee324dec342bd96ab3f6d91d5f421bea",
+  "evidence_digest": "sha256:a9180675c8edc3dcf66c811129394b335f88ad84e2b558aeb21070fc71f21062",
+  "gate_id": "afee7ced193f4666bac98fa80dad6105",
+  "gate_seq": 2524
+ }
+}

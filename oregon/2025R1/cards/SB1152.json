@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1152",
+ "measure_id": "SB1152",
+ "subject": "or_legislature/2025R1/SB1152",
+ "title": "Requires the Public Utility Commission to study energy.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1152 did not pass",
+ "claims": [
+  {
+   "text": "SB 1152 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624862
+   ]
+  },
+  {
+   "text": "SB 1152 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659246
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624862,
+    625774,
+    659246
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624862
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624862
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1152&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1152",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9564,
+  "finding_hash": "55a6aac6642c5c8fe1cb22e94b82b1ac226fb989ae82fad0e39e87720cb58357",
+  "evidence_digest": "sha256:2b2d34e2d2433b81d746c0134d51766a3dc243b7f458a18685afe0b5098f4c82",
+  "gate_id": "9748d5e624b74d90ac5e0396e09baf00",
+  "gate_seq": 9565
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 718",
+ "measure_id": "SB718",
+ "subject": "or_legislature/2025R1/SB718",
+ "title": "Establishes the Parkinson's disease registry.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 718 did not pass",
+ "claims": [
+  {
+   "text": "SB 718 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616023
+   ]
+  },
+  {
+   "text": "SB 718 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658912
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616023,
+    618290,
+    619610,
+    625484,
+    626952,
+    626953,
+    658912
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616023
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616023
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619610
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    625484
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    626952
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 718&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB718",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8262,
+  "finding_hash": "249165ceee1d377ead5e62ad9f7c11a50b03bd6d04c9c05f5ce6d363fe644cac",
+  "evidence_digest": "sha256:6aaa608926b3440be1b27a7b1fdc6df7a51c4a7598db4058eba712b5718916d7",
+  "gate_id": "1252c4af3be4472d9ab097226a3b8d4d",
+  "gate_seq": 8263
+ }
+}

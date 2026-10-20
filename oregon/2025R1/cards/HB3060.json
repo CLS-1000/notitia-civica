@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3060",
+ "measure_id": "HB3060",
+ "subject": "or_legislature/2025R1/HB3060",
+ "title": "Enacts the PA Licensure Compact.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3060 did not pass",
+ "claims": [
+  {
+   "text": "HB 3060 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615024
+   ]
+  },
+  {
+   "text": "HB 3060 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660941
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615024,
+    617233,
+    623740,
+    624620,
+    660941
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615024
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615024
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623740
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660941
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3060&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3060",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3177,
+  "finding_hash": "66d6a687f88d45748893b5114de90bc895721eef18e86885e9827ff8e802652a",
+  "evidence_digest": "sha256:621eacedbd792e3386e10f0c5f281f7434049c312cd04c49c195e2b6b01b36cd",
+  "gate_id": "743a503dde8842a495106dc4428b397a",
+  "gate_seq": 3178
+ }
+}

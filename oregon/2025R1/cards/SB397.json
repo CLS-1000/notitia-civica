@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 397",
+ "measure_id": "SB397",
+ "subject": "or_legislature/2025R1/SB397",
+ "title": "Provides that laws regarding employee entitlements for recovery of unpaid wages and penalties do not apply to wages and penalties lost as a result of an employer's time-rounding policies that comply with federal rounding standards.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 397 did not pass",
+ "claims": [
+  {
+   "text": "SB 397 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615702
+   ]
+  },
+  {
+   "text": "SB 397 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659024
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615702,
+    617969,
+    618809,
+    659024
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615702
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615702
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    618809
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659024
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 397&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB397",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7299,
+  "finding_hash": "9b48572b4f0655786c366690d7a1b43b5f7037fdae89dd58aba065b3dbff7033",
+  "evidence_digest": "sha256:db69d8f94b90df5856c582ca13f667ed0768493c5c090a4f6e726b5ac538d166",
+  "gate_id": "f32d456a4ac0479790ffc89146425724",
+  "gate_seq": 7300
+ }
+}

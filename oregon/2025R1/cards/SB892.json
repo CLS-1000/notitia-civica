@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 892",
+ "measure_id": "SB892",
+ "subject": "or_legislature/2025R1/SB892",
+ "title": "Prescribes information related to courses of study offered by a school district that a district school board must ensure is provided on the school district's website.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 892 did not pass",
+ "claims": [
+  {
+   "text": "SB 892 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618668
+   ]
+  },
+  {
+   "text": "SB 892 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659539
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618668,
+    618839,
+    659539
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618668
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618668
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 892&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB892",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8784,
+  "finding_hash": "75d7f9b663c2421a06cd8181b6d09be08a3f4dece15899171b0050f0d52a2c0b",
+  "evidence_digest": "sha256:0d2588b1fc3e47f2ce800f01c08b2bd74fd02b303b062e912465ff178ef0e72d",
+  "gate_id": "12c1cda5d8c747c5b78081ba0256327b",
+  "gate_seq": 8785
+ }
+}

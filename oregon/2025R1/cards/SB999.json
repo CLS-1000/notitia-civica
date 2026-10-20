@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 999",
+ "measure_id": "SB999",
+ "subject": "or_legislature/2025R1/SB999",
+ "title": "Modifies the definition of \"farmworker camp\" so that the relevant statutes apply to farmworker camps specifically in connection with workers who work on a seasonal or temporary basis.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 999 did not pass",
+ "claims": [
+  {
+   "text": "SB 999 was introduced in the Senate on February 6, 2025.",
+   "row_ids": [
+    620905
+   ]
+  },
+  {
+   "text": "SB 999 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659536
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620905,
+    621405,
+    636878,
+    640157,
+    640463,
+    640464,
+    659536
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620905
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620905
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    636878
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    640157
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    640463
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 999&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB999",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9105,
+  "finding_hash": "4f2c61f0d7e8e7afc38bfa1ede18d45da3dc23f9a510689cfb1754ea8fce67bd",
+  "evidence_digest": "sha256:b6e6376c9055d7625d07176e3352aeb108929fb94c8ad7ed977a17a438ba9063",
+  "gate_id": "e54c95614d0940449bc396ef1e970911",
+  "gate_seq": 9106
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 283",
+ "measure_id": "SB283",
+ "subject": "or_legislature/2025R1/SB283",
+ "title": "Directs the Oregon Health Authority and the Department of Human Services to provide certain payments to hospitals, long term care facilities, residential care facilities and federally qualified health centers to support the health care workforce.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 283 did not pass",
+ "claims": [
+  {
+   "text": "SB 283 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615588
+   ]
+  },
+  {
+   "text": "SB 283 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658677
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615588,
+    617855,
+    629598,
+    639111,
+    640968,
+    640969,
+    658677
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615588
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615588
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629598
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639111
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640968
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 283&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB283",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6957,
+  "finding_hash": "db62daa76464ce99d5764f625bc66f266e9bbaf6dd5366fe5df033fb9c2e64bf",
+  "evidence_digest": "sha256:a9d40161234ec2f88f465da32a00009bbd11e7f73582d35bcd7b4b9b5015fa2d",
+  "gate_id": "858d8a077b6b42fe87cec398fc1ec01e",
+  "gate_seq": 6958
+ }
+}

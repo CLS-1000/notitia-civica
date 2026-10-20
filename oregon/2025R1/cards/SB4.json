@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 4",
+ "measure_id": "SB4",
+ "subject": "or_legislature/2025R1/SB4",
+ "title": "Requires an Internet service provider to issue a prorated bill credit to a consumer for any service outage that lasts longer than one hour.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 4 did not pass",
+ "claims": [
+  {
+   "text": "SB 4 was introduced in the Senate on March 11, 2025.",
+   "row_ids": [
+    627757
+   ]
+  },
+  {
+   "text": "SB 4 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658623
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    627757,
+    627990,
+    658623
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    627757
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    627757
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 4&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB4",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6120,
+  "finding_hash": "7a06fe185105b5aeada8f662beb8210c4a736111cba0acef3b8a4a33dbc32442",
+  "evidence_digest": "sha256:26494a46b49e9038f4c2209d2e6b0d1bcbe994bd35e5f200d5be53c9c9be3832",
+  "gate_id": "619305fcf783423884f3cbf2acadade0",
+  "gate_seq": 6121
+ }
+}

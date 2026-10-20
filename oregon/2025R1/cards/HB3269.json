@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3269",
+ "measure_id": "HB3269",
+ "subject": "or_legislature/2025R1/HB3269",
+ "title": "Establishes a correctional facility staffing committee within each Department of Corrections facility.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3269 did not pass",
+ "claims": [
+  {
+   "text": "HB 3269 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618740
+   ]
+  },
+  {
+   "text": "HB 3269 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660976
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618740,
+    619138,
+    660976
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618740
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618740
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3269&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3269",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3804,
+  "finding_hash": "dfc3d6778dfe8685b44576b9b887be9424924bbcdf3f5403c629fecb8771f5a7",
+  "evidence_digest": "sha256:4000fd6bd1e2102ecd9d494aa211f8fb9660c47069c1360e2c8d9145ef4a81fc",
+  "gate_id": "199d077b1f754629a283b9f0434d326b",
+  "gate_seq": 3805
+ }
+}

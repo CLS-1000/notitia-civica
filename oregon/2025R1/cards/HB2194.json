@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2194",
+ "measure_id": "HB2194",
+ "subject": "or_legislature/2025R1/HB2194",
+ "title": "Creates an income tax credit for providing employees of hotels and inns human trafficking awareness training.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2194 did not pass",
+ "claims": [
+  {
+   "text": "HB 2194 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614158
+   ]
+  },
+  {
+   "text": "HB 2194 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661041
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614158,
+    616367,
+    661041
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614158
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614158
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2194&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2194",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 579,
+  "finding_hash": "2d6d193958ae0f62350ca23b8c0cdee772e677e2a8ab68e87e272743a579748e",
+  "evidence_digest": "sha256:be9e12e4f9d1b7a7c3146e8dcaecfbb803558f6e5ea566713a1acb0245edfe6c",
+  "gate_id": "5541c510e15241e3baeec8cc95f36bfa",
+  "gate_seq": 580
+ }
+}

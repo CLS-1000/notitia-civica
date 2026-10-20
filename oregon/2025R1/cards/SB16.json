@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 16",
+ "measure_id": "SB16",
+ "subject": "or_legislature/2025R1/SB16",
+ "title": "Requires, if an executive department agency testifies in support of or opposition to a proposed measure or amendment to the measure, the agency to disclose all public records in the agency's custody that relate to the agency's decision to support or oppose the measure or amendment, notwithstanding any other law providing an exemption from the required disclosure.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 16 did not pass",
+ "claims": [
+  {
+   "text": "SB 16 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615321
+   ]
+  },
+  {
+   "text": "SB 16 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659312
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615321,
+    617588,
+    659312
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615321
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615321
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 16&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB16",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6156,
+  "finding_hash": "16ea1b104331cede01e3912cdef9c6e174d1b4d9ad03ea8ca6a0f145aec4b3af",
+  "evidence_digest": "sha256:2f7fee75ef2523b2a5af2a00c5141d7b5fcb6ac5767e62253d97a0f086f5fb97",
+  "gate_id": "4b1b5b5ad60c41f8b9b5e9e17372cd79",
+  "gate_seq": 6157
+ }
+}

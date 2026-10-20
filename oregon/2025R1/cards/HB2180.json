@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2180",
+ "measure_id": "HB2180",
+ "subject": "or_legislature/2025R1/HB2180",
+ "title": "Directs the Department of Education to conduct a study related to hiring retired police officers to provide security in public schools.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2180 did not pass",
+ "claims": [
+  {
+   "text": "HB 2180 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614144
+   ]
+  },
+  {
+   "text": "HB 2180 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660228
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614144,
+    616353,
+    660228
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614144
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614144
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2180&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2180",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 537,
+  "finding_hash": "7ec4116ffd31e8d6c13662b592478a158701b4dabc6eddd91a111b6dcf591fd9",
+  "evidence_digest": "sha256:3c78052c91bb97f839d3779d9da88caf68652ce53d5347cd10878ae81f95aaba",
+  "gate_id": "ed3f58004a2a4820a06db1a990d79f89",
+  "gate_seq": 538
+ }
+}

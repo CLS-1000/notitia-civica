@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 677",
+ "measure_id": "SB677",
+ "subject": "or_legislature/2025R1/SB677",
+ "title": "Removes the requirement that menstrual products be provided in public charter schools and in bathrooms designated for males.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 677 did not pass",
+ "claims": [
+  {
+   "text": "SB 677 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615982
+   ]
+  },
+  {
+   "text": "SB 677 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658871
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615982,
+    618249,
+    658871
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615982
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615982
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 677&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB677",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8139,
+  "finding_hash": "580888101d0a50303186013c748d45ad02365b61838131bd9070dd894f9119c6",
+  "evidence_digest": "sha256:1923d9a9f750e60814922c0e0825950687bd64e0a55d6455dbf9017574bb58fb",
+  "gate_id": "c9d5b24d7ff442c0a6068b743d0ef786",
+  "gate_seq": 8140
+ }
+}

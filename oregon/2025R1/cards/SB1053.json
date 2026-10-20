@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1053",
+ "measure_id": "SB1053",
+ "subject": "or_legislature/2025R1/SB1053",
+ "title": "Requires each county clerk to permit authorized persons to observe the receiving and counting of votes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1053 did not pass",
+ "claims": [
+  {
+   "text": "SB 1053 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623063
+   ]
+  },
+  {
+   "text": "SB 1053 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659285
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623063,
+    623135,
+    659285
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623063
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623063
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1053&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1053",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9267,
+  "finding_hash": "8391defb192a316686544315f89a620507481430f40fda9356a21ed2300d5a91",
+  "evidence_digest": "sha256:c50483f4635ff92ac510b2809fba0bf738cc6e29735c12ca8cf8377d68f347b3",
+  "gate_id": "01a266b9520a4240b47f20a629a42ea1",
+  "gate_seq": 9268
+ }
+}

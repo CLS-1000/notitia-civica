@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2691",
+ "measure_id": "HB2691",
+ "subject": "or_legislature/2025R1/HB2691",
+ "title": "Provides that a manufactured-protein food product that bears a label suggesting that the food product is made from meat is misbranded unless the food product contains text disclosing that the food product is not made from meat.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2691 did not pass",
+ "claims": [
+  {
+   "text": "HB 2691 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614655
+   ]
+  },
+  {
+   "text": "HB 2691 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660296
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614655,
+    616864,
+    660296
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614655
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614655
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2691&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2691",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2070,
+  "finding_hash": "76fedcc62f5de34c0caf327268a503e650450bd07ca5542067061b533a95208b",
+  "evidence_digest": "sha256:289066caf2d20390df0d22b18dd51267ac5dfa8e3912c39a6d7a57e90b67c8a5",
+  "gate_id": "512477fe843848b8bf6d16b808753c2b",
+  "gate_seq": 2071
+ }
+}

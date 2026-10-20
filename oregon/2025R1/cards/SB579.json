@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 579",
+ "measure_id": "SB579",
+ "subject": "or_legislature/2025R1/SB579",
+ "title": "Appropriates moneys to the State Fire Marshal for distribution to Central Douglas Fire and Rescue for certain purposes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 579 did not pass",
+ "claims": [
+  {
+   "text": "SB 579 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615884
+   ]
+  },
+  {
+   "text": "SB 579 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658770
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615884,
+    618151,
+    626100,
+    629473,
+    630937,
+    630938,
+    658770
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615884
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615884
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626100
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629473
+   ]
+  },
+  {
+   "date": "2025-03-21",
+   "when": "March 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    630937
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 579&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB579",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7845,
+  "finding_hash": "f72c3aad200da998d027b3e6e15754be4343c779acdd1f440aeac46803632615",
+  "evidence_digest": "sha256:77bcb3c439a2da1ab6cba1d35c10b05bee490c0c79d45565de7c69de4955d7b0",
+  "gate_id": "32bcea8bdba14483abccfe6ea907405e",
+  "gate_seq": 7846
+ }
+}

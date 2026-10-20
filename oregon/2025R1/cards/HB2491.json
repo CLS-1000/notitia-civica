@@ -1,0 +1,157 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2491",
+ "measure_id": "HB2491",
+ "subject": "or_legislature/2025R1/HB2491",
+ "title": "Establishes a standardized process for courts to follow when a petition is filed for the remission of fines, fees or costs associated with a criminal case.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2491 did not pass",
+ "claims": [
+  {
+   "text": "HB 2491 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614455
+   ]
+  },
+  {
+   "text": "HB 2491 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661457
+   ]
+  },
+  {
+   "text": "Each of the 11 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614455,
+    616664,
+    639435,
+    639606,
+    639607,
+    641924,
+    643097,
+    643938,
+    644465,
+    644854,
+    661457
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614455
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614455
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639435
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    639606
+   ]
+  },
+  {
+   "date": "2025-04-21",
+   "when": "April 21, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    641924
+   ]
+  },
+  {
+   "date": "2025-04-28",
+   "when": "April 28, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    643097
+   ]
+  },
+  {
+   "date": "2025-05-01",
+   "when": "May 1, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    643938
+   ]
+  },
+  {
+   "date": "2025-05-05",
+   "when": "May 5, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    644465
+   ]
+  },
+  {
+   "date": "2025-05-06",
+   "when": "May 6, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "motion_carried_refer",
+   "row_ids": [
+    644854
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2491&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2491",
+ "row_count": 11,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1470,
+  "finding_hash": "880d1c677a72fc80213e75edf17921adb5f2c25710949efe8424c66115547968",
+  "evidence_digest": "sha256:ca4804e57ca272994796e114f4f4ce85449fd041f8f71471bbe1c57616b914fc",
+  "gate_id": "b9a9668f23f840c7b3d036159832a207",
+  "gate_seq": 1471
+ }
+}

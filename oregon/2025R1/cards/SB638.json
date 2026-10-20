@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 638",
+ "measure_id": "SB638",
+ "subject": "or_legislature/2025R1/SB638",
+ "title": "Provides that a small forestland owner that planted trees under reforestation requirements may harvest the trees.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 638 did not pass",
+ "claims": [
+  {
+   "text": "SB 638 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615943
+   ]
+  },
+  {
+   "text": "SB 638 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658832
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615943,
+    618210,
+    658832
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615943
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615943
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 638&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB638",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8022,
+  "finding_hash": "b09d7cbe2b97fd86eb46ef06c7d697f66580721a32886802f445d16bf401347a",
+  "evidence_digest": "sha256:21348e4ac983144f1613354046f718e5d34ee16eb5a12ba6fc1c94a4c7ea209c",
+  "gate_id": "72c9523e148b46cab33e53655e1b2afe",
+  "gate_seq": 8023
+ }
+}

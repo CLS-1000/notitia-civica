@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 446",
+ "measure_id": "SB446",
+ "subject": "or_legislature/2025R1/SB446",
+ "title": "Directs the Oregon Department of Administrative Services to study and develop a list of standardized job profiles for unlicensed school jobs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 446 did not pass",
+ "claims": [
+  {
+   "text": "SB 446 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615751
+   ]
+  },
+  {
+   "text": "SB 446 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659076
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615751,
+    618018,
+    659076
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615751
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615751
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 446&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB446",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7446,
+  "finding_hash": "dc9c46639e6160d2a0cf76616c50d32e375739f58ada81f9e23f8d8dc4376dff",
+  "evidence_digest": "sha256:770e96bdf32189bb7decca9a589876210e3021df5d93aafba2bda7e6e7e6a42f",
+  "gate_id": "246957c871d04b54bd916b1e203fa70d",
+  "gate_seq": 7447
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2459",
+ "measure_id": "HB2459",
+ "subject": "or_legislature/2025R1/HB2459",
+ "title": "Provides that, beginning on January 1, 2028, the annual salary or wages paid to an officer or employee of certain state agencies may not exceed 10 times the lowest annual salary or wages paid to a full-time officer or employee of the agency.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2459 did not pass",
+ "claims": [
+  {
+   "text": "HB 2459 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614423
+   ]
+  },
+  {
+   "text": "HB 2459 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661491
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614423,
+    616632,
+    661491
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614423
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614423
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2459&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2459",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1374,
+  "finding_hash": "15fc937f66cd9a082aca74e55855570189a86c211e9dd405a524b83e8ac0aa78",
+  "evidence_digest": "sha256:8b26dea49d498a5b4b48e8d91af56b6e64f09de546a881303027b93a09ec60e0",
+  "gate_id": "9a20b5bea8374fad892e281c4c69b998",
+  "gate_seq": 1375
+ }
+}

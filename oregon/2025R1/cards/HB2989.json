@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2989",
+ "measure_id": "HB2989",
+ "subject": "or_legislature/2025R1/HB2989",
+ "title": "Requires the Oregon Health Authority to pay out of the Law Enforcement Medical Liability Account any copayment or other cost-sharing amounts owed by an individual for the cost of medical services, or the entire cost of the medical services if an individual is a medical assistance recipient or uninsured, for injuries related to law enforcement activity.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2989 did not pass",
+ "claims": [
+  {
+   "text": "HB 2989 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614953
+   ]
+  },
+  {
+   "text": "HB 2989 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660342
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614953,
+    617162,
+    660342
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614953
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614953
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2989&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2989",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2964,
+  "finding_hash": "4818f1741b3bbb37830d9efcbdfff9426207c5e295d45390845ef07aed0d4014",
+  "evidence_digest": "sha256:80b9df6ae8ffeb56a7af918795048ff64423e8815e91392ef777774db2a99098",
+  "gate_id": "969f7b8cb0664216a738409f3126e237",
+  "gate_seq": 2965
+ }
+}

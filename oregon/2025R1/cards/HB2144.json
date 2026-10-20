@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2144",
+ "measure_id": "HB2144",
+ "subject": "or_legislature/2025R1/HB2144",
+ "title": "Modifies the timelines and requirements for when a school district makes a determination whether to give approval for a student to enroll in a virtual public charter school that is not sponsored by the school district.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2144 did not pass",
+ "claims": [
+  {
+   "text": "HB 2144 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614108
+   ]
+  },
+  {
+   "text": "HB 2144 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659807
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614108,
+    616317,
+    659807
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614108
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614108
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2144&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2144",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 429,
+  "finding_hash": "cd664ecc5ca7886112070fa77a848b631b1c4dc7cdb5a4120c64c6a63e6d67b5",
+  "evidence_digest": "sha256:e4e4de9cb59d409bcb26e2c330e893bd61d72a02fa86a04d0ad0c3d89c7a1d0a",
+  "gate_id": "05b02d4efa7640728e3c6dfcfeba41d1",
+  "gate_seq": 430
+ }
+}

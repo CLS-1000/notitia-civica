@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3441",
+ "measure_id": "HB3441",
+ "subject": "or_legislature/2025R1/HB3441",
+ "title": "Establishes the State Commission on Public Charter Schools.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3441 did not pass",
+ "claims": [
+  {
+   "text": "HB 3441 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619492
+   ]
+  },
+  {
+   "text": "HB 3441 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660801
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619492,
+    619864,
+    660801
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619492
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619492
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3441&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3441",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4320,
+  "finding_hash": "05ec339363882869862619c48d0125e2cf14a189128f07309e65f46573d095cd",
+  "evidence_digest": "sha256:874860c1780fdb35b1428fa916aee5af4b03c773f97eadd4f68c59c889d454f1",
+  "gate_id": "3f3ac9ea4bb84c8a985f75496898329f",
+  "gate_seq": 4321
+ }
+}

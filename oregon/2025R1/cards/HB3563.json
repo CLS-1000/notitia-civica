@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3563",
+ "measure_id": "HB3563",
+ "subject": "or_legislature/2025R1/HB3563",
+ "title": "Requires the Department of Education to study the statutory requirements related to reports of abuse and sexual conduct in public schools.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3563 did not pass",
+ "claims": [
+  {
+   "text": "HB 3563 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622898
+   ]
+  },
+  {
+   "text": "HB 3563 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660401
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622898,
+    623453,
+    635000,
+    660401
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622898
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622898
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    635000
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660401
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3563&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3563",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4686,
+  "finding_hash": "bafd83fdda2f3b714fbbe0233ede26391e3b74a3d604f34590f79e47540b105b",
+  "evidence_digest": "sha256:f396bbbc57bea7d3d2c731a79a3db33970d649cfe2c939f395098c8c7088877f",
+  "gate_id": "59efe167d2dd41c898cd9410ee9bdd28",
+  "gate_seq": 4687
+ }
+}

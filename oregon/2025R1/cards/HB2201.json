@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2201",
+ "measure_id": "HB2201",
+ "subject": "or_legislature/2025R1/HB2201",
+ "title": "Directs the State Fire Marshal to adopt standards that may be used by local governments to issue certificates for the purpose of authorizing mobile on-demand fueling.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2201 did not pass",
+ "claims": [
+  {
+   "text": "HB 2201 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614165
+   ]
+  },
+  {
+   "text": "HB 2201 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661048
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614165,
+    616374,
+    661048
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614165
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614165
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2201&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2201",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 600,
+  "finding_hash": "acfb0a55279e3129f3d2289c2b42a5986895028ec1e1a81f7b030326564e8bde",
+  "evidence_digest": "sha256:92e57753d27278b6eacde50a99321a0f9f90d535006aa31ec2d9c4a3c028c51b",
+  "gate_id": "d3d884c0d19d479eb6aa83fa92606d40",
+  "gate_seq": 601
+ }
+}

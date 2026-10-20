@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3512",
+ "measure_id": "HB3512",
+ "subject": "or_legislature/2025R1/HB3512",
+ "title": "Prohibits the distribution or sale of certain covered products that contain intentionally added perfluoroalkyl or polyfluoroalkyl substances.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3512 did not pass",
+ "claims": [
+  {
+   "text": "HB 3512 was introduced in the House on February 6, 2025.",
+   "row_ids": [
+    620881
+   ]
+  },
+  {
+   "text": "HB 3512 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660308
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620881,
+    621260,
+    628204,
+    660308
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620881
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620881
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628204
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660308
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3512&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3512",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4533,
+  "finding_hash": "53d9a740dcef8e3130c29a37fdb3b1d731e8607778d554a3c63f3c4fa88f40fb",
+  "evidence_digest": "sha256:b1ec6ec927a540607b630a568e27a07d58a11e19032eec0f6a403a2f6ee15697",
+  "gate_id": "0baa0e97dcc34a079ce44468aa9c644f",
+  "gate_seq": 4534
+ }
+}

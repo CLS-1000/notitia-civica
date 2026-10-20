@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3435",
+ "measure_id": "HB3435",
+ "subject": "or_legislature/2025R1/HB3435",
+ "title": "Phases in the requirement that school districts offer lunch and breakfast to students at no charge, regardless of household income.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3435 did not pass",
+ "claims": [
+  {
+   "text": "HB 3435 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619486
+   ]
+  },
+  {
+   "text": "HB 3435 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661310
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619486,
+    619858,
+    624183,
+    629229,
+    630021,
+    630022,
+    661310
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619486
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619486
+   ]
+  },
+  {
+   "date": "2025-02-24",
+   "when": "February 24, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624183
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629229
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    630021
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3435&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3435",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4302,
+  "finding_hash": "6982746516ace75978c5d5290252191d5bc980d712de50c6fc0f610c4b957156",
+  "evidence_digest": "sha256:3249985dc2d5aea526b4367b29bc3facd231fe0bdb65c0958e14fa0bef446724",
+  "gate_id": "9e5fca401cf64538b4482798a9bc4aaa",
+  "gate_seq": 4303
+ }
+}

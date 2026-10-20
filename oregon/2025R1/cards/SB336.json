@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 336",
+ "measure_id": "SB336",
+ "subject": "or_legislature/2025R1/SB336",
+ "title": "Appropriates moneys to the State Department of Agriculture, out of the General Fund, for the purpose of developing a grant program to fund the construction of meat rendering plants.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 336 did not pass",
+ "claims": [
+  {
+   "text": "SB 336 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615641
+   ]
+  },
+  {
+   "text": "SB 336 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658723
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615641,
+    617908,
+    658723
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615641
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615641
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 336&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB336",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7116,
+  "finding_hash": "0a85b8bb02e02f6e212118bcc98a47c4211dd6a8e030fa112a5dc4f8e9386b6b",
+  "evidence_digest": "sha256:8814ffb75e3cc89c91743108bc791d7e1100344840ac2a4cd8eeca31cdf4a926",
+  "gate_id": "c440ddd0a8f64970afd1111e82713bcf",
+  "gate_seq": 7117
+ }
+}

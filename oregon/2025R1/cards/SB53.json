@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 53",
+ "measure_id": "SB53",
+ "subject": "or_legislature/2025R1/SB53",
+ "title": "Requires the Housing and Community Services Department to study housing and to report to the interim committees of the Legislative Assembly related to housing by September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 53 did not pass",
+ "claims": [
+  {
+   "text": "SB 53 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615358
+   ]
+  },
+  {
+   "text": "SB 53 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658763
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615358,
+    617625,
+    658763
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615358
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615358
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 53&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB53",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6267,
+  "finding_hash": "2d5051710338ac944c800431d47f62288156f1076da595a098af1bbc4cc1c499",
+  "evidence_digest": "sha256:b07cb9c892a08f30015a7467ab9966dc899925a09af618a2893b47926809ec28",
+  "gate_id": "5d5c7d899e5e43a58ad235646547eeb6",
+  "gate_seq": 6268
+ }
+}

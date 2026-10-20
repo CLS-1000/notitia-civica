@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "SB 751",
+ "measure_id": "SB751",
+ "subject": "or_legislature/2025R1/SB751",
+ "title": "Establishes the Task Force on Health Insurance Coverage for Retired Police and Fire Members of the Public Employees Retirement System.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 751 did not pass",
+ "claims": [
+  {
+   "text": "SB 751 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616056
+   ]
+  },
+  {
+   "text": "SB 751 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659159
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616056,
+    618323,
+    624236,
+    633282,
+    636874,
+    638422,
+    638423,
+    659159
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616056
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616056
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624236
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636874
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638422
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 751&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB751",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8361,
+  "finding_hash": "01ba4931d464153b92ab862e00910af21de6a927e2d807f5334148292996d4ef",
+  "evidence_digest": "sha256:fcffebc512dbf23093fc8fd5c5101f81b3e50221441f0e6b561f207dd5969a43",
+  "gate_id": "66f76b3e06314811ab60908d9b612476",
+  "gate_seq": 8362
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2022",
+ "measure_id": "HB2022",
+ "subject": "or_legislature/2025R1/HB2022",
+ "title": "Excludes facilities providing rehabilitation services to individuals with brain injuries or spinal cord injuries from the requirement to obtain a certificate of need from the Oregon Health Authority.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2022 did not pass",
+ "claims": [
+  {
+   "text": "HB 2022 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613987
+   ]
+  },
+  {
+   "text": "HB 2022 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661503
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613987,
+    616196,
+    661503
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613987
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613987
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2022&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2022",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 63,
+  "finding_hash": "2e1915a2469de46b8b1f8c74e5deb155a7429f3dd39050fe2fc202e6d578d065",
+  "evidence_digest": "sha256:9fd061edd6a64502f821cb3af5f0cba2372830c764daa4b2387a159f35d9cb20",
+  "gate_id": "344ce68f757041948f33609633aa44d6",
+  "gate_seq": 64
+ }
+}

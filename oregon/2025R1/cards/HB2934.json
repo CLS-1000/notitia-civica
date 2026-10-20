@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2934",
+ "measure_id": "HB2934",
+ "subject": "or_legislature/2025R1/HB2934",
+ "title": "Modifies the membership of the Justice Reinvestment Grant Review Committee and the process for reviewing grant applications.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2934 did not pass",
+ "claims": [
+  {
+   "text": "HB 2934 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614898
+   ]
+  },
+  {
+   "text": "HB 2934 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660511
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614898,
+    617107,
+    660511
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614898
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614898
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2934&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2934",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2799,
+  "finding_hash": "694f058e3455dc113f1c0905545a3ff9e73650f53f4a776fb47bebef38f60e50",
+  "evidence_digest": "sha256:c88a696faf95d166d3801fa9a8f0cf6e061158b0217cf673e7f03694ee6114a7",
+  "gate_id": "316d5c3096724698bb6ba5f4398867a3",
+  "gate_seq": 2800
+ }
+}

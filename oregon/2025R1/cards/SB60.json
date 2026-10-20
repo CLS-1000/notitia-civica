@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 60",
+ "measure_id": "SB60",
+ "subject": "or_legislature/2025R1/SB60",
+ "title": "Exempts claims based on conduct that constitutes child abuse, or conduct that constitutes knowingly allowing, permitting or encouraging child abuse, from the notice requirement of the Oregon Tort Claims Act.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 60 did not pass",
+ "claims": [
+  {
+   "text": "SB 60 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615365
+   ]
+  },
+  {
+   "text": "SB 60 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658602
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615365,
+    617632,
+    658602
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615365
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615365
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 60&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB60",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6288,
+  "finding_hash": "b4fac83622186b387e3d924e5ff7d1b375a643c12df2dadf81f3375e995ae746",
+  "evidence_digest": "sha256:d2854086f7bc10202471700391ef1b40d524177c8820bf974648285ca68ef6c9",
+  "gate_id": "adee27c84ec74f3693bcb0962acae5c7",
+  "gate_seq": 6289
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1115",
+ "measure_id": "SB1115",
+ "subject": "or_legislature/2025R1/SB1115",
+ "title": "Requires the Oregon Department of Administrative Services to study social media.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1115 did not pass",
+ "claims": [
+  {
+   "text": "SB 1115 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624825
+   ]
+  },
+  {
+   "text": "SB 1115 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659216
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624825,
+    625737,
+    659216
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624825
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624825
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1115&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1115",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9453,
+  "finding_hash": "14e10339f74e286231b7a810063bb43e16db0a1e46c639870a7b3ef057a77183",
+  "evidence_digest": "sha256:8648029e82c46d4f8b61ebef61672bcad06dad039a814e026c8fe1dd50d2d4af",
+  "gate_id": "cc2791388ae343b68244d211d158d1b6",
+  "gate_seq": 9454
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2478",
+ "measure_id": "HB2478",
+ "subject": "or_legislature/2025R1/HB2478",
+ "title": "Directs the State Department of Agriculture to study animal cruelty.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2478 did not pass",
+ "claims": [
+  {
+   "text": "HB 2478 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614442
+   ]
+  },
+  {
+   "text": "HB 2478 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661444
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614442,
+    616651,
+    661444
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614442
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614442
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2478&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2478",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1431,
+  "finding_hash": "b0f88637d60e409a90c8bff290754c780f21e0375b3c4170d633166f6584d365",
+  "evidence_digest": "sha256:e88009839bbb9680e6c1e7fc7101061f59cb2d12aab892f621ad54be154793cf",
+  "gate_id": "d718c9c6d7ef40cd80cf8ed8ff688783",
+  "gate_seq": 1432
+ }
+}

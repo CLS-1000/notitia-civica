@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2366",
+ "measure_id": "HB2366",
+ "subject": "or_legislature/2025R1/HB2366",
+ "title": "Provides that a fixed percentage of certain forecasted video lottery revenues be transferred to counties for economic development.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2366 did not pass",
+ "claims": [
+  {
+   "text": "HB 2366 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614330
+   ]
+  },
+  {
+   "text": "HB 2366 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660710
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614330,
+    616539,
+    660710
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614330
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614330
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2366&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2366",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1095,
+  "finding_hash": "e69e0209903cecf016da000e7ee7f345d33140035c8819c1fe328310376a8596",
+  "evidence_digest": "sha256:7ede8f1a1c9090ea75d5bac8bcfd06864b1642122a82efee36ddc4adfd15e92d",
+  "gate_id": "83d2f6cf5d6b4f12bdefd14f25fa1e84",
+  "gate_seq": 1096
+ }
+}

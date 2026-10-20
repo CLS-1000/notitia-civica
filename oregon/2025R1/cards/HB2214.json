@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2214",
+ "measure_id": "HB2214",
+ "subject": "or_legislature/2025R1/HB2214",
+ "title": "Modifies the minimum financial requirements for coordinated care organizations.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2214 did not pass",
+ "claims": [
+  {
+   "text": "HB 2214 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614178
+   ]
+  },
+  {
+   "text": "HB 2214 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661058
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614178,
+    616387,
+    626518,
+    661058
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614178
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614178
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626518
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661058
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2214&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2214",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 639,
+  "finding_hash": "8e879d381db4aa9e621e362c82395ba03befd26e78d1f9fa956c075d71775ad4",
+  "evidence_digest": "sha256:b8e65504c3f1a04642f95be5bedd21c6cda6fa0309a695dfe1bcd0f020f87a6a",
+  "gate_id": "30f6039d316f426bb33d3b59dc4a97bb",
+  "gate_seq": 640
+ }
+}

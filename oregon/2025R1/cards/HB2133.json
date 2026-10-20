@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2133",
+ "measure_id": "HB2133",
+ "subject": "or_legislature/2025R1/HB2133",
+ "title": "Directs the Superintendent of Public Instruction to establish a program to assess, monitor and track the language developmental milestones of children who are deaf or hard of hearing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2133 did not pass",
+ "claims": [
+  {
+   "text": "HB 2133 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614097
+   ]
+  },
+  {
+   "text": "HB 2133 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660891
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614097,
+    616306,
+    660891
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614097
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614097
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2133&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2133",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 396,
+  "finding_hash": "a45cc633487bf2f80ac638d446e4163c31f4034e9f2616af5e0713a52a47ad1f",
+  "evidence_digest": "sha256:ecc4f1ed3b26d0916ea0d7b61ca8b10049428d813e64cd01c6648cae045950ad",
+  "gate_id": "f32b1f00c6794a8a815f5e160240d4c4",
+  "gate_seq": 397
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2086",
+ "measure_id": "HB2086",
+ "subject": "or_legislature/2025R1/HB2086",
+ "title": "Requires the Legislative Revenue Officer to study tax expenditures.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2086 did not pass",
+ "claims": [
+  {
+   "text": "HB 2086 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614050
+   ]
+  },
+  {
+   "text": "HB 2086 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660624
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614050,
+    616259,
+    660624
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614050
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614050
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2086&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2086",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 255,
+  "finding_hash": "00efbd5893ab847483d6bcbbd42f4e9bcd99ed508f017f30fd748f052533cd12",
+  "evidence_digest": "sha256:901b5ea6e7f997731edfe2f8b9ec2b0b2fc9554b6b03e88f2c75095e2ac1223f",
+  "gate_id": "44eaee74e3bd4db5b542c343a406d972",
+  "gate_seq": 256
+ }
+}

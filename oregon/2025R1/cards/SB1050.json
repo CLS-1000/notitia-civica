@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1050",
+ "measure_id": "SB1050",
+ "subject": "or_legislature/2025R1/SB1050",
+ "title": "Appropriates moneys from the General Fund to the Oregon Department of Administrative Services for distribution to Southern Coos Hospital and Health Center to expand access to primary, specialty and pharmacy services in and around Bandon, Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1050 did not pass",
+ "claims": [
+  {
+   "text": "SB 1050 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623060
+   ]
+  },
+  {
+   "text": "SB 1050 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659433
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623060,
+    623132,
+    630538,
+    637856,
+    639829,
+    639830,
+    659433
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623060
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623060
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    630538
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637856
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639829
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1050&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1050",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9258,
+  "finding_hash": "d1829418938b39e22a856430452937725956ea06d9d288a0ad86d44783f42fe2",
+  "evidence_digest": "sha256:4ff893634781361af5f02a7fe4cb9665abc986bbcd56832c7f2b307f2a89d599",
+  "gate_id": "0a2eab1a49314eeebd263ceadbb83823",
+  "gate_seq": 9259
+ }
+}

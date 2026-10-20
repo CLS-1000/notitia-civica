@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2477",
+ "measure_id": "HB2477",
+ "subject": "or_legislature/2025R1/HB2477",
+ "title": "Directs the State Department of Agriculture to study rules related to animals.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2477 did not pass",
+ "claims": [
+  {
+   "text": "HB 2477 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614441
+   ]
+  },
+  {
+   "text": "HB 2477 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661443
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614441,
+    616650,
+    661443
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614441
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614441
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2477&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2477",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1428,
+  "finding_hash": "efd0ba84c3e8f4d7ef52ee90bbf83a3b70227d22a1b06403635c1e723af31625",
+  "evidence_digest": "sha256:8e09ce8099523772fe7645ba9ad3850f12107398da57644d9bb19e749d866dc2",
+  "gate_id": "eb063a9287d64bc48df4d750e1048b03",
+  "gate_seq": 1429
+ }
+}

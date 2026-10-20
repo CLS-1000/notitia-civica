@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 441",
+ "measure_id": "SB441",
+ "subject": "or_legislature/2025R1/SB441",
+ "title": "Removes the requirements for notification of substitution and records retention for prescribed biological products.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 441 did not pass",
+ "claims": [
+  {
+   "text": "SB 441 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615746
+   ]
+  },
+  {
+   "text": "SB 441 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659072
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615746,
+    618013,
+    659072
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615746
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615746
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 441&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB441",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7431,
+  "finding_hash": "d34b9558f249a50420d15cc175cfb89dd769489c8922038c74da4347fc3bae89",
+  "evidence_digest": "sha256:c5a122eb170d0fc3e7bf9cd9fc405fc11d82762c670f3ee50de51502db2d5876",
+  "gate_id": "43a1fa39365e4dceacda936119424844",
+  "gate_seq": 7432
+ }
+}

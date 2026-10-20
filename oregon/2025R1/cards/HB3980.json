@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3980",
+ "measure_id": "HB3980",
+ "subject": "or_legislature/2025R1/HB3980",
+ "title": "Makes municipalities eligible for financial assistance for certain levee projects.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3980 did not pass",
+ "claims": [
+  {
+   "text": "HB 3980 was introduced in the House on June 2, 2025.",
+   "row_ids": [
+    651020
+   ]
+  },
+  {
+   "text": "HB 3980 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661330
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    651020,
+    651470,
+    661330
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-06-02",
+   "when": "June 2, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    651020
+   ]
+  },
+  {
+   "date": "2025-06-02",
+   "when": "June 2, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    651020
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3980&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3980",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5937,
+  "finding_hash": "24778f00401831ad11c2e57a246ef6c65387198e2077988e62cff34ff4c68d0c",
+  "evidence_digest": "sha256:6bf7a8648596b3885f220c79f12371570a26133e827f6e6360d6a0ad4b3bd034",
+  "gate_id": "05599aaf5248409881e35299ae215841",
+  "gate_seq": 5938
+ }
+}

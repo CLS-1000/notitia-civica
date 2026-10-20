@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3181",
+ "measure_id": "HB3181",
+ "subject": "or_legislature/2025R1/HB3181",
+ "title": "Establishes the Task Force on Youth Apprenticeship.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3181 did not pass",
+ "claims": [
+  {
+   "text": "HB 3181 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615145
+   ]
+  },
+  {
+   "text": "HB 3181 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660878
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615145,
+    617354,
+    623424,
+    626681,
+    627242,
+    627243,
+    660878
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615145
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615145
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "when": "February 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623424
+   ]
+  },
+  {
+   "date": "2025-03-05",
+   "when": "March 5, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    626681
+   ]
+  },
+  {
+   "date": "2025-03-07",
+   "when": "March 7, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    627242
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3181&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3181",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3540,
+  "finding_hash": "a9e00612a01475288eba294635af9024e41a55866adaf722232924feed8e204e",
+  "evidence_digest": "sha256:9cba56702d15bfdc7170e70d4864dd8a3e129bba3ee4991d2cef868d528e0379",
+  "gate_id": "6cbd0c299c17427394157b32e70c609a",
+  "gate_seq": 3541
+ }
+}

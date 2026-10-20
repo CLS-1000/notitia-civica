@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2100",
+ "measure_id": "HB2100",
+ "subject": "or_legislature/2025R1/HB2100",
+ "title": "Requires the Department of Environmental Quality to study the effects on small businesses of sales and use prohibitions on polystyrene foam containers, polystyrene foam packaging peanuts and foodware containers containing intentionally added perfluoroalkyl or polyfluoroalkyl substances.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2100 did not pass",
+ "claims": [
+  {
+   "text": "HB 2100 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614064
+   ]
+  },
+  {
+   "text": "HB 2100 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660634
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614064,
+    616273,
+    660634
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614064
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614064
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2100&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2100",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 297,
+  "finding_hash": "d4e1bc4bf046c6b4b8105397811fc5adf48cac088cd54c712053a615fe3917dd",
+  "evidence_digest": "sha256:b29d74aa838514e6a4c436b06b41c54c6698aa9208af1913a89ad08ec37ea0e3",
+  "gate_id": "f6e5299323224ff696e545536af9bc62",
+  "gate_seq": 298
+ }
+}

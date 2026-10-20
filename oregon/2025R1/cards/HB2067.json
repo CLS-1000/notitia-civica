@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2067",
+ "measure_id": "HB2067",
+ "subject": "or_legislature/2025R1/HB2067",
+ "title": "Directs the State Department of Energy to establish a rebate program for the purchase of battery-powered leaf blowers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2067 did not pass",
+ "claims": [
+  {
+   "text": "HB 2067 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614031
+   ]
+  },
+  {
+   "text": "HB 2067 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661405
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614031,
+    616240,
+    629306,
+    637045,
+    638434,
+    638435,
+    661405
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614031
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614031
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629306
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637045
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638434
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2067&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2067",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 198,
+  "finding_hash": "a947c4493bc7096ec7ce14f4cc62d54a8d245b8f330564e5aa2fbf2974743681",
+  "evidence_digest": "sha256:8464934338405d78effc9ad16cfa26b8db1cce888a4a8d56a2b260b162959247",
+  "gate_id": "b76fc4114a384a01aca46c1538518707",
+  "gate_seq": 199
+ }
+}

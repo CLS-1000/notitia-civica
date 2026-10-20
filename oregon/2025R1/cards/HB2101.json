@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2101",
+ "measure_id": "HB2101",
+ "subject": "or_legislature/2025R1/HB2101",
+ "title": "Requires the Department of Public Safety Standards and Training to study the possibility of creating a gang database.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2101 did not pass",
+ "claims": [
+  {
+   "text": "HB 2101 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614065
+   ]
+  },
+  {
+   "text": "HB 2101 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660635
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614065,
+    616274,
+    660635
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614065
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614065
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2101&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2101",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 300,
+  "finding_hash": "b80602a067a1748bcd72fe5ee59b39dffc155716de7d023b7a064bb13eb29dcb",
+  "evidence_digest": "sha256:5f934ae2a30ec00b7143c3d7bb6012bcbc4236722ffbd3ba18ebe192d37d9e8a",
+  "gate_id": "09a817dec3f6437da0ab9f6e645da19f",
+  "gate_seq": 301
+ }
+}

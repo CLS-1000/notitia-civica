@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2436",
+ "measure_id": "HB2436",
+ "subject": "or_legislature/2025R1/HB2436",
+ "title": "Provides that an official or agency of state government may not discriminate or grant preferential treatment to any individual on the basis of gender identity, race, sex, color, ethnicity or national origin in the application, selection or appointment of individuals to boards and commissions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2436 did not pass",
+ "claims": [
+  {
+   "text": "HB 2436 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614400
+   ]
+  },
+  {
+   "text": "HB 2436 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660605
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614400,
+    616609,
+    660605
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614400
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614400
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2436&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2436",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1305,
+  "finding_hash": "c62f96ce23fb444c8af986b886f53b985b5886ce34826ad804b8c2b78163ab1f",
+  "evidence_digest": "sha256:0c4553c8f54ee409058da3592c3ec73bae40d92c4df13213f833dec1e63ad752",
+  "gate_id": "b56f9f447c724638965042c11e96f880",
+  "gate_seq": 1306
+ }
+}

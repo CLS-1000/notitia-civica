@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 231",
+ "measure_id": "SB231",
+ "subject": "or_legislature/2025R1/SB231",
+ "title": "Appropriates moneys from the General Fund to the Higher Education Coordinating Commission for distribution to the University of Oregon's Institute for Resilient Organizations, Communities, and Environments for the purpose of implementing emergency response, continuity and recovery initiatives at post-secondary educational institutions in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 231 did not pass",
+ "claims": [
+  {
+   "text": "SB 231 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615536
+   ]
+  },
+  {
+   "text": "SB 231 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658630
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615536,
+    617803,
+    632807,
+    636202,
+    638415,
+    638416,
+    658630
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615536
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615536
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632807
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636202
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638415
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 231&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB231",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6801,
+  "finding_hash": "5d20542762dca8dc0ad8702e7ac6b5b76e2dee121929b73994ba469cf87a4931",
+  "evidence_digest": "sha256:58e2ee7fc3596b5918469e87d167dee52c49fc9a8c74107e21ccf5abd255a38d",
+  "gate_id": "6333472660374c97ad0edf4d5c1a042e",
+  "gate_seq": 6802
+ }
+}

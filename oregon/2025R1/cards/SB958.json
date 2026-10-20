@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 958",
+ "measure_id": "SB958",
+ "subject": "or_legislature/2025R1/SB958",
+ "title": "Allows cities or counties to designate lands outside the urban growth boundary for residential or light commercial use.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 958 did not pass",
+ "claims": [
+  {
+   "text": "SB 958 was introduced in the Senate on January 30, 2025.",
+   "row_ids": [
+    619880
+   ]
+  },
+  {
+   "text": "SB 958 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659442
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619880,
+    619902,
+    659442
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    619880
+   ]
+  },
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619880
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 958&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB958",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8982,
+  "finding_hash": "4311b98993b4284b61460844f579868113c38bd834704cc797bb7532993c4b18",
+  "evidence_digest": "sha256:e37a2c102c435dbc1e528a7b9c1697c8e793d6b2f9c9a4425acca2106aba8902",
+  "gate_id": "cceb5e1e7c644db595dceb67f5dd0b37",
+  "gate_seq": 8983
+ }
+}

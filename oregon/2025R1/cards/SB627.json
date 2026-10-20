@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 627",
+ "measure_id": "SB627",
+ "subject": "or_legislature/2025R1/SB627",
+ "title": "Provides that vehicle registration for most vehicles will be ownership registration and owners must pay a one-time fee instead of a biennial fee.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 627 did not pass",
+ "claims": [
+  {
+   "text": "SB 627 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615932
+   ]
+  },
+  {
+   "text": "SB 627 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658821
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615932,
+    618199,
+    658821
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615932
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615932
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 627&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB627",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7989,
+  "finding_hash": "cef7de7c41dbbdc3bd3462c654d416843c3f9f4bf4b62e17d71da759fd77af25",
+  "evidence_digest": "sha256:e10130578dcc5fea9ab6c52a9b447e26b4bad3a9110bfc8cd30a06c0f61c4769",
+  "gate_id": "10bab5752d4f4e9eaf61ec1c9fe2ce7e",
+  "gate_seq": 7990
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1145",
+ "measure_id": "SB1145",
+ "subject": "or_legislature/2025R1/SB1145",
+ "title": "Requires the State Department of Energy to study energy.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1145 did not pass",
+ "claims": [
+  {
+   "text": "SB 1145 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624855
+   ]
+  },
+  {
+   "text": "SB 1145 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659240
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624855,
+    625767,
+    659240
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624855
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624855
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1145&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1145",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9543,
+  "finding_hash": "e7bd84a71d5c19ce579b24bfd695a7c2971687f0d86bfc56f0be9aeb072cdc2c",
+  "evidence_digest": "sha256:3a6c94059fe29a562c83950feb3f5fb5d438d3439fa66ee1b547be22268e5f66",
+  "gate_id": "23529372e9c849c59a5b3829d31987ba",
+  "gate_seq": 9544
+ }
+}

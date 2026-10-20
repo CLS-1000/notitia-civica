@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2959",
+ "measure_id": "HB2959",
+ "subject": "or_legislature/2025R1/HB2959",
+ "title": "Requires health insurance coverage of specified fertility services and treatments with exemption for certain insurers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2959 did not pass",
+ "claims": [
+  {
+   "text": "HB 2959 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614923
+   ]
+  },
+  {
+   "text": "HB 2959 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660341
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614923,
+    617132,
+    622007,
+    660341
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614923
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614923
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622007
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660341
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2959&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2959",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2874,
+  "finding_hash": "1a5f7ae936133f8e2f53c99cff22e86ed24170f3c7d9fc5aadae4cc6b0644b8d",
+  "evidence_digest": "sha256:3f02f6c0edbf05ce036bae66ea21f8736d2946b80c4619f8000ce9b69b38b86b",
+  "gate_id": "dffd71680cb84d06abe1f98127068175",
+  "gate_seq": 2875
+ }
+}

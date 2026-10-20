@@ -1,0 +1,137 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3029",
+ "measure_id": "HB3029",
+ "subject": "or_legislature/2025R1/HB3029",
+ "title": "Makes changes to workforce development statutes to improve alignment across workforce development programs and projects.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3029 did not pass",
+ "claims": [
+  {
+   "text": "HB 3029 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614993
+   ]
+  },
+  {
+   "text": "HB 3029 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659887
+   ]
+  },
+  {
+   "text": "Each of the 13 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614993,
+    617202,
+    628183,
+    629995,
+    636882,
+    638739,
+    640491,
+    640492,
+    640746,
+    641400,
+    641566,
+    641968,
+    659887
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614993
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614993
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628183
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638739
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640491
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    640746
+   ]
+  },
+  {
+   "date": "2025-04-21",
+   "when": "April 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "motion_carried_refer",
+   "row_ids": [
+    641968
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3029&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3029",
+ "row_count": 13,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3084,
+  "finding_hash": "3381dc236135ed6797e3eac2d592c90c76e173739341178e932a45fd1637ef46",
+  "evidence_digest": "sha256:dc72d751c42d612d06c694b10ab74cc09ce32435e2287a556de34ef470f9a960",
+  "gate_id": "1e84e28e864249babf215a29e60e71b7",
+  "gate_seq": 3085
+ }
+}

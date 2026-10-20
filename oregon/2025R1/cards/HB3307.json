@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3307",
+ "measure_id": "HB3307",
+ "subject": "or_legislature/2025R1/HB3307",
+ "title": "Directs the Oregon Department of Emergency Management to develop and implement a grant program, in consultation with the OregonServes Commission, to support and expand community volunteer programs related to emergency management in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3307 did not pass",
+ "claims": [
+  {
+   "text": "HB 3307 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618778
+   ]
+  },
+  {
+   "text": "HB 3307 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661013
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618778,
+    619176,
+    661013
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618778
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618778
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3307&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3307",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3918,
+  "finding_hash": "07ad356c55de84239fbe75e5d64ed4c2da88ed46b1d1a4843f525f90a576c847",
+  "evidence_digest": "sha256:d3cf1bb703ea941ee08ad9368eba861a19a3b7db38660c05ae7e7a555b8b7780",
+  "gate_id": "f9960e886f944dc08dd8670a2fa3396b",
+  "gate_seq": 3919
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "session": "2025R1",
+ "measure": "SB 989",
+ "measure_id": "SB989",
+ "subject": "or_legislature/2025R1/SB989",
+ "title": "Permits a child's parent or guardian to admit the child, with or without the child's consent, to an inpatient treatment facility or program licensed by the Oregon Health Authority or the Department of Human Services for certain mental, emotional or behavioral health or substance use disorder treatment.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 989 did not pass",
+ "claims": [
+  {
+   "text": "SB 989 was introduced in the Senate on February 6, 2025.",
+   "row_ids": [
+    620895
+   ]
+  },
+  {
+   "text": "SB 989 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659555
+   ]
+  },
+  {
+   "text": "Each of the 9 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620895,
+    621395,
+    632375,
+    645064,
+    636909,
+    638732,
+    640986,
+    640987,
+    659555
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620895
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620895
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632375
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    645064
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    640986
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 989&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB989",
+ "row_count": 9,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9075,
+  "finding_hash": "02735ac91c3a074dee38ad94d4a01cb895fde63d0b502bab5e70ef59013c9def",
+  "evidence_digest": "sha256:cb9516d000a7160a97b300107979a7ff91d3e8d1bacb51624431a01955d78c9a",
+  "gate_id": "3e68b4c5468b4308a22f2bdbfd0f8899",
+  "gate_seq": 9076
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2825",
+ "measure_id": "HB2825",
+ "subject": "or_legislature/2025R1/HB2825",
+ "title": "Modifies law regarding the requirement that a public employer grant preference to a veteran or disabled veteran in the selection process for a civil service position.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2825 did not pass",
+ "claims": [
+  {
+   "text": "HB 2825 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614789
+   ]
+  },
+  {
+   "text": "HB 2825 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660660
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614789,
+    616998,
+    660660
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614789
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614789
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2825&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2825",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2472,
+  "finding_hash": "e2242619b8864196e7034b7c353203031866f84d8eb1412172beba76d81c5348",
+  "evidence_digest": "sha256:1d824eac46bb017bbbe8ddb9b521ad8651ca556e2542271ba510fb0159aee143",
+  "gate_id": "566b0a34eaa4446db4a93ddc1c19e972",
+  "gate_seq": 2473
+ }
+}

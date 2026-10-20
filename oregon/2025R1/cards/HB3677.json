@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3677",
+ "measure_id": "HB3677",
+ "subject": "or_legislature/2025R1/HB3677",
+ "title": "Expands the crime of assault in the third degree to include causing physical injury to a public employee.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3677 did not pass",
+ "claims": [
+  {
+   "text": "HB 3677 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624361
+   ]
+  },
+  {
+   "text": "HB 3677 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660427
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624361,
+    625222,
+    660427
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624361
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624361
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3677&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3677",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5028,
+  "finding_hash": "3282c742d93074d66842c238120276b1169aed8eda991e742cabb8f1d263c818",
+  "evidence_digest": "sha256:d8b1c24b314157ebe5a94312d8cac0676c962f8fe5976acaf2fde4824aae99de",
+  "gate_id": "192c7c4f77b7477a8357484baf751f66",
+  "gate_seq": 5029
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2851",
+ "measure_id": "HB2851",
+ "subject": "or_legislature/2025R1/HB2851",
+ "title": "Modifies the definition of \"critical infrastructure\" to include a terrestrial-based cable or wire communication facility for purposes of the crimes of domestic terrorism in the first degree and domestic terrorism in the second degree.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2851 did not pass",
+ "claims": [
+  {
+   "text": "HB 2851 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614815
+   ]
+  },
+  {
+   "text": "HB 2851 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661160
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614815,
+    617024,
+    628107,
+    661160
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614815
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614815
+   ]
+  },
+  {
+   "date": "2025-03-12",
+   "when": "March 12, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628107
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661160
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2851&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2851",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2550,
+  "finding_hash": "2b9a16de0f426702a054a121dc712fdb47a4e62d03bab6ff2c78d689ab2587ca",
+  "evidence_digest": "sha256:1d1b00752163dde283d864dd71ff67fd4478a9a02fc60eeb9550e0a64c73c087",
+  "gate_id": "578b898ae9204c82854b46fedf06d914",
+  "gate_seq": 2551
+ }
+}

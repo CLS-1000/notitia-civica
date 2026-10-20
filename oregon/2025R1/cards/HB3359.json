@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3359",
+ "measure_id": "HB3359",
+ "subject": "or_legislature/2025R1/HB3359",
+ "title": "Modifies the definition of \"totaled vehicle\" for the purposes of the Oregon Vehicle Code.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3359 did not pass",
+ "claims": [
+  {
+   "text": "HB 3359 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619410
+   ]
+  },
+  {
+   "text": "HB 3359 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661255
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619410,
+    619782,
+    661255
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619410
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619410
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3359&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3359",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4074,
+  "finding_hash": "1fc5743ce9866e5ec4b7efe98d2e74e4b39497c1f02dd2bc1107a3fff0c013c7",
+  "evidence_digest": "sha256:c935de0c2ed101b8a4a8b6d2c145a061de97c238be0883d1b03f457633b59221",
+  "gate_id": "f5d1c0f649f34223a298b043053451d6",
+  "gate_seq": 4075
+ }
+}

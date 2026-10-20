@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3287",
+ "measure_id": "HB3287",
+ "subject": "or_legislature/2025R1/HB3287",
+ "title": "Grants a higher property tax exemption for the property of veterans with disabilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3287 did not pass",
+ "claims": [
+  {
+   "text": "HB 3287 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618758
+   ]
+  },
+  {
+   "text": "HB 3287 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660994
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618758,
+    619156,
+    623747,
+    660994
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618758
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618758
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623747
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660994
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3287&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3287",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3858,
+  "finding_hash": "f36e92f1bff9f0f020530002c46f0ed7c7a73d43011619f3fe4c239d851ce692",
+  "evidence_digest": "sha256:38d3b85726ea6cba3685709cbd5abf3ef729674f8059df1bda42b099a982b889",
+  "gate_id": "4a01aa4de5e343d6993529ef4076ccd6",
+  "gate_seq": 3859
+ }
+}

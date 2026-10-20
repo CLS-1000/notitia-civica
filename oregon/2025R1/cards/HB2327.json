@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2327",
+ "measure_id": "HB2327",
+ "subject": "or_legislature/2025R1/HB2327",
+ "title": "Requires the Oregon Business Development Department to study industrial site readiness in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2327 did not pass",
+ "claims": [
+  {
+   "text": "HB 2327 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614291
+   ]
+  },
+  {
+   "text": "HB 2327 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659858
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614291,
+    616500,
+    659858
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614291
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614291
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2327&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2327",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 978,
+  "finding_hash": "d50d572ba19a9d74810be43ed60d41c6712313d396492ad7d829dde3cc3ea7c1",
+  "evidence_digest": "sha256:2355f9d3d800c6c5991f907a943b9db1c6e989705e4a3973ec074d04acda009e",
+  "gate_id": "c1120bb31b554e7ea0a60dd403d794f1",
+  "gate_seq": 979
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2539",
+ "measure_id": "HB2539",
+ "subject": "or_legislature/2025R1/HB2539",
+ "title": "Requires the Higher Education Coordinating Commission to develop a plan for enabling community colleges to offer an associate's degree completed in coordination with credits earned in an apprenticeship or training program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2539 did not pass",
+ "claims": [
+  {
+   "text": "HB 2539 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614503
+   ]
+  },
+  {
+   "text": "HB 2539 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660279
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614503,
+    616712,
+    660279
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614503
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614503
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2539&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2539",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1614,
+  "finding_hash": "951d2c7dfb91a9a19107feb9c5853ef1e6a5aa26ecf197f9b45569783cbdb334",
+  "evidence_digest": "sha256:080f6cd2c92e461651050649a19a167ff283ae6454a867658cf9e05b8fd67306",
+  "gate_id": "165f8d12baaa4e588cafd12ae71447f5",
+  "gate_seq": 1615
+ }
+}

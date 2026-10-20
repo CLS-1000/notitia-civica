@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2642",
+ "measure_id": "HB2642",
+ "subject": "or_legislature/2025R1/HB2642",
+ "title": "Requires the Department of Environmental Quality to contract with businesses to provide motor vehicle pollution control equipment testing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2642 did not pass",
+ "claims": [
+  {
+   "text": "HB 2642 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614606
+   ]
+  },
+  {
+   "text": "HB 2642 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660777
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614606,
+    616815,
+    623236,
+    660777
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614606
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614606
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623236
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660777
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2642&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2642",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1923,
+  "finding_hash": "fafc2b47a5b75e86ba70d1b77a447fa2d7734386efb9823d5201d6c6511fa594",
+  "evidence_digest": "sha256:b08066f3ff44fec2d340dfeeb309c0fa04de3ebd1c042f9a7bc797e56a7f4b3c",
+  "gate_id": "b3234100743a46aa9a5669bc1395bb9b",
+  "gate_seq": 1924
+ }
+}

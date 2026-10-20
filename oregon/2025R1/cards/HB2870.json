@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2870",
+ "measure_id": "HB2870",
+ "subject": "or_legislature/2025R1/HB2870",
+ "title": "Creates the Oregon Campaign Review Commission to investigate complaints of false statements made by candidates or political committees.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2870 did not pass",
+ "claims": [
+  {
+   "text": "HB 2870 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614834
+   ]
+  },
+  {
+   "text": "HB 2870 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661179
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614834,
+    617043,
+    644378,
+    661179
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614834
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614834
+   ]
+  },
+  {
+   "date": "2025-05-05",
+   "when": "May 5, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    644378
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661179
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2870&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2870",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2607,
+  "finding_hash": "c7b227005bf2603a39e7555c32aac5b886b9f417634e46a665dbb28e080c3510",
+  "evidence_digest": "sha256:fed15035b8418e3db538767f38e42923f85f610a4eefeeaa9ead4fb9d69d4228",
+  "gate_id": "45daacdb241d42fcb0d8403383b510e6",
+  "gate_seq": 2608
+ }
+}

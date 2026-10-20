@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3634",
+ "measure_id": "HB3634",
+ "subject": "or_legislature/2025R1/HB3634",
+ "title": "Establishes the Water Workforce Program in the Higher Education Coordinating Commission to support workforce development initiatives within the water workforce.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3634 did not pass",
+ "claims": [
+  {
+   "text": "HB 3634 was introduced in the House on February 20, 2025.",
+   "row_ids": [
+    623569
+   ]
+  },
+  {
+   "text": "HB 3634 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660563
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623569,
+    623861,
+    625942,
+    638742,
+    640442,
+    640443,
+    660563
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    623569
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623569
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625942
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638742
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640442
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3634&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3634",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4899,
+  "finding_hash": "2d578f4b93b99d8aecd048e36caed7f8a1c0be44fe1bcc860895e4fd9724fb69",
+  "evidence_digest": "sha256:87a460bd483a3416ee07339fd9ab270f5e69ca9f210124df27a385cf71499fff",
+  "gate_id": "f5607024c86c46198c7ac1bec4f81ad8",
+  "gate_seq": 4900
+ }
+}

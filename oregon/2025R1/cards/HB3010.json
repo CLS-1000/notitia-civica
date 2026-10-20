@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3010",
+ "measure_id": "HB3010",
+ "subject": "or_legislature/2025R1/HB3010",
+ "title": "Directs the Oregon State University Extension Service to develop a program for Spanish language pesticide education.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3010 did not pass",
+ "claims": [
+  {
+   "text": "HB 3010 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614974
+   ]
+  },
+  {
+   "text": "HB 3010 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660361
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614974,
+    617183,
+    619313,
+    631866,
+    634601,
+    636951,
+    636952,
+    660361
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614974
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614974
+   ]
+  },
+  {
+   "date": "2025-01-27",
+   "when": "January 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619313
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    631866
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    636951
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3010&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3010",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3027,
+  "finding_hash": "e370e726d86a3a350798f9e72d3a496a09f268c2043045eb0ed894d04b23a46d",
+  "evidence_digest": "sha256:a6517c63807891f2aaf62d69eb0aaa97a0dc6aab3d9a0a31b58d3716c6ffca0c",
+  "gate_id": "3532d82c351e48668e1fe5b0fcc817af",
+  "gate_seq": 3028
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "session": "2025R1",
+ "measure": "SJR 7",
+ "measure_id": "SJR7",
+ "subject": "or_legislature/2025R1/SJR7",
+ "title": "Proposes an amendment to the Oregon Constitution to require a two-thirds majority vote in favor in each chamber of the Legislative Assembly to pass bills declaring an emergency. Refers the proposed amendment to the people for their approval or rejection at the next regular general election.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJR 7 did not pass",
+ "claims": [
+  {
+   "text": "SJR 7 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615238
+   ]
+  },
+  {
+   "text": "SJR 7 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659014
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615238,
+    617505,
+    659014
+   ]
+  },
+  {
+   "text": "SJR 7 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    659014
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615238
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615238
+   ]
+  }
+ ],
+ "topics": [
+  "ballot",
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJR' and MeasureNumber eq 7&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJR7",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9996,
+  "finding_hash": "595f016c2d3434ab9db58893a606e401078eca10ef7222bf62083bd8019762ef",
+  "evidence_digest": "sha256:7213f6a0acfb3e265ad4bb5f5aa4c4703848e654184e18530fc4749e9aee6b0b",
+  "gate_id": "2461a926fa6f4c94a3baa4f1219fe9e6",
+  "gate_seq": 9997
+ }
+}

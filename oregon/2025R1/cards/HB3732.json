@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3732",
+ "measure_id": "HB3732",
+ "subject": "or_legislature/2025R1/HB3732",
+ "title": "Appropriates moneys from the General Fund to the Department of Transportation for safety improvements at a specified intersection in Gladstone.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3732 did not pass",
+ "claims": [
+  {
+   "text": "HB 3732 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624416
+   ]
+  },
+  {
+   "text": "HB 3732 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660386
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624416,
+    625277,
+    660386
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624416
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624416
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3732&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3732",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5193,
+  "finding_hash": "fb14b4cc597a4880a9b1adaa8784c911ac87740034ee60fa34201ff0b29af849",
+  "evidence_digest": "sha256:933982f9dc697f3bd7ebe5dc1058321f18d0b213903846254d08f8b8e03ccb4b",
+  "gate_id": "4c54c04e78044be2b530f68ac522f806",
+  "gate_seq": 5194
+ }
+}

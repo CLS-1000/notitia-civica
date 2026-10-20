@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1065",
+ "measure_id": "SB1065",
+ "subject": "or_legislature/2025R1/SB1065",
+ "title": "Establishes the Center for Decision-Making Supports.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1065 did not pass",
+ "claims": [
+  {
+   "text": "SB 1065 was introduced in the Senate on February 20, 2025.",
+   "row_ids": [
+    623601
+   ]
+  },
+  {
+   "text": "SB 1065 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659200
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623601,
+    623965,
+    627683,
+    636898,
+    639638,
+    639639,
+    659200
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623601
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623601
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627683
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636898
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639638
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1065&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1065",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9303,
+  "finding_hash": "491df4d32bea2010ed2633c715481aca639cdf2f58ac61ce5f81746749f46361",
+  "evidence_digest": "sha256:8300dc78cb6e74f550663396a0f176f0b4b0890ef647580515fc8fb8344ba73b",
+  "gate_id": "7dd393ae898f4ad6a70a71865f9ec7fd",
+  "gate_seq": 9304
+ }
+}

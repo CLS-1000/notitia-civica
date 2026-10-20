@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2080",
+ "measure_id": "HB2080",
+ "subject": "or_legislature/2025R1/HB2080",
+ "title": "Requires the Legislative Revenue Officer to study revenue in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2080 did not pass",
+ "claims": [
+  {
+   "text": "HB 2080 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614044
+   ]
+  },
+  {
+   "text": "HB 2080 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660620
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614044,
+    616253,
+    660620
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614044
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614044
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2080&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2080",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 237,
+  "finding_hash": "a84781dc574a5e6449dfc0de83eede7d82e60448b5d29cdea23183a0445a40d8",
+  "evidence_digest": "sha256:fc69eacb39715600877004767dcf268c34c6de0c2952a10ba50dd894b01aa0fa",
+  "gate_id": "8bfc8ce15d40489f871be256034dbd83",
+  "gate_seq": 238
+ }
+}

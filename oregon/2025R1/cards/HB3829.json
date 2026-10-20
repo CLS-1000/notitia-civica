@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3829",
+ "measure_id": "HB3829",
+ "subject": "or_legislature/2025R1/HB3829",
+ "title": "Provides that certain traffic offenses may be set aside.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3829 did not pass",
+ "claims": [
+  {
+   "text": "HB 3829 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625005
+   ]
+  },
+  {
+   "text": "HB 3829 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660533
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625005,
+    626414,
+    660533
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625005
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625005
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3829&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3829",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5484,
+  "finding_hash": "68ab696824bd4e1ba4616f44066ae43389c6a461e2a4dc45ad3bef7e21b0523d",
+  "evidence_digest": "sha256:2888c6fc70424dd09545b81344e139d9e2bfdc2234e06b8b7178cb1baac55d08",
+  "gate_id": "172a4c85f9c04b589b604d1aaa8e8871",
+  "gate_seq": 5485
+ }
+}

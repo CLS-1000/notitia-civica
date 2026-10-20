@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1172",
+ "measure_id": "SB1172",
+ "subject": "or_legislature/2025R1/SB1172",
+ "title": "Provides that the crime of harassment is not a qualifying misdemeanor for purposes of the statute prohibiting the possession of firearms and ammunition based on being the subject of certain court orders or being convicted of certain crimes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1172 did not pass",
+ "claims": [
+  {
+   "text": "SB 1172 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624882
+   ]
+  },
+  {
+   "text": "SB 1172 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659564
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624882,
+    625794,
+    629591,
+    659564
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624882
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624882
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629591
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659564
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1172&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1172",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9624,
+  "finding_hash": "a3c1241a82cbd2a283e10f51b863d0da1ce10fb9e5b209770ce97553a2ca7f71",
+  "evidence_digest": "sha256:17a299ec38252d26b1bf515891a97e887d4cd4f65822b643de774e3ff54f994f",
+  "gate_id": "a97c939364f0435c8c7e8f0f8547f752",
+  "gate_seq": 9625
+ }
+}

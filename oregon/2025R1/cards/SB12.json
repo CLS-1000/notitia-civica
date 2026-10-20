@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "SB 12",
+ "measure_id": "SB12",
+ "subject": "or_legislature/2025R1/SB12",
+ "title": "Prohibits the designation of incumbent for any candidate for specified judgeships who was appointed and is seeking election in the first election since that appointment.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 12 did not pass",
+ "claims": [
+  {
+   "text": "SB 12 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615317
+   ]
+  },
+  {
+   "text": "SB 12 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659309
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615317,
+    617584,
+    638292,
+    659309
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615317
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615317
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    638292
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659309
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 12&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB12",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6144,
+  "finding_hash": "ad3be2887389ee71357134df8afa5070faa8b4219f0f29137915c32a86a635b6",
+  "evidence_digest": "sha256:2b82dafe403aa6b3a1a326c59b6f30fe134a4954f0c88e7cf5b809fa6822bf57",
+  "gate_id": "d4c99c858c64449f8c8d7a6fa3cedd75",
+  "gate_seq": 6145
+ }
+}

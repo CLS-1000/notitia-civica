@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 404",
+ "measure_id": "SB404",
+ "subject": "or_legislature/2025R1/SB404",
+ "title": "Directs the State Board of Forestry to convey certain state forest lands to a county that determines that the county would secure the greatest permanent value of the lands to the county and requests conveyance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 404 did not pass",
+ "claims": [
+  {
+   "text": "SB 404 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615709
+   ]
+  },
+  {
+   "text": "SB 404 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659031
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615709,
+    617976,
+    659031
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615709
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615709
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 404&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB404",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7320,
+  "finding_hash": "f7cbab37f7c1b58bf3b405a686a35415f7e74867bf21a916618e475c8c16d926",
+  "evidence_digest": "sha256:b2499c47f0fe8260167f103dbbeea87f68d6fde16ab9e886a0e82881fca9eaa7",
+  "gate_id": "56cf06dcabfe4ed2b652f2ad425b09c5",
+  "gate_seq": 7321
+ }
+}

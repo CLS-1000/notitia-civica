@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2149",
+ "measure_id": "HB2149",
+ "subject": "or_legislature/2025R1/HB2149",
+ "title": "Requires pharmacy services administrative organizations operating in this state to be licensed by the Department of Consumer and Business Services and creates rules for licensing requirements.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2149 did not pass",
+ "claims": [
+  {
+   "text": "HB 2149 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614113
+   ]
+  },
+  {
+   "text": "HB 2149 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660201
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614113,
+    616322,
+    621309,
+    638991,
+    640523,
+    640524,
+    660201
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614113
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614113
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621309
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638991
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    640523
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2149&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2149",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 444,
+  "finding_hash": "c9678ba341728c2b441f75a27ba28b49d557de39a60724b334c2df74be8b130d",
+  "evidence_digest": "sha256:6fbe38f5dac1a37f86d5ddff86ef497ea0da5316890933e572c92ca5d33ce4e4",
+  "gate_id": "144c8ef4864043c8bac37e9cfc2c4af5",
+  "gate_seq": 445
+ }
+}

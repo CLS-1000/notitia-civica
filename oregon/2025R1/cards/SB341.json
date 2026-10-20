@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 341",
+ "measure_id": "SB341",
+ "subject": "or_legislature/2025R1/SB341",
+ "title": "Reduces the required size of real property and the percentage of value of the adjusted gross estate necessary for real property to qualify for a natural resource property credit against estate tax, where the real property is forestland or forestland homesites.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 341 did not pass",
+ "claims": [
+  {
+   "text": "SB 341 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615646
+   ]
+  },
+  {
+   "text": "SB 341 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658728
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615646,
+    617913,
+    658728
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615646
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615646
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 341&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB341",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7131,
+  "finding_hash": "b0966a448b2f7b5a38fe8db59d979dd799f7d240a111b91701a1debbc1c58d00",
+  "evidence_digest": "sha256:897c4150e154b40383f58908f9a6f241a4f7fa7a9ca0a902f9ff4c2767e9c34c",
+  "gate_id": "4f6cf256cb68437fab12188d90b3c9a9",
+  "gate_seq": 7132
+ }
+}

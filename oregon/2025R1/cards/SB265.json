@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 265",
+ "measure_id": "SB265",
+ "subject": "or_legislature/2025R1/SB265",
+ "title": "Requires the Judicial Department to study options for simplifying probate proceedings in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 265 did not pass",
+ "claims": [
+  {
+   "text": "SB 265 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615570
+   ]
+  },
+  {
+   "text": "SB 265 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658661
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615570,
+    617837,
+    658661
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615570
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615570
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 265&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB265",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6903,
+  "finding_hash": "ed6e3b748c23bbbcfbad471721ae6307a7e417e06df26263b1ea1d1ab290d10b",
+  "evidence_digest": "sha256:84c9f5b19ab51e393eb8172238cd6c688734c2a5df10b56b334cda035db15d54",
+  "gate_id": "9b0482aa0684454ba60267856f5db5d1",
+  "gate_seq": 6904
+ }
+}

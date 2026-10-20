@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2884",
+ "measure_id": "HB2884",
+ "subject": "or_legislature/2025R1/HB2884",
+ "title": "Requires the State Department of Fish and Wildlife to annually assess the effects of provisions related to the disposition of hatchery-produced fish carcasses and report the results to committees of the Legislative Assembly related to natural resources.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2884 did not pass",
+ "claims": [
+  {
+   "text": "HB 2884 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614848
+   ]
+  },
+  {
+   "text": "HB 2884 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661193
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614848,
+    617057,
+    661193
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614848
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614848
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2884&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2884",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2649,
+  "finding_hash": "2327a187103ea85e83dcc22ab02154521d3650a8b668fa049fb046a398edd9ba",
+  "evidence_digest": "sha256:8fa78bba2944c63818fb6803b1126378fbd9552d9e2990297467d0ba6b7a738d",
+  "gate_id": "c0e3c178035a4438ad49ae61f9fa0baf",
+  "gate_seq": 2650
+ }
+}

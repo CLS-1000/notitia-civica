@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3849",
+ "measure_id": "HB3849",
+ "subject": "or_legislature/2025R1/HB3849",
+ "title": "Requires the Department of Veterans' Affairs to study veterans.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3849 did not pass",
+ "claims": [
+  {
+   "text": "HB 3849 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625025
+   ]
+  },
+  {
+   "text": "HB 3849 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661282
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625025,
+    626434,
+    661282
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625025
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625025
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3849&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3849",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5544,
+  "finding_hash": "0b8adea4ae664e7fdacd9f7d48ca10ad6927ab1a6f983ec3487be14ea007589f",
+  "evidence_digest": "sha256:7b7338c77775f8667cfaf6c2438e11ca901ceaed7b0d1be4b7f8977723fcb821",
+  "gate_id": "de40876c27a5475d96fa1a56de98e6c4",
+  "gate_seq": 5545
+ }
+}

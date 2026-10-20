@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3208",
+ "measure_id": "HB3208",
+ "subject": "or_legislature/2025R1/HB3208",
+ "title": "Requires the Department of Education to study methods for improving school attendance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3208 did not pass",
+ "claims": [
+  {
+   "text": "HB 3208 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615172
+   ]
+  },
+  {
+   "text": "HB 3208 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660044
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615172,
+    617381,
+    660044
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615172
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615172
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3208&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3208",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3621,
+  "finding_hash": "e7188650f44f80f25dfff86d3ffe84799d601419cce84a6d061858b5570c04d0",
+  "evidence_digest": "sha256:1a8d226a3c20445977ad462908d0c4120444a7fde9f4bce802b07ebb3eff5e44",
+  "gate_id": "6f12cdb7b5da499ba40d9e156ea6b971",
+  "gate_seq": 3622
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2690",
+ "measure_id": "HB2690",
+ "subject": "or_legislature/2025R1/HB2690",
+ "title": "Establishes the Health Insurance Mandate Review Advisory Committee, staffed by the Legislative Policy and Research Director, to meet during interims between sessions of the Legislative Assembly to review a specified number of proposed measures sponsored by or submitted to the interim committees of the Legislative Assembly related to health if the measure requires health insurance policies to reimburse specified health care providers or to reimburse the cost of a specific service.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2690 did not pass",
+ "claims": [
+  {
+   "text": "HB 2690 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614654
+   ]
+  },
+  {
+   "text": "HB 2690 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660295
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614654,
+    616863,
+    622349,
+    625504,
+    636005,
+    638455,
+    638456,
+    660295
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614654
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614654
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625504
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636005
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638455
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2690&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2690",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2067,
+  "finding_hash": "394d35816f3e49393e71e8abd9641d6e91f031d74ef06bdb15b05eb4a17f2da8",
+  "evidence_digest": "sha256:478611a002335dfa9c4a699c282c2d80a26ef4e09552679160b22cc9dc0b5d23",
+  "gate_id": "6df5c26c145146c78707cdcda8060875",
+  "gate_seq": 2068
+ }
+}

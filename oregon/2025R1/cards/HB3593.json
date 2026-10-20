@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3593",
+ "measure_id": "HB3593",
+ "subject": "or_legislature/2025R1/HB3593",
+ "title": "Requires the State Department of Energy to study the lower Deschutes River.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3593 did not pass",
+ "claims": [
+  {
+   "text": "HB 3593 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622928
+   ]
+  },
+  {
+   "text": "HB 3593 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659790
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622928,
+    623483,
+    659790
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622928
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622928
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3593&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3593",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4776,
+  "finding_hash": "296c1ae9b782e965ebe1e37a86ba1ef6507a1600856ee987ecb156b0f0133f1a",
+  "evidence_digest": "sha256:81b06c4c49e5975e3e9df8b1eaf4638a8839826438a12b4ff0feaceb47be66ee",
+  "gate_id": "20fc1f437f4c40b688f3f173a1130218",
+  "gate_seq": 4777
+ }
+}

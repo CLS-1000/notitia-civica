@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2669",
+ "measure_id": "HB2669",
+ "subject": "or_legislature/2025R1/HB2669",
+ "title": "Requires community colleges to pay part-time facultya certain percentage of the total salary that the community college pays equally experienced full-time facultywho teach comparable courses.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2669 did not pass",
+ "claims": [
+  {
+   "text": "HB 2669 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614633
+   ]
+  },
+  {
+   "text": "HB 2669 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660929
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614633,
+    616842,
+    620851,
+    625938,
+    626789,
+    626790,
+    660929
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614633
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614633
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620851
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    625938
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    626789
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2669&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2669",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2004,
+  "finding_hash": "7c8daca4646a5d54707331d3b845c86be8caa9c44f591b7b3769baea4aae1143",
+  "evidence_digest": "sha256:2187dedb9f436c0e01dc7cae0f7ad8065ef06ad16fee2d1ed16a55cae927e77c",
+  "gate_id": "e492211e494a438c894f98e9146587c7",
+  "gate_seq": 2005
+ }
+}

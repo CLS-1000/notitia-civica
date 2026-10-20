@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2576",
+ "measure_id": "HB2576",
+ "subject": "or_legislature/2025R1/HB2576",
+ "title": "Establishes the Task Force on the Oregon Public Education System.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2576 did not pass",
+ "claims": [
+  {
+   "text": "HB 2576 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614540
+   ]
+  },
+  {
+   "text": "HB 2576 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660906
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614540,
+    616749,
+    660906
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614540
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614540
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2576&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2576",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1725,
+  "finding_hash": "da9d3993c4fc8813c27c4e457c9654f1577d9ed2daa77b7478daca64b4db162b",
+  "evidence_digest": "sha256:159e4e19f5803d1e10aee13b81c5a18243761de50e263cad86250917e3b285c0",
+  "gate_id": "9085b8b4ecc048718a40690c7c1df37b",
+  "gate_seq": 1726
+ }
+}

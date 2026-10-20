@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 309",
+ "measure_id": "SB309",
+ "subject": "or_legislature/2025R1/SB309",
+ "title": "Requires the Higher Education Coordinating Commission to study health care benefits for part-time faculty members at post-secondary institutions of education.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 309 did not pass",
+ "claims": [
+  {
+   "text": "SB 309 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615614
+   ]
+  },
+  {
+   "text": "SB 309 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658698
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615614,
+    617881,
+    658698
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615614
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615614
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 309&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB309",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7035,
+  "finding_hash": "0eb4121079cd99b21bba7f0a6e9f4257609b47e902bd767e53eee97a75348958",
+  "evidence_digest": "sha256:986ce797b4ceddb478cf3dadda41f4ef7a27c8c61d4c30148315e724e8fda7c7",
+  "gate_id": "a95ee54b9d9f477192f9999702ad9d12",
+  "gate_seq": 7036
+ }
+}

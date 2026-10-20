@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 269",
+ "measure_id": "SB269",
+ "subject": "or_legislature/2025R1/SB269",
+ "title": "Directs the Department of Transportation to study issues related to traffic offenses and to report to an appropriate committee or interim committee of the Legislative Assembly on or before September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 269 did not pass",
+ "claims": [
+  {
+   "text": "SB 269 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615574
+   ]
+  },
+  {
+   "text": "SB 269 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658665
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615574,
+    617841,
+    658665
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615574
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615574
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 269&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB269",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6915,
+  "finding_hash": "85a18719869810f3dbd1b4fdd063b6127bff94ce655df20951483ce70b46cf35",
+  "evidence_digest": "sha256:eb1e0cb0f291b407e5c226b9524870c11f96808ecfbfe3bf44a556b0fa2415b2",
+  "gate_id": "3051e4c2e3fb43d5869553cde1abecb0",
+  "gate_seq": 6916
+ }
+}

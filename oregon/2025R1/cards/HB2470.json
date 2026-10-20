@@ -1,0 +1,120 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2470",
+ "measure_id": "HB2470",
+ "subject": "or_legislature/2025R1/HB2470",
+ "title": "Directs the Oregon Health Authority to expand the capacity of the Oregon State Hospital.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2470 did not pass",
+ "claims": [
+  {
+   "text": "HB 2470 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614434
+   ]
+  },
+  {
+   "text": "HB 2470 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661438
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614434,
+    616643,
+    639045,
+    640071,
+    640072,
+    642630,
+    661438
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614434
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614434
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639045
+   ]
+  },
+  {
+   "date": "2025-04-11",
+   "when": "April 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    640071
+   ]
+  },
+  {
+   "date": "2025-04-23",
+   "when": "April 23, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    642630
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661438
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2470&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2470",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1407,
+  "finding_hash": "51e3fbe53a644e3840554e8a7fa41a0434c7896f69e3974835066e33219301ae",
+  "evidence_digest": "sha256:be9cbd9e9595285bae14ed4357db4a75ff2b8c3ca7295ff3486e92064468b415",
+  "gate_id": "2ad047b7332842bfaa2dc95ebd6cbec9",
+  "gate_seq": 1408
+ }
+}

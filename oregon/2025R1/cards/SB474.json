@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "SB 474",
+ "measure_id": "SB474",
+ "subject": "or_legislature/2025R1/SB474",
+ "title": "Establishes the Criminal Defense Clinical Legal Education Program within the Higher Education Coordinating Commission.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 474 did not pass",
+ "claims": [
+  {
+   "text": "SB 474 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615779
+   ]
+  },
+  {
+   "text": "SB 474 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659102
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615779,
+    618046,
+    620577,
+    622296,
+    623715,
+    624512,
+    624513,
+    659102
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615779
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615779
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620577
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    623715
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    624512
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 474&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB474",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7530,
+  "finding_hash": "3c7211b0f90862bb8c43386cf973ac80214b8b8e998993162103bd5130a38c1c",
+  "evidence_digest": "sha256:7c37cb78e3fe3d3fb66cceac7b74f926be2987ff7810c22ec9f75254e0345022",
+  "gate_id": "e2ecb46fb66f48ee9db69e83956f2fdb",
+  "gate_seq": 7531
+ }
+}

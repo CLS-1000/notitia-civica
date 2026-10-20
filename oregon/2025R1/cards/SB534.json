@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 534",
+ "measure_id": "SB534",
+ "subject": "or_legislature/2025R1/SB534",
+ "title": "Allows a lender that, in a reverse mortgage, provides a lump sum in exchange for a claim upon the equity of a property to claim as the lender's equity, and receive as proceeds in a sale of the property, not more than the percentage of the total equity in the property to which the lump sum is equivalent on the date the lender provides the lump sum.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 534 did not pass",
+ "claims": [
+  {
+   "text": "SB 534 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615839
+   ]
+  },
+  {
+   "text": "SB 534 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659370
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615839,
+    618106,
+    620752,
+    659370
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615839
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615839
+   ]
+  },
+  {
+   "date": "2025-02-05",
+   "when": "February 5, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620752
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659370
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 534&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB534",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7710,
+  "finding_hash": "d6c94375af1f511868a741c33b341202058e4eed9b0d73b623ff8edc837a766d",
+  "evidence_digest": "sha256:be7e19f1cb92c3c3d7cc2ac95d01a209039b2c558813e226e7a8296415c5a908",
+  "gate_id": "de481fea2c924fe1afe8c6762697e5f1",
+  "gate_seq": 7711
+ }
+}

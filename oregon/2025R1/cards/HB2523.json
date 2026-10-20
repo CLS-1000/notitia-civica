@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2523",
+ "measure_id": "HB2523",
+ "subject": "or_legislature/2025R1/HB2523",
+ "title": "Increases the amount of reimbursement from the Oregon Production Investment Fund that is available to a local filmmaker or media production services company.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2523 did not pass",
+ "claims": [
+  {
+   "text": "HB 2523 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614487
+   ]
+  },
+  {
+   "text": "HB 2523 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661495
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614487,
+    616696,
+    661495
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614487
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614487
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2523&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2523",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1566,
+  "finding_hash": "85f52ca30d24bea7dee35a7c285082ccf53469b951281f4bd1708d4d1ebbd2ce",
+  "evidence_digest": "sha256:7a932696437d50f03dc904701e097a9b42ff8a74e39a283d6a1f1b0b0313d34d",
+  "gate_id": "cdf4ea2c0b854f309a87f07c88926e27",
+  "gate_seq": 1567
+ }
+}

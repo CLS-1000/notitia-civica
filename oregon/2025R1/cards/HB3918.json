@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3918",
+ "measure_id": "HB3918",
+ "subject": "or_legislature/2025R1/HB3918",
+ "title": "Directs a state agency to establish deadlines within which the agency intends to process applications for permits and make the deadlines available to the public.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3918 did not pass",
+ "claims": [
+  {
+   "text": "HB 3918 was introduced in the House on March 13, 2025.",
+   "row_ids": [
+    628245
+   ]
+  },
+  {
+   "text": "HB 3918 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661311
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    628245,
+    628724,
+    661311
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    628245
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    628245
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3918&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3918",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5751,
+  "finding_hash": "81141a22199e243fcb23d2db7c81dd7067dc1d0b46ea23e82e7bce605e3201ee",
+  "evidence_digest": "sha256:fbaa78ac255fc8609368c208ab55c1cd99a83c4dc64db3d87f3e570a24f2b78b",
+  "gate_id": "5c14497a26c64a74a738a0e70fe9ec90",
+  "gate_seq": 5752
+ }
+}

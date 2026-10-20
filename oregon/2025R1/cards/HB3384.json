@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3384",
+ "measure_id": "HB3384",
+ "subject": "or_legislature/2025R1/HB3384",
+ "title": "Permits local elections officials not to take certain actions on a petition or prospective petition for an initiative or referendum if the petition is filed between the 75th day prior to and the 35th day following an election in either May or November.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3384 did not pass",
+ "claims": [
+  {
+   "text": "HB 3384 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619435
+   ]
+  },
+  {
+   "text": "HB 3384 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659901
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619435,
+    619807,
+    620161,
+    659901
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619435
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619435
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "when": "February 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620161
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659901
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3384&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3384",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4149,
+  "finding_hash": "856f13479de2a831d5bd21a71764b943e316f884b9243e6f8cc3dc86b3d219bb",
+  "evidence_digest": "sha256:f3e6030ed922f401b7d4bf254e6d9a35c68d671919537a96d548ebc0a74802d4",
+  "gate_id": "467b29a96a25479db685ca96a20eb2c3",
+  "gate_seq": 4150
+ }
+}

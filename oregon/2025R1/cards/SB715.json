@@ -1,0 +1,107 @@
+{
+ "session": "2025R1",
+ "measure": "SB 715",
+ "measure_id": "SB715",
+ "subject": "or_legislature/2025R1/SB715",
+ "title": "Creates the Cascadia High Speed Rail Task Force.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 715 did not pass",
+ "claims": [
+  {
+   "text": "SB 715 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616020
+   ]
+  },
+  {
+   "text": "SB 715 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658909
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616020,
+    618287,
+    629616,
+    646345,
+    658909
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616020
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616020
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629616
+   ]
+  },
+  {
+   "date": "2025-05-12",
+   "when": "May 12, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    646345
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658909
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 715&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB715",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8253,
+  "finding_hash": "897da07f3caced6b9f8da9a77b7f88e972d4b58de136e9ea40c4301d42db3cf6",
+  "evidence_digest": "sha256:8a3f9ce4a9698529808874ea5c563486638fe7fefb0f09259dcafca8cea0f489",
+  "gate_id": "4cb6d1526fba45f7afe339bca1af8127",
+  "gate_seq": 8254
+ }
+}

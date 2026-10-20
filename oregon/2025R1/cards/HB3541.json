@@ -1,0 +1,73 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3541",
+ "measure_id": "HB3541",
+ "subject": "or_legislature/2025R1/HB3541",
+ "title": "Requires drive-through restaurants to provide a garbage can within 15 feet of a service window for customers to dispose of garbage from a motor vehicle after purchasing food or drink from the drive-through restaurant.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3541 did not pass",
+ "claims": [
+  {
+   "text": "HB 3541 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621747
+   ]
+  },
+  {
+   "text": "HB 3541 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660124
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621747,
+    622084,
+    645061,
+    660124
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621747
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621747
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3541&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3541",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4620,
+  "finding_hash": "889e9b01c7eb3b52725b2534c5d2d90db72d3e0c45a7bf686fa7b7abee251dd2",
+  "evidence_digest": "sha256:e85c1882386c13506d5547dc56b1a3757b48268e8f85e84adda966b6e8cd9973",
+  "gate_id": "1c2164d217c04947a7252676401371a8",
+  "gate_seq": 4621
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3499",
+ "measure_id": "HB3499",
+ "subject": "or_legislature/2025R1/HB3499",
+ "title": "Requires the approval of an urban renewal plan by the electors of a municipality proposing a plan or a substantial amendment to a plan.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3499 did not pass",
+ "claims": [
+  {
+   "text": "HB 3499 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620372
+   ]
+  },
+  {
+   "text": "HB 3499 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660615
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620372,
+    621045,
+    641144,
+    660615
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620372
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620372
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    641144
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660615
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3499&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3499",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4494,
+  "finding_hash": "4dc556455d3bb9231b991d58edfb9e88e46afbdc66102aa6e2cf3ea9d872638a",
+  "evidence_digest": "sha256:3b711da03366cafe74f9139125485342a5069dc3749e441e3f1bedd564575c7d",
+  "gate_id": "a1193dc7323b43698679c4cec34d79a4",
+  "gate_seq": 4495
+ }
+}

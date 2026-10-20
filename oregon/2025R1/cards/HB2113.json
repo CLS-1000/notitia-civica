@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2113",
+ "measure_id": "HB2113",
+ "subject": "or_legislature/2025R1/HB2113",
+ "title": "Establishes December 21, 2017, as the connection date for the Internal Revenue Code sections governing bonus depreciation and deduction of net business interest.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2113 did not pass",
+ "claims": [
+  {
+   "text": "HB 2113 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614077
+   ]
+  },
+  {
+   "text": "HB 2113 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661268
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614077,
+    616286,
+    661268
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614077
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614077
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2113&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2113",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 336,
+  "finding_hash": "13fb40128282dfa5c3d7778092b734bdbc199a25978db86b1959a6b5cf69ba3f",
+  "evidence_digest": "sha256:35c82ac7da2830df56bbc79ea607182b021b27e3fc301f43f0ef5ce2cbc6e151",
+  "gate_id": "460bdb4aeefb405eb9dbcaa39348b061",
+  "gate_seq": 337
+ }
+}

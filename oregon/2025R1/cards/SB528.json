@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 528",
+ "measure_id": "SB528",
+ "subject": "or_legislature/2025R1/SB528",
+ "title": "Appropriates moneys to be used for regional health equity coalitions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 528 did not pass",
+ "claims": [
+  {
+   "text": "SB 528 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615833
+   ]
+  },
+  {
+   "text": "SB 528 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659365
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615833,
+    618100,
+    625487,
+    632759,
+    634213,
+    634214,
+    659365
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615833
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615833
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625487
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632759
+   ]
+  },
+  {
+   "date": "2025-03-28",
+   "when": "March 28, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    634213
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 528&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB528",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7692,
+  "finding_hash": "046e3b9637ab1489be2dbf974a483710e855ce5e40f16cb02499723f139ab57c",
+  "evidence_digest": "sha256:c238f1232d31717ac0688f11b41d8c533a276c63bedfdd30a5b56ad969be3740",
+  "gate_id": "55c43af0347a4d779f8e56e32b712ebf",
+  "gate_seq": 7693
+ }
+}

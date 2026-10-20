@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3580",
+ "measure_id": "HB3580",
+ "subject": "or_legislature/2025R1/HB3580",
+ "title": "Establishes the Task Force on Eelgrass Resources.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3580 did not pass",
+ "claims": [
+  {
+   "text": "HB 3580 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622915
+   ]
+  },
+  {
+   "text": "HB 3580 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661302
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622915,
+    623470,
+    626535,
+    632851,
+    635806,
+    635807,
+    661302
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622915
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622915
+   ]
+  },
+  {
+   "date": "2025-03-05",
+   "when": "March 5, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626535
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632851
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    635806
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3580&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3580",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4737,
+  "finding_hash": "099d22427e3fea6122e393cf4a97e613204422867ad10b9437162660c0401e73",
+  "evidence_digest": "sha256:223c01bd0106007f4ac0349d20452988f471726022c211969e95ff5d7d1bf216",
+  "gate_id": "92806dbc0d0f4ff0b6b86c256b9f15f3",
+  "gate_seq": 4738
+ }
+}

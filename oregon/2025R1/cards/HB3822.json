@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3822",
+ "measure_id": "HB3822",
+ "subject": "or_legislature/2025R1/HB3822",
+ "title": "Requires the office of Enterprise Information Services to study cybersecurity.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3822 did not pass",
+ "claims": [
+  {
+   "text": "HB 3822 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624998
+   ]
+  },
+  {
+   "text": "HB 3822 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660527
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624998,
+    626407,
+    660527
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624998
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624998
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3822&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3822",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5463,
+  "finding_hash": "a60cfdf2805023bb62dc57e98a601853ec8a99efc4acaba5028dc81b5f4dd5ce",
+  "evidence_digest": "sha256:48b1178eb4334786032ddd422757d84e316aef444c24f8409bcd7a7e6586024f",
+  "gate_id": "31a990563d5f4107bf263140b8443bdc",
+  "gate_seq": 5464
+ }
+}

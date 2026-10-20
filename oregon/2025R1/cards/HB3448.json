@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3448",
+ "measure_id": "HB3448",
+ "subject": "or_legislature/2025R1/HB3448",
+ "title": "Requires school districts to have a school year of 175 days and to have a class schedule that operates throughout the year.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3448 did not pass",
+ "claims": [
+  {
+   "text": "HB 3448 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619499
+   ]
+  },
+  {
+   "text": "HB 3448 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660807
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619499,
+    619871,
+    660807
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619499
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619499
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3448&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3448",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4341,
+  "finding_hash": "2f592b3fe76cb2665d45a95938b430ece46062b0d03f5ac5b78a04b24ccc6cc0",
+  "evidence_digest": "sha256:ef3a19e411e34108054855f0742998c8fc6b4eaa8d0410b93472334b02dbf9b1",
+  "gate_id": "3c6b1524fe8e4765b711313940ba3697",
+  "gate_seq": 4342
+ }
+}

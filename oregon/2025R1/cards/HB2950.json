@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2950",
+ "measure_id": "HB2950",
+ "subject": "or_legislature/2025R1/HB2950",
+ "title": "Requires the Land Conservation and Development Commission to update the statewide land use planning goal relating to \"citizen involvement\" by rule byJune 30, 2029.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2950 did not pass",
+ "claims": [
+  {
+   "text": "HB 2950 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614914
+   ]
+  },
+  {
+   "text": "HB 2950 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660333
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614914,
+    617123,
+    622037,
+    634600,
+    636949,
+    636950,
+    660333
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614914
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614914
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622037
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    634600
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    636949
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2950&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2950",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2847,
+  "finding_hash": "25d07604afabd2d508cfe1f986c31c75f20def06aeb789cf0eeaaa760ea41149",
+  "evidence_digest": "sha256:bf686fc0d534f6cfdd02f1e3febac3154e7f1d45c31dd8e06cd1afd727666b4d",
+  "gate_id": "0b921da7adb343c1959344c6958928a8",
+  "gate_seq": 2848
+ }
+}

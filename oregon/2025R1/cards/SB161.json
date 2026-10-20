@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 161",
+ "measure_id": "SB161",
+ "subject": "or_legislature/2025R1/SB161",
+ "title": "Directs the Oregon Health Authority to award grants to certain recipients for certain workforce development activities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 161 did not pass",
+ "claims": [
+  {
+   "text": "SB 161 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615466
+   ]
+  },
+  {
+   "text": "SB 161 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659496
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615466,
+    617733,
+    619608,
+    659496
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615466
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615466
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619608
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659496
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 161&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB161",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6591,
+  "finding_hash": "9e20d1a452e56dd1dfa24f7b4f0339ee3a8f5a9ae3a5161541d93afd1b35560d",
+  "evidence_digest": "sha256:0e41d485fcb81720cf159b9f2c740fdbb183457f9661ecbc6d248295e0612f2e",
+  "gate_id": "24053031355c4c2188d2b705280941a8",
+  "gate_seq": 6592
+ }
+}

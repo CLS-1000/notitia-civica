@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2426",
+ "measure_id": "HB2426",
+ "subject": "or_legislature/2025R1/HB2426",
+ "title": "Repeals the requirement that there be a licensed repository for the disposal of high-level radioactive waste before a site certificate for a nuclear-fueled thermal power plant may be issued.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2426 did not pass",
+ "claims": [
+  {
+   "text": "HB 2426 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614390
+   ]
+  },
+  {
+   "text": "HB 2426 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660072
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614390,
+    616599,
+    660072
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614390
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614390
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2426&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2426",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1275,
+  "finding_hash": "a341f9a5736cee33236b4e1753031b6969040c68d69daf3978c8a420013d2efe",
+  "evidence_digest": "sha256:59bb99bdcc4ff3a049e6fd9edc2e11828590c4bf055c77eacc8ebd3122ddf348",
+  "gate_id": "7183b41a0a3d4f9e87f31008f433c9ff",
+  "gate_seq": 1276
+ }
+}

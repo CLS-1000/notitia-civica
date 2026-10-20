@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 513",
+ "measure_id": "SB513",
+ "subject": "or_legislature/2025R1/SB513",
+ "title": "Requires the State Department of Fish and Wildlife to study stocking protocols for salmon and other fish.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 513 did not pass",
+ "claims": [
+  {
+   "text": "SB 513 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615818
+   ]
+  },
+  {
+   "text": "SB 513 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659350
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615818,
+    618085,
+    659350
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615818
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615818
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 513&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB513",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7647,
+  "finding_hash": "cf5c912742c34ff2ffe8221a133d63faf5ead216f375699c6c1bac46eecea7b0",
+  "evidence_digest": "sha256:47b3ee18b7581751e45b7f4e34d2c0922fe9354ef9fd112f02217b08d450a9bc",
+  "gate_id": "6c8df22bbf424a8895b2914c4dfd090d",
+  "gate_seq": 7648
+ }
+}

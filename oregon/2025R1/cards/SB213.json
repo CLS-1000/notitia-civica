@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 213",
+ "measure_id": "SB213",
+ "subject": "or_legislature/2025R1/SB213",
+ "title": "Repeals the Agreement Among the States to Elect the President by National Popular Vote.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 213 did not pass",
+ "claims": [
+  {
+   "text": "SB 213 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615518
+   ]
+  },
+  {
+   "text": "SB 213 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659422
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615518,
+    617785,
+    659422
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615518
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615518
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 213&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB213",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6747,
+  "finding_hash": "a37d6c662a8535b091ac4e2f98577f48ce1edcc2d30bc275996d22520d78b009",
+  "evidence_digest": "sha256:763f8b974d3a4769c4a781b7d430b4c9d16cabb0a94ece63d5469b673ae37a7f",
+  "gate_id": "4186f758255f471bbfcb5b2b4ca312df",
+  "gate_seq": 6748
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3784",
+ "measure_id": "HB3784",
+ "subject": "or_legislature/2025R1/HB3784",
+ "title": "Requires the Department of Environmental Quality to study the environment.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3784 did not pass",
+ "claims": [
+  {
+   "text": "HB 3784 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624960
+   ]
+  },
+  {
+   "text": "HB 3784 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661354
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624960,
+    626369,
+    661354
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624960
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624960
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3784&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3784",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5349,
+  "finding_hash": "227f24cba49b86b5e67e41f765ae8b613ae7f17b891f619685050b2d2df48e82",
+  "evidence_digest": "sha256:66efdaf0fb46d87b234e855665c62a5d11c63cc80eecf1eb7b11ffa560fe4186",
+  "gate_id": "63e2d178bcee4b66b403a379b703445f",
+  "gate_seq": 5350
+ }
+}

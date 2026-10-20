@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 43",
+ "measure_id": "SB43",
+ "subject": "or_legislature/2025R1/SB43",
+ "title": "Requires the Department of Environmental Quality to study waste management.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 43 did not pass",
+ "claims": [
+  {
+   "text": "SB 43 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615348
+   ]
+  },
+  {
+   "text": "SB 43 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658983
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615348,
+    617615,
+    658983
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615348
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615348
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 43&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB43",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6237,
+  "finding_hash": "fdb49df1222135c5437b8063faff1a179c6bd33307345cfc2e26919d9d76e787",
+  "evidence_digest": "sha256:8f4d5bd4426ab12cedd9ef66d156535b352a9441c7cb6c0f7b6ad0610cbf0565",
+  "gate_id": "1d77f644c8fb48578c58fe7b589c6472",
+  "gate_seq": 6238
+ }
+}

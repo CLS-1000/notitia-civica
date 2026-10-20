@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 758",
+ "measure_id": "SB758",
+ "subject": "or_legislature/2025R1/SB758",
+ "title": "Applies the prevailing rate of wage to certain off-site custom work fabricated, assembled or produced in accordance with specifications for a particular public works.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 758 did not pass",
+ "claims": [
+  {
+   "text": "SB 758 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616062
+   ]
+  },
+  {
+   "text": "SB 758 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659164
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616062,
+    618329,
+    659164
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616062
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616062
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 758&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB758",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8382,
+  "finding_hash": "e2f9e3ce79e8a3edb2413e823940c54c2439146a3e80e6721cd8d2e7d157ee4a",
+  "evidence_digest": "sha256:debee0acd7e7e0476deb9e75c2ff1532239daf00de4e6c2e0b6a935a6f5b5643",
+  "gate_id": "a980b357483649c3b424636bdaae0115",
+  "gate_seq": 8383
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2043",
+ "measure_id": "HB2043",
+ "subject": "or_legislature/2025R1/HB2043",
+ "title": "Appropriates moneys from the General Fund to the Oregon Department of Administrative Services for distribution to Oasis of Praise International Ministries to acquire, renovate and rehabilitate real property.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2043 did not pass",
+ "claims": [
+  {
+   "text": "HB 2043 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614007
+   ]
+  },
+  {
+   "text": "HB 2043 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660859
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614007,
+    616216,
+    660859
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614007
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614007
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2043&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2043",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 126,
+  "finding_hash": "822b529c22436aed67f870b7b5bdc588166af82c35d19facbe05e4eb9d40efc6",
+  "evidence_digest": "sha256:314a74007c7226b3f3f88beea54015b69fe4560af2b0d7b28b62feee6d439aea",
+  "gate_id": "50f9093049c2409891efc249d27fadf1",
+  "gate_seq": 127
+ }
+}

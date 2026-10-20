@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3706",
+ "measure_id": "HB3706",
+ "subject": "or_legislature/2025R1/HB3706",
+ "title": "Modifies provisions regarding the use of restraint and involuntary seclusion on certain young people.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3706 did not pass",
+ "claims": [
+  {
+   "text": "HB 3706 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624390
+   ]
+  },
+  {
+   "text": "HB 3706 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660440
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624390,
+    625251,
+    660440
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624390
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624390
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3706&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3706",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5115,
+  "finding_hash": "ca5012e4fdfed3178f765346f82083e8780c234946e142b7413303b040c0c599",
+  "evidence_digest": "sha256:75dce9045b471c49ebdbe919c1ace2ad0755090ca6b5f5ee521a60265924dfd4",
+  "gate_id": "e6bc5876cd614ad8a34a31a2c3088f08",
+  "gate_seq": 5116
+ }
+}

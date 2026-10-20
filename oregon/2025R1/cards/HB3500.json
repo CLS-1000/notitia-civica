@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3500",
+ "measure_id": "HB3500",
+ "subject": "or_legislature/2025R1/HB3500",
+ "title": "Provides that a city councillor may not seek reelection prior to the last election held before the expiration of the councillor's current term.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3500 did not pass",
+ "claims": [
+  {
+   "text": "HB 3500 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620373
+   ]
+  },
+  {
+   "text": "HB 3500 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660616
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620373,
+    621046,
+    660616
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620373
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620373
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3500&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3500",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4497,
+  "finding_hash": "7d7bc0d9683cbe0fb4a5a3653afb4cd186a78a07a4a6d88f8d7f9b4da3013233",
+  "evidence_digest": "sha256:1ff9f4f15003c93f44f3f68c700323d1a22f3fe0b6964fbc9733c4a04c5b1dd8",
+  "gate_id": "101cd850075d4b549ad9790a1e078c23",
+  "gate_seq": 4498
+ }
+}

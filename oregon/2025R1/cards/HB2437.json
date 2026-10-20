@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2437",
+ "measure_id": "HB2437",
+ "subject": "or_legislature/2025R1/HB2437",
+ "title": "Requires a taxpayer to list information about persons to whom the taxpayer has paid compensation that is claimed as a business deduction on the taxpayer's federal income tax return.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2437 did not pass",
+ "claims": [
+  {
+   "text": "HB 2437 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614401
+   ]
+  },
+  {
+   "text": "HB 2437 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660606
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614401,
+    616610,
+    660606
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614401
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614401
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2437&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2437",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1308,
+  "finding_hash": "f3eedfda5dd2dbd96cb32760706df6404b7ac326c64e1d279a4ba2ca67f3192c",
+  "evidence_digest": "sha256:1309bea93b9ea658282f6375372bf820b636cadb1012de1f6d95472eb3d56517",
+  "gate_id": "417d888ea3b04ebb81a151b998580134",
+  "gate_seq": 1309
+ }
+}

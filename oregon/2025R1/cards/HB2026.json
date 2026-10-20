@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2026",
+ "measure_id": "HB2026",
+ "subject": "or_legislature/2025R1/HB2026",
+ "title": "Requires the Oregon Health Authority to study behavioral health.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2026 did not pass",
+ "claims": [
+  {
+   "text": "HB 2026 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613990
+   ]
+  },
+  {
+   "text": "HB 2026 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661019
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613990,
+    616199,
+    661019
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613990
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613990
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2026&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2026",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 75,
+  "finding_hash": "d66119b4fc6571a6aadb94a3cb18627a2821645e158d234bd5effc431e172a0c",
+  "evidence_digest": "sha256:03d0b63e32838cb27a20e04d9917cdc35ce44ba8922b2eae7011dc7bd13213db",
+  "gate_id": "740a593fdfae46d78f8b2a4cf6f263da",
+  "gate_seq": 76
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3053",
+ "measure_id": "HB3053",
+ "subject": "or_legislature/2025R1/HB3053",
+ "title": "Provides moneys to the Higher Education Coordinating Commission to be distributed to the University of Oregon for purposes of a pilot program training graduate-level students who are learning to become speech-language pathologists to use a family-centered approach when serving children with augmentative and alternative communication needs in a traditional overnight summer camp setting.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3053 did not pass",
+ "claims": [
+  {
+   "text": "HB 3053 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615017
+   ]
+  },
+  {
+   "text": "HB 3053 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660372
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615017,
+    617226,
+    621696,
+    633353,
+    635802,
+    635803,
+    660372
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615017
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615017
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621696
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    633353
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    635802
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3053&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3053",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3156,
+  "finding_hash": "65ce027b6b2d9b785c382b9df9e76eefe61cd92093c5d871b3960e7ed503b066",
+  "evidence_digest": "sha256:17209db2450f224573896d6df39c2f7e816979fed77664c00c134c26d12831df",
+  "gate_id": "4fc282e037f4435aa4c3f8d666d49644",
+  "gate_seq": 3157
+ }
+}

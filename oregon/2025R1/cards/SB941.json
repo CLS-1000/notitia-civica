@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 941",
+ "measure_id": "SB941",
+ "subject": "or_legislature/2025R1/SB941",
+ "title": "Requires the Department of Land Conservation and Development to study the supply of land to build homes and grow businesses and submit findings to the interim committees of the Legislative Assembly related to land use no later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 941 did not pass",
+ "claims": [
+  {
+   "text": "SB 941 was introduced in the Senate on January 23, 2025.",
+   "row_ids": [
+    619029
+   ]
+  },
+  {
+   "text": "SB 941 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659596
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619029,
+    619036,
+    659596
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-23",
+   "when": "January 23, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    619029
+   ]
+  },
+  {
+   "date": "2025-01-23",
+   "when": "January 23, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619029
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 941&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB941",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8931,
+  "finding_hash": "1cbb1179241283799707d0ed0e8c3ce600f9812d0560341687c7ba90b7d3abfe",
+  "evidence_digest": "sha256:63e829db03aa40b9c793cf394673f12e513476f4cc1ebd79543990b37a734725",
+  "gate_id": "3b1167b5a3024dc59e1532c0eb7df917",
+  "gate_seq": 8932
+ }
+}

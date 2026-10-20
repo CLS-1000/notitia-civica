@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3787",
+ "measure_id": "HB3787",
+ "subject": "or_legislature/2025R1/HB3787",
+ "title": "Prohibits restaurants and retailers from providing reusable plastic checkout bags to consumers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3787 did not pass",
+ "claims": [
+  {
+   "text": "HB 3787 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624963
+   ]
+  },
+  {
+   "text": "HB 3787 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661357
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624963,
+    626372,
+    661357
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624963
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624963
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3787&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3787",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5358,
+  "finding_hash": "f1ed5f74fde0ab2a95c32726ef71bde23f1ddf04a464d6a8c3de3c0e1a61ffa8",
+  "evidence_digest": "sha256:28e9a26b1090aae87bcb20d71e78d5936c2146992124cbe68b962952c0a7f1cd",
+  "gate_id": "aa581bb24cc6449ca45dde25bb78bf62",
+  "gate_seq": 5359
+ }
+}

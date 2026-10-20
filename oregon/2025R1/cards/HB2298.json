@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2298",
+ "measure_id": "HB2298",
+ "subject": "or_legislature/2025R1/HB2298",
+ "title": "Modifies when a person can obtain an order setting aside a conviction, arrest, charge or guilty except for insanity judgment.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2298 did not pass",
+ "claims": [
+  {
+   "text": "HB 2298 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614262
+   ]
+  },
+  {
+   "text": "HB 2298 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659835
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614262,
+    616471,
+    659835
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614262
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614262
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2298&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2298",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 891,
+  "finding_hash": "e4656e0d8d1ced86c39480fe3c17518fce64899ded18ad8bc3a2073333f3cff1",
+  "evidence_digest": "sha256:e3e0ac28dfa4ebc205410ad82d66ee0e071654045e88f79680045600826ac719",
+  "gate_id": "6c341a3f5d4e467785ebf02a0470936a",
+  "gate_seq": 892
+ }
+}

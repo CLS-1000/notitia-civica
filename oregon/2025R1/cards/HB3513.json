@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3513",
+ "measure_id": "HB3513",
+ "subject": "or_legislature/2025R1/HB3513",
+ "title": "Requires the Department of Environmental Quality to study solid waste incinerators.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3513 did not pass",
+ "claims": [
+  {
+   "text": "HB 3513 was introduced in the House on February 6, 2025.",
+   "row_ids": [
+    620882
+   ]
+  },
+  {
+   "text": "HB 3513 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660309
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620882,
+    621261,
+    660309
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620882
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620882
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3513&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3513",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4536,
+  "finding_hash": "c52580e452a04cbe97acb6f1db11bca96290927dbac42bbc6cd992f946d639fc",
+  "evidence_digest": "sha256:8476b13511eacffef91cada611588408dd6f40d4535c5f3f9eb3c75cd31caa19",
+  "gate_id": "8f387e4b1f9c4d14a06bb93f516d480b",
+  "gate_seq": 4537
+ }
+}

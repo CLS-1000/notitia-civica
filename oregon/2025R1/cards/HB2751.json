@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2751",
+ "measure_id": "HB2751",
+ "subject": "or_legislature/2025R1/HB2751",
+ "title": "Directs the Oregon Health Authority to administer a two-year demonstration project in two counties to test whether expanding the scope of compensable services provided by community health workers can improve outcomes for low-income families and children at risk of entering the foster care system.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2751 did not pass",
+ "claims": [
+  {
+   "text": "HB 2751 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614715
+   ]
+  },
+  {
+   "text": "HB 2751 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661131
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614715,
+    616924,
+    661131
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614715
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614715
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2751&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2751",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2250,
+  "finding_hash": "8ab7159b587870efd38c31d3cb5875ef34bf3fd319a77ee37fe0f4bc35500d06",
+  "evidence_digest": "sha256:f480a4f472dac457cc6faacee76575019caa3fddcdc988f03f25337a399f7935",
+  "gate_id": "287f6b6dfc8b45b69c355fced072a55b",
+  "gate_seq": 2251
+ }
+}

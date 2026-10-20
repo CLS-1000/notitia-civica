@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2486",
+ "measure_id": "HB2486",
+ "subject": "or_legislature/2025R1/HB2486",
+ "title": "Requires the Department of Human Services to study how to simplify the provision of child welfare services in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2486 did not pass",
+ "claims": [
+  {
+   "text": "HB 2486 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614450
+   ]
+  },
+  {
+   "text": "HB 2486 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661452
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614450,
+    616659,
+    661452
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614450
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614450
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2486&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2486",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1455,
+  "finding_hash": "4b0dfd8127403e91b3f3e24da4127d245bf60fb4a0f3d564bdebe22461e3092d",
+  "evidence_digest": "sha256:85c1f1d9dc419f4adca6eb16dc7f59403b106e4a12a272736b8066bbeaba786b",
+  "gate_id": "b2da6c692bef4d78955f3f43778f983e",
+  "gate_seq": 1456
+ }
+}

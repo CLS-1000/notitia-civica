@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1130",
+ "measure_id": "SB1130",
+ "subject": "or_legislature/2025R1/SB1130",
+ "title": "Prohibits the court from awarding more than 50 percent of parenting time to a noncustodial parent.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1130 did not pass",
+ "claims": [
+  {
+   "text": "SB 1130 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624840
+   ]
+  },
+  {
+   "text": "SB 1130 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659226
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624840,
+    625752,
+    659226
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624840
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624840
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1130&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1130",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9498,
+  "finding_hash": "2c56af160f12a949b4cc804e44fefa27e3ac797fef0c0b6e09c0c283786c054e",
+  "evidence_digest": "sha256:5b58aa6fd69bbf972ceac5bac4d5eebe5268b0d2e4cebc3be9c65de8204db2c9",
+  "gate_id": "9e618ca0186e403cbd2a13d8b2b0f424",
+  "gate_seq": 9499
+ }
+}

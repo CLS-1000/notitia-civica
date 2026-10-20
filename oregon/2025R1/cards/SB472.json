@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 472",
+ "measure_id": "SB472",
+ "subject": "or_legislature/2025R1/SB472",
+ "title": "Authorizes an education service district board to determine whether a district school board has violated a requirement regarding actual conflicts of interest.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 472 did not pass",
+ "claims": [
+  {
+   "text": "SB 472 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615777
+   ]
+  },
+  {
+   "text": "SB 472 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659101
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615777,
+    618044,
+    632808,
+    659101
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615777
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615777
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632808
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659101
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 472&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB472",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7524,
+  "finding_hash": "04155b3a651f07696a9df603f28b2689814c5d29bdc6ca812f0439da17d9105a",
+  "evidence_digest": "sha256:7ecc21eafcab3e6dad59f6af14fda9d6e312e5e7880d7aac1d0defbcf11d8f1c",
+  "gate_id": "1207bb9293c64c228106602a999b6c09",
+  "gate_seq": 7525
+ }
+}

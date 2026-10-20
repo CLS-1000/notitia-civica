@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3013",
+ "measure_id": "HB3013",
+ "subject": "or_legislature/2025R1/HB3013",
+ "title": "Details the process by which a permit or zone change that is based on provisions of a comprehensive plan or land use regulation that fail to gain acknowledgment is voided and any resulting improvements or uses are removed or revoked.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3013 did not pass",
+ "claims": [
+  {
+   "text": "HB 3013 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614977
+   ]
+  },
+  {
+   "text": "HB 3013 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660364
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614977,
+    617186,
+    620170,
+    660364
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614977
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614977
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "when": "February 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620170
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660364
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3013&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3013",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3036,
+  "finding_hash": "dfad57bb82edd0dd9590b59ffc629a03d19f891433c6d59fe74985dcf05f3dbc",
+  "evidence_digest": "sha256:cc3e1d2a36c036766a0b3a4cd37466b5a5e2c0be5e4b6ce6c129945dcd59820e",
+  "gate_id": "848605597c8d4c579b4fec64057e71a4",
+  "gate_seq": 3037
+ }
+}

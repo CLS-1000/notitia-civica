@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2233",
+ "measure_id": "HB2233",
+ "subject": "or_legislature/2025R1/HB2233",
+ "title": "Directs the Oregon Criminal Justice Commission to establish a program to provide legal services to assist adults in custody who are serving sentences at the Coffee Creek Correctional Facility.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2233 did not pass",
+ "claims": [
+  {
+   "text": "HB 2233 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614197
+   ]
+  },
+  {
+   "text": "HB 2233 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660238
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614197,
+    616406,
+    621964,
+    623224,
+    623923,
+    623924,
+    660238
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614197
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614197
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621964
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    623224
+   ]
+  },
+  {
+   "date": "2025-02-21",
+   "when": "February 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    623923
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2233&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2233",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 696,
+  "finding_hash": "8427b9dd46623bfe381015705d2256184d745a3d7279757d2d6a86882f3537d4",
+  "evidence_digest": "sha256:18293ceefc858299e1b6acd64ba2e7657663302a84830776e567c058d6601c58",
+  "gate_id": "9db31ce409fc447d825dcdf87c49c75d",
+  "gate_seq": 697
+ }
+}

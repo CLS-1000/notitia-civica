@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1214",
+ "measure_id": "SB1214",
+ "subject": "or_legislature/2025R1/SB1214",
+ "title": "Directs the Oregon Health Authority and coordinated care organizations to reimburse certain rural hospitals at rates no less than 150 percent of the rates paid as of the effective date of the Act.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1214 did not pass",
+ "claims": [
+  {
+   "text": "SB 1214 was introduced in the Senate on June 9, 2025.",
+   "row_ids": [
+    652727
+   ]
+  },
+  {
+   "text": "SB 1214 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659305
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    652727,
+    652822,
+    659305
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-06-09",
+   "when": "June 9, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    652727
+   ]
+  },
+  {
+   "date": "2025-06-09",
+   "when": "June 9, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    652727
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1214&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1214",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9750,
+  "finding_hash": "0f7ffe7f5a233c2b734837da12167d931f9621cb1d36d4a725861cc14bb2158b",
+  "evidence_digest": "sha256:3d54e88c14b9b132b115d14cbc7bacab12973eda0ecb1d0fb0607b600baea2e7",
+  "gate_id": "26cabccbdc434415bcc1584757714346",
+  "gate_seq": 9751
+ }
+}

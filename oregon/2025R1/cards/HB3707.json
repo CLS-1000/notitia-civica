@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3707",
+ "measure_id": "HB3707",
+ "subject": "or_legislature/2025R1/HB3707",
+ "title": "Provides that new construction in certain school districts must meet specified resiliency standards for the districts to be eligible to receive a matching grant under a certain grant program financed with the proceeds of Article XI-P bonds.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3707 did not pass",
+ "claims": [
+  {
+   "text": "HB 3707 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624391
+   ]
+  },
+  {
+   "text": "HB 3707 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660441
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624391,
+    625252,
+    660441
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624391
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624391
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3707&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3707",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5118,
+  "finding_hash": "6e1ba2b79235f8dd54c0ca607464eba9eb6350c7a51a9801cfbce231551ef14a",
+  "evidence_digest": "sha256:99a08d02721bd0d822b3bdf32a0d43e474f55f99a811c089e2cfd37930790513",
+  "gate_id": "f218202ba16f43de9fee64f772a63a35",
+  "gate_seq": 5119
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 616",
+ "measure_id": "SB616",
+ "subject": "or_legislature/2025R1/SB616",
+ "title": "Prohibits a local government from conditioning the development or use of property for needed housing based on the retention of trees.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 616 did not pass",
+ "claims": [
+  {
+   "text": "SB 616 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615921
+   ]
+  },
+  {
+   "text": "SB 616 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658803
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615921,
+    618188,
+    658803
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615921
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615921
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 616&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB616",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7956,
+  "finding_hash": "5f6aec291ef3aae86be5497cc5bb9553689d45a8195b34388f29b6a299101fb0",
+  "evidence_digest": "sha256:6104ad4c3c68bfabc76a3a5cd57635cb4b3289ad0127b453e4bc365a452172ca",
+  "gate_id": "fe6f3e74a02c448290fac8c7818dc4a3",
+  "gate_seq": 7957
+ }
+}

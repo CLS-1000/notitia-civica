@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3776",
+ "measure_id": "HB3776",
+ "subject": "or_legislature/2025R1/HB3776",
+ "title": "Requires the Oregon Department of Administrative Services to study options for agencies with remote work agreements to consolidate office space with other agencies and sell or lease unoccupied office space in state buildings.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3776 did not pass",
+ "claims": [
+  {
+   "text": "HB 3776 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624952
+   ]
+  },
+  {
+   "text": "HB 3776 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661346
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624952,
+    626361,
+    661346
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624952
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624952
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3776&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3776",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5325,
+  "finding_hash": "c181879edcf8a648833ed9161809d150cd341d4485db90fe7bdee58ccdd8e799",
+  "evidence_digest": "sha256:82fa6f89fbbe3ff8217743389512aaba99a7b5aecc0645be6eacec4c1c1cea34",
+  "gate_id": "45a0b44ebea44a58bab1763e0f117d42",
+  "gate_seq": 5326
+ }
+}

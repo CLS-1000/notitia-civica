@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3925",
+ "measure_id": "HB3925",
+ "subject": "or_legislature/2025R1/HB3925",
+ "title": "Directs the Oregon Department of Administrative Services to issue a grant to Clackamas County for infrastructure improvements in the Sunrise Corridor.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3925 did not pass",
+ "claims": [
+  {
+   "text": "HB 3925 was introduced in the House on March 17, 2025.",
+   "row_ids": [
+    628965
+   ]
+  },
+  {
+   "text": "HB 3925 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659957
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    628965,
+    629535,
+    659957
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    628965
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    628965
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3925&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3925",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5772,
+  "finding_hash": "0c56394efee5f97077d79a0bb5de5c9a62aa2d45e8587bdb38274167f38b38ab",
+  "evidence_digest": "sha256:8dd6ac5aeac97ac95524a405282cf6ff8f442795f949014330698d624fe51be5",
+  "gate_id": "68829f87c2b541279dfd1201ae0ce043",
+  "gate_seq": 5773
+ }
+}

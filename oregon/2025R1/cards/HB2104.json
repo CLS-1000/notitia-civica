@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2104",
+ "measure_id": "HB2104",
+ "subject": "or_legislature/2025R1/HB2104",
+ "title": "Expands the crime of manslaughter in the second degree to include circumstances in which a person delivers a controlled substance to another person on two or more occasions and the delivery results in the death of the other person.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2104 did not pass",
+ "claims": [
+  {
+   "text": "HB 2104 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614068
+   ]
+  },
+  {
+   "text": "HB 2104 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660638
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614068,
+    616277,
+    660638
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614068
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614068
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2104&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2104",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 309,
+  "finding_hash": "4599ad547da1c740600a587b399f0565a8347195f7ea7185d5319a7330dcb417",
+  "evidence_digest": "sha256:b7cd35b413dae74b94f0eb0bbdf79732072fca1062871b661535dbc6b241cd5e",
+  "gate_id": "d91c0341be944d1fb9ddc2b238c084a8",
+  "gate_seq": 310
+ }
+}

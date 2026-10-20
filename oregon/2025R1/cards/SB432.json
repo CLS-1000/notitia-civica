@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 432",
+ "measure_id": "SB432",
+ "subject": "or_legislature/2025R1/SB432",
+ "title": "Instructs the forester, or a forest protective association or agency that is under contract or agreement with the State Board of Forestry for the protection of forestland against fire, and whose protection area is or may be affected by a fire on nearby federal lands, to take certain actions to address the fire.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 432 did not pass",
+ "claims": [
+  {
+   "text": "SB 432 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615737
+   ]
+  },
+  {
+   "text": "SB 432 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659064
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615737,
+    618004,
+    623665,
+    659064
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615737
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615737
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623665
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659064
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 432&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB432",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7404,
+  "finding_hash": "60881b69802c49e02d0f9ad68d3aee62e3716ad2ee77b7058a4e54ed3de9fd56",
+  "evidence_digest": "sha256:564e8931cfe73228192bd38a2b44744565a1f92b6eabe8c70f62f9d0b451c000",
+  "gate_id": "79aeb8efd3c348ae8b8bf31480526ff5",
+  "gate_seq": 7405
+ }
+}

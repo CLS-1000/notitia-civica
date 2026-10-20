@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 903",
+ "measure_id": "SB903",
+ "subject": "or_legislature/2025R1/SB903",
+ "title": "Requires the Bureau of Labor and Industries to study issues regarding the payment of certain bonuses under the pay equity law.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 903 did not pass",
+ "claims": [
+  {
+   "text": "SB 903 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618679
+   ]
+  },
+  {
+   "text": "SB 903 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658589
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618679,
+    618850,
+    658589
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618679
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618679
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 903&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB903",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8817,
+  "finding_hash": "cda465ef076f4b600dbb3ba49b5ae3e9fdd628983c62fef2408e9908af7866a5",
+  "evidence_digest": "sha256:d95f912bd03135a2eb6c4e9a7f4ffd940b1b201e489f531fa2d020b8c52ad64f",
+  "gate_id": "7e31f88240124c5a8ba21144d912c3dc",
+  "gate_seq": 8818
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3033",
+ "measure_id": "HB3033",
+ "subject": "or_legislature/2025R1/HB3033",
+ "title": "Requires the Housing and Community Services Department to study housing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3033 did not pass",
+ "claims": [
+  {
+   "text": "HB 3033 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614997
+   ]
+  },
+  {
+   "text": "HB 3033 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659890
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614997,
+    617206,
+    659890
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614997
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614997
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3033&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3033",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3096,
+  "finding_hash": "3ec07474005b3b7a182a9fd31e4f807b6e110562487731b1996d082b33ce1397",
+  "evidence_digest": "sha256:00209d6f32cca36dc6215d7bba6ceac54ed050545f48fc17815e195f781e93ac",
+  "gate_id": "f99562fe35a54384b1c114ed0f0ee782",
+  "gate_seq": 3097
+ }
+}

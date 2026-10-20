@@ -1,0 +1,169 @@
+{
+ "session": "2025R1",
+ "measure": "SB 207",
+ "measure_id": "SB207",
+ "subject": "or_legislature/2025R1/SB207",
+ "title": "Directs the Board of Cosmetology to adopt rules to allow the holder of a provisional certificate to perform in a cosmetology field of practice under the supervision of a practitioner in the same field of practice under certain circumstances.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 207 did not pass",
+ "claims": [
+  {
+   "text": "SB 207 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615512
+   ]
+  },
+  {
+   "text": "SB 207 passed the Senate but did not pass the House. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660863
+   ]
+  },
+  {
+   "text": "Each of the 12 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615512,
+    617779,
+    636078,
+    639379,
+    640455,
+    640456,
+    640764,
+    641343,
+    641758,
+    641415,
+    641850,
+    660863
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615512
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615512
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    636078
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639379
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640455
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    640764
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    641343
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    641343
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Arrived in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    641415
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    641415
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 207&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB207",
+ "row_count": 12,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6729,
+  "finding_hash": "b571c1d4b5042c393403ed2fca8fb2a59e484bf11dc7206415599780213cf5fb",
+  "evidence_digest": "sha256:625c1fbf59c746637c3b0ad01f30ebf5727b8c1cdba91d4796435f449084cb31",
+  "gate_id": "32d6d26613ce426685ceb254bae8f1d8",
+  "gate_seq": 6730
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2787",
+ "measure_id": "HB2787",
+ "subject": "or_legislature/2025R1/HB2787",
+ "title": "Requires employers to compensate employees for time spent on call or on standby.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2787 did not pass",
+ "claims": [
+  {
+   "text": "HB 2787 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614751
+   ]
+  },
+  {
+   "text": "HB 2787 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660481
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614751,
+    616960,
+    660481
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614751
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614751
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2787&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2787",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2358,
+  "finding_hash": "907a98104c0a33343d8fc5c66cc0f8416a5a9f77f2d1f252981f19424c7aa7c8",
+  "evidence_digest": "sha256:9f66571f95a108b594462661d01eb3d940a3015334aee494521c171f8e5bd302",
+  "gate_id": "5391d4b51ee14f47812ba0a29f30a111",
+  "gate_seq": 2359
+ }
+}

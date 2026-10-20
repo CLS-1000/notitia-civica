@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2761",
+ "measure_id": "HB2761",
+ "subject": "or_legislature/2025R1/HB2761",
+ "title": "Directs the Oregon Department of Emergency Management to develop and implement a program to provide grants to counties to create and fill county-level disaster mitigation and recovery manager positions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2761 did not pass",
+ "claims": [
+  {
+   "text": "HB 2761 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614725
+   ]
+  },
+  {
+   "text": "HB 2761 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661141
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614725,
+    616934,
+    661141
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614725
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614725
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2761&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2761",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2280,
+  "finding_hash": "05297ea45b3651c7fcf48035cf1fbb19ad8d699f73f0cf665a27935161c9f761",
+  "evidence_digest": "sha256:2f1f1b4b8a80ae04eca429c4646f8acf3eaf1dcbc729176299b87f955d31c844",
+  "gate_id": "3f6d4955bf9d46748838ee1bb3034e1e",
+  "gate_seq": 2281
+ }
+}

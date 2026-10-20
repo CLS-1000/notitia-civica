@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3440",
+ "measure_id": "HB3440",
+ "subject": "or_legislature/2025R1/HB3440",
+ "title": "Prohibits a school district from promoting a student in the third grade to the next grade level if the student does not demonstrate grade-level proficiency on a statewide assessment in language arts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3440 did not pass",
+ "claims": [
+  {
+   "text": "HB 3440 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619491
+   ]
+  },
+  {
+   "text": "HB 3440 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660800
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619491,
+    619863,
+    660800
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619491
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619491
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3440&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3440",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4317,
+  "finding_hash": "c1b0a97c4e6d3c41682b0a681ce15cf025ddd976dbbd69f7dc4b04e68e338ab7",
+  "evidence_digest": "sha256:9fc58600d3047459f7f0df9fe327bc93a3105aae892cb3953b4ee061f58f2e25",
+  "gate_id": "53ac703e414d462dadb1ede91a936914",
+  "gate_seq": 4318
+ }
+}

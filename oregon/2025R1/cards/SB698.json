@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 698",
+ "measure_id": "SB698",
+ "subject": "or_legislature/2025R1/SB698",
+ "title": "Authorizes the governing bodies of certain public entities that own or control public buildings to adopt a policy, ordinance or regulation limiting the affirmative defense for concealed handgun licensees for the crime of possessing a firearm in a public building.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 698 did not pass",
+ "claims": [
+  {
+   "text": "SB 698 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616003
+   ]
+  },
+  {
+   "text": "SB 698 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658893
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616003,
+    618270,
+    658893
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616003
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616003
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 698&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB698",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8202,
+  "finding_hash": "83ca3173dadb64b18ff32ae9028e598753b588d51b4b70a91ee8574386ef401f",
+  "evidence_digest": "sha256:f49a3ba24945dabc0bd3ac072e0a517bee3d2ccc13c2d89583302902d04f7e08",
+  "gate_id": "da320d034ecc4764810579ef6625e529",
+  "gate_seq": 8203
+ }
+}

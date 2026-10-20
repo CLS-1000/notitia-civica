@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 785",
+ "measure_id": "SB785",
+ "subject": "or_legislature/2025R1/SB785",
+ "title": "Establishes the Agriculture Education Scholarship Program to provide grants to qualified students for the equivalent of the cost of one full-time academic year in a qualified agriculture program that will prepare the student to be an agriculture teacher in a high school in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 785 did not pass",
+ "claims": [
+  {
+   "text": "SB 785 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616089
+   ]
+  },
+  {
+   "text": "SB 785 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659188
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616089,
+    618356,
+    627288,
+    639414,
+    640328,
+    640329,
+    659188
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616089
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616089
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627288
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639414
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640328
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 785&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB785",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8463,
+  "finding_hash": "c6e817417615cd33ff8aa70e53854fdd6bdfaffe1eb47b12e03aa85b16c27cdd",
+  "evidence_digest": "sha256:8c3c66d7ce1c8b29b4aca214b3e54da4b2cf90b42ee57133b66130310b84f34e",
+  "gate_id": "bf17a1bdfbdf4c50a20197c34b54d728",
+  "gate_seq": 8464
+ }
+}

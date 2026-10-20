@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2041",
+ "measure_id": "HB2041",
+ "subject": "or_legislature/2025R1/HB2041",
+ "title": "Requires insurers to reimburse mental health professionals at the same rate as physicians and other mental health professionals for the same services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2041 did not pass",
+ "claims": [
+  {
+   "text": "HB 2041 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614005
+   ]
+  },
+  {
+   "text": "HB 2041 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660857
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614005,
+    616214,
+    622011,
+    660857
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614005
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614005
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622011
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660857
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2041&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2041",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 120,
+  "finding_hash": "11e4c84f5d46a7539cafb002c1489026c00a20da84964ce3bfa797261d635a41",
+  "evidence_digest": "sha256:c3a77a44aa3c068b297dff62570ce66355f1bdae2809d85c8b86f8f0435f81ad",
+  "gate_id": "e0cfe8c7c1ac47a996cb31b5e1dc9ceb",
+  "gate_seq": 121
+ }
+}

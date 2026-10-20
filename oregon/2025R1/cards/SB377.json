@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 377",
+ "measure_id": "SB377",
+ "subject": "or_legislature/2025R1/SB377",
+ "title": "Exempts from commercial activity subject to corporate activity tax reimbursements for certain health care services, including care provided to medical assistance recipients and to Medicare recipients.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 377 did not pass",
+ "claims": [
+  {
+   "text": "SB 377 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615682
+   ]
+  },
+  {
+   "text": "SB 377 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659004
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615682,
+    617949,
+    659004
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615682
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615682
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 377&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB377",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7239,
+  "finding_hash": "5b4121a54946f421f48c855c7477514ead4dabc6f9e03733b93fed4b7dab08e6",
+  "evidence_digest": "sha256:3588bd33bee80743cadd881a5f18aa6150253982f46eea70b019525605b642dd",
+  "gate_id": "3d1cd9e36de542f3aeb4ec0174b03205",
+  "gate_seq": 7240
+ }
+}

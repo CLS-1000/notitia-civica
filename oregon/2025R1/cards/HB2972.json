@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2972",
+ "measure_id": "HB2972",
+ "subject": "or_legislature/2025R1/HB2972",
+ "title": "Provides funding to the Employment Department for staffing workforce reentry programs for adults in custody.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2972 did not pass",
+ "claims": [
+  {
+   "text": "HB 2972 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614936
+   ]
+  },
+  {
+   "text": "HB 2972 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661232
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614936,
+    617145,
+    625864,
+    629951,
+    632330,
+    632331,
+    661232
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614936
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614936
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625864
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629951
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    632330
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2972&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2972",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2913,
+  "finding_hash": "7ae8a75b059c4f772c408995623b0dc693fb6214ea640c7b4f1654886668b5d0",
+  "evidence_digest": "sha256:59d27408cad4fc0f4f2bebaa4f988f801da88a9a9364d389280b718ea7219265",
+  "gate_id": "b1a0611368c04ee99c6d9f41b906e3f4",
+  "gate_seq": 2914
+ }
+}

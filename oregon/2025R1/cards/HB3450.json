@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3450",
+ "measure_id": "HB3450",
+ "subject": "or_legislature/2025R1/HB3450",
+ "title": "Directs the State Department of Energy to develop an energy storage transition plan for the critical energy infrastructure hub.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3450 did not pass",
+ "claims": [
+  {
+   "text": "HB 3450 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619501
+   ]
+  },
+  {
+   "text": "HB 3450 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660120
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619501,
+    619873,
+    625383,
+    638971,
+    640099,
+    640100,
+    660120
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619501
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619501
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625383
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638971
+   ]
+  },
+  {
+   "date": "2025-04-11",
+   "when": "April 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640099
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3450&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3450",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4347,
+  "finding_hash": "824c296b2c0b62a10ff18676f11c346c4a48f6fcf5dbb85cb2b621eca5bf92eb",
+  "evidence_digest": "sha256:16c4a816966371690146ce9fbea0484367dd860c7921b8c5f99fa5fe48f243b3",
+  "gate_id": "df5773e0d3494e6a88be1eda6619dd4c",
+  "gate_seq": 4348
+ }
+}

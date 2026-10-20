@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1018",
+ "measure_id": "SB1018",
+ "subject": "or_legislature/2025R1/SB1018",
+ "title": "Requires the Department of Human Services to operate a pilot program, subject to approval by the United States Department of Agriculture, to prohibit the purchase of foods of minimal nutritional value or foods with a high sodium, sugar or fat content using Supplemental Nutrition Assistance Program benefits.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1018 did not pass",
+ "claims": [
+  {
+   "text": "SB 1018 was introduced in the Senate on February 11, 2025.",
+   "row_ids": [
+    621788
+   ]
+  },
+  {
+   "text": "SB 1018 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659120
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621788,
+    621893,
+    659120
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    621788
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621788
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1018&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1018",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9162,
+  "finding_hash": "6588f97c2e564d1cfd792c2e28f0c0d2835715670e6bf6b3a3ea3b82e8cea420",
+  "evidence_digest": "sha256:1b8d149955c7a0bed52461833abce2be014d26a98cc28b83b1c2cf5838975b1e",
+  "gate_id": "b37d30a47023457899cca014467d87fc",
+  "gate_seq": 9163
+ }
+}

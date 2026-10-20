@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1070",
+ "measure_id": "SB1070",
+ "subject": "or_legislature/2025R1/SB1070",
+ "title": "Requires the Legislative Revenue Officer to study the implementation of incentives to promote hydrogen production.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1070 did not pass",
+ "claims": [
+  {
+   "text": "SB 1070 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624269
+   ]
+  },
+  {
+   "text": "SB 1070 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659113
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624269,
+    624445,
+    659113
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624269
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624269
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1070&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1070",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9318,
+  "finding_hash": "38b3015a5fcc6c27f24e455407b064aa09353ab44969079d5ba871e35f8c80ce",
+  "evidence_digest": "sha256:c804ba0fae342978970cc7d193995a4e0ff633620de254730869899f38107190",
+  "gate_id": "6b5f6cd4ad5443609a7c2e5b388f13f8",
+  "gate_seq": 9319
+ }
+}

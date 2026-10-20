@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2830",
+ "measure_id": "HB2830",
+ "subject": "or_legislature/2025R1/HB2830",
+ "title": "Prohibits a local government, local contracting agency or local contract review board from enacting, adopting or enforcing an ordinance, resolution, rule or other law that prohibits, restricts or limits the evaluation, comparison or use of pipe or piping materials for a water project if the pipe or piping materials meet current standards or performance specifications of specified organizations and if moneys appropriated from the State Treasury directly or indirectly provided funding for the water project.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2830 did not pass",
+ "claims": [
+  {
+   "text": "HB 2830 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614794
+   ]
+  },
+  {
+   "text": "HB 2830 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660665
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614794,
+    617003,
+    660665
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614794
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614794
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2830&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2830",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2487,
+  "finding_hash": "01e6db48e24a8db85cdeb6706fabdfa76d9103f51f9095bb553db8958cf6928d",
+  "evidence_digest": "sha256:914196c2ef4ad67d552530b7b0bbd3be4fd5bf50bdf4706d52d589890ebaa73e",
+  "gate_id": "d2684fdcce614972883691bf0b7d4c8c",
+  "gate_seq": 2488
+ }
+}

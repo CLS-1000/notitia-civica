@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2068",
+ "measure_id": "HB2068",
+ "subject": "or_legislature/2025R1/HB2068",
+ "title": "Modifies provisions of the beverage container redemption and recycling law.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2068 did not pass",
+ "claims": [
+  {
+   "text": "HB 2068 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614032
+   ]
+  },
+  {
+   "text": "HB 2068 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661406
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614032,
+    616241,
+    661406
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614032
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614032
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2068&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2068",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 201,
+  "finding_hash": "ae1aee0392a9392cce1fea7de3b3c4f9d485b80bccaa899b8e053f280c58fd8f",
+  "evidence_digest": "sha256:b6bb60cdd42134e8056f993d091d93be93e9bbd815eb6be05d5e412661c352e0",
+  "gate_id": "7cf2f124e3204be9a570d9c41e69f223",
+  "gate_seq": 202
+ }
+}

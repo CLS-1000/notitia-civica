@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2454",
+ "measure_id": "HB2454",
+ "subject": "or_legislature/2025R1/HB2454",
+ "title": "Authorizes the Joint Legislative Audit Committee to appoint a Legislative Performance Oversight and Government Accountability Officer and to direct the officer to perform specified duties, including investigating, reviewing activities of and oversight of executive branch agencies, taking in and investigating complaints of members of the public concerning executive branch agency programs, conducting performance audits of executive branch agencies and reporting to the committee on work undertaken by the officer.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2454 did not pass",
+ "claims": [
+  {
+   "text": "HB 2454 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614418
+   ]
+  },
+  {
+   "text": "HB 2454 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661487
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614418,
+    616627,
+    624602,
+    648699,
+    649621,
+    649622,
+    661487
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614418
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614418
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624602
+   ]
+  },
+  {
+   "date": "2025-05-21",
+   "when": "May 21, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    648699
+   ]
+  },
+  {
+   "date": "2025-05-27",
+   "when": "May 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    649621
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2454&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2454",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1359,
+  "finding_hash": "551d209f327caf1e3015fd6ec40e87d143c94df3df46fe2001e338a4f3e893f3",
+  "evidence_digest": "sha256:3544e6bef57fdb2c8b02cbe27a2261605431477b73348d27c93338b5b7d0944b",
+  "gate_id": "90642122bed04b3badab1fe8dbb4a189",
+  "gate_seq": 1360
+ }
+}

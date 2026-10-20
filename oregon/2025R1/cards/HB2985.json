@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2985",
+ "measure_id": "HB2985",
+ "subject": "or_legislature/2025R1/HB2985",
+ "title": "Modifies provisions relating to the administrative proceedings of the Public Utility Commission.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2985 did not pass",
+ "claims": [
+  {
+   "text": "HB 2985 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614949
+   ]
+  },
+  {
+   "text": "HB 2985 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661241
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614949,
+    617158,
+    623444,
+    638821,
+    640856,
+    640857,
+    661241
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614949
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614949
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623444
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638821
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640856
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2985&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2985",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2952,
+  "finding_hash": "162ecd887bf3a1d9ed4e3784b1a3b16e72e088ad031aa2909205d658cf6046df",
+  "evidence_digest": "sha256:8c55bdbb96bda3a47c5e498a282a90a6a654676ce0d8f4927086fb9c8524d28b",
+  "gate_id": "3df82e77f0904f1cbfc3ed7f63108b63",
+  "gate_seq": 2953
+ }
+}

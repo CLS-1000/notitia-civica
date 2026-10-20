@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2951",
+ "measure_id": "HB2951",
+ "subject": "or_legislature/2025R1/HB2951",
+ "title": "Directs the Secretary of State to maintain an online database of notarial acts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2951 did not pass",
+ "claims": [
+  {
+   "text": "HB 2951 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614915
+   ]
+  },
+  {
+   "text": "HB 2951 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660334
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614915,
+    617124,
+    623288,
+    660334
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614915
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614915
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "when": "February 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623288
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660334
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2951&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2951",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2850,
+  "finding_hash": "bbc8d68c6badb474b5896191d8b6aafa5cfb12741eac811066688e20b30d7296",
+  "evidence_digest": "sha256:57e7b993fd537432487e7cd7a1f44316280020bb53e18685adfb163df92abf20",
+  "gate_id": "6da60185f88241449d3fe59e55dfc717",
+  "gate_seq": 2851
+ }
+}

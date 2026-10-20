@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3811",
+ "measure_id": "HB3811",
+ "subject": "or_legislature/2025R1/HB3811",
+ "title": "Modifies the tax credit allowed for wages paid as overtime pay to agriculture workers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3811 did not pass",
+ "claims": [
+  {
+   "text": "HB 3811 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624987
+   ]
+  },
+  {
+   "text": "HB 3811 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660519
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624987,
+    626396,
+    660519
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624987
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624987
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3811&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3811",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5430,
+  "finding_hash": "a086b1f82538dfa6add2e0b018c70b84c900528de43a3066e656606d3e5bfdae",
+  "evidence_digest": "sha256:3b1dea9bd9971aeb95b0b54e28872928422923ad016307e52ea1d240c428c800",
+  "gate_id": "7caaf75240ae4b709a233f89cfdb17eb",
+  "gate_seq": 5431
+ }
+}

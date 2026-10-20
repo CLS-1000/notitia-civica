@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2179",
+ "measure_id": "HB2179",
+ "subject": "or_legislature/2025R1/HB2179",
+ "title": "Directs district school boards to adopt a policy to provide for the safety of the students of the school district, including the assignment of school resource officers or the provision of other law enforcement coverage for each school of the school district.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2179 did not pass",
+ "claims": [
+  {
+   "text": "HB 2179 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614143
+   ]
+  },
+  {
+   "text": "HB 2179 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660227
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614143,
+    616352,
+    660227
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614143
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614143
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2179&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2179",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 534,
+  "finding_hash": "938722acf6c62d5b7e7ff14bfed740a0d2e925c25ee214d0d34174ad1257181b",
+  "evidence_digest": "sha256:74aa3b27a9e5234a95361a4dee5435024da9f7a8e016801e7641db51d310136b",
+  "gate_id": "119219b8d4214334b980b38a11cb301d",
+  "gate_seq": 535
+ }
+}

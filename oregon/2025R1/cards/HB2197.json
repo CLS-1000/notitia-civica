@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2197",
+ "measure_id": "HB2197",
+ "subject": "or_legislature/2025R1/HB2197",
+ "title": "Creates Oregon tax subtraction for interest received by financial institutions from loans made for purchase or improvement of agricultural real estate, rural residences and coastal fishing boats.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2197 did not pass",
+ "claims": [
+  {
+   "text": "HB 2197 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614161
+   ]
+  },
+  {
+   "text": "HB 2197 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661044
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614161,
+    616370,
+    626154,
+    641094,
+    661044
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614161
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614161
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626154
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661044
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2197&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2197",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 588,
+  "finding_hash": "700d878cf5451d921ca81b0ee11f4af0592f02a5e441d02d6c9569f496788ed0",
+  "evidence_digest": "sha256:3d785399fc749c7bc8b218b0d88e2691abe1ae59cc3e30fd36041347a53b3209",
+  "gate_id": "5d1f51936d844754b328c3c627dc0dc9",
+  "gate_seq": 589
+ }
+}

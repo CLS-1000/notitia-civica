@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3711",
+ "measure_id": "HB3711",
+ "subject": "or_legislature/2025R1/HB3711",
+ "title": "Repeals some of the provisions of Senate Bill 1008 (2019).",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3711 did not pass",
+ "claims": [
+  {
+   "text": "HB 3711 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624395
+   ]
+  },
+  {
+   "text": "HB 3711 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660445
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624395,
+    625256,
+    660445
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624395
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624395
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3711&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3711",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5130,
+  "finding_hash": "5b0c0ca99b8179ab53b9893577f53b33af0de08b40c5fe848049a9b25b8c2333",
+  "evidence_digest": "sha256:3f14738a605c5f5e4064b652058e9610a766b65038561d08c4640823a12df34a",
+  "gate_id": "dc9150b048e84fd1961bed44eb0686bb",
+  "gate_seq": 5131
+ }
+}

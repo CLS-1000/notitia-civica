@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3241",
+ "measure_id": "HB3241",
+ "subject": "or_legislature/2025R1/HB3241",
+ "title": "Allows lands zoned for exclusive farm use to be used for certain events.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3241 did not pass",
+ "claims": [
+  {
+   "text": "HB 3241 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615205
+   ]
+  },
+  {
+   "text": "HB 3241 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660047
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615205,
+    617414,
+    660047
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615205
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615205
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3241&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3241",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3720,
+  "finding_hash": "1626cf53c86e34fabe853f8c69fc6a432dad6e894d0e8862267ba7638ee8c864",
+  "evidence_digest": "sha256:4663c6c1f7bcca1943522cf271dc698d8a4a2abe9d0c65a79d164a2563b5ddd4",
+  "gate_id": "dcc29ca1de8a4f678fc1373b9773bf0c",
+  "gate_seq": 3721
+ }
+}

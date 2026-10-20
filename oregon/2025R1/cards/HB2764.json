@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2764",
+ "measure_id": "HB2764",
+ "subject": "or_legislature/2025R1/HB2764",
+ "title": "Directs the President of the Senate and the Speaker of the House of Representatives to appoint a work group to develop a framework for a multi-sector plan for aging to be administered by the Department of Human Services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2764 did not pass",
+ "claims": [
+  {
+   "text": "HB 2764 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614728
+   ]
+  },
+  {
+   "text": "HB 2764 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661144
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614728,
+    616937,
+    661144
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614728
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614728
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2764&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2764",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2289,
+  "finding_hash": "5161e8e38a07cdbec935fa36d0c81f0d2529cf919b9a6f0943a6f417c02d69fc",
+  "evidence_digest": "sha256:9691d2b2ea2dd2c568b342d0d59398826fe050c7d0659b6844ecb2dbd19934fb",
+  "gate_id": "9159e5fdbf71498c92865494c3098b7d",
+  "gate_seq": 2290
+ }
+}

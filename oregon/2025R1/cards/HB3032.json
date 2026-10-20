@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3032",
+ "measure_id": "HB3032",
+ "subject": "or_legislature/2025R1/HB3032",
+ "title": "Requires the Housing and Community Services Department to study homelessness.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3032 did not pass",
+ "claims": [
+  {
+   "text": "HB 3032 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614996
+   ]
+  },
+  {
+   "text": "HB 3032 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659889
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614996,
+    617205,
+    659889
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614996
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614996
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3032&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3032",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3093,
+  "finding_hash": "5b06d8d72c2b5830988082a878ceb8ca08dbd39f644916540c514cd59e46e379",
+  "evidence_digest": "sha256:3326191dfb85e173d40b2e4fafaedeb737eb68023ad222efdf8b2d9451492313",
+  "gate_id": "8bedbfbfd5da4b0081e94dba0bfe0746",
+  "gate_seq": 3094
+ }
+}

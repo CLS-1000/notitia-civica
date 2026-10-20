@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3257",
+ "measure_id": "HB3257",
+ "subject": "or_legislature/2025R1/HB3257",
+ "title": "Requires the Oregon Military Department to study licensure portability for military families.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3257 did not pass",
+ "claims": [
+  {
+   "text": "HB 3257 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618728
+   ]
+  },
+  {
+   "text": "HB 3257 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660964
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618728,
+    619126,
+    660964
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618728
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618728
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3257&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3257",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3768,
+  "finding_hash": "dad8df2050c4115ea1c462ed887fdbb6ba6af7bb182052d605e7a046531ed215",
+  "evidence_digest": "sha256:f5eaff016c808d2d128f1dd0c81cc359a484e346fd27de1be7d5be29dec22902",
+  "gate_id": "f4a36854659a46a7bfb9cea3d6f81274",
+  "gate_seq": 3769
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3528",
+ "measure_id": "HB3528",
+ "subject": "or_legislature/2025R1/HB3528",
+ "title": "Appropriates moneys from the General Fund to the Higher Education Coordinating Commission for distribution to the University of Oregon and Portland State University for water-related research and grants.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3528 did not pass",
+ "claims": [
+  {
+   "text": "HB 3528 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621734
+   ]
+  },
+  {
+   "text": "HB 3528 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660581
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621734,
+    622072,
+    622677,
+    627331,
+    627803,
+    627804,
+    660581
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621734
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621734
+   ]
+  },
+  {
+   "date": "2025-02-17",
+   "when": "February 17, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622677
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    627331
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    627803
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3528&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3528",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4581,
+  "finding_hash": "98d404b2a36d990727b993bf8b2e9ca0eb631c46ca6758eab33346a45e6a43ec",
+  "evidence_digest": "sha256:6d076e81df2f4a34934d1e9ba80a48cdd3796b7e2121e753b71cb71fe10e94ea",
+  "gate_id": "56d39e64da55425791cf56370d0a5500",
+  "gate_seq": 4582
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2210",
+ "measure_id": "HB2210",
+ "subject": "or_legislature/2025R1/HB2210",
+ "title": "Establishes the Task Force on Provider Credentialing to make recommendations for expanding and improving a provider credentialing database maintained by the Oregon Health Authority.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2210 did not pass",
+ "claims": [
+  {
+   "text": "HB 2210 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614174
+   ]
+  },
+  {
+   "text": "HB 2210 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661055
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614174,
+    616383,
+    626516,
+    635901,
+    638439,
+    638440,
+    661055
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614174
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614174
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626516
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    635901
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638439
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2210&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2210",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 627,
+  "finding_hash": "9f3dc8f3e3a6d28c399b736f6375263a4b55144a52a6a6b291bcac10a8f37d7d",
+  "evidence_digest": "sha256:6b158ad4b93106266b92c9f857fa6bbb28c38c7d084ec7b62edb779380c3bf53",
+  "gate_id": "e11e176b8eae48e8acf67357445826b6",
+  "gate_seq": 628
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "session": "2025R1",
+ "measure": "SB 725",
+ "measure_id": "SB725",
+ "subject": "or_legislature/2025R1/SB725",
+ "title": "Directs the Department of Human Services to adopt by rule a minimum staffing ratio of 30 to 1 for service coordinators and personal agents serving individuals with intellectual or developmental disabilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 725 did not pass",
+ "claims": [
+  {
+   "text": "SB 725 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616030
+   ]
+  },
+  {
+   "text": "SB 725 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658919
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616030,
+    618297,
+    619730,
+    638731,
+    658919
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616030
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616030
+   ]
+  },
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619730
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638731
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658919
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 725&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB725",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8283,
+  "finding_hash": "9431a212f631dff05b1e0fad3f246f9b2f922882c7f4aeb81c4808ade73bf2cf",
+  "evidence_digest": "sha256:1184f9843392dfceb3bee8b8cf063e744cebaeef1cab2eb24df2442c43aa037d",
+  "gate_id": "80300cff997d4da8b9a1cbb7312b91cf",
+  "gate_seq": 8284
+ }
+}

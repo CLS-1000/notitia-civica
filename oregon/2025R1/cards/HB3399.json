@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3399",
+ "measure_id": "HB3399",
+ "subject": "or_legislature/2025R1/HB3399",
+ "title": "Requires the Oregon Department of Administrative Services to study state administration and submit findings to the interim committees of the Legislative Assembly related to general government not later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3399 did not pass",
+ "claims": [
+  {
+   "text": "HB 3399 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619450
+   ]
+  },
+  {
+   "text": "HB 3399 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659913
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619450,
+    619822,
+    659913
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619450
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619450
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3399&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3399",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4194,
+  "finding_hash": "257b4c95e71e05dd26136e9e6c09d94b0eb64521148631158e2eabb8a5183423",
+  "evidence_digest": "sha256:f720c1434aa7ec9bf077db585a5953266f61443b13e7552f6b0c892eb93e7a9a",
+  "gate_id": "d1289215fc3e43a3bedc33d251783cc2",
+  "gate_seq": 4195
+ }
+}

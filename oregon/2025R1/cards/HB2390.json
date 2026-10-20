@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2390",
+ "measure_id": "HB2390",
+ "subject": "or_legislature/2025R1/HB2390",
+ "title": "Increases the amount of income tax credit allowed to rural medical providers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2390 did not pass",
+ "claims": [
+  {
+   "text": "HB 2390 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614354
+   ]
+  },
+  {
+   "text": "HB 2390 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660057
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614354,
+    616563,
+    620086,
+    660057
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614354
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614354
+   ]
+  },
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620086
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660057
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2390&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2390",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1167,
+  "finding_hash": "e222e18bffc41472e82201515a45cc711e92f0da9526b2369b3b9274ebd96502",
+  "evidence_digest": "sha256:7fbe71e380a27a7ec8f236d17cd77fc0fd09950d4fa67160b62ea10f891d2171",
+  "gate_id": "69cf0ce3b21e4cd19217252c8ddf96ff",
+  "gate_seq": 1168
+ }
+}

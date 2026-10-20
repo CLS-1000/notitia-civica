@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 659",
+ "measure_id": "SB659",
+ "subject": "or_legislature/2025R1/SB659",
+ "title": "Prohibits the amount of tuition that is waived for qualified students from being reduced by the amount of specified student aid received by the qualified students.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 659 did not pass",
+ "claims": [
+  {
+   "text": "SB 659 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615964
+   ]
+  },
+  {
+   "text": "SB 659 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658853
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615964,
+    618231,
+    658853
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615964
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615964
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 659&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB659",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8085,
+  "finding_hash": "5deea7e0e12d49774eec2bc10e40e4a05b77d2ee105ea8bb613f2b76a03c2d44",
+  "evidence_digest": "sha256:0907b3ca1c0cdd8baa560b74ad59b07b63446b4b734816ff8890d2f77e473037",
+  "gate_id": "6028ed70efef42b4a0c4f32484a0ea86",
+  "gate_seq": 8086
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2466",
+ "measure_id": "HB2466",
+ "subject": "or_legislature/2025R1/HB2466",
+ "title": "Allows a law enforcement agency or public body to provide information, or enter into an agreement to provide information, as required to effect an international extradition and return of a person charged with or convicted of a crime in this state and for whom a warrant of arrest has been issued.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2466 did not pass",
+ "claims": [
+  {
+   "text": "HB 2466 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614430
+   ]
+  },
+  {
+   "text": "HB 2466 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661434
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614430,
+    616639,
+    661434
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614430
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614430
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2466&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2466",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1395,
+  "finding_hash": "4dbb0f2d17c21367ec8c91b83918c3c4a267c8c052c87008d0bd4fdeac93fcf9",
+  "evidence_digest": "sha256:8312bb269c6c1640d688e73618b262ce042c9f6d54cec824fedcf0a3595d7d62",
+  "gate_id": "cf0ef3a3c5214d51ad4f56aeb3491580",
+  "gate_seq": 1396
+ }
+}

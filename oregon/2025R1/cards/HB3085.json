@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3085",
+ "measure_id": "HB3085",
+ "subject": "or_legislature/2025R1/HB3085",
+ "title": "Establishes the Emergency Behavioral Health Services for Children program in the Oregon Health Authority to promote timely delivery of behavioral health services to children who present to hospital emergency departments in behavioral health crises.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3085 did not pass",
+ "claims": [
+  {
+   "text": "HB 3085 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615049
+   ]
+  },
+  {
+   "text": "HB 3085 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659969
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615049,
+    617258,
+    659969
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615049
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615049
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3085&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3085",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3252,
+  "finding_hash": "098d01e7d8320b5add89e07086acfcb1f1ef1634253f6f1ff88b46eea517df8f",
+  "evidence_digest": "sha256:15b32127135da68015f89ab7fd03bc4c76815c233cbc5af70a6b8a478abe5314",
+  "gate_id": "bf3aaf91dcfb42f4862b2df5fda736bd",
+  "gate_seq": 3253
+ }
+}

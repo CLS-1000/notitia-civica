@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2834",
+ "measure_id": "HB2834",
+ "subject": "or_legislature/2025R1/HB2834",
+ "title": "Directs the Oregon Military Department to study and make recommendations regarding improvements to the operations of the department.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2834 did not pass",
+ "claims": [
+  {
+   "text": "HB 2834 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614798
+   ]
+  },
+  {
+   "text": "HB 2834 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660669
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614798,
+    617007,
+    660669
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614798
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614798
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2834&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2834",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2499,
+  "finding_hash": "e17b065992fc8f0ff75f46f5672223f98cf90bbff70911776a640bae7681b795",
+  "evidence_digest": "sha256:b523e206086bf617057bbbc1956091cefc2ed33d892f4130573dd15da1fab6b2",
+  "gate_id": "cbc2f24d75b64c75bb26d386790a69d8",
+  "gate_seq": 2500
+ }
+}

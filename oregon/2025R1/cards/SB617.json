@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 617",
+ "measure_id": "SB617",
+ "subject": "or_legislature/2025R1/SB617",
+ "title": "Provides that an admission or a finding that a crime constitutes domestic violence is not an element of the crime for merger purposes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 617 did not pass",
+ "claims": [
+  {
+   "text": "SB 617 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615922
+   ]
+  },
+  {
+   "text": "SB 617 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658804
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615922,
+    618189,
+    658804
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615922
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615922
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 617&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB617",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7959,
+  "finding_hash": "2f0004ad4f68774f1558205a1e11f0736f577d25353df210272caf3c18b6d42a",
+  "evidence_digest": "sha256:6a89cc6c5a419bd8fe5435feaf835e28f61ea155624d8bdd3783b7b05fed8a86",
+  "gate_id": "d7e13cc89f9a49febc7dedaf7fa2cae9",
+  "gate_seq": 7960
+ }
+}

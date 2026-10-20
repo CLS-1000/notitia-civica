@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2767",
+ "measure_id": "HB2767",
+ "subject": "or_legislature/2025R1/HB2767",
+ "title": "Appropriates moneys to the Department of Land Conservation and Development for natural hazards mitigation planning.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2767 did not pass",
+ "claims": [
+  {
+   "text": "HB 2767 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614731
+   ]
+  },
+  {
+   "text": "HB 2767 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661147
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614731,
+    616940,
+    661147
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614731
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614731
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2767&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2767",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2298,
+  "finding_hash": "fad13894c9747ecdf5feb658fb89a4a03b6a8f31b40e22528f4736194413d9d4",
+  "evidence_digest": "sha256:d21a18df9138a7238c796e5f5c7c230a8afe806cf698889f87be98ad50a0896d",
+  "gate_id": "8fa112fa7fa9432496e7dbb111b7fbfa",
+  "gate_seq": 2299
+ }
+}

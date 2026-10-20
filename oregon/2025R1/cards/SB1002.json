@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1002",
+ "measure_id": "SB1002",
+ "subject": "or_legislature/2025R1/SB1002",
+ "title": "Allows a court to enter a supplemental eviction judgment within 180 days of an eviction judgment against a tenant who reenters the property, subject to the tenant's right to request a hearing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1002 did not pass",
+ "claims": [
+  {
+   "text": "SB 1002 was introduced in the Senate on February 11, 2025.",
+   "row_ids": [
+    621772
+   ]
+  },
+  {
+   "text": "SB 1002 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658998
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621772,
+    621877,
+    658998
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    621772
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621772
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1002&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1002",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9114,
+  "finding_hash": "6614372c0800955dc53a85b61c87b1505a5a7df93019998f6e2bc4e711747c62",
+  "evidence_digest": "sha256:0e28c43462035112c6b7748c6181d8cf2aa7f4858ffd8098a9a127670ab82238",
+  "gate_id": "ac96dc94641f4c069fbb6c911b525a63",
+  "gate_seq": 9115
+ }
+}

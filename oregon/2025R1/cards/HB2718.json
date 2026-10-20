@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2718",
+ "measure_id": "HB2718",
+ "subject": "or_legislature/2025R1/HB2718",
+ "title": "Allows vehicle dealers to submit vehicle-related documents in person at a field office of the Department of Transportation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2718 did not pass",
+ "claims": [
+  {
+   "text": "HB 2718 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614682
+   ]
+  },
+  {
+   "text": "HB 2718 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660113
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614682,
+    616891,
+    660113
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614682
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614682
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2718&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2718",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2151,
+  "finding_hash": "364fb302eeaf9f330348356b648b51528e0d4aedcd25f2ccd6191723616fe82d",
+  "evidence_digest": "sha256:fe619dd7748bbc2e389f4986d34b714f58ec67ddf5b5010e88ecee822ec80509",
+  "gate_id": "7a8f47fa74f449edbb7aaa17ac47ea4a",
+  "gate_seq": 2152
+ }
+}

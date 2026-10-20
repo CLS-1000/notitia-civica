@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2513",
+ "measure_id": "HB2513",
+ "subject": "or_legislature/2025R1/HB2513",
+ "title": "Allows the Department of Education to enter into a contract with a benefit company to administer a nationally normed assessment to all students in grade 10 who are enrolled in a public school.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2513 did not pass",
+ "claims": [
+  {
+   "text": "HB 2513 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614477
+   ]
+  },
+  {
+   "text": "HB 2513 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659797
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614477,
+    616686,
+    659797
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614477
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614477
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2513&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2513",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1536,
+  "finding_hash": "5417bf67d18bcbd2b087bfdd939c883c9ffd824e78326ce91ca4504849a753b5",
+  "evidence_digest": "sha256:dbb7819b7198ac3e7dd386fc8bc8ed6885239c8e091439a54ca93c162dda8f73",
+  "gate_id": "900b0c6ca0db4cf58673feffc75af7f8",
+  "gate_seq": 1537
+ }
+}

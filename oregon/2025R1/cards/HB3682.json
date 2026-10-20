@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3682",
+ "measure_id": "HB3682",
+ "subject": "or_legislature/2025R1/HB3682",
+ "title": "Requires the Legislative Policy and Research Director to study changes necessary to adopt a policy of passing budget bills before passing other bills.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3682 did not pass",
+ "claims": [
+  {
+   "text": "HB 3682 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624366
+   ]
+  },
+  {
+   "text": "HB 3682 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660431
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624366,
+    625227,
+    660431
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624366
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624366
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3682&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3682",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5043,
+  "finding_hash": "fc8eded0f75d5724f8d02dacb6027a0a5a424e07c843057c125ca1693f35fb5f",
+  "evidence_digest": "sha256:5e268b825d3c289713891f5c1d68c31b3e65ee8638e08a5f0df2857fb731dc32",
+  "gate_id": "0ddb95c61de2479c9712f31b3b682b1f",
+  "gate_seq": 5044
+ }
+}

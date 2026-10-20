@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3911",
+ "measure_id": "HB3911",
+ "subject": "or_legislature/2025R1/HB3911",
+ "title": "Appropriates moneys to the Oregon Department of Administrative Services for the purpose of providing a grant to the City of Lakeside to construct a wastewater treatment facility.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3911 did not pass",
+ "claims": [
+  {
+   "text": "HB 3911 was introduced in the House on March 6, 2025.",
+   "row_ids": [
+    626836
+   ]
+  },
+  {
+   "text": "HB 3911 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661432
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    626836,
+    627384,
+    661432
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    626836
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    626836
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3911&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3911",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5730,
+  "finding_hash": "b14d51a606196f25830d04b1778599b7046ca64f02fb54a5563fb7c8dc3b6e5e",
+  "evidence_digest": "sha256:ce242319653d11a2bbc1a23130f8567196822fddefa5669990aa8ef142018aaa",
+  "gate_id": "4c644d42341f4c5784f7df2c839273da",
+  "gate_seq": 5731
+ }
+}

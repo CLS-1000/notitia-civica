@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 84",
+ "measure_id": "SB84",
+ "subject": "or_legislature/2025R1/SB84",
+ "title": "Exempts local governments that adopted and continue to enforce certain wildfire hazard mitigation standards from the application of state standards that are based on specified wildfire hazard classes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 84 did not pass",
+ "claims": [
+  {
+   "text": "SB 84 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615389
+   ]
+  },
+  {
+   "text": "SB 84 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658622
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615389,
+    617656,
+    658622
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615389
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615389
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 84&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB84",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6360,
+  "finding_hash": "28d1cddb61af8350d3fd771c185c28b0abae7b6d32041f70ae0e4a74cdf854c1",
+  "evidence_digest": "sha256:3fa9fb61e6e0d19496d0dc35fd4dc2a206595e195250245f9be49db79973faf0",
+  "gate_id": "e6425838059a424586ecd58edcc3cda6",
+  "gate_seq": 6361
+ }
+}

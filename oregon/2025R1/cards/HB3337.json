@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3337",
+ "measure_id": "HB3337",
+ "subject": "or_legislature/2025R1/HB3337",
+ "title": "Makes changes to the highway worker photo radar laws.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3337 did not pass",
+ "claims": [
+  {
+   "text": "HB 3337 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618808
+   ]
+  },
+  {
+   "text": "HB 3337 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660317
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618808,
+    619206,
+    660317
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618808
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618808
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3337&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3337",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4008,
+  "finding_hash": "3592e1a4d1cfc1fc2f81fcc178a385451a784624772c36dbec7f972a454a8168",
+  "evidence_digest": "sha256:d56e73b7842f03ed92b1f6dc3f6b0f8a22e47220cc1701508efef81bc1a11940",
+  "gate_id": "cd50fd1982a74d2db11040a8d06e759d",
+  "gate_seq": 4009
+ }
+}

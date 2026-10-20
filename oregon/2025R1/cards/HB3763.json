@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3763",
+ "measure_id": "HB3763",
+ "subject": "or_legislature/2025R1/HB3763",
+ "title": "Establishes the Task Force on Law Libraries and directs the task force to report to an interim committee of the Legislative Assembly no later than December 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3763 did not pass",
+ "claims": [
+  {
+   "text": "HB 3763 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624939
+   ]
+  },
+  {
+   "text": "HB 3763 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661335
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624939,
+    626348,
+    661335
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624939
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624939
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3763&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3763",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5286,
+  "finding_hash": "9499c1e01042e3a430fa323557ffb50d60fb56f744ad7301b47b54cb20437694",
+  "evidence_digest": "sha256:39546c00aa658112117b4c78f37de280f522507d08be35ed3eb390d2aac9b940",
+  "gate_id": "83680c4bd6264c82bcc82bef155da6d4",
+  "gate_seq": 5287
+ }
+}

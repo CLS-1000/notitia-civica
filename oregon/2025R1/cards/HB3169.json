@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3169",
+ "measure_id": "HB3169",
+ "subject": "or_legislature/2025R1/HB3169",
+ "title": "Directs the Oregon Health Authority to modify the amounts of grants for school-based health centers for inflation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3169 did not pass",
+ "claims": [
+  {
+   "text": "HB 3169 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615133
+   ]
+  },
+  {
+   "text": "HB 3169 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660166
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615133,
+    617342,
+    620301,
+    639574,
+    641057,
+    641058,
+    660166
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615133
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615133
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "when": "February 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620301
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639574
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641057
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3169&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3169",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3504,
+  "finding_hash": "405493edf11ab710fc925c4f017e2200c83c8c1b91aeb4f24276f7141a8e831f",
+  "evidence_digest": "sha256:8b1c1edc87194645aa9905221e2ac9bd73bb94836658220c2fbe5604b451e129",
+  "gate_id": "a6311a5348fe4f7d968335fc7e5cdd36",
+  "gate_seq": 3505
+ }
+}

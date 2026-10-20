@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 29",
+ "measure_id": "SB29",
+ "subject": "or_legislature/2025R1/SB29",
+ "title": "Requires the Department of Consumer and Business Services to study health insurance plans.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 29 did not pass",
+ "claims": [
+  {
+   "text": "SB 29 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615334
+   ]
+  },
+  {
+   "text": "SB 29 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658970
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615334,
+    617601,
+    658970
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615334
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615334
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 29&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB29",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6195,
+  "finding_hash": "724cf589580370b37366daa0e6c018d84851a3f8b45f7a50cc3a98a6b171a3c3",
+  "evidence_digest": "sha256:dd5fc84f44f2e377e1995b5f0d814a2dab46071d0e5bf0908717f86ed56d387a",
+  "gate_id": "744c209702b6480e9961582e8665de57",
+  "gate_seq": 6196
+ }
+}

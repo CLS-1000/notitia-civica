@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2479",
+ "measure_id": "HB2479",
+ "subject": "or_legislature/2025R1/HB2479",
+ "title": "Requires the Oregon State Bar to study attorneys.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2479 did not pass",
+ "claims": [
+  {
+   "text": "HB 2479 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614443
+   ]
+  },
+  {
+   "text": "HB 2479 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661445
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614443,
+    616652,
+    661445
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614443
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614443
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2479&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2479",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1434,
+  "finding_hash": "493fc92d0cd929f8c1a87c65baceb212d513621c08d9d0c3af6fd5529bf9406e",
+  "evidence_digest": "sha256:2548acd73047ebb934bcc762762584c7b452b6538b0d822448857460828bf047",
+  "gate_id": "5aecfc35b8ea47eaadfa63cb2112fc80",
+  "gate_seq": 1435
+ }
+}

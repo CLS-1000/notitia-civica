@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 988",
+ "measure_id": "SB988",
+ "subject": "or_legislature/2025R1/SB988",
+ "title": "Permits a child's parent or guardian to admit the child, with or without the child's consent, to an inpatient treatment facility or program licensed by the Oregon Health Authority or the Department of Human Services for certain mental, emotional or behavioral health or substance use disorder treatment.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 988 did not pass",
+ "claims": [
+  {
+   "text": "SB 988 was introduced in the Senate on February 6, 2025.",
+   "row_ids": [
+    620894
+   ]
+  },
+  {
+   "text": "SB 988 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659554
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620894,
+    621394,
+    659554
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620894
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620894
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 988&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB988",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9072,
+  "finding_hash": "24aef454ea7e4385022238bf27528de01014bfd781d14ccb829fb8b354990a00",
+  "evidence_digest": "sha256:948d338e87848a9403b6cb3fe72a848c7569973b9ee79dd36a0323d1a06cdeda",
+  "gate_id": "885190b30d854ee2ba5c4351869d3ac8",
+  "gate_seq": 9073
+ }
+}

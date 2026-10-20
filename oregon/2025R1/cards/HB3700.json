@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3700",
+ "measure_id": "HB3700",
+ "subject": "or_legislature/2025R1/HB3700",
+ "title": "Directs the Environmental Quality Commission to adopt by rule standards for certification of sewage treatment works operators from nonreciprocal states, provinces or other certifying entities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3700 did not pass",
+ "claims": [
+  {
+   "text": "HB 3700 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624384
+   ]
+  },
+  {
+   "text": "HB 3700 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660434
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624384,
+    625245,
+    625943,
+    660434
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624384
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624384
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625943
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660434
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3700&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3700",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5097,
+  "finding_hash": "d8d91e4496fe59793e8b018b5c1b797d8febd08bc3192e2310c05c2e0af7ed6a",
+  "evidence_digest": "sha256:05628f53339ed20089098ab6e14c65028c7b2985db52a04fc7ac03c034d14834",
+  "gate_id": "f9ee59273483454e8af2b984d685ed13",
+  "gate_seq": 5098
+ }
+}

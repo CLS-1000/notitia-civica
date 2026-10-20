@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 994",
+ "measure_id": "SB994",
+ "subject": "or_legislature/2025R1/SB994",
+ "title": "Allows the siting and operation of a small modular reactor energy facility without requiring that the proposed site certificate for the small modular reactor energy facility be submitted to the electors of this state for their approval or rejection.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 994 did not pass",
+ "claims": [
+  {
+   "text": "SB 994 was introduced in the Senate on February 6, 2025.",
+   "row_ids": [
+    620900
+   ]
+  },
+  {
+   "text": "SB 994 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659531
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620900,
+    621400,
+    659531
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620900
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620900
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 994&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB994",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9090,
+  "finding_hash": "126e0d68d33670dbe0836ef105359fd12970d4306626d75c99099184826fd0ac",
+  "evidence_digest": "sha256:4f6cb8428dd7ea845d966c9a296863947714664c7cf440acec46f4b9205e11ec",
+  "gate_id": "0e35dc20776747ab88f6765e43743202",
+  "gate_seq": 9091
+ }
+}

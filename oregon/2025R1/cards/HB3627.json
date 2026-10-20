@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3627",
+ "measure_id": "HB3627",
+ "subject": "or_legislature/2025R1/HB3627",
+ "title": "Establishes the Disabled Veterans Assistance Fund.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3627 did not pass",
+ "claims": [
+  {
+   "text": "HB 3627 was introduced in the House on February 20, 2025.",
+   "row_ids": [
+    623562
+   ]
+  },
+  {
+   "text": "HB 3627 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659940
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623562,
+    623854,
+    627827,
+    632573,
+    634205,
+    634206,
+    659940
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    623562
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623562
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627827
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632573
+   ]
+  },
+  {
+   "date": "2025-03-28",
+   "when": "March 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    634205
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3627&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3627",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4878,
+  "finding_hash": "471f0d666138f3bb3e7256b74da031b88f4a7422155c75f09df987f519430090",
+  "evidence_digest": "sha256:998df6a6cbb5b3050d58fa2bf515b98d2cd164ad9ad915815e4a01470fd0df0b",
+  "gate_id": "9a74e0fb82694012822ac708125d6f66",
+  "gate_seq": 4879
+ }
+}

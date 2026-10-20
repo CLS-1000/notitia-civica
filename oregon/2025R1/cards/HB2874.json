@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2874",
+ "measure_id": "HB2874",
+ "subject": "or_legislature/2025R1/HB2874",
+ "title": "Modifies law regarding the requirement that a public employer grant preference to a veteran or disabled veteran in the selection process for a civil service position.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2874 did not pass",
+ "claims": [
+  {
+   "text": "HB 2874 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614838
+   ]
+  },
+  {
+   "text": "HB 2874 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661183
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614838,
+    617047,
+    661183
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614838
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614838
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2874&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2874",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2619,
+  "finding_hash": "564cef78198d105da4038825c0d6b97383faaa2bfd3313f76f56103e94754a97",
+  "evidence_digest": "sha256:a45b53b0b619889bcacc67547337ef128387df3d30ff577b75b20fadad0db646",
+  "gate_id": "72f8183865e24bf4ab6e1784b855c732",
+  "gate_seq": 2620
+ }
+}

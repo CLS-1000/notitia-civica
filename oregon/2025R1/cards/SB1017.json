@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1017",
+ "measure_id": "SB1017",
+ "subject": "or_legislature/2025R1/SB1017",
+ "title": "Excludes certain public lands from the provisions of the Oregon Forest Practices Act.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1017 did not pass",
+ "claims": [
+  {
+   "text": "SB 1017 was introduced in the Senate on February 11, 2025.",
+   "row_ids": [
+    621787
+   ]
+  },
+  {
+   "text": "SB 1017 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659119
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621787,
+    621892,
+    659119
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    621787
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621787
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1017&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1017",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9159,
+  "finding_hash": "638a80ea66b1f71e313910b626cf938438a925bbd25444d96c4241bd7fd376f9",
+  "evidence_digest": "sha256:6ea6888962cf475c6d39859706e0ed3e3d8824a1466339c4242a0312ddbacc6c",
+  "gate_id": "68e0efe943654fdba6965592037ed247",
+  "gate_seq": 9160
+ }
+}

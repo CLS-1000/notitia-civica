@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2995",
+ "measure_id": "HB2995",
+ "subject": "or_legislature/2025R1/HB2995",
+ "title": "Establishes the Task Force on Reparations and directs the task force to study and develop proposals for financial and nonfinancial reparations for Oregonians of African-American descent, develop appropriate methods for educating the public about the task force's findings and recommend appropriate remedies based on the task force's findings.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2995 did not pass",
+ "claims": [
+  {
+   "text": "HB 2995 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614959
+   ]
+  },
+  {
+   "text": "HB 2995 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660348
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614959,
+    617168,
+    624535,
+    638970,
+    640087,
+    640088,
+    660348
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614959
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614959
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624535
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638970
+   ]
+  },
+  {
+   "date": "2025-04-11",
+   "when": "April 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640087
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2995&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2995",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2982,
+  "finding_hash": "31fbdcd3914ac9220111a87784fa757cb88588a7ef0b017695bd82381e59af8a",
+  "evidence_digest": "sha256:5419b231bef9d2970419063b6f364285e632d7f32d7d9ec21649fc445b1362bf",
+  "gate_id": "18f20c20889a42c7bbf2607f9a1a746b",
+  "gate_seq": 2983
+ }
+}

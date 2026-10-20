@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1085",
+ "measure_id": "SB1085",
+ "subject": "or_legislature/2025R1/SB1085",
+ "title": "Quarters the minimum acreage for farm, forest and rangeland lots or parcels.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1085 did not pass",
+ "claims": [
+  {
+   "text": "SB 1085 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624284
+   ]
+  },
+  {
+   "text": "SB 1085 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659143
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624284,
+    624460,
+    659143
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624284
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624284
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1085&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1085",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9363,
+  "finding_hash": "c59904067e3a4eb8db24fe92bf1f867cee69fe6ae54ff569bd2755c97d17d7e4",
+  "evidence_digest": "sha256:e379227edd92d97f84a35453ba3f19f8fad6d534b64bf7fe3c1de624bd0e80e1",
+  "gate_id": "b9487d1d298d488a8508f7001cd244f7",
+  "gate_seq": 9364
+ }
+}

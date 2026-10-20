@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3608",
+ "measure_id": "HB3608",
+ "subject": "or_legislature/2025R1/HB3608",
+ "title": "Requires the Judicial Department to study options for making the administration of decedents' estates more efficient.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3608 did not pass",
+ "claims": [
+  {
+   "text": "HB 3608 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622943
+   ]
+  },
+  {
+   "text": "HB 3608 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661388
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622943,
+    623498,
+    661388
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622943
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622943
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3608&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3608",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4821,
+  "finding_hash": "2af7f16082e40554961f8a28601739d1d268d2abc5c5265730b52065948bdb4a",
+  "evidence_digest": "sha256:58fc56a019790ba7bf44f69713e9bb7967d9e3d86a550bf3362266ce646273d9",
+  "gate_id": "413039d732de44b491830bd42f99bf6c",
+  "gate_seq": 4822
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3203",
+ "measure_id": "HB3203",
+ "subject": "or_legislature/2025R1/HB3203",
+ "title": "Directs the Department of Education to convene an advisory committee regarding attendance improvement.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3203 did not pass",
+ "claims": [
+  {
+   "text": "HB 3203 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615167
+   ]
+  },
+  {
+   "text": "HB 3203 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660039
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615167,
+    617376,
+    660039
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615167
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615167
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3203&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3203",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3606,
+  "finding_hash": "801e7285e36f1fbf302f4c7f3572d78c38133a2126ac00109d31976b5ba721ef",
+  "evidence_digest": "sha256:5836e432cd9beefd2ac33880cc0bc4fdcd2461ef54863827f3fcdfb953c2349d",
+  "gate_id": "66cb5d5f42db4304a9c6a62af43d2a05",
+  "gate_seq": 3607
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 791",
+ "measure_id": "SB791",
+ "subject": "or_legislature/2025R1/SB791",
+ "title": "Requires commercial operators of unmanned aircraft systems to maintain liability insurance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 791 did not pass",
+ "claims": [
+  {
+   "text": "SB 791 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616095
+   ]
+  },
+  {
+   "text": "SB 791 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658932
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616095,
+    618362,
+    658932
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616095
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616095
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 791&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB791",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8481,
+  "finding_hash": "ba4e175208fc790de1fe9de3e3571d201b4bb73e603a1c5b68d932492f8b79a0",
+  "evidence_digest": "sha256:bb8d611c544d27db2fa3f0825985d6bae56eaeff617592844a7c2f38a19703c4",
+  "gate_id": "a3c0adaf43b945c099333ff47795cdb2",
+  "gate_seq": 8482
+ }
+}

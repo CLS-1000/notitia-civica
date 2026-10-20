@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 570",
+ "measure_id": "SB570",
+ "subject": "or_legislature/2025R1/SB570",
+ "title": "Increases the maximum percentage of tax that the governing body of a city or county may impose on the sale of marijuana items.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 570 did not pass",
+ "claims": [
+  {
+   "text": "SB 570 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615875
+   ]
+  },
+  {
+   "text": "SB 570 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659146
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615875,
+    618142,
+    659146
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615875
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615875
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 570&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB570",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7818,
+  "finding_hash": "5c4bd2428135b7e2ae6a8e27aedb211bb29a1d0cdfd5f421b127409b7f11a018",
+  "evidence_digest": "sha256:77b47d50735cb7eafdb2ca94182d34a5ba6563fc9e3eb62338a9d286cce27a6f",
+  "gate_id": "d581c6bfd3414ba694fb7faae57c80d9",
+  "gate_seq": 7819
+ }
+}

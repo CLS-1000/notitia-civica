@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3408",
+ "measure_id": "HB3408",
+ "subject": "or_legislature/2025R1/HB3408",
+ "title": "Requires the Housing and Community Services Department to study housing and to report to the interim committees of the Legislative Assembly related to housing by September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3408 did not pass",
+ "claims": [
+  {
+   "text": "HB 3408 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619459
+   ]
+  },
+  {
+   "text": "HB 3408 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659921
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619459,
+    619831,
+    659921
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619459
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619459
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3408&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3408",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4221,
+  "finding_hash": "6a400b8460ef2c4d440df05cda3a243d6e53a1a4101b6e5bd04eba1fd7c307ce",
+  "evidence_digest": "sha256:a6a5d20441fd1bd2864cbb1eeba269378db8d732ec599bb3dc1e3ab1eac067a9",
+  "gate_id": "1d83efa8e63a4c9c8d59205b875cb447",
+  "gate_seq": 4222
+ }
+}

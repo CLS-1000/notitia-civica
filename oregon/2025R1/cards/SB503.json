@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 503",
+ "measure_id": "SB503",
+ "subject": "or_legislature/2025R1/SB503",
+ "title": "Allows a recreational vehicle used to provide temporary security of farm use to be sited on lands zoned for exclusive farm use.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 503 did not pass",
+ "claims": [
+  {
+   "text": "SB 503 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615808
+   ]
+  },
+  {
+   "text": "SB 503 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659340
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615808,
+    618075,
+    621528,
+    659340
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615808
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615808
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "when": "February 10, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621528
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659340
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 503&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB503",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7617,
+  "finding_hash": "8616b1eaa5a4e4044ff7e36bc0069c43262da031ee1f65b69bd2ce676e29186a",
+  "evidence_digest": "sha256:7a5e2eb53d1e5543b8b8ea33dd741f3f3270c1ad12b24e14faff539a7e036928",
+  "gate_id": "0511f44268cf4f849f05b2fc32207ae2",
+  "gate_seq": 7618
+ }
+}

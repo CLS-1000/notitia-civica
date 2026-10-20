@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3950",
+ "measure_id": "HB3950",
+ "subject": "or_legislature/2025R1/HB3950",
+ "title": "Allows a person who owns property on which a certain spring originates to store water from the spring for use for fire prevention and fire suppression if the person obtains a permit.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3950 did not pass",
+ "claims": [
+  {
+   "text": "HB 3950 was introduced in the House on March 24, 2025.",
+   "row_ids": [
+    631953
+   ]
+  },
+  {
+   "text": "HB 3950 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660403
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    631953,
+    633448,
+    660403
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    631953
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    631953
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3950&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3950",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5847,
+  "finding_hash": "c0e57e75655ed8814927b26aab061736d7e2db86b2a6e2fb249b516dab314eb5",
+  "evidence_digest": "sha256:c3c10d418988150dce3ffe680fda1b28b7d5b4da74d61ada26956b1522154185",
+  "gate_id": "e065a046f20a44f58a895ebd10fe8930",
+  "gate_seq": 5848
+ }
+}

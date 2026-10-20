@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2749",
+ "measure_id": "HB2749",
+ "subject": "or_legislature/2025R1/HB2749",
+ "title": "Appropriates moneys to the Department of Transportation for distribution to the City of Portland for the purpose of designing a bridge across Columbia Boulevard.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2749 did not pass",
+ "claims": [
+  {
+   "text": "HB 2749 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614713
+   ]
+  },
+  {
+   "text": "HB 2749 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660163
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614713,
+    616922,
+    640538,
+    660163
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614713
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614713
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    640538
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660163
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2749&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2749",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2244,
+  "finding_hash": "a4e2810818bd6b19a392a0d7771fcd4c6084ce538e64efd75638559ce5f54fbe",
+  "evidence_digest": "sha256:df242a9ac733255b2d437dd661fe33128f8b22f1a8a27a8c97b751736ed40fe6",
+  "gate_id": "deb03416eff54e398059a327fd4c8fd3",
+  "gate_seq": 2245
+ }
+}

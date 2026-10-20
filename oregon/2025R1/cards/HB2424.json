@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2424",
+ "measure_id": "HB2424",
+ "subject": "or_legislature/2025R1/HB2424",
+ "title": "Allows the Director of Veterans' Affairs to appoint a deputy director, subject to approval by the Governor.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2424 did not pass",
+ "claims": [
+  {
+   "text": "HB 2424 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614388
+   ]
+  },
+  {
+   "text": "HB 2424 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660070
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614388,
+    616597,
+    660070
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614388
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614388
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2424&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2424",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1269,
+  "finding_hash": "064282d1cf097a29dcb4eadb24584eb601d5acff5abd4a590958bb606605405a",
+  "evidence_digest": "sha256:6c4f662d0898acc4735f6cd3fba3900d6fb5c636acaaf0ec709a5705c8fd6f84",
+  "gate_id": "a6e40797124c41f7abe81283b6fbec5b",
+  "gate_seq": 1270
+ }
+}

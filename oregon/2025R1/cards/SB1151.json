@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1151",
+ "measure_id": "SB1151",
+ "subject": "or_legislature/2025R1/SB1151",
+ "title": "Requires the Public Utility Commission to study investor-owned utilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1151 did not pass",
+ "claims": [
+  {
+   "text": "SB 1151 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624861
+   ]
+  },
+  {
+   "text": "SB 1151 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659245
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624861,
+    625773,
+    659245
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624861
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624861
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1151&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1151",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9561,
+  "finding_hash": "8fb4dd95bb0fd5c09c306695537e4b363d59cbcc6d78b25fcb841bbea6abd465",
+  "evidence_digest": "sha256:c81e13171a03451d3d1a4d31e50486e90e4d259a667abb04aea572f1a2ea0352",
+  "gate_id": "577449ea2b3a46ccaab2e8de4389b6af",
+  "gate_seq": 9562
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 562",
+ "measure_id": "SB562",
+ "subject": "or_legislature/2025R1/SB562",
+ "title": "Removes the requirement that a student must receive approval from the student's resident school district before enrolling in a virtual public charter school that is not sponsored by the school district if a specified percentage of students in the school district already are enrolled in virtual public charter schools that are not sponsored by the school district.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 562 did not pass",
+ "claims": [
+  {
+   "text": "SB 562 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615867
+   ]
+  },
+  {
+   "text": "SB 562 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659389
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615867,
+    618134,
+    659389
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615867
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615867
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 562&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB562",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7794,
+  "finding_hash": "d2afa06150019024f690971c3322f32e74e2850204656bca34198c00dae874b5",
+  "evidence_digest": "sha256:3727e5b1bd7f205e4608af120da79c5e17a4ea84262597f922ec86a7eafc8c7f",
+  "gate_id": "a8c57a1faa58469c9a864cc4afa26e71",
+  "gate_seq": 7795
+ }
+}

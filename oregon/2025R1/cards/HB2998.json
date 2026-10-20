@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2998",
+ "measure_id": "HB2998",
+ "subject": "or_legislature/2025R1/HB2998",
+ "title": "Directs the Oregon Health Authority to adopt rules to require behavioral health providers that are certified or licensed by the authority to screen for racial trauma during an initial assessment.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2998 did not pass",
+ "claims": [
+  {
+   "text": "HB 2998 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614962
+   ]
+  },
+  {
+   "text": "HB 2998 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660351
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614962,
+    617171,
+    660351
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614962
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614962
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2998&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2998",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2991,
+  "finding_hash": "e72b3510d51aa600f4ce3a086cb217e45e17728e2828ce3543ffbdde9310ff8e",
+  "evidence_digest": "sha256:82b27c31e8322870210a3d8a42432a445c591fd6e98e6ea4b00ff40ba26c8872",
+  "gate_id": "38a7453d52c7479d9b4afb121d34113a",
+  "gate_seq": 2992
+ }
+}

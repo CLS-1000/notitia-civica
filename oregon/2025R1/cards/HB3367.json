@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3367",
+ "measure_id": "HB3367",
+ "subject": "or_legislature/2025R1/HB3367",
+ "title": "Modifies the definition of \"farmworker camp\" so that the relevant statutes apply to farmworker camps specifically in connection with workers who work on a seasonal or temporary basis.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3367 did not pass",
+ "claims": [
+  {
+   "text": "HB 3367 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619418
+   ]
+  },
+  {
+   "text": "HB 3367 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660723
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619418,
+    619790,
+    660723
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619418
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619418
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3367&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3367",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4098,
+  "finding_hash": "b2570b644ad9bbc115621274ab0ba6ef78830a77b4801da9823a7f08261c84e8",
+  "evidence_digest": "sha256:dff4a6a7a937a0ffb621b24102708c791f927c41618e2f1d6084af1ada5a1846",
+  "gate_id": "fb383f762f7e44c3b2560aa07e2f0876",
+  "gate_seq": 4099
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3807",
+ "measure_id": "HB3807",
+ "subject": "or_legislature/2025R1/HB3807",
+ "title": "Prescribes requirements that an organization that administers interscholastic activities, or that facilitates the scheduling and programming of interscholastic activities, must implement to address discriminatory harassment or bullying behavior.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3807 did not pass",
+ "claims": [
+  {
+   "text": "HB 3807 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624983
+   ]
+  },
+  {
+   "text": "HB 3807 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661372
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624983,
+    626392,
+    661372
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624983
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624983
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3807&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3807",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5418,
+  "finding_hash": "3e78e0b443a827779381a751571a54b2c880feec265b4fe47f6569d1b18e416c",
+  "evidence_digest": "sha256:7b7294c252806d7f198f37454539be1cd6e8cbe9db22a77cd38940e56ea3b0c9",
+  "gate_id": "8d6f1c6bc9484925b9f97fb8a57dee25",
+  "gate_seq": 5419
+ }
+}

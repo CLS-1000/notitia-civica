@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3088",
+ "measure_id": "HB3088",
+ "subject": "or_legislature/2025R1/HB3088",
+ "title": "Creates the Task Force on Sustainable Aviation Fuel.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3088 did not pass",
+ "claims": [
+  {
+   "text": "HB 3088 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615052
+   ]
+  },
+  {
+   "text": "HB 3088 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659972
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615052,
+    617261,
+    641117,
+    645046,
+    646249,
+    646250,
+    659972
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615052
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615052
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    641117
+   ]
+  },
+  {
+   "date": "2025-05-06",
+   "when": "May 6, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    645046
+   ]
+  },
+  {
+   "date": "2025-05-12",
+   "when": "May 12, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    646249
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3088&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3088",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3261,
+  "finding_hash": "3665d73ff69262fcbd5b6de60768b7fae1e13f1f2e4d890227995ef2870cbd7a",
+  "evidence_digest": "sha256:714b12820688482607628ca9f15eee0db692d421955148ffe1f4c5d6bcff10fb",
+  "gate_id": "0a1205d07dd64178a6a44edd610803d3",
+  "gate_seq": 3262
+ }
+}

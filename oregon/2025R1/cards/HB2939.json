@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2939",
+ "measure_id": "HB2939",
+ "subject": "or_legislature/2025R1/HB2939",
+ "title": "Prohibits a hospital from closing or ceasing, reducing or relocating health services without first providing notice 275 days in advance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2939 did not pass",
+ "claims": [
+  {
+   "text": "HB 2939 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614903
+   ]
+  },
+  {
+   "text": "HB 2939 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661246
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614903,
+    617112,
+    661246
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614903
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614903
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2939&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2939",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2814,
+  "finding_hash": "04aff3842b2ad31f38afd96765614f01d553546ec9f6181e25fc6bf35a59efb8",
+  "evidence_digest": "sha256:a42a405e55eb0a5b74fa844bde5fab438ddf70c686f1cf2b9ddcd6e8ea66a0ef",
+  "gate_id": "2955d15be43748e89f51f0f6dc488f25",
+  "gate_seq": 2815
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2186",
+ "measure_id": "HB2186",
+ "subject": "or_legislature/2025R1/HB2186",
+ "title": "Allows virtual public charter schools to be eligible for grants distributed from the Student Investment Account.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2186 did not pass",
+ "claims": [
+  {
+   "text": "HB 2186 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614150
+   ]
+  },
+  {
+   "text": "HB 2186 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661033
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614150,
+    616359,
+    661033
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614150
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614150
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2186&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2186",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 555,
+  "finding_hash": "3bca5d39e3e3837635819e30e0ffd50c1925096aafc918879d2e2225095cc230",
+  "evidence_digest": "sha256:ea2731df47e24635c49c23bcbf78853ff98cebbb2001603765c8d6aa62dfd866",
+  "gate_id": "36f5ab6a730c451bac7c63f2e3ce1287",
+  "gate_seq": 556
+ }
+}

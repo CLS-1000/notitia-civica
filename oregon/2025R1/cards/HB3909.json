@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3909",
+ "measure_id": "HB3909",
+ "subject": "or_legislature/2025R1/HB3909",
+ "title": "Increases the limitation on the percentage of students in a school district who may enroll in a virtual public charter school that is not sponsored by the student's resident school district without first receiving approval from the school district.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3909 did not pass",
+ "claims": [
+  {
+   "text": "HB 3909 was introduced in the House on March 4, 2025.",
+   "row_ids": [
+    625994
+   ]
+  },
+  {
+   "text": "HB 3909 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661376
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625994,
+    627382,
+    661376
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625994
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625994
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3909&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3909",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5724,
+  "finding_hash": "f79f9d97564f44a953f81df51c7a64ddb93db54d4f9bfb2c96f9ec3eaffb16f2",
+  "evidence_digest": "sha256:6a8cc8cb2da5db533b9ecdaac5d87ad92ebb3d572fb3fe30e87fa792923ccc52",
+  "gate_id": "71e9c37e8f4f4e6a9bd3895d7d6ae476",
+  "gate_seq": 5725
+ }
+}

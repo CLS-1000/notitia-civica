@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2889",
+ "measure_id": "HB2889",
+ "subject": "or_legislature/2025R1/HB2889",
+ "title": "Clarifies the meaning of \"provide consultative services\" to require the Director of the Department of Consumer and Business Services to provide incentive to small employers to participate in consultative services, to provide maximum allowable protection from fines and penalties to small employers that participate in consultative services and to promote consultative services to the small business community.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2889 did not pass",
+ "claims": [
+  {
+   "text": "HB 2889 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614853
+   ]
+  },
+  {
+   "text": "HB 2889 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661198
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614853,
+    617062,
+    661198
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614853
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614853
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2889&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2889",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2664,
+  "finding_hash": "356d6b7d6f5595debf72ed1060adc075743ab6a3097236c42e2a0233b0f0ee28",
+  "evidence_digest": "sha256:33f138f2f89628938ce6334303e1edfcde70bfa03f6a78a7463ecb773fa2db30",
+  "gate_id": "0bfb05afc9874aa0a844d67165254c88",
+  "gate_seq": 2665
+ }
+}

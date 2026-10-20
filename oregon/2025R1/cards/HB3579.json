@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3579",
+ "measure_id": "HB3579",
+ "subject": "or_legislature/2025R1/HB3579",
+ "title": "Provides that tolling proposed by the Oregon Transportation Commission must be approved by electors before implementation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3579 did not pass",
+ "claims": [
+  {
+   "text": "HB 3579 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622914
+   ]
+  },
+  {
+   "text": "HB 3579 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660598
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622914,
+    623469,
+    660598
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622914
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622914
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3579&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3579",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4734,
+  "finding_hash": "47f4a51e98074726936e103aebfa1d70ef3830848a7eb91d185a299b50eeb5bf",
+  "evidence_digest": "sha256:447719cf89852476f76b39896b7a8917b965a5d339b33346fea3efce393759b7",
+  "gate_id": "cbe779d802324bdcac4ecad80ad73bc4",
+  "gate_seq": 4735
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1155",
+ "measure_id": "SB1155",
+ "subject": "or_legislature/2025R1/SB1155",
+ "title": "Directs the Housing and Community Services Department to establish a pilot program to assist pregnant persons and their immediate family members in attaining stable housing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1155 did not pass",
+ "claims": [
+  {
+   "text": "SB 1155 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624865
+   ]
+  },
+  {
+   "text": "SB 1155 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659247
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624865,
+    625777,
+    659247
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624865
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624865
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1155&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1155",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9573,
+  "finding_hash": "2cbd470679fe1a7d58675e5ab5fe7c3dde63b3bdfe9843dce13277a2e349518e",
+  "evidence_digest": "sha256:ee28402347c9e613293c1d4f8b8d368fdbb6f81775dded934a1c43d077350a98",
+  "gate_id": "b1b7aff5aab1489d90a4de81561d6cf9",
+  "gate_seq": 9574
+ }
+}

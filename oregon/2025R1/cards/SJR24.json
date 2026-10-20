@@ -1,0 +1,80 @@
+{
+ "session": "2025R1",
+ "measure": "SJR 24",
+ "measure_id": "SJR24",
+ "subject": "or_legislature/2025R1/SJR24",
+ "title": "Proposes an amendment to the Oregon Constitution to establish the right of a parent to choose the school that the parent's child attends. Requires the establishment of school choice accounts for parents who choose nonpublic education.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJR 24 did not pass",
+ "claims": [
+  {
+   "text": "SJR 24 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615255
+   ]
+  },
+  {
+   "text": "SJR 24 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658873
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615255,
+    617522,
+    658873
+   ]
+  },
+  {
+   "text": "SJR 24 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    658873
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615255
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615255
+   ]
+  }
+ ],
+ "topics": [
+  "ballot"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJR' and MeasureNumber eq 24&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJR24",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10047,
+  "finding_hash": "0e4a7e45ba9f7ed27b7ee39999ae88460574e429cc3e29c38cfb485f2561956f",
+  "evidence_digest": "sha256:ac55f9e715146c798f4e58416e15969192a85e3af09d3342fd723fd2986f0b1d",
+  "gate_id": "45d648b28ca24a989d3fff3c941d55bd",
+  "gate_seq": 10048
+ }
+}

@@ -1,0 +1,145 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2467",
+ "measure_id": "HB2467",
+ "subject": "or_legislature/2025R1/HB2467",
+ "title": "Describes when a person is in need of treatment because the person is a danger to self, a danger to others, unable to provide for basic personal needs or has a chronic mental disorder.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2467 did not pass",
+ "claims": [
+  {
+   "text": "HB 2467 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614431
+   ]
+  },
+  {
+   "text": "HB 2467 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661435
+   ]
+  },
+  {
+   "text": "Each of the 10 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614431,
+    616640,
+    637741,
+    639044,
+    640020,
+    640021,
+    653886,
+    653888,
+    653887,
+    661435
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614431
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614431
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    637741
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639044
+   ]
+  },
+  {
+   "date": "2025-04-11",
+   "when": "April 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640020
+   ]
+  },
+  {
+   "date": "2025-06-06",
+   "when": "June 6, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Assigned to a House subcommittee",
+   "rule_id": "assigned_subcommittee",
+   "row_ids": [
+    653886
+   ]
+  },
+  {
+   "date": "2025-06-10",
+   "when": "June 10, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    653888
+   ]
+  },
+  {
+   "date": "2025-06-10",
+   "when": "June 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Returned to the full House committee",
+   "rule_id": "returned_full_committee",
+   "row_ids": [
+    653887
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2467&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2467",
+ "row_count": 10,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1398,
+  "finding_hash": "748d23bfe87a1fb97af34555d1d0bac69351235f5031b6992e7bd95974e49684",
+  "evidence_digest": "sha256:7be21c1e50cc2ffda66e18e5f1f602a73596e1c8091df2133120edf377e9ded8",
+  "gate_id": "6e621407aae94a6295e742a6845ceda3",
+  "gate_seq": 1399
+ }
+}

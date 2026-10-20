@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2537",
+ "measure_id": "HB2537",
+ "subject": "or_legislature/2025R1/HB2537",
+ "title": "Establishes the Veterans Waiver Program in the Oregon Health Authority to provide, beginning in 2026, medical assistance to low-income veterans who reside in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2537 did not pass",
+ "claims": [
+  {
+   "text": "HB 2537 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614501
+   ]
+  },
+  {
+   "text": "HB 2537 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660277
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614501,
+    616710,
+    622304,
+    627825,
+    637403,
+    638450,
+    638451,
+    660277
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614501
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614501
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627825
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637403
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638450
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2537&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2537",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1608,
+  "finding_hash": "666f6037910e06df8f825eb9189188bd8d8524f3910dd80f0e7d0d255893c124",
+  "evidence_digest": "sha256:19043bdb6a2036f666f8a8eaa3a7bbfac0542b59e291ec1ec998e59b664fc1eb",
+  "gate_id": "1bef6949628e40bebdcc66558e8155ca",
+  "gate_seq": 1609
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3893",
+ "measure_id": "HB3893",
+ "subject": "or_legislature/2025R1/HB3893",
+ "title": "Requires the Oregon Health Authority to study health care.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3893 did not pass",
+ "claims": [
+  {
+   "text": "HB 3893 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625069
+   ]
+  },
+  {
+   "text": "HB 3893 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661097
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625069,
+    626478,
+    661097
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625069
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625069
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3893&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3893",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5676,
+  "finding_hash": "1acc119fed4fefd0128d4056a74c7a6c8cc9b8db16e1e2358d4467b4617d2c45",
+  "evidence_digest": "sha256:cb2aed5801a1cb0bc14456e9732ad1b2671010b27f069f0b182315bce43f2ec6",
+  "gate_id": "2d647432582646fe8fb444e2baa6f5f3",
+  "gate_seq": 5677
+ }
+}

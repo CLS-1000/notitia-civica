@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3387",
+ "measure_id": "HB3387",
+ "subject": "or_legislature/2025R1/HB3387",
+ "title": "Permits a precinct committeeperson who appears on the ballot to volunteer as personnel to assist a county clerk with counting ballots.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3387 did not pass",
+ "claims": [
+  {
+   "text": "HB 3387 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619438
+   ]
+  },
+  {
+   "text": "HB 3387 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659902
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619438,
+    619810,
+    620164,
+    659902
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619438
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619438
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "when": "February 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620164
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659902
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3387&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3387",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4158,
+  "finding_hash": "7b662ee94cca730218ca15ddb276487f5bed47771c3817eb1cde5ae503b90a9d",
+  "evidence_digest": "sha256:616b09c055bfb3cacddc2514e87fa2b23caf389c3bb1a8a684ee942b9dcaac81",
+  "gate_id": "b7077060ddb44a9a8ebc7500f7bc4467",
+  "gate_seq": 4159
+ }
+}

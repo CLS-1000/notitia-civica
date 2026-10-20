@@ -1,0 +1,144 @@
+{
+ "session": "2025R1",
+ "measure": "HR 2",
+ "measure_id": "HR2",
+ "subject": "or_legislature/2025R1/HR2",
+ "title": "Recognizes and honors Reuben Shipley for his remarkable life and incomparable contributions to the State of Oregon.",
+ "outcome": "adopted",
+ "outcome_label": "Adopted",
+ "headline": "HR 2 was adopted",
+ "claims": [
+  {
+   "text": "HR 2 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618716
+   ]
+  },
+  {
+   "text": "HR 2 was adopted; the last recorded step was on March 17, 2025.",
+   "row_ids": [
+    628933
+   ]
+  },
+  {
+   "text": "Each of the 9 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618716,
+    619211,
+    623285,
+    624605,
+    625699,
+    626034,
+    628237,
+    628931,
+    628933
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618716
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618716
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "when": "February 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623285
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    624605
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it be adopted",
+   "rule_id": "rec_be_adopted",
+   "row_ids": [
+    625699
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "read",
+   "row_ids": [
+    628237
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "adopted",
+   "text": "Adopted by the House",
+   "rule_id": "adopted",
+   "row_ids": [
+    628237
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    628931
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-03-17",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HR' and MeasureNumber eq 2&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HR2",
+ "row_count": 9,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10383,
+  "finding_hash": "ffa3dc7dc547007de9143c4a13e68f948eae695dfcf3bf0c5f813dc6a30db181",
+  "evidence_digest": "sha256:82a57ebec06745eb035a91734ddc6224aa2188a3affb369d01cfcaa1f2301a11",
+  "gate_id": "f23078d719b446f9ad33ba3473ceb149",
+  "gate_seq": 10384
+ }
+}

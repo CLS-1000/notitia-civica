@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2631",
+ "measure_id": "HB2631",
+ "subject": "or_legislature/2025R1/HB2631",
+ "title": "Directs the Oregon Criminal Justice Commission to study the effect of sentencing types on recidivism rates of sex offenders, and to provide the results of the study to the appropriate interim committees of the Legislative Assembly no later than December 31, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2631 did not pass",
+ "claims": [
+  {
+   "text": "HB 2631 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614595
+   ]
+  },
+  {
+   "text": "HB 2631 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660767
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614595,
+    616804,
+    660767
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614595
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614595
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2631&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2631",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1890,
+  "finding_hash": "4b3b4b1de66cc43f3d491f37f9df595425696f2de5181f8b73c91cd433a6fc57",
+  "evidence_digest": "sha256:81e406a0fb53cf51ecd2ac020aa0165d7455309866733baf8eba02ad6189d011",
+  "gate_id": "2df2795dc32e4ffd9f38570e47563952",
+  "gate_seq": 1891
+ }
+}

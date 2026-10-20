@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2820",
+ "measure_id": "HB2820",
+ "subject": "or_legislature/2025R1/HB2820",
+ "title": "Provides that a contracting agency may not accept a bid or proposal for a public contract from a covered entity for which the ratio between highest amount of total compensation and lowest amount of total compensation that the covered entity pays employees of the covered entity exceeds 50 to 1.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2820 did not pass",
+ "claims": [
+  {
+   "text": "HB 2820 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614784
+   ]
+  },
+  {
+   "text": "HB 2820 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660655
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614784,
+    616993,
+    660655
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614784
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614784
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2820&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2820",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2457,
+  "finding_hash": "0b1be7b90383b57d5a57fb6fb2036fadc3e23744b3745c101bea423769737ebc",
+  "evidence_digest": "sha256:23d110701b3770aabe997545f3b65d762e1b6aca2b595d082f3df9a45fb704a1",
+  "gate_id": "3ee9f95893c143eabc222d8965d3f40d",
+  "gate_seq": 2458
+ }
+}

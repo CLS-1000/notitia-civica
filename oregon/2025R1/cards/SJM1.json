@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "SJM 1",
+ "measure_id": "SJM1",
+ "subject": "or_legislature/2025R1/SJM1",
+ "title": "Urges Congress to conduct public hearings on anti-military bias and improve enforcement of hate-crime protections for military families.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJM 1 did not pass",
+ "claims": [
+  {
+   "text": "SJM 1 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615224
+   ]
+  },
+  {
+   "text": "SJM 1 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659493
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615224,
+    617491,
+    620550,
+    620840,
+    620841,
+    659493
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615224
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615224
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    620550
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    620840
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJM' and MeasureNumber eq 1&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJM1",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10122,
+  "finding_hash": "003b0ec2149bc168faa80df3d4a04c2cc472cc888244a566a4ccbda75d4fcdf5",
+  "evidence_digest": "sha256:861db746590dec57124b8ef9dbb34fccfd7a6afdbd5932a0bdc4e365bd712f85",
+  "gate_id": "6863410504484392a088903d7041b4ba",
+  "gate_seq": 10123
+ }
+}

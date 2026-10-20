@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3752",
+ "measure_id": "HB3752",
+ "subject": "or_legislature/2025R1/HB3752",
+ "title": "Requires the Oregon Health Authority to study reimbursement rates in the state's medical assistance program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3752 did not pass",
+ "claims": [
+  {
+   "text": "HB 3752 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624928
+   ]
+  },
+  {
+   "text": "HB 3752 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660465
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624928,
+    626337,
+    660465
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624928
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624928
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3752&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3752",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5253,
+  "finding_hash": "270bf4a0e0d668fc4947713bff414a8d87f06a2afb18821f2d56d46690415a56",
+  "evidence_digest": "sha256:c9843e63aa32412011ff496cfcb9eec308e157c38611b73a15de43cccfdd5c73",
+  "gate_id": "636b1f198eb54e9abc68e92e7c7cf451",
+  "gate_seq": 5254
+ }
+}

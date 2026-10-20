@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 877",
+ "measure_id": "SB877",
+ "subject": "or_legislature/2025R1/SB877",
+ "title": "Adds additional criteria under which Coos County may approve a golf course on lands zoned for exclusive farm use.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 877 did not pass",
+ "claims": [
+  {
+   "text": "SB 877 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618653
+   ]
+  },
+  {
+   "text": "SB 877 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659293
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618653,
+    618824,
+    659293
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618653
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618653
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 877&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB877",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8739,
+  "finding_hash": "9a507697cc9ecde5c8eccd783a41e547575c591ea5518c49dd20f75b4dff1fe8",
+  "evidence_digest": "sha256:1b288beff08bd79ae545fb412b38337c49f5260c4faf1c4a71196ff7d361a80c",
+  "gate_id": "62f4ae181774479ca54afcf9aa299104",
+  "gate_seq": 8740
+ }
+}

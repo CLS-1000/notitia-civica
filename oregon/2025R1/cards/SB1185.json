@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1185",
+ "measure_id": "SB1185",
+ "subject": "or_legislature/2025R1/SB1185",
+ "title": "Directs the Department of Justice to dedicate an attorney and an investigator for issues related to federal requests for information about immigrant status.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1185 did not pass",
+ "claims": [
+  {
+   "text": "SB 1185 was introduced in the Senate on March 17, 2025.",
+   "row_ids": [
+    628892
+   ]
+  },
+  {
+   "text": "SB 1185 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658625
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    628892,
+    629043,
+    658625
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    628892
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    628892
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1185&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1185",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9663,
+  "finding_hash": "e91007ffe790913a446b965d1fb2c28fe7053986a399fe5ce15be1b8372c0805",
+  "evidence_digest": "sha256:8cf80b5baf90d215f07d16a5842c5957aa53782474b7a694f14a7b19d0d7fbb5",
+  "gate_id": "2d72f5dcc119450690a5b82bd62d0229",
+  "gate_seq": 9664
+ }
+}

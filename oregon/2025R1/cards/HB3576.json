@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3576",
+ "measure_id": "HB3576",
+ "subject": "or_legislature/2025R1/HB3576",
+ "title": "Transfers to the Oregon Criminal Justice Commission the responsibility to develop a formula for the distribution of grant funds to counties for deflection programs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3576 did not pass",
+ "claims": [
+  {
+   "text": "HB 3576 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622911
+   ]
+  },
+  {
+   "text": "HB 3576 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660595
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622911,
+    623466,
+    639590,
+    660595
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622911
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622911
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    639590
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660595
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3576&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3576",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4725,
+  "finding_hash": "14e878b25abb83263dcbffb0d4257726319d97007943bec0387e9c11060f56b6",
+  "evidence_digest": "sha256:a8001c25bc270bd8acce5f027771cc0a699b6ea85e184e6cae0d76efff2ea385",
+  "gate_id": "780aa82ca3c5419eb229d2f2cc4c48f6",
+  "gate_seq": 4726
+ }
+}

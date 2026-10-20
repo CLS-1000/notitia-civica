@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3260",
+ "measure_id": "HB3260",
+ "subject": "or_legislature/2025R1/HB3260",
+ "title": "Directs the Oregon Department of Emergency Management to develop and maintain a grant program to harden community facilities against man-made and natural disasters.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3260 did not pass",
+ "claims": [
+  {
+   "text": "HB 3260 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618731
+   ]
+  },
+  {
+   "text": "HB 3260 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660967
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618731,
+    619129,
+    660967
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618731
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618731
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3260&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3260",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3777,
+  "finding_hash": "17dbafe6e97abe0c030fe3d88a52c5a64276d29b632b6a3370b30254b3d3ab43",
+  "evidence_digest": "sha256:55166e930ac2ac1bedba0b758f41417040cfadc2220db28d841420cfa6eeb234",
+  "gate_id": "b7ff0bedea5843e4bb8d0844902b466a",
+  "gate_seq": 3778
+ }
+}

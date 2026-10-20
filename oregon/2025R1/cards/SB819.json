@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 819",
+ "measure_id": "SB819",
+ "subject": "or_legislature/2025R1/SB819",
+ "title": "Authorizes the State Board of Parole and Post-Prison Supervision and the Psychiatric Security Review Board to make determinations administratively concerning petitions for changes in sex offender risk classifications and relief from the reporting requirement.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 819 did not pass",
+ "claims": [
+  {
+   "text": "SB 819 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616123
+   ]
+  },
+  {
+   "text": "SB 819 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658939
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616123,
+    618390,
+    627030,
+    658939
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616123
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616123
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627030
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658939
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 819&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB819",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8565,
+  "finding_hash": "411fc781ca325a2ad0a69bcdfc2f04bc294b04733eb28ee1a2e0e4861e3b75b6",
+  "evidence_digest": "sha256:4ba1cb034012de1123b09f99fa3197eb99b8ca3bda0409270fa7755d40eb3720",
+  "gate_id": "285c34f118f54f48aaa49dfeb327880a",
+  "gate_seq": 8566
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 931",
+ "measure_id": "SB931",
+ "subject": "or_legislature/2025R1/SB931",
+ "title": "Provides that courts may not defer to an agency's interpretation of a statute or rule.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 931 did not pass",
+ "claims": [
+  {
+   "text": "SB 931 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618707
+   ]
+  },
+  {
+   "text": "SB 931 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659277
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618707,
+    618878,
+    659277
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618707
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618707
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 931&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB931",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8901,
+  "finding_hash": "0147bb946f40915b9988350b630aab61799ddd491c155ceb96742055d7b11e81",
+  "evidence_digest": "sha256:6ecdefa52ee5275bfa327318d50826824b936856d52fa99be2fa48cdad5314cb",
+  "gate_id": "8cd1295481824b3ea66178e9bb3f1270",
+  "gate_seq": 8902
+ }
+}

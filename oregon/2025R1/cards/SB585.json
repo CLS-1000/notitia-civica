@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 585",
+ "measure_id": "SB585",
+ "subject": "or_legislature/2025R1/SB585",
+ "title": "Requires the Public Employees Retirement Board to study retirement.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 585 did not pass",
+ "claims": [
+  {
+   "text": "SB 585 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615890
+   ]
+  },
+  {
+   "text": "SB 585 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658778
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615890,
+    618157,
+    658778
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615890
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615890
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 585&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB585",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7863,
+  "finding_hash": "f79ad24445d63d2cafe0587150f389929b76910ccf5c928ae343cb5fd49d498d",
+  "evidence_digest": "sha256:1f61e0980aa8fe56c13f76a8e35a60cda397e149b60d21f04c8c98ba5c490c11",
+  "gate_id": "9d4ed96ad02f42ed8ae1d9583cacf08c",
+  "gate_seq": 7864
+ }
+}

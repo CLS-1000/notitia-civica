@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 337",
+ "measure_id": "SB337",
+ "subject": "or_legislature/2025R1/SB337",
+ "title": "Allows counties to authorize the subdivision of land zoned for exclusive farm use or forest use into parcels no smaller than the average size of the county's lots and parcels of the same type.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 337 did not pass",
+ "claims": [
+  {
+   "text": "SB 337 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615642
+   ]
+  },
+  {
+   "text": "SB 337 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658724
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615642,
+    617909,
+    658724
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615642
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615642
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 337&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB337",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7119,
+  "finding_hash": "d7ad75aaa8949cfd6c820553b097e15a0288e2464960ac0d8dc82d95192dd283",
+  "evidence_digest": "sha256:95f1aed5a1d36276f075d478d13650a18ba51afeda2854cf243d42469e2c837a",
+  "gate_id": "6010fb4e6cb04a9e8f57379a73f4ca6f",
+  "gate_seq": 7120
+ }
+}

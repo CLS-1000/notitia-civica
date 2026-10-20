@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2235",
+ "measure_id": "HB2235",
+ "subject": "or_legislature/2025R1/HB2235",
+ "title": "Creates an income or corporate excise tax credit for the installation of or upgrades to a security alarm system at certain business premises.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2235 did not pass",
+ "claims": [
+  {
+   "text": "HB 2235 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614199
+   ]
+  },
+  {
+   "text": "HB 2235 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660241
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614199,
+    616408,
+    660241
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614199
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614199
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2235&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2235",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 702,
+  "finding_hash": "c79f6c41b1d87da342aafa3c0c47432bbcd8ff5b86f34382b1b44a3d04375c27",
+  "evidence_digest": "sha256:c5a1293533e580642ddea9b7f6d66d05028582363d17534572d84f4fd77bed47",
+  "gate_id": "4a9fca97252d438482f8ee94e5d29651",
+  "gate_seq": 703
+ }
+}

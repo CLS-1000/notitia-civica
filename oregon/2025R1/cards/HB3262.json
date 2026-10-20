@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3262",
+ "measure_id": "HB3262",
+ "subject": "or_legislature/2025R1/HB3262",
+ "title": "Establishes the Oregon Wildfire Preparedness and Community Protection Fund and directs the State Fire Marshal, the State Forestry Department and the Oregon Watershed Enhancement Board to make expenditures from the fund for various activities related to restoration, protection and recovery from wildfires.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3262 did not pass",
+ "claims": [
+  {
+   "text": "HB 3262 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618733
+   ]
+  },
+  {
+   "text": "HB 3262 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660969
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618733,
+    619131,
+    660969
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618733
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618733
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3262&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3262",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3783,
+  "finding_hash": "b6d6e8145aa694c9d2ab4bb90a089bd3b822f2252ebe8291e99a06ef4c3f3809",
+  "evidence_digest": "sha256:1bfd1c4fcd64f5315605663b995a243fe176baeed6224794043610d95a8125fd",
+  "gate_id": "91b67b6b8f134e7cad0f7d9a051151f0",
+  "gate_seq": 3784
+ }
+}

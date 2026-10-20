@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2892",
+ "measure_id": "HB2892",
+ "subject": "or_legislature/2025R1/HB2892",
+ "title": "Provides that a state agency may not provide moneys to a county for capital construction unless the county attests that it will remain a county in the State of Oregon for a specified length of time.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2892 did not pass",
+ "claims": [
+  {
+   "text": "HB 2892 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614856
+   ]
+  },
+  {
+   "text": "HB 2892 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661201
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614856,
+    617065,
+    661201
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614856
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614856
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2892&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2892",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2673,
+  "finding_hash": "53721c7eb97f0894bb9b59a744d31934afb993e4e83a03f3071162b8ed2b5158",
+  "evidence_digest": "sha256:91eb4b2a4fe52cd2b712530de321e58695698fffbcf67c492c875cd0a2b1077d",
+  "gate_id": "d916e7de79344f7cb3fcc0d35d4f5c36",
+  "gate_seq": 2674
+ }
+}

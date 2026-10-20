@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3857",
+ "measure_id": "HB3857",
+ "subject": "or_legislature/2025R1/HB3857",
+ "title": "Directs the Oregon Business Development Department to study sports economic development in Oregon with a focus on making the City of Portland and Oregon the sports hub of the Pacific Northwest.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3857 did not pass",
+ "claims": [
+  {
+   "text": "HB 3857 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625033
+   ]
+  },
+  {
+   "text": "HB 3857 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661290
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625033,
+    626442,
+    661290
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625033
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625033
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3857&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3857",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5568,
+  "finding_hash": "17a21f75a2fb5a4809544dc735cb699c34f4ca486c6ecd53397a93123dcdcb7b",
+  "evidence_digest": "sha256:3d49d066773c2b76003724da41f78789f850e4062ef334fa1ffdd4d5a380fdd4",
+  "gate_id": "b50658a929a64661ade575b851900352",
+  "gate_seq": 5569
+ }
+}

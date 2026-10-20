@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 788",
+ "measure_id": "SB788",
+ "subject": "or_legislature/2025R1/SB788",
+ "title": "Allows lands zoned for exclusive farm use to be used for weddings or events east of the summit of the Cascade Range.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 788 did not pass",
+ "claims": [
+  {
+   "text": "SB 788 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616092
+   ]
+  },
+  {
+   "text": "SB 788 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659192
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616092,
+    618359,
+    626949,
+    659192
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616092
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616092
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626949
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659192
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 788&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB788",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8472,
+  "finding_hash": "651d50b41b5d21c963d89fd01e6a646f6705fede5f5657f820bdf46a8b6bff78",
+  "evidence_digest": "sha256:08b6af7bb86b2f08862f1361f8f1311afe4248d1bc865ed41dd5ace8dea73205",
+  "gate_id": "8e3b41c86d7040fba8506b7bde70ade7",
+  "gate_seq": 8473
+ }
+}

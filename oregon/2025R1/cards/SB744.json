@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 744",
+ "measure_id": "SB744",
+ "subject": "or_legislature/2025R1/SB744",
+ "title": "Requires the petitioner in an intestate estate to make a reasonable effort to find persons of a higher priority of appointment before the court may appoint a personal representative.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 744 did not pass",
+ "claims": [
+  {
+   "text": "SB 744 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616049
+   ]
+  },
+  {
+   "text": "SB 744 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658930
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616049,
+    618316,
+    625853,
+    658930
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616049
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616049
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625853
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658930
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 744&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB744",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8340,
+  "finding_hash": "ae9d7e186a1bc43b5809944dc54b8295f14a726cb84eac49601c5e201f438278",
+  "evidence_digest": "sha256:d3672ca51b1b4e2b61bc29d50ebd4275c68742473d3d37762f0a81dc48ccdfc5",
+  "gate_id": "969eaed35ca949f2bc3ee4d26c6cf822",
+  "gate_seq": 8341
+ }
+}

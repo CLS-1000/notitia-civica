@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3091",
+ "measure_id": "HB3091",
+ "subject": "or_legislature/2025R1/HB3091",
+ "title": "Requires the Department of Environmental Quality to establish clear administrative rules and internal directives with respect to permits or authorizations issued by the department.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3091 did not pass",
+ "claims": [
+  {
+   "text": "HB 3091 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615055
+   ]
+  },
+  {
+   "text": "HB 3091 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659975
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615055,
+    617264,
+    659975
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615055
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615055
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3091&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3091",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3270,
+  "finding_hash": "cd34b1ac7f691b347a3852464f8a72f6f766c495680f22497687a00b5a64bcbb",
+  "evidence_digest": "sha256:41dcc1b5d88b2ae2891457074e3c0b0cb75342e79d6ad6d45df111b6fb2f06bf",
+  "gate_id": "895724590286494d93b6abc76db27f72",
+  "gate_seq": 3271
+ }
+}

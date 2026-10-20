@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3161",
+ "measure_id": "HB3161",
+ "subject": "or_legislature/2025R1/HB3161",
+ "title": "Prohibits a public utility from increasing the public utility's rates or schedules of rates if the public utility has, for a period of three or more years, outstanding or contingent liabilities arising out of wildfire-related litigation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3161 did not pass",
+ "claims": [
+  {
+   "text": "HB 3161 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615125
+   ]
+  },
+  {
+   "text": "HB 3161 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660795
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615125,
+    617334,
+    660795
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615125
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615125
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3161&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3161",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3480,
+  "finding_hash": "c8f86e08df6050f1746862663948e74b2e14491722f518f17162c02cdd38db0d",
+  "evidence_digest": "sha256:8dc45b45370577c9b5d28e5483695d414ae53ca5a1e838b15780aba00a862f27",
+  "gate_id": "b0811629b59445329823257c86a1af02",
+  "gate_seq": 3481
+ }
+}

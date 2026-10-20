@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2497",
+ "measure_id": "HB2497",
+ "subject": "or_legislature/2025R1/HB2497",
+ "title": "Requires the Judicial Department to study options for improving court access for victims of domestic violence in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2497 did not pass",
+ "claims": [
+  {
+   "text": "HB 2497 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614461
+   ]
+  },
+  {
+   "text": "HB 2497 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661462
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614461,
+    616670,
+    661462
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614461
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614461
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2497&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2497",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1488,
+  "finding_hash": "219eee880b97e79e98a574d12b9059b6e49f9ff7e790ce4768c8b246ab23e583",
+  "evidence_digest": "sha256:4d3d86d2ead753d70f12afd34eb13fc9365b5d8557759a8542d74eba551c40a2",
+  "gate_id": "61a4dbf07b7442e380b8ba1b99d1f990",
+  "gate_seq": 1489
+ }
+}

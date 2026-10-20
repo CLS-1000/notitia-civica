@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 543",
+ "measure_id": "SB543",
+ "subject": "or_legislature/2025R1/SB543",
+ "title": "Directs the Department of Transportation to translate student driver education curriculum and student driver instructor curriculum into the Spanish language and post the materials on the department's website.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 543 did not pass",
+ "claims": [
+  {
+   "text": "SB 543 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615848
+   ]
+  },
+  {
+   "text": "SB 543 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659377
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615848,
+    618115,
+    659377
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615848
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615848
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 543&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB543",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7737,
+  "finding_hash": "2d7de7ae18ee45b5fdaa00493ae56e140ee52a0b3c529ca4c5498d9785761399",
+  "evidence_digest": "sha256:4211561bc1e57c43fed7766becb42e2e028bedd3090c730a6871dcf9e0d0c12d",
+  "gate_id": "3d8a5fb5b47f4668b7b3c38ef4c423e5",
+  "gate_seq": 7738
+ }
+}

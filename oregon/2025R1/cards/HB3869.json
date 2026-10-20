@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3869",
+ "measure_id": "HB3869",
+ "subject": "or_legislature/2025R1/HB3869",
+ "title": "Requires the State Department of Energy, in collaboration with the Public Utility Commission, to study the benefits of a central energy procurement policy.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3869 did not pass",
+ "claims": [
+  {
+   "text": "HB 3869 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625045
+   ]
+  },
+  {
+   "text": "HB 3869 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661075
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625045,
+    626454,
+    661075
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625045
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625045
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3869&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3869",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5604,
+  "finding_hash": "3294df2e66233b30f9cfa32f8489b9bcf0097be45a9ce890e0966c8225fef47d",
+  "evidence_digest": "sha256:92913fcae8aec88b118d3f9d479cb42f912d9c1104f0a76528666f8c27f09371",
+  "gate_id": "94286462f3a5408f93b6956a6e131830",
+  "gate_seq": 5605
+ }
+}

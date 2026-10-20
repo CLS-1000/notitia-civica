@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3961",
+ "measure_id": "HB3961",
+ "subject": "or_legislature/2025R1/HB3961",
+ "title": "Establishes the Family Coach Program in the Department of Human Services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3961 did not pass",
+ "claims": [
+  {
+   "text": "HB 3961 was introduced in the House on April 15, 2025.",
+   "row_ids": [
+    640674
+   ]
+  },
+  {
+   "text": "HB 3961 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659951
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    640674,
+    641843,
+    659951
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    640674
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    640674
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3961&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3961",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5880,
+  "finding_hash": "7e262cd7948d16a3ea7f0836394e98621dc4fa86529d8e2b128bce08f13dfb4d",
+  "evidence_digest": "sha256:ca74d0ecde9ac68ce029e813f64d7fd0e5c2cbffeabd8592034cd22b4d6e6454",
+  "gate_id": "260575ed4d9a4071965ddce059370d5b",
+  "gate_seq": 5881
+ }
+}

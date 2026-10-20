@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2020",
+ "measure_id": "HB2020",
+ "subject": "or_legislature/2025R1/HB2020",
+ "title": "Requires that qualified nonprofit agencies for individuals with disabilities employ individuals with disabilities for not less than 50 percent of the work hours of direct labor required for manufacturing or providing products or services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2020 did not pass",
+ "claims": [
+  {
+   "text": "HB 2020 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613985
+   ]
+  },
+  {
+   "text": "HB 2020 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661501
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613985,
+    616194,
+    636650,
+    639560,
+    641148,
+    641149,
+    661501
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613985
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613985
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    636650
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639560
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641148
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2020&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2020",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 57,
+  "finding_hash": "5c16abffc4b0611a5c2a9130bb2d6df5570066d8f62114866cf7df05db5e07db",
+  "evidence_digest": "sha256:7ac6077927596a541235e06811117c89700f5a97ad230200593c354f641b72ba",
+  "gate_id": "3fd3307e39f64f78a3286fb83248e0e9",
+  "gate_seq": 58
+ }
+}

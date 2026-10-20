@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2036",
+ "measure_id": "HB2036",
+ "subject": "or_legislature/2025R1/HB2036",
+ "title": "Provides that the Oregon estate tax is imposed only on the estates of decedents dying on or before January 1, 2025.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2036 did not pass",
+ "claims": [
+  {
+   "text": "HB 2036 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614000
+   ]
+  },
+  {
+   "text": "HB 2036 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660458
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614000,
+    616209,
+    660458
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614000
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614000
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2036&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2036",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 105,
+  "finding_hash": "27fc618ca9782f8d94092e81ea4b23d914e9bc99dd179e1536bf00742012dfaa",
+  "evidence_digest": "sha256:852064d36308d303cbe2b2823297acf98329556fd6e8a2b054b2f21d9d852742",
+  "gate_id": "fda2d610343f49789eab403f8258ec88",
+  "gate_seq": 106
+ }
+}

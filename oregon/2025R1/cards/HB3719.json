@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3719",
+ "measure_id": "HB3719",
+ "subject": "or_legislature/2025R1/HB3719",
+ "title": "Requires the Housing and Community Services Department to study housing for individuals with substance use disorders and submit findings to the interim committees of the Legislative Assembly related to housing no later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3719 did not pass",
+ "claims": [
+  {
+   "text": "HB 3719 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624403
+   ]
+  },
+  {
+   "text": "HB 3719 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660453
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624403,
+    625264,
+    660453
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624403
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624403
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3719&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3719",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5154,
+  "finding_hash": "aa793f3dcbc4b6cc6fdad155253f84f1f806f7408c6ba2c1d7e0237741817a5d",
+  "evidence_digest": "sha256:5588889d8a6d996eaad08344ebef189f9f8d94008fe142dd911c4a7b98221234",
+  "gate_id": "7b8498dbf32147e081d28dc2b7f6c7a2",
+  "gate_seq": 5155
+ }
+}

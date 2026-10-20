@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 7",
+ "measure_id": "SB7",
+ "subject": "or_legislature/2025R1/SB7",
+ "title": "Repeals the provision of law that prohibits transit workers from striking.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 7 did not pass",
+ "claims": [
+  {
+   "text": "SB 7 was introduced in the Senate on March 6, 2025.",
+   "row_ids": [
+    626846
+   ]
+  },
+  {
+   "text": "SB 7 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659283
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    626846,
+    626883,
+    659283
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    626846
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    626846
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 7&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB7",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6129,
+  "finding_hash": "c31e3a8612b2c9da884342ad1c60f157b4acdb0288d04fcbd203bfdff7ff4acc",
+  "evidence_digest": "sha256:8047df60b921b1fdf0aa4a39279e4c4df15c08fbb26223a84162033898466093",
+  "gate_id": "18508215e54c4e4385b8250256a41987",
+  "gate_seq": 6130
+ }
+}

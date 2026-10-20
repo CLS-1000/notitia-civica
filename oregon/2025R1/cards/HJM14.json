@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HJM 14",
+ "measure_id": "HJM14",
+ "subject": "or_legislature/2025R1/HJM14",
+ "title": "Requests the Bureau of Land Management and the United States Forest Service to relinquish control of as much land in this state as possible to the State of Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJM 14 did not pass",
+ "claims": [
+  {
+   "text": "HJM 14 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624918
+   ]
+  },
+  {
+   "text": "HJM 14 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660603
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624918,
+    626501,
+    660603
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624918
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624918
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJM' and MeasureNumber eq 14&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJM14",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10119,
+  "finding_hash": "23ab4ab9492449fb74468914f432124381a1f90940bde1562df3d7d577068e8c",
+  "evidence_digest": "sha256:2911f23238de689e7c9c5c47642fda85efafd6991dee353c12b6be116648c33b",
+  "gate_id": "c1798c509d9c4ebb9bb635d4f395559b",
+  "gate_seq": 10120
+ }
+}

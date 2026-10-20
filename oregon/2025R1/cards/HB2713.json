@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2713",
+ "measure_id": "HB2713",
+ "subject": "or_legislature/2025R1/HB2713",
+ "title": "Imposes a surtax on personal income tax liability.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2713 did not pass",
+ "claims": [
+  {
+   "text": "HB 2713 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614677
+   ]
+  },
+  {
+   "text": "HB 2713 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660108
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614677,
+    616886,
+    660108
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614677
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614677
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2713&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2713",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2136,
+  "finding_hash": "fee1e9b9ab82308f7af5cae60e6f5653d5a219f684dd536be7de4fda0f13abe0",
+  "evidence_digest": "sha256:5821689e78b739fc07f3205a903f0c4193a7b8862c489da778ad227455f4d845",
+  "gate_id": "a8dd3f1b711f4c9aa6be7cfcd947313c",
+  "gate_seq": 2137
+ }
+}

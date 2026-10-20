@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2102",
+ "measure_id": "HB2102",
+ "subject": "or_legislature/2025R1/HB2102",
+ "title": "Requires the Department of Transportation to study the occurrence of vehicular accidents near entertainment events and provide a report to the Joint Committee on Transportation on how to prevent accidents in the future.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2102 did not pass",
+ "claims": [
+  {
+   "text": "HB 2102 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614066
+   ]
+  },
+  {
+   "text": "HB 2102 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660636
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614066,
+    616275,
+    660636
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614066
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614066
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2102&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2102",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 303,
+  "finding_hash": "fe78d0c524c9c6327c1ca94a35ea127b0e25ba4aac58f9eb1b1ce8b8a625371a",
+  "evidence_digest": "sha256:ed63cbd84e006986e9f32c8bb214f753ff419846994b69680fdb47038e28e36c",
+  "gate_id": "8a5fbfaaceb8424f928550a5f7676d3f",
+  "gate_seq": 304
+ }
+}

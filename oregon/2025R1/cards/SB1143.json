@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1143",
+ "measure_id": "SB1143",
+ "subject": "or_legislature/2025R1/SB1143",
+ "title": "Directs the Public Utility Commission to establish a pilot program that allows each natural gas company to develop a utility-scale thermal energy network pilot project to provide heating and cooling services to customers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1143 did not pass",
+ "claims": [
+  {
+   "text": "SB 1143 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624853
+   ]
+  },
+  {
+   "text": "SB 1143 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659238
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624853,
+    625765,
+    629930,
+    638545,
+    640288,
+    640289,
+    659238
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624853
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624853
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629930
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638545
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640288
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1143&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1143",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9537,
+  "finding_hash": "dfa041163d0a2c5db76786326ed32950a79c78ce825636180c8d72b0a1720661",
+  "evidence_digest": "sha256:609332c905ae3a6ad8fa68dd7bf9899d685ff4b9317fa9f8bacffd0104799280",
+  "gate_id": "18f630c1b4764762a05dc13edcd1ccae",
+  "gate_seq": 9538
+ }
+}

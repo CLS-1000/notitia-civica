@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3153",
+ "measure_id": "HB3153",
+ "subject": "or_legislature/2025R1/HB3153",
+ "title": "Authorizes a person to use dogs to hunt or pursue cougars on private property owned by the person or with the consent of the property owner.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3153 did not pass",
+ "claims": [
+  {
+   "text": "HB 3153 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615117
+   ]
+  },
+  {
+   "text": "HB 3153 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660788
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615117,
+    617326,
+    660788
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615117
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615117
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3153&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3153",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3456,
+  "finding_hash": "08e3b23077702e86802422b14869ef13c2802c076a5eec90f426e27c3032f248",
+  "evidence_digest": "sha256:d1361c6cc893779814562ebedc2adbf0157082aea2201978db2c8723bc930689",
+  "gate_id": "2e16d94f514244a0b001e157cf6a8ecb",
+  "gate_seq": 3457
+ }
+}

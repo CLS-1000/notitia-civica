@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1187",
+ "measure_id": "SB1187",
+ "subject": "or_legislature/2025R1/SB1187",
+ "title": "Establishes the Climate Superfund Cost Recovery Program as an interagency response to the effects of climate change.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1187 did not pass",
+ "claims": [
+  {
+   "text": "SB 1187 was introduced in the Senate on March 17, 2025.",
+   "row_ids": [
+    628894
+   ]
+  },
+  {
+   "text": "SB 1187 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659264
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    628894,
+    629045,
+    638546,
+    639550,
+    659264
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    628894
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    628894
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    638546
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659264
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1187&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1187",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9669,
+  "finding_hash": "33644ad21f9b136a6c4a62d57d3efa791fc72de4b8cbabd3f5f68632747b13a6",
+  "evidence_digest": "sha256:750d56d36e1861fc44b74a4e63459a00d88d2638e7f97597f39a13be41098aae",
+  "gate_id": "6831f2c5aca8442cacddc2416aca3711",
+  "gate_seq": 9670
+ }
+}

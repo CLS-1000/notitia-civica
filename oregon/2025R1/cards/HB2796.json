@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2796",
+ "measure_id": "HB2796",
+ "subject": "or_legislature/2025R1/HB2796",
+ "title": "Requires a hospital or hospital system in this state to make publicly available certain financial data.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2796 did not pass",
+ "claims": [
+  {
+   "text": "HB 2796 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614760
+   ]
+  },
+  {
+   "text": "HB 2796 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660491
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614760,
+    616969,
+    660491
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614760
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614760
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2796&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2796",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2385,
+  "finding_hash": "db39ddf41f2fcd8ae5bb3c41c60f93bd471db43191b0b195f3659b8dca11e199",
+  "evidence_digest": "sha256:ab4c83dde212ec933d1bfe4df14f200899da520a074e7f6e7462eb973e2c1deb",
+  "gate_id": "82f58aa2a4ed4e5c88c5c28c55cac941",
+  "gate_seq": 2386
+ }
+}

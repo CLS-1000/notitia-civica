@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2783",
+ "measure_id": "HB2783",
+ "subject": "or_legislature/2025R1/HB2783",
+ "title": "Requires the Department of Justice to study squatting and submit findings to the interim committees of the Legislative Assembly related to housing no later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2783 did not pass",
+ "claims": [
+  {
+   "text": "HB 2783 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614747
+   ]
+  },
+  {
+   "text": "HB 2783 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660477
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614747,
+    616956,
+    660477
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614747
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614747
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2783&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2783",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2346,
+  "finding_hash": "738e4a525f9d2e7c7ffcb30e2f6b24b9e163d10bc7ea429bb7f053bbfa3a2b01",
+  "evidence_digest": "sha256:84124c518e46f6b1b8e56f7ed76e3cd48ac1bcfbd139400808e3200478e6c467",
+  "gate_id": "3658e588a06b4b289e07d5befef86fd5",
+  "gate_seq": 2347
+ }
+}

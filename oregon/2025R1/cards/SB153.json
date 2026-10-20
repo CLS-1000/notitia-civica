@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 153",
+ "measure_id": "SB153",
+ "subject": "or_legislature/2025R1/SB153",
+ "title": "Requires the Department of Veterans' Affairs to study veterans.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 153 did not pass",
+ "claims": [
+  {
+   "text": "SB 153 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615458
+   ]
+  },
+  {
+   "text": "SB 153 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659488
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615458,
+    617725,
+    659488
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615458
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615458
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 153&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB153",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6567,
+  "finding_hash": "30677a06f7b2a8b6cec1875aadbaa2061cb63909709f54d70c06e1ef863a54ca",
+  "evidence_digest": "sha256:c18ac7b2b320b7e575066cd3fb271fd9ca29ffc6c52d0d37e2a4a829aa0119bc",
+  "gate_id": "86cec62ecb874491a424d77fa72a8070",
+  "gate_seq": 6568
+ }
+}

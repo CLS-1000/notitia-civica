@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "SB 622",
+ "measure_id": "SB622",
+ "subject": "or_legislature/2025R1/SB622",
+ "title": "Exempts employers of noncitizens in agricultural labor who are not eligible for unemployment insurance benefits from liability for contributions related to that labor.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 622 did not pass",
+ "claims": [
+  {
+   "text": "SB 622 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615927
+   ]
+  },
+  {
+   "text": "SB 622 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658809
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615927,
+    618194,
+    622249,
+    622826,
+    658809
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615927
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615927
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622826
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658809
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 622&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB622",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7974,
+  "finding_hash": "18eb6758ac4a91c3cb56d8b8b7a574da10a1db01339902b4e5a12fb698298ae7",
+  "evidence_digest": "sha256:d308feeca77e15fffbd6995da887985cd741d5c55cd71e469b284616bd6f612a",
+  "gate_id": "97659b9950294120b5e3f3675ee5e710",
+  "gate_seq": 7975
+ }
+}

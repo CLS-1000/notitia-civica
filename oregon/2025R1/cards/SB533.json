@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "SB 533",
+ "measure_id": "SB533",
+ "subject": "or_legislature/2025R1/SB533",
+ "title": "Creates a civil penalty for drug manufacturers that interfere directly or indirectly with certain entities acquiring 340B drugs, delivering 340B drugs to certain health care providers or dispensing 340B drugs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 533 did not pass",
+ "claims": [
+  {
+   "text": "SB 533 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615838
+   ]
+  },
+  {
+   "text": "SB 533 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658568
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615838,
+    618105,
+    627041,
+    637778,
+    658568
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615838
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615838
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627041
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637778
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 533&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB533",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7707,
+  "finding_hash": "9b72b7ebe8834f4fd78000bb2cc270b2a1aebb8c1ef670bc775c790a7347048a",
+  "evidence_digest": "sha256:75d8b4036a64e02b4ab309a743bd2a6e07bad23e4fe4d6be33d88bf03e5a025f",
+  "gate_id": "66990a6920b644deb4c482fed492ac53",
+  "gate_seq": 7708
+ }
+}

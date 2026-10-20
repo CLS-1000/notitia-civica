@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2636",
+ "measure_id": "HB2636",
+ "subject": "or_legislature/2025R1/HB2636",
+ "title": "Requires the Department of Justice to study victims and submit findings to the interim committees of the Legislative Assembly related to the judiciary not later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2636 did not pass",
+ "claims": [
+  {
+   "text": "HB 2636 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614600
+   ]
+  },
+  {
+   "text": "HB 2636 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660771
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614600,
+    616809,
+    660771
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614600
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614600
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2636&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2636",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1905,
+  "finding_hash": "5637d1acec5d37890ac6f6f81bbcab115197f6e76673bf966405b0eff61fbe8d",
+  "evidence_digest": "sha256:029bb0a13637d04dff9ce93b7ecd88cc02e8cb090b62aaf33c06ee10f9b40790",
+  "gate_id": "e94b2fa344454addacbcef6c54dae358",
+  "gate_seq": 1906
+ }
+}

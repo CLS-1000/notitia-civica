@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 713",
+ "measure_id": "SB713",
+ "subject": "or_legislature/2025R1/SB713",
+ "title": "Authorizes the issuance of lottery bonds for deposit in the Levee Project Grant Fund.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 713 did not pass",
+ "claims": [
+  {
+   "text": "SB 713 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616018
+   ]
+  },
+  {
+   "text": "SB 713 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658907
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616018,
+    618285,
+    630268,
+    658907
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616018
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616018
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    630268
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658907
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 713&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB713",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8247,
+  "finding_hash": "1eead7387a19c020901a07d472a219994e9d9d4dbd630145bb447e4fdc18a15e",
+  "evidence_digest": "sha256:3b91fee16f418076806aa0ba5e35caf5e9e10841863c2fb038c3ae4f0e14cb6b",
+  "gate_id": "2a91bf27a9324cd7a14f256fd6f4b696",
+  "gate_seq": 8248
+ }
+}

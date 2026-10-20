@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 155",
+ "measure_id": "SB155",
+ "subject": "or_legislature/2025R1/SB155",
+ "title": "Requires the Oregon Military Department to study the military.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 155 did not pass",
+ "claims": [
+  {
+   "text": "SB 155 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615460
+   ]
+  },
+  {
+   "text": "SB 155 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659490
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615460,
+    617727,
+    659490
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615460
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615460
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 155&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB155",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6573,
+  "finding_hash": "01d9ef581e10952bed9a260b5ed7a692ad8ed39cb9e2def9abf96f5fca63c55a",
+  "evidence_digest": "sha256:4669cec2b0be65c9a510a63b49efb069b54f49c44859d838aedf6a5d4c10bf3f",
+  "gate_id": "3f125c27cbf04c7bbc36736102235171",
+  "gate_seq": 6574
+ }
+}

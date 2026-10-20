@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3907",
+ "measure_id": "HB3907",
+ "subject": "or_legislature/2025R1/HB3907",
+ "title": "Requires the Governor to call a special election within a specified period after a vacancy in election or office of United States Senator occurs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3907 did not pass",
+ "claims": [
+  {
+   "text": "HB 3907 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625083
+   ]
+  },
+  {
+   "text": "HB 3907 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660810
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625083,
+    626492,
+    660810
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625083
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625083
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3907&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3907",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5718,
+  "finding_hash": "f89ba80d01c4e06d5319c2d5fa60b343a34dd3a786ae045697c0064ab7b0df75",
+  "evidence_digest": "sha256:b7a6e646698fcaa5f0e7db1233fe6c63bd1e50786da6ce91fb32cd4215fb9cae",
+  "gate_id": "aa7c80f089f4449291fb37040ed678e4",
+  "gate_seq": 5719
+ }
+}

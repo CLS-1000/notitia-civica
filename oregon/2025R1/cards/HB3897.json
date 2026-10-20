@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3897",
+ "measure_id": "HB3897",
+ "subject": "or_legislature/2025R1/HB3897",
+ "title": "Requires the Department of Education to study the adequacy of education in the public schools of this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3897 did not pass",
+ "claims": [
+  {
+   "text": "HB 3897 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625073
+   ]
+  },
+  {
+   "text": "HB 3897 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661101
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625073,
+    626482,
+    661101
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625073
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625073
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3897&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3897",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5688,
+  "finding_hash": "916fbb075b9605d170166c54665a5dbde47fc4611e80415cf631f095de8422ca",
+  "evidence_digest": "sha256:87420cae8a5871599e6c02e70882e2b1a9b94106a6fbf9cb2c164afec8d6802c",
+  "gate_id": "39df5dac313e48ceb0ce91703f10318e",
+  "gate_seq": 5689
+ }
+}

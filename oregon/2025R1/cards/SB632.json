@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 632",
+ "measure_id": "SB632",
+ "subject": "or_legislature/2025R1/SB632",
+ "title": "Allows virtual public charter schools to be eligible for grants distributed from the Student Investment Account.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 632 did not pass",
+ "claims": [
+  {
+   "text": "SB 632 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615937
+   ]
+  },
+  {
+   "text": "SB 632 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658826
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615937,
+    618204,
+    658826
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615937
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615937
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 632&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB632",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8004,
+  "finding_hash": "acab673d27eff874e1c45309b87e68bf2a831f9ab0a46440344b243f6dcaabbe",
+  "evidence_digest": "sha256:e87c55de56d322c1d2c2ce41fc8d372a8c6a9b5d95fee4628dd257c9ad09b406",
+  "gate_id": "43086f447bd14f83b2c453f9a65ba53c",
+  "gate_seq": 8005
+ }
+}

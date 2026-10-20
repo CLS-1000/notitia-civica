@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3346",
+ "measure_id": "HB3346",
+ "subject": "or_legislature/2025R1/HB3346",
+ "title": "Requires the Department of Land Conservation and Development, in consultation with the Department of Revenue, State Department of Energy and Water Resources Department, to study siting of energy facilities in designated critical ground water areas east of the Cascade Range.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3346 did not pass",
+ "claims": [
+  {
+   "text": "HB 3346 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619397
+   ]
+  },
+  {
+   "text": "HB 3346 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660570
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619397,
+    619769,
+    625666,
+    632850,
+    636584,
+    636585,
+    660570
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619397
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619397
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625666
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632850
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    636584
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3346&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3346",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4035,
+  "finding_hash": "e49377e84d1aa133d09a49c30bd39cb77edc39ba31008a9eb3e1dc2c55aceae3",
+  "evidence_digest": "sha256:84a13fc04e56223c865f48c974cebf5594fba9f3447ac52cd8dce46496ddf582",
+  "gate_id": "6bbeaf91f92c41cdbabd94a2676a09f0",
+  "gate_seq": 4036
+ }
+}

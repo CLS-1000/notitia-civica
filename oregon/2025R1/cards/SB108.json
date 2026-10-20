@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 108",
+ "measure_id": "SB108",
+ "subject": "or_legislature/2025R1/SB108",
+ "title": "Increases, for purposes of the income and corporate excise tax credit allowed for crop donation, the percentage of wholesale price allowed as amount of credit and extends the sunset.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 108 did not pass",
+ "claims": [
+  {
+   "text": "SB 108 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615413
+   ]
+  },
+  {
+   "text": "SB 108 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659450
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615413,
+    617680,
+    627985,
+    640182,
+    641028,
+    641029,
+    659450
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615413
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615413
+   ]
+  },
+  {
+   "date": "2025-03-12",
+   "when": "March 12, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627985
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    640182
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641028
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 108&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB108",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6432,
+  "finding_hash": "3bee89e275ee736bd8da81c7ae47d5cd1f5af838e5be1f6e1acaa350a248c66a",
+  "evidence_digest": "sha256:a1988d7021a5018b2c033aaf2da07ab9b7fe172a818ed677eca2f70cf5327fb8",
+  "gate_id": "697d98e66ca64a87b573be36be34a9e2",
+  "gate_seq": 6433
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 335",
+ "measure_id": "SB335",
+ "subject": "or_legislature/2025R1/SB335",
+ "title": "Directs the State Department of Agriculture to study potential uses for animal processing waste products.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 335 did not pass",
+ "claims": [
+  {
+   "text": "SB 335 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615640
+   ]
+  },
+  {
+   "text": "SB 335 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658722
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615640,
+    617907,
+    658722
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615640
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615640
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 335&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB335",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7113,
+  "finding_hash": "4fed95cda0a665b4e0ed541b26183f6f6977208f475b17468984492f439a1828",
+  "evidence_digest": "sha256:cf86725bf908daa065d604a4c3a63a346083a3834a69476f315dcd1b0b8ad419",
+  "gate_id": "937ac339dcf049838b702343000f8399",
+  "gate_seq": 7114
+ }
+}

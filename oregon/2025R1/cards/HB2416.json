@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2416",
+ "measure_id": "HB2416",
+ "subject": "or_legislature/2025R1/HB2416",
+ "title": "Requires the Oregon Business Development Department to study semiconductors.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2416 did not pass",
+ "claims": [
+  {
+   "text": "HB 2416 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614380
+   ]
+  },
+  {
+   "text": "HB 2416 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660063
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614380,
+    616589,
+    660063
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614380
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614380
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2416&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2416",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1245,
+  "finding_hash": "4134f8ea915361eb3da8edb725e515b665e693f7511663ba7400b895da43da2a",
+  "evidence_digest": "sha256:9823fb7b7851947615ef3ab2b666f686844bbd61d4d059daf793aa4ae5d298f8",
+  "gate_id": "7508becd0dd84035b671e08d87f07c0e",
+  "gate_seq": 1246
+ }
+}

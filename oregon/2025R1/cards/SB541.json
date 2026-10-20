@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 541",
+ "measure_id": "SB541",
+ "subject": "or_legislature/2025R1/SB541",
+ "title": "Requires school district boards to ensure all schools offer computer science education in all grades.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 541 did not pass",
+ "claims": [
+  {
+   "text": "SB 541 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615846
+   ]
+  },
+  {
+   "text": "SB 541 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659375
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615846,
+    618113,
+    620743,
+    638152,
+    639811,
+    639812,
+    659375
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615846
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615846
+   ]
+  },
+  {
+   "date": "2025-02-05",
+   "when": "February 5, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620743
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638152
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639811
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 541&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB541",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7731,
+  "finding_hash": "11e7560e1798bd80e531192e97fdb605f4db6b56393161d0dc3eace11ada9147",
+  "evidence_digest": "sha256:b5157fdbdc722e8aac3c72ad772dbc543600992d8f60fb60eed617f66cc3ae1b",
+  "gate_id": "1b06bd42564c4c5ab63f3ba7ec2a46e5",
+  "gate_seq": 7732
+ }
+}

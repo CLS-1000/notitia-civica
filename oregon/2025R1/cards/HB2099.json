@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2099",
+ "measure_id": "HB2099",
+ "subject": "or_legislature/2025R1/HB2099",
+ "title": "Requires the Legislative Revenue Officer to study the corporate excise and income tax system.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2099 did not pass",
+ "claims": [
+  {
+   "text": "HB 2099 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614063
+   ]
+  },
+  {
+   "text": "HB 2099 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660633
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614063,
+    616272,
+    660633
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614063
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614063
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2099&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2099",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 294,
+  "finding_hash": "abfd05ce7bf18e3bc24230543b5f9f92a7ed6d23aff5c650ec369d6f23568685",
+  "evidence_digest": "sha256:9d6b00811956add11f8aede488abe020ffec30a1e3210c90571eb2ddb5e26d4f",
+  "gate_id": "73953557fe3c4680825ee19b7530d933",
+  "gate_seq": 295
+ }
+}

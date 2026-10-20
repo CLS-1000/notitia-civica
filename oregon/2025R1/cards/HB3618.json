@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3618",
+ "measure_id": "HB3618",
+ "subject": "or_legislature/2025R1/HB3618",
+ "title": "Appropriates moneys from the General Fund to the Higher Education Coordinating Commission for distribution to Southwestern Oregon Community College to repair elevators in Tioga Hall.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3618 did not pass",
+ "claims": [
+  {
+   "text": "HB 3618 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622953
+   ]
+  },
+  {
+   "text": "HB 3618 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661399
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622953,
+    623508,
+    628185,
+    629994,
+    632154,
+    632155,
+    661399
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622953
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622953
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628185
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629994
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    632154
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3618&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3618",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4851,
+  "finding_hash": "d91cb1a5787fd08f90b7b0ca7a48b62e0c1f5ac5868b438a8b43a7953a5fd160",
+  "evidence_digest": "sha256:7776a578c84b3789e4d86a619177d4b3f8a3959d24b4b031bd16e355be8b1d79",
+  "gate_id": "64c6005f370640e08bf4714ba3cc2d73",
+  "gate_seq": 4852
+ }
+}

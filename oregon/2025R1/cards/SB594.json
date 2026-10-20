@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 594",
+ "measure_id": "SB594",
+ "subject": "or_legislature/2025R1/SB594",
+ "title": "Prohibits landlords from terminating a tenancy based on certain causes unrelated to the tenant's fault during a school year if the tenant is a grade school student or teacher.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 594 did not pass",
+ "claims": [
+  {
+   "text": "SB 594 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615899
+   ]
+  },
+  {
+   "text": "SB 594 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658785
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615899,
+    618166,
+    658785
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615899
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615899
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 594&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB594",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7890,
+  "finding_hash": "8a162b2889a7d2d2b5fd0afc08ee59bfdc9135a98b4c93637ddd81d0e3b92a54",
+  "evidence_digest": "sha256:36db3272ab225203274d241a9cb9e6be90ce1526861ef9f90f34d163152fea10",
+  "gate_id": "b197d191eeb445dc814c136c8079530d",
+  "gate_seq": 7891
+ }
+}

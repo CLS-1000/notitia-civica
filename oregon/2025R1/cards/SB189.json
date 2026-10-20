@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 189",
+ "measure_id": "SB189",
+ "subject": "or_legislature/2025R1/SB189",
+ "title": "Requires the Oregon Liquor and Cannabis Commission to study cannabis.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 189 did not pass",
+ "claims": [
+  {
+   "text": "SB 189 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615494
+   ]
+  },
+  {
+   "text": "SB 189 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659513
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615494,
+    617761,
+    659513
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615494
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615494
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 189&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB189",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6675,
+  "finding_hash": "911c292aba1f88fc2cf53cd4d778f3049f11cf19ce3e94fc430cc07f0ab625f4",
+  "evidence_digest": "sha256:b8a4d230825898e898fff5a28e0e624c3d8057f4a428ac115dc6d6f1ecce1aa1",
+  "gate_id": "16bde8ed3c4d4e78bf4b9751b1b1fab8",
+  "gate_seq": 6676
+ }
+}

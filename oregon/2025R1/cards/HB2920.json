@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2920",
+ "measure_id": "HB2920",
+ "subject": "or_legislature/2025R1/HB2920",
+ "title": "Requires a hospital to report to the Oregon Health Authority and make publicly available securities data and disclosures that the hospital provides to the federal Municipal Securities Rulemaking Board.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2920 did not pass",
+ "claims": [
+  {
+   "text": "HB 2920 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614884
+   ]
+  },
+  {
+   "text": "HB 2920 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660685
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614884,
+    617093,
+    660685
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614884
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614884
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2920&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2920",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2757,
+  "finding_hash": "27e37b7e3924f9ae81dc8f6b2ac80d70359e8b84a10a1638103f91b2418497ab",
+  "evidence_digest": "sha256:5c1450c758e19f18c22e1a4f40b46a0223182ac20c63e34039aec2670b4e17b7",
+  "gate_id": "f94570c5ef43456390b9cc68fd831893",
+  "gate_seq": 2758
+ }
+}

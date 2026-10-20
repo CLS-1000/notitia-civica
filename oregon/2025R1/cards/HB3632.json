@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3632",
+ "measure_id": "HB3632",
+ "subject": "or_legislature/2025R1/HB3632",
+ "title": "Prohibits continuing care retirement communities from banning certain acts of free expression in community spaces or common areas of the continuing care retirement community.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3632 did not pass",
+ "claims": [
+  {
+   "text": "HB 3632 was introduced in the House on February 20, 2025.",
+   "row_ids": [
+    623567
+   ]
+  },
+  {
+   "text": "HB 3632 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660561
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623567,
+    623859,
+    660561
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    623567
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623567
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3632&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3632",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4893,
+  "finding_hash": "2b3b2a5265d477910df6a7607d047e022cd5ccf406b6a20d361aa0516661ea8c",
+  "evidence_digest": "sha256:667ac93ee9744a2476b26a553c3f06e6a2f58a0a4006bbaeafcb963713d13d48",
+  "gate_id": "96b28a13b19d46afaaa24537379d6746",
+  "gate_seq": 4894
+ }
+}

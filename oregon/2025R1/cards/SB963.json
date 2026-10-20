@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 963",
+ "measure_id": "SB963",
+ "subject": "or_legislature/2025R1/SB963",
+ "title": "Directs the Oregon Liquor and Cannabis Commission to establish a grant program to facilitate the establishment of a full-service redemption center in each city in this state with a population greater than 10,000.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 963 did not pass",
+ "claims": [
+  {
+   "text": "SB 963 was introduced in the Senate on January 30, 2025.",
+   "row_ids": [
+    619885
+   ]
+  },
+  {
+   "text": "SB 963 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658594
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619885,
+    619907,
+    658594
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    619885
+   ]
+  },
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619885
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 963&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB963",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8997,
+  "finding_hash": "21cefa09d0ede1ae9499b51f13eae42220a3946fcb53be920fa57be3d9d608f5",
+  "evidence_digest": "sha256:d7843d441ba8cea463af0d26651001f3ac66c63dc2cbd9fac36aea30da7656c4",
+  "gate_id": "f452ee316ce74fff9af737b2f4b2fd4f",
+  "gate_seq": 8998
+ }
+}

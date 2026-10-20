@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1042",
+ "measure_id": "SB1042",
+ "subject": "or_legislature/2025R1/SB1042",
+ "title": "Repeals the prohibition on police officers initiating traffic stops based solely on specified traffic violations related to vehicle lighting requirements.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1042 did not pass",
+ "claims": [
+  {
+   "text": "SB 1042 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623052
+   ]
+  },
+  {
+   "text": "SB 1042 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659133
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623052,
+    623124,
+    659133
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623052
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623052
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1042&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1042",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9234,
+  "finding_hash": "f27b69c5ee434b64df3848bed6a29640ce45ff215b5b834d2811e13b48cd4617",
+  "evidence_digest": "sha256:7b6170ef4edc31a627d557ac39a56839e9ca126ae11f17d47cdb5daeb4e1a05e",
+  "gate_id": "43f4586c95cf4062a6e4fca3d7bb7e33",
+  "gate_seq": 9235
+ }
+}

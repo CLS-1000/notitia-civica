@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3805",
+ "measure_id": "HB3805",
+ "subject": "or_legislature/2025R1/HB3805",
+ "title": "Expands the crime of murder in the second degree to include intentionally or knowingly engaging in unlawful conduct that causes the death of an unborn child.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3805 did not pass",
+ "claims": [
+  {
+   "text": "HB 3805 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624981
+   ]
+  },
+  {
+   "text": "HB 3805 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661371
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624981,
+    626390,
+    661371
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624981
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624981
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3805&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3805",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5412,
+  "finding_hash": "332c6da94661b474f98e9f8d668d1c22541171c453ccc719171bb792fecb1aad",
+  "evidence_digest": "sha256:b28b46892c5c27c931e79eba58d49c2b0f97f9b23fcee51c40677589820d7252",
+  "gate_id": "4ebc60959970425bb63fc24122176616",
+  "gate_seq": 5413
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3537",
+ "measure_id": "HB3537",
+ "subject": "or_legislature/2025R1/HB3537",
+ "title": "Provides that, when reapportioning state House of Representatives and state Senate districts, elector registration from one major party shall be within five percentage points of the elector registration from the other major party, when practicable, so as to achieve five percent parity in at least 40 state House of Representatives districts and 20 state Senate districts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3537 did not pass",
+ "claims": [
+  {
+   "text": "HB 3537 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621743
+   ]
+  },
+  {
+   "text": "HB 3537 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660588
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621743,
+    622080,
+    660588
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621743
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621743
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3537&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3537",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4608,
+  "finding_hash": "0eb0140cd7ab1cb2fed0c78b536589871ccb658369e08614eef03c55bb1f0a34",
+  "evidence_digest": "sha256:7d9095c4d3b9b12f1305c787314f9c273564580ae58346908e64dfe369e3eb5d",
+  "gate_id": "2a12eb7b109e4976be225a60845fb321",
+  "gate_seq": 4609
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1213",
+ "measure_id": "SB1213",
+ "subject": "or_legislature/2025R1/SB1213",
+ "title": "Allows a person to title and register a Kei truck in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1213 did not pass",
+ "claims": [
+  {
+   "text": "SB 1213 was introduced in the Senate on June 4, 2025.",
+   "row_ids": [
+    651770
+   ]
+  },
+  {
+   "text": "SB 1213 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659594
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    651770,
+    651903,
+    659594
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-06-04",
+   "when": "June 4, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    651770
+   ]
+  },
+  {
+   "date": "2025-06-04",
+   "when": "June 4, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    651770
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1213&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1213",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9747,
+  "finding_hash": "b913e5aee559b8c3e6685e56c2a987c09260c398ca31a5baa27d372ffcd70925",
+  "evidence_digest": "sha256:a7a4a309977610d7089faea526f5c2fcdd1c4b7ea9ea1ec83f3f3f75c8a37405",
+  "gate_id": "9ec6b868e1664e11af75235081ea0236",
+  "gate_seq": 9748
+ }
+}

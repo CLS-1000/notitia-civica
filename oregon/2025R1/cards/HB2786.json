@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2786",
+ "measure_id": "HB2786",
+ "subject": "or_legislature/2025R1/HB2786",
+ "title": "Requires employers who provide sick leave, vacation leave or personal business leave benefits to employees to compensate employees for all earned but unused accrued leave when employment terminates.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2786 did not pass",
+ "claims": [
+  {
+   "text": "HB 2786 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614750
+   ]
+  },
+  {
+   "text": "HB 2786 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660480
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614750,
+    616959,
+    660480
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614750
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614750
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2786&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2786",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2355,
+  "finding_hash": "4b2bdef505b0264c7f00a663bb4882e3b396cfbcbc09cee2fab5b05f1c54144a",
+  "evidence_digest": "sha256:9fc30ef62ae388da5d6f0ac0482fd69f7420d0c362d40196bf3611ebd4c83976",
+  "gate_id": "213ae1c4752c49f7aac2a62d192e9be6",
+  "gate_seq": 2356
+ }
+}

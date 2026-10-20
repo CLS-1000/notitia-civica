@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2506",
+ "measure_id": "HB2506",
+ "subject": "or_legislature/2025R1/HB2506",
+ "title": "Directs the Alcohol and Drug Policy Commission, in collaboration with the Oregon Health Authority, to develop statewide policies and practices to support the availability of medications for opioid use disorder in physical health care settings and the transition to care in the community.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2506 did not pass",
+ "claims": [
+  {
+   "text": "HB 2506 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614470
+   ]
+  },
+  {
+   "text": "HB 2506 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661471
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614470,
+    616679,
+    630024,
+    643816,
+    644739,
+    644740,
+    661471
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614470
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614470
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    630024
+   ]
+  },
+  {
+   "date": "2025-04-30",
+   "when": "April 30, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    643816
+   ]
+  },
+  {
+   "date": "2025-05-06",
+   "when": "May 6, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    644739
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2506&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2506",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1515,
+  "finding_hash": "b7a6c371e29802e9f278dbcf5d3fdecfd87723ab33fd8554f0819294b2d9109c",
+  "evidence_digest": "sha256:5345e9e4e5248a83607ee2f5a4f0ebe4a0086bccfcab94ddc26d02f999437679",
+  "gate_id": "57c92cbebba04cef8cb37ad5f92da619",
+  "gate_seq": 1516
+ }
+}

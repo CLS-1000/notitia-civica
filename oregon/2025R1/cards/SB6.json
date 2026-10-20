@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 6",
+ "measure_id": "SB6",
+ "subject": "or_legislature/2025R1/SB6",
+ "title": "Requires the Department of Consumer and Business Services, a municipality, a building official or any other agency or official responsible for administering and enforcing the state building code to approve and issue, or disapprove and deny, any application for a building permit for middle housing or conventional single-family residential housing in a residential subdivision with more than six lots not later than 45 business days after the date on which the applicant submits a complete application.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 6 did not pass",
+ "claims": [
+  {
+   "text": "SB 6 was introduced in the Senate on March 10, 2025.",
+   "row_ids": [
+    627421
+   ]
+  },
+  {
+   "text": "SB 6 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658986
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    627421,
+    627672,
+    629143,
+    638339,
+    640957,
+    640958,
+    658986
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    627421
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    627421
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629143
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638339
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640957
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 6&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB6",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6126,
+  "finding_hash": "7d47fe31ea4a57378599b90fd4c3d6f4f90266a01e1a69c41dd6a053438dab35",
+  "evidence_digest": "sha256:e3ac0a517dfff690f769a6b7c9c295d07048da8b5b080b9c41a7acceab4d68e0",
+  "gate_id": "36de117845f54fd18f165a3040dc0bdd",
+  "gate_seq": 6127
+ }
+}

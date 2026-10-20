@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 333",
+ "measure_id": "SB333",
+ "subject": "or_legislature/2025R1/SB333",
+ "title": "Authorizes landowners who meet certain criteria to petition for formation of a predator damage control district as a funding mechanism to pay the actual costs to the county of preventing, reducing and mitigating damage to property from predatory animals.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 333 did not pass",
+ "claims": [
+  {
+   "text": "SB 333 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615638
+   ]
+  },
+  {
+   "text": "SB 333 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658720
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615638,
+    617905,
+    658720
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615638
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615638
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 333&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB333",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7107,
+  "finding_hash": "4df7c8456648882e837db943713b5f6304a19bb4fb9496177f1084a90858d377",
+  "evidence_digest": "sha256:214d54cb3c31e396dc6a64bcb6d9a7807ca9fc8dbb658cfa284994b47c225913",
+  "gate_id": "159780723d2f4c6cb78ac6282e812877",
+  "gate_seq": 7108
+ }
+}

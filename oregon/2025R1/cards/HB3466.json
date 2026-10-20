@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3466",
+ "measure_id": "HB3466",
+ "subject": "or_legislature/2025R1/HB3466",
+ "title": "Prohibits the Oregon Transportation Commission from establishing a toll on Interstate 205.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3466 did not pass",
+ "claims": [
+  {
+   "text": "HB 3466 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620339
+   ]
+  },
+  {
+   "text": "HB 3466 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660844
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620339,
+    621012,
+    660844
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620339
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620339
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3466&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3466",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4395,
+  "finding_hash": "72a687c4d901175100135547e1720c62cb89d595bcb7b67afeb3981fa5e6e32c",
+  "evidence_digest": "sha256:320f27d4fadde31b099c841ddb2ece323266574bf60351ac3775192e1742ec3d",
+  "gate_id": "4ca456981ebb4a638aec28d6b0223bc6",
+  "gate_seq": 4396
+ }
+}

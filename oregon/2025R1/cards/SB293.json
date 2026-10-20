@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 293",
+ "measure_id": "SB293",
+ "subject": "or_legislature/2025R1/SB293",
+ "title": "Requires the Department of Corrections to provide certain medical care to adults in custody, document the reasons for any denial or refusal of medical care to adults in custody and refrain from considering the remaining duration of incarceration for adults in custody in determining medical care.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 293 did not pass",
+ "claims": [
+  {
+   "text": "SB 293 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615598
+   ]
+  },
+  {
+   "text": "SB 293 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658686
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615598,
+    617865,
+    632760,
+    633976,
+    636207,
+    636208,
+    658686
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615598
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615598
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632760
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    633976
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    636207
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 293&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB293",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6987,
+  "finding_hash": "e8d2cacafcbab1794d2f9dd008b03675a45ee1a7128e5d411838165b58288a12",
+  "evidence_digest": "sha256:329aff1d37588a3ec1941b36543cb5f5f48fa27d827ab14cf93419bc42b4f75d",
+  "gate_id": "f8cc9793132b413997aeeaf76bac98f9",
+  "gate_seq": 6988
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2545",
+ "measure_id": "HB2545",
+ "subject": "or_legislature/2025R1/HB2545",
+ "title": "Prohibits employers from terminating an agricultural worker unless the termination is for cause.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2545 did not pass",
+ "claims": [
+  {
+   "text": "HB 2545 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614509
+   ]
+  },
+  {
+   "text": "HB 2545 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660283
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614509,
+    616718,
+    660283
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614509
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614509
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2545&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2545",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1632,
+  "finding_hash": "494831c97ec2dbe7abd851e1342f49328b29d4f5178115d2d40fed68f1744e1c",
+  "evidence_digest": "sha256:d30b391632a43d38c12a1750d59db623aebe7c5655e77dc8ed86a21efc99bfcd",
+  "gate_id": "62295ae941964e9288d3284a8bb0df7d",
+  "gate_seq": 1633
+ }
+}

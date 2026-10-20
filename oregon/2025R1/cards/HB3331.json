@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3331",
+ "measure_id": "HB3331",
+ "subject": "or_legislature/2025R1/HB3331",
+ "title": "Provides that a percentage of dividends paid by the State Accident Insurance Fund Corporation are redirected to a fund for catastrophic disaster preparedness.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3331 did not pass",
+ "claims": [
+  {
+   "text": "HB 3331 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618802
+   ]
+  },
+  {
+   "text": "HB 3331 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661321
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618802,
+    619200,
+    661321
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618802
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618802
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3331&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3331",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3990,
+  "finding_hash": "cf0daf63fd63f81ca8d998b2bf0d304327a6d2be3e861bd277a9092e78e8cc14",
+  "evidence_digest": "sha256:136e248c0d445fa8bc5d479f90499b188654d267cf83ea1b510fe9fe68f1289e",
+  "gate_id": "14741d0e682e456f98c76f24cb7a573a",
+  "gate_seq": 3991
+ }
+}

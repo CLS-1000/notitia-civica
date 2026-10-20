@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 850",
+ "measure_id": "SB850",
+ "subject": "or_legislature/2025R1/SB850",
+ "title": "Appropriates moneys to be used for regional health equity coalitions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 850 did not pass",
+ "claims": [
+  {
+   "text": "SB 850 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616154
+   ]
+  },
+  {
+   "text": "SB 850 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658945
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616154,
+    618421,
+    658945
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616154
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616154
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 850&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB850",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8658,
+  "finding_hash": "34ad4fb53049c1f71fe2e1c47f79c5e7da99ff7cf385d25eef6faf1e0d30002f",
+  "evidence_digest": "sha256:1459cbdd4c2e16ae8be97546b8954a938245b4e7e63dfdd5239640ffc3c43221",
+  "gate_id": "68ee005a9a2c4ce182a604e8038fb8cf",
+  "gate_seq": 8659
+ }
+}

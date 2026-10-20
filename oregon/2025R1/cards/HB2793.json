@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2793",
+ "measure_id": "HB2793",
+ "subject": "or_legislature/2025R1/HB2793",
+ "title": "Requires a hospital to report on the amount of money the hospital spends on strategies to discourage, avoid or prevent labor organizing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2793 did not pass",
+ "claims": [
+  {
+   "text": "HB 2793 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614757
+   ]
+  },
+  {
+   "text": "HB 2793 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660488
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614757,
+    616966,
+    660488
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614757
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614757
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2793&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2793",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2376,
+  "finding_hash": "b9a195bcb86b4e4629dcdb68017d9a5b91bb4438c6d56f6ababe7081083156dd",
+  "evidence_digest": "sha256:00ef848ffcfee5bc1fe6982713e42d25b2558608768d01b58af51ffad5e4f200",
+  "gate_id": "134f2c0431a64f95b8d7512116671a02",
+  "gate_seq": 2377
+ }
+}

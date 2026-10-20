@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 58",
+ "measure_id": "SB58",
+ "subject": "or_legislature/2025R1/SB58",
+ "title": "Directs the Housing and Community Services Department to establish and administer a pilot program to award grants to counties.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 58 did not pass",
+ "claims": [
+  {
+   "text": "SB 58 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615363
+   ]
+  },
+  {
+   "text": "SB 58 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658600
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615363,
+    617630,
+    622191,
+    634811,
+    637882,
+    637883,
+    658600
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615363
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615363
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622191
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    634811
+   ]
+  },
+  {
+   "date": "2025-04-04",
+   "when": "April 4, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    637882
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 58&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB58",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6282,
+  "finding_hash": "5f932022e21afcec7df16ae72844ca9d4941e88e10ca7a09168c46468d077fe8",
+  "evidence_digest": "sha256:58c0d708b40214c95b5399cde45502e45af33206f9c8f16e5a80c7a53dce162a",
+  "gate_id": "72958fddecc44eb89f582b2c9928d24a",
+  "gate_seq": 6283
+ }
+}

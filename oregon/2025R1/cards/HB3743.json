@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3743",
+ "measure_id": "HB3743",
+ "subject": "or_legislature/2025R1/HB3743",
+ "title": "Requires a radio tower to have an emergency backup power system that can provide 14 days of backup power.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3743 did not pass",
+ "claims": [
+  {
+   "text": "HB 3743 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624427
+   ]
+  },
+  {
+   "text": "HB 3743 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660397
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624427,
+    625288,
+    660397
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624427
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624427
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3743&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3743",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5226,
+  "finding_hash": "ca5bd0c0b3ffe038eda07d8ea61f494feaf0e62a40d3e08c1aa76fd9cdadb703",
+  "evidence_digest": "sha256:9ab39a4c12cd05b306eff20ac4d5e6a61685ad11313363bfdc32fcc164788130",
+  "gate_id": "c9531f5b861149bcaed03f4791241c72",
+  "gate_seq": 5227
+ }
+}

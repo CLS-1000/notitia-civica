@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 191",
+ "measure_id": "SB191",
+ "subject": "or_legislature/2025R1/SB191",
+ "title": "Requires the Department of Justice to study how to modernize the child support process in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 191 did not pass",
+ "claims": [
+  {
+   "text": "SB 191 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615496
+   ]
+  },
+  {
+   "text": "SB 191 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659515
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615496,
+    617763,
+    659515
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615496
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615496
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 191&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB191",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6681,
+  "finding_hash": "611930af42bbc477593613ce24720e3594bd1ce69569e13e84909491787c6342",
+  "evidence_digest": "sha256:2e573206e0fe929ad32ea319e88a80a2701a3cc09333281b19e049576eea39ee",
+  "gate_id": "dd4decbe1d624084a05cf0b993e240ed",
+  "gate_seq": 6682
+ }
+}

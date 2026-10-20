@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1210",
+ "measure_id": "SB1210",
+ "subject": "or_legislature/2025R1/SB1210",
+ "title": "Requires the Department of Transportation to forgive certain indebtedness.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1210 did not pass",
+ "claims": [
+  {
+   "text": "SB 1210 was introduced in the Senate on May 5, 2025.",
+   "row_ids": [
+    644482
+   ]
+  },
+  {
+   "text": "SB 1210 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659412
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    644482,
+    644523,
+    659412
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-05-05",
+   "when": "May 5, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    644482
+   ]
+  },
+  {
+   "date": "2025-05-05",
+   "when": "May 5, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    644482
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1210&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1210",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9738,
+  "finding_hash": "5b9e726b96f5963cd218dad33e57ee3cc279fa3de9c8ee6eb4ec1fa9e0c810f1",
+  "evidence_digest": "sha256:a9b0944a133bb7675799057f10af546536681a198683be996d9f4ffa3bf1b486",
+  "gate_id": "78b15440aff34c5db4f4543d482b2f4c",
+  "gate_seq": 9739
+ }
+}

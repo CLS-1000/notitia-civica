@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 732",
+ "measure_id": "SB732",
+ "subject": "or_legislature/2025R1/SB732",
+ "title": "Directs the Governor to appoint a new head of certain agencies within three months after the Senate fails to confirm the reappointment of the head of the agency.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 732 did not pass",
+ "claims": [
+  {
+   "text": "SB 732 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616037
+   ]
+  },
+  {
+   "text": "SB 732 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658924
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616037,
+    618304,
+    658924
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616037
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616037
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 732&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB732",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8304,
+  "finding_hash": "719bef3f37a8a1bb0bb00e07edd6a71ab807aa9fa40ec062347cddd0c63570d0",
+  "evidence_digest": "sha256:c432a4ed58c1fb8a91c96e635af7b8306497c155020956550fe3749091eef95a",
+  "gate_id": "38dfbdf7361243b6bd5839fe1e0ce34e",
+  "gate_seq": 8305
+ }
+}

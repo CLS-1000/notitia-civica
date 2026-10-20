@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 301",
+ "measure_id": "SB301",
+ "subject": "or_legislature/2025R1/SB301",
+ "title": "Requires the State Marine Board to study issues related to the safe operation of motorboats.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 301 did not pass",
+ "claims": [
+  {
+   "text": "SB 301 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615606
+   ]
+  },
+  {
+   "text": "SB 301 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658691
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615606,
+    617873,
+    633228,
+    658691
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615606
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615606
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633228
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658691
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 301&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB301",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7011,
+  "finding_hash": "62293880b2d9e7583ac833b14f6011ab8e5b6cf0369ab0697226b1616d304f43",
+  "evidence_digest": "sha256:d0cbd36bcfbba2eac84a1eabbe30dabb8e77a891c6b5c737556824bac956981a",
+  "gate_id": "ff27469a1d604e82af132324c8d4c423",
+  "gate_seq": 7012
+ }
+}

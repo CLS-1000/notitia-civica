@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3780",
+ "measure_id": "HB3780",
+ "subject": "or_legislature/2025R1/HB3780",
+ "title": "Removes newspaper from packaging, printing and writing paper and food serviceware producer responsibility laws.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3780 did not pass",
+ "claims": [
+  {
+   "text": "HB 3780 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624956
+   ]
+  },
+  {
+   "text": "HB 3780 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661350
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624956,
+    626365,
+    632338,
+    661350
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624956
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624956
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632338
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661350
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3780&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3780",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5337,
+  "finding_hash": "c84b95409133b3532ecf293cd1407f92cc4355a121a4d33331e98a3a163fd94a",
+  "evidence_digest": "sha256:16e0ccad1accf790b50af7d80b951a73765cd89b6b60ec91a7948bdf49fd8960",
+  "gate_id": "84fabcd4164740859837a95a5a77672f",
+  "gate_seq": 5338
+ }
+}

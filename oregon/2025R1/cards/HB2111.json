@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2111",
+ "measure_id": "HB2111",
+ "subject": "or_legislature/2025R1/HB2111",
+ "title": "Establishes the Task Force on Tax Competitiveness.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2111 did not pass",
+ "claims": [
+  {
+   "text": "HB 2111 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614075
+   ]
+  },
+  {
+   "text": "HB 2111 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661266
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614075,
+    616284,
+    661266
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614075
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614075
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2111&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2111",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 330,
+  "finding_hash": "bab41697c2299002b1c99441457a7670d03b61b8b43b4097ef0a5c5f0d086e2a",
+  "evidence_digest": "sha256:72a26e6349b34150326bcc3af07f31ad546a28966b45a649ff1f740913d54f39",
+  "gate_id": "2abfec064cd047cfa5c6e7a21eb2471b",
+  "gate_seq": 331
+ }
+}

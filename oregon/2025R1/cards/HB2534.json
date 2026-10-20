@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2534",
+ "measure_id": "HB2534",
+ "subject": "or_legislature/2025R1/HB2534",
+ "title": "Modifies the crime of riot.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2534 did not pass",
+ "claims": [
+  {
+   "text": "HB 2534 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614498
+   ]
+  },
+  {
+   "text": "HB 2534 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660274
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614498,
+    616707,
+    660274
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614498
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614498
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2534&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2534",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1599,
+  "finding_hash": "ea9e48e02864ff4d9f7460e78d72690192a6da8d8534edc03a7bf5dde2fe470a",
+  "evidence_digest": "sha256:6807b67d21b80033ea097c20a530fcb9fc520333abff83ec672ec82de2cf2652",
+  "gate_id": "c3c12132698b4f569e6f61cee4823930",
+  "gate_seq": 1600
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "session": "2025R1",
+ "measure": "SB 705",
+ "measure_id": "SB705",
+ "subject": "or_legislature/2025R1/SB705",
+ "title": "Provides an alternative weekly minimum amount of workers' compensation benefits for temporary total disability.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 705 did not pass",
+ "claims": [
+  {
+   "text": "SB 705 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616010
+   ]
+  },
+  {
+   "text": "SB 705 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658899
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616010,
+    618277,
+    626774,
+    640166,
+    658899
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616010
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616010
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626774
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    640166
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658899
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 705&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB705",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8223,
+  "finding_hash": "f93894b7a4d3c1df47e01f8e1eb00b06b28072279eeff727e7a35b57128f9ca7",
+  "evidence_digest": "sha256:bb804d4bc874b89d0f16c237fca0935725a5fa183f8001ed0c0b2c72084877d9",
+  "gate_id": "666ae3d57042405d94806b48d883c520",
+  "gate_seq": 8224
+ }
+}

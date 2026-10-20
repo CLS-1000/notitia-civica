@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1118",
+ "measure_id": "SB1118",
+ "subject": "or_legislature/2025R1/SB1118",
+ "title": "Prohibits the Oregon Transportation Commission from establishing a toll on Interstate 205 or Interstate 5.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1118 did not pass",
+ "claims": [
+  {
+   "text": "SB 1118 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624828
+   ]
+  },
+  {
+   "text": "SB 1118 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659219
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624828,
+    625740,
+    659219
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624828
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624828
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1118&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1118",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9462,
+  "finding_hash": "a44440de7abcf378860f749802528b8e0570428b80a44e330a62f60e72345552",
+  "evidence_digest": "sha256:470027b71392fece66e7406d5586627e9ca7c9229354a903aae335db6d483f48",
+  "gate_id": "6ca54ec56a8345cfa29b6a646cac8bbe",
+  "gate_seq": 9463
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3455",
+ "measure_id": "HB3455",
+ "subject": "or_legislature/2025R1/HB3455",
+ "title": "Directs the State Board of Forestry to convey certain state forest lands to a county that determines that the county would secure the greatest permanent value of the lands to the county and requests conveyance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3455 did not pass",
+ "claims": [
+  {
+   "text": "HB 3455 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620328
+   ]
+  },
+  {
+   "text": "HB 3455 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660833
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620328,
+    621001,
+    660833
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620328
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620328
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3455&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3455",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4362,
+  "finding_hash": "ebd33161bf6e41836557ab2a32e6c771034f22a0ceb3855fad92123a8d0e0641",
+  "evidence_digest": "sha256:ffd01386353b9c7b4dd153506a81b536ceae5189038208a1dcd54cbe95d20aad",
+  "gate_id": "d78a887af79442f98fa8095171cfc257",
+  "gate_seq": 4363
+ }
+}

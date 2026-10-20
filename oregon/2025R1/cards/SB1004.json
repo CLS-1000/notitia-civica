@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1004",
+ "measure_id": "SB1004",
+ "subject": "or_legislature/2025R1/SB1004",
+ "title": "Replaces the requirement that an owner or operator of a municipal solid waste incinerator conduct continuous monitoring or sampling of specified air contaminants with a requirement that the monitoring or sampling be conducted annually.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1004 did not pass",
+ "claims": [
+  {
+   "text": "SB 1004 was introduced in the Senate on February 11, 2025.",
+   "row_ids": [
+    621774
+   ]
+  },
+  {
+   "text": "SB 1004 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659263
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621774,
+    621879,
+    659263
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    621774
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621774
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1004&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1004",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9120,
+  "finding_hash": "5cb37ec49ab5f3b339629b6df7a1f06aa82285c7b3a08b4dd8b097c416af9afb",
+  "evidence_digest": "sha256:131f8663fc3dda0a8701f3909aa04d0f03f592497f8a4c9ccb1c41578a2c9c96",
+  "gate_id": "7735f68d41e348dbb792fc3cd012e477",
+  "gate_seq": 9121
+ }
+}

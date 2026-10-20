@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2750",
+ "measure_id": "HB2750",
+ "subject": "or_legislature/2025R1/HB2750",
+ "title": "Establishes the Task Force on Improving Safety in Health Care Settings and directs the task force to report to an interim committee of the Legislative Assembly related to health care no later than December 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2750 did not pass",
+ "claims": [
+  {
+   "text": "HB 2750 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614714
+   ]
+  },
+  {
+   "text": "HB 2750 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660164
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614714,
+    616923,
+    660164
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614714
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614714
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2750&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2750",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2247,
+  "finding_hash": "7ad6d91789409961e00afbc83fae02b0d5ad2ba4a9ea8060e0471695a593e5d9",
+  "evidence_digest": "sha256:be9f670326e6d9e9f2da96cd45341c922fbadf4e79a555b88c0a98b3b1974a4e",
+  "gate_id": "bc70bedd28ba4e8d937e4669e2b22724",
+  "gate_seq": 2248
+ }
+}

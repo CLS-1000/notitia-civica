@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1188",
+ "measure_id": "SB1188",
+ "subject": "or_legislature/2025R1/SB1188",
+ "title": "Directs the Oregon Public Guardian and Conservator to establish a grant program to increase the availability of community-based guardianship programs and county public guardian and conservators for people with complex health care needs who are experiencing hospital discharge difficulties.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1188 did not pass",
+ "claims": [
+  {
+   "text": "SB 1188 was introduced in the Senate on March 18, 2025.",
+   "row_ids": [
+    629349
+   ]
+  },
+  {
+   "text": "SB 1188 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659117
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    629349,
+    629385,
+    635970,
+    639127,
+    641535,
+    641536,
+    659117
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    629349
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    629349
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    635970
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639127
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641535
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1188&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1188",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9672,
+  "finding_hash": "31bf0b727c6a500f7b08277cab913a0d9ba100531fd3b59bbd85f4c057c0a0cb",
+  "evidence_digest": "sha256:0061a091fcf8f6efbe04d13b86c79a919ec5116fe2e695e868a9f956a7149a03",
+  "gate_id": "f4577c2e85854157aca3debed8e4cb26",
+  "gate_seq": 9673
+ }
+}

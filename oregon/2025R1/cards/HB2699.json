@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2699",
+ "measure_id": "HB2699",
+ "subject": "or_legislature/2025R1/HB2699",
+ "title": "Requires the Higher Education Coordinating Commission to study nurse faculty compensation in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2699 did not pass",
+ "claims": [
+  {
+   "text": "HB 2699 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614663
+   ]
+  },
+  {
+   "text": "HB 2699 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660302
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614663,
+    616872,
+    660302
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614663
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614663
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2699&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2699",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2094,
+  "finding_hash": "5074d8e007c556c131f6d4c27cb83a0af78cfb21a4f75a908341d84527f4b843",
+  "evidence_digest": "sha256:85ae20a1fb65ec99282d92e9cd736a991823ea22df1e46d22e3aecab004622ad",
+  "gate_id": "5deba625f981438583f5e890f568c5f6",
+  "gate_seq": 2095
+ }
+}

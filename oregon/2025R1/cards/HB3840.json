@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3840",
+ "measure_id": "HB3840",
+ "subject": "or_legislature/2025R1/HB3840",
+ "title": "Requires the Oregon Business Development Department to study economic development in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3840 did not pass",
+ "claims": [
+  {
+   "text": "HB 3840 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625016
+   ]
+  },
+  {
+   "text": "HB 3840 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660546
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625016,
+    626425,
+    660546
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625016
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625016
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3840&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3840",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5517,
+  "finding_hash": "3b2df31b80e6401ede551fc4a61a3ec9a5d0e2f13cd2a396e763b3931127de7c",
+  "evidence_digest": "sha256:713c8d7087ea71932169c9d6b0cbf0d65dd4b2c4580ecd682c9a88afb072789a",
+  "gate_id": "a0e5d8e95e59427e991a44c58a25ce76",
+  "gate_seq": 5518
+ }
+}

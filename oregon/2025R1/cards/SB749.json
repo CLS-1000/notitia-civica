@@ -1,0 +1,108 @@
+{
+ "session": "2025R1",
+ "measure": "SB 749",
+ "measure_id": "SB749",
+ "subject": "or_legislature/2025R1/SB749",
+ "title": "Directs the Department of Education to establish and administer a pilot program that provides for participatory budgeting by students in the preparation of a school district budget.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 749 did not pass",
+ "claims": [
+  {
+   "text": "SB 749 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616054
+   ]
+  },
+  {
+   "text": "SB 749 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659157
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616054,
+    618321,
+    631822,
+    636220,
+    639412,
+    659157
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616054
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616054
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    631822
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636220
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659157
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 749&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB749",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8355,
+  "finding_hash": "8b360cdf9629b51c42fcfb024a6242cdb97143cc3af1d45276f100d7e7ef61d9",
+  "evidence_digest": "sha256:754236f463a30b254ecd14cbb970a28b888e4aebfedac9da9d842bc57b2d5f97",
+  "gate_id": "d2c71e1b8e654907a2217ee7e09aed35",
+  "gate_seq": 8356
+ }
+}

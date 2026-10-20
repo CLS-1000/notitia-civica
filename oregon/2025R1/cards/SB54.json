@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "SB 54",
+ "measure_id": "SB54",
+ "subject": "or_legislature/2025R1/SB54",
+ "title": "Requires that residential tenants be provided with indoor cooling or cooling spaces for multiunit buildings with 10 units or more.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 54 did not pass",
+ "claims": [
+  {
+   "text": "SB 54 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615359
+   ]
+  },
+  {
+   "text": "SB 54 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658764
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615359,
+    617626,
+    629854,
+    632030,
+    658764
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615359
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615359
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629854
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658764
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 54&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB54",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6270,
+  "finding_hash": "cd6a429a04957afef4a8c48e62750bc42ea79bb667c2d1d166f52a6222743d94",
+  "evidence_digest": "sha256:829217106714d37392e4621514bd2dd614bb019990db7ccb05ebd4465a98bb61",
+  "gate_id": "546b7705259540f58b9d94a7511cde53",
+  "gate_seq": 6271
+ }
+}

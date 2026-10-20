@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3084",
+ "measure_id": "HB3084",
+ "subject": "or_legislature/2025R1/HB3084",
+ "title": "Directs specified state agencies to collaborate with local and regional officials to develop the CORE3 center.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3084 did not pass",
+ "claims": [
+  {
+   "text": "HB 3084 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615048
+   ]
+  },
+  {
+   "text": "HB 3084 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659968
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615048,
+    617257,
+    623656,
+    629459,
+    631858,
+    631859,
+    659968
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615048
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615048
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623656
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629459
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    631858
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3084&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3084",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3249,
+  "finding_hash": "2b9457a24fa36b57f71e16e74da761136464c98a7b17ec60f85f593585cdaef8",
+  "evidence_digest": "sha256:118cdd88848b1064c45cb0c2cdb201ee0ff8779c29863d12e44af643f7da13f8",
+  "gate_id": "61751ba7a7c644fa8c2882be25a4c03c",
+  "gate_seq": 3250
+ }
+}

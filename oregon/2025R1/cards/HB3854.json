@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3854",
+ "measure_id": "HB3854",
+ "subject": "or_legislature/2025R1/HB3854",
+ "title": "Prohibits the recovery from customers of certain costs and expenses that a public utility incurs as a result of negligence or a higher degree of fault on the part of the public utility.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3854 did not pass",
+ "claims": [
+  {
+   "text": "HB 3854 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625030
+   ]
+  },
+  {
+   "text": "HB 3854 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661287
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625030,
+    626439,
+    661287
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625030
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625030
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3854&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3854",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5559,
+  "finding_hash": "811a26775ff86d758548a07bf2e48472a3677184821b6bb3fc7989076893eb43",
+  "evidence_digest": "sha256:f351dddc766f2ec8e4b42d61ca8a2334e4cfe66814117e97975a76e0d90512c0",
+  "gate_id": "75c23b4160a94779a938e6de89fea575",
+  "gate_seq": 5560
+ }
+}

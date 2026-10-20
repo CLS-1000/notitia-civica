@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1204",
+ "measure_id": "SB1204",
+ "subject": "or_legislature/2025R1/SB1204",
+ "title": "Directs the Department of State Lands, in consultation with the State Department of Fish and Wildlife, to develop a salmon credit pilot program to encourage the voluntary restoration of salmonid habitat in the Coquille and Coos watershed basins.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1204 did not pass",
+ "claims": [
+  {
+   "text": "SB 1204 was introduced in the Senate on April 7, 2025.",
+   "row_ids": [
+    638206
+   ]
+  },
+  {
+   "text": "SB 1204 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659279
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    638206,
+    638540,
+    659279
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    638206
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    638206
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1204&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1204",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9720,
+  "finding_hash": "8a356fbf7e5c495435fb8b907c26cdbe0857de7e418acc6da50bc15e84f82e62",
+  "evidence_digest": "sha256:33a2bbe608cfc706b0cbe7a061589a7f62d626ddc050f55d3d8aa8b92e53a17a",
+  "gate_id": "ab2536f3646343af8dbcde496d2f594b",
+  "gate_seq": 9721
+ }
+}

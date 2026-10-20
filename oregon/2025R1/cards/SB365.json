@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 365",
+ "measure_id": "SB365",
+ "subject": "or_legislature/2025R1/SB365",
+ "title": "Directs the Attorney General to assist a person in recovering damages from the federal government when smoke from a wildfire on federal lands causes damages to the person's wine grape growing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 365 did not pass",
+ "claims": [
+  {
+   "text": "SB 365 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615670
+   ]
+  },
+  {
+   "text": "SB 365 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658750
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615670,
+    617937,
+    658750
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615670
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615670
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 365&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB365",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7203,
+  "finding_hash": "04429e8ab305f633a47b385159158bd4c3b8a074f60afee3233825cbe37aba06",
+  "evidence_digest": "sha256:ee326d47623e2a2b761d52bc85c3bb54cc53372154278ca7120616477b455cff",
+  "gate_id": "7939396b8dba4a82b62f4f2ebec3d6ce",
+  "gate_seq": 7204
+ }
+}

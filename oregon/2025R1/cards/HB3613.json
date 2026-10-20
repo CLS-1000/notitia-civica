@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3613",
+ "measure_id": "HB3613",
+ "subject": "or_legislature/2025R1/HB3613",
+ "title": "Creates the Office of Pharmaceutical Purchasing within the Oregon Department of Administrative Services to support multiagency and multistate collaborative purchasing of pharmaceuticals, drive down the cost of prescription drugs for residents of this state and manage the Oregon Prescription Drug Program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3613 did not pass",
+ "claims": [
+  {
+   "text": "HB 3613 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622948
+   ]
+  },
+  {
+   "text": "HB 3613 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661393
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622948,
+    623503,
+    661393
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622948
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622948
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3613&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3613",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4836,
+  "finding_hash": "97e509a37d78908a086833799e8a734e73e8c9f87c2dc2a5245d7eb58010dd6f",
+  "evidence_digest": "sha256:fa2bb49a2320749af5126a1edf0eb8602432c46ed700340400945fbe80574140",
+  "gate_id": "a66209bb01294afea3b2fc707d509887",
+  "gate_seq": 4837
+ }
+}

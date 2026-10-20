@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2651",
+ "measure_id": "HB2651",
+ "subject": "or_legislature/2025R1/HB2651",
+ "title": "Prohibits a person from charging as the sum of specified fees more than $150 or one half of one percent of the amount of a consumer finance loan made for the purpose of purchasing a motor vehicle or one half of one percent of cash sale price of the motor vehicle.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2651 did not pass",
+ "claims": [
+  {
+   "text": "HB 2651 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614615
+   ]
+  },
+  {
+   "text": "HB 2651 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660784
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614615,
+    616824,
+    660784
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614615
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614615
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2651&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2651",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1950,
+  "finding_hash": "1d3685d4033bf967b65847b8090c93e48720096077ce0b02ea35340ce07c73a0",
+  "evidence_digest": "sha256:99a81a5602fbdeea79ecb83a75207e35fb9ac8e69396870f19c5656851302871",
+  "gate_id": "f604987f8f2b47e884902215579c41ed",
+  "gate_seq": 1951
+ }
+}

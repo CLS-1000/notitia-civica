@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 362",
+ "measure_id": "SB362",
+ "subject": "or_legislature/2025R1/SB362",
+ "title": "Directs the Water Resources Department to study rules related to water.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 362 did not pass",
+ "claims": [
+  {
+   "text": "SB 362 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615667
+   ]
+  },
+  {
+   "text": "SB 362 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658747
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615667,
+    617934,
+    658747
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615667
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615667
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 362&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB362",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7194,
+  "finding_hash": "1224666abaed241907d902a77a75a8dd6760cfb6b151c6597f136ac79adce93b",
+  "evidence_digest": "sha256:d17165df603673599b67e749fd078794d366e07b7990bbd7719489733086ba07",
+  "gate_id": "61c958c4384241989a3b0729834aecdd",
+  "gate_seq": 7195
+ }
+}

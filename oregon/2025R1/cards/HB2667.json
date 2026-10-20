@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2667",
+ "measure_id": "HB2667",
+ "subject": "or_legislature/2025R1/HB2667",
+ "title": "Creates the crime of criminal defamation of a servicemember.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2667 did not pass",
+ "claims": [
+  {
+   "text": "HB 2667 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614631
+   ]
+  },
+  {
+   "text": "HB 2667 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660096
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614631,
+    616840,
+    660096
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614631
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614631
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2667&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2667",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1998,
+  "finding_hash": "182d52ad4813199a6cfbbaaf98fa7e785171e4a7498bf2a32601b9c3e137a257",
+  "evidence_digest": "sha256:102632498314404dc1596c2bbc380604d23db41e1234f19e5ebfa964471db40c",
+  "gate_id": "706b5ee304fb4a46aee10f047a98c6f3",
+  "gate_seq": 1999
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2683",
+ "measure_id": "HB2683",
+ "subject": "or_legislature/2025R1/HB2683",
+ "title": "Provides that a person may request that the Department of Transportation include on a registration card, driver license, driver permit or identification card the fact that the person has a disability that interferes with the person's ability to effectively communicate with a police officer.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2683 did not pass",
+ "claims": [
+  {
+   "text": "HB 2683 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614647
+   ]
+  },
+  {
+   "text": "HB 2683 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660290
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614647,
+    616856,
+    660290
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614647
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614647
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2683&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2683",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2046,
+  "finding_hash": "f1b9b2455ceacc5a0337fc0266c0fe354572ee65cea70885d1c0d6d07c68b903",
+  "evidence_digest": "sha256:ca6a379024e9f3e1a7d8016a0e6729e41826fa80e530ecdb97dad431b70f3766",
+  "gate_id": "824b1850ac4e4eebafcaf83e004f0ae6",
+  "gate_seq": 2047
+ }
+}

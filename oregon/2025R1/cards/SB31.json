@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 31",
+ "measure_id": "SB31",
+ "subject": "or_legislature/2025R1/SB31",
+ "title": "Authorizes the Housing and Community Services Department to provide grants to support tenants of publicly supported housing when the housing's affordability restrictions are terminated.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 31 did not pass",
+ "claims": [
+  {
+   "text": "SB 31 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615336
+   ]
+  },
+  {
+   "text": "SB 31 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658972
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615336,
+    617603,
+    625837,
+    632031,
+    634911,
+    634912,
+    658972
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615336
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615336
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625837
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632031
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    634911
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 31&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB31",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6201,
+  "finding_hash": "523baecfef78aeb840cb5a25cb8675824089650397f643eb43cf39b4c4d5dbc0",
+  "evidence_digest": "sha256:99e9510fc0d964fc2532a6834e3ed9257ebb8fa175a6da296ab8ef93eaa71c1a",
+  "gate_id": "91066c24ec984500b0c112c00eb8ce82",
+  "gate_seq": 6202
+ }
+}

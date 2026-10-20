@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2225",
+ "measure_id": "HB2225",
+ "subject": "or_legislature/2025R1/HB2225",
+ "title": "Establishes minimum amounts of reimbursement for primary care, optometry, dental care and behavioral health services provided to recipients of medical assistance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2225 did not pass",
+ "claims": [
+  {
+   "text": "HB 2225 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614189
+   ]
+  },
+  {
+   "text": "HB 2225 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660194
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614189,
+    616398,
+    660194
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614189
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614189
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2225&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2225",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 672,
+  "finding_hash": "fa1aab9e736bf83b57354373e6e816864f99026270c54b8e4a0f64386d16e9bb",
+  "evidence_digest": "sha256:8379082f58a20fa159b46e794e40f884008df24359d11148d896adc2bb5e79e6",
+  "gate_id": "ed8f12393e2c41cc8e33041e4f0e37cc",
+  "gate_seq": 673
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "session": "2025R1",
+ "measure": "SJR 2",
+ "measure_id": "SJR2",
+ "subject": "or_legislature/2025R1/SJR2",
+ "title": "Proposes an amendment to the Oregon Constitution to exclude partial exemptions of the assessed value of property, and tax credits against property taxes on property, from the requirement that the maximum assessed value of the property be redetermined when the property is first granted or disqualified from a partial exemption or property tax credit. Refers the proposed amendment to the people for their approval or rejection at the next regular general election.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJR 2 did not pass",
+ "claims": [
+  {
+   "text": "SJR 2 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615233
+   ]
+  },
+  {
+   "text": "SJR 2 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659467
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615233,
+    617500,
+    659467
+   ]
+  },
+  {
+   "text": "SJR 2 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    659467
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615233
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615233
+   ]
+  }
+ ],
+ "topics": [
+  "ballot",
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJR' and MeasureNumber eq 2&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJR2",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9981,
+  "finding_hash": "d7f977c14fcbcf6963cc6953fb6dff500f7fc81e1a6d46c72483971ca6bd8259",
+  "evidence_digest": "sha256:8aaa55b463f896a6cca428e2020cd50627bf8b65d04900435d2d01694f4064b5",
+  "gate_id": "fcd2c57b49164d36bb6f6aa0c773236b",
+  "gate_seq": 9982
+ }
+}

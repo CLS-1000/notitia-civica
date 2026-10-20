@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2009",
+ "measure_id": "HB2009",
+ "subject": "or_legislature/2025R1/HB2009",
+ "title": "Requires specified entities that receive moneys from the State School Fund to measure the outcomes of the students of the entity.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2009 did not pass",
+ "claims": [
+  {
+   "text": "HB 2009 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622892
+   ]
+  },
+  {
+   "text": "HB 2009 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661377
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622892,
+    623447,
+    627646,
+    638539,
+    639567,
+    641042,
+    641043,
+    661377
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622892
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622892
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627646
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639567
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641042
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2009&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2009",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 24,
+  "finding_hash": "08cdc1ceb432e4d27c690736900fcf97e9450fcdd81bac23d7b740d6f53fd022",
+  "evidence_digest": "sha256:8aeae55be3efc91e3a68dab3caa35546eab095220e510633a3a60f262e70f690",
+  "gate_id": "8354e1c5dd654e418751ee6f30b083d5",
+  "gate_seq": 25
+ }
+}

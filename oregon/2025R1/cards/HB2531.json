@@ -1,0 +1,73 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2531",
+ "measure_id": "HB2531",
+ "subject": "or_legislature/2025R1/HB2531",
+ "title": "Appropriates moneys to fund the provision of fire response, emergency medical and law enforcement and public safety services by the City of Salem.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2531 did not pass",
+ "claims": [
+  {
+   "text": "HB 2531 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614495
+   ]
+  },
+  {
+   "text": "HB 2531 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660271
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614495,
+    616704,
+    645754,
+    660271
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614495
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614495
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2531&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2531",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1590,
+  "finding_hash": "ebb0ffc53221d247c65fb5a35ea26bb0ed81ec4d3925ff29dcb22d1decfdaba0",
+  "evidence_digest": "sha256:bd7e5d46bda9ea5ef6cde9dbf3f52f04556c8ac2523822bd09dab492a500b07d",
+  "gate_id": "994a7c5e87ec4126aa95f54607e41c68",
+  "gate_seq": 1591
+ }
+}

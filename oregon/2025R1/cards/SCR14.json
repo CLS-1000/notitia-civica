@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SCR 14",
+ "measure_id": "SCR14",
+ "subject": "or_legislature/2025R1/SCR14",
+ "title": "Adjourns the organizational session of the Senate and the House of Representatives of the Eighty-third Legislative Assembly. Provides that the Eighty-third Legislative Assembly shall convene in regular session on January 21, 2025.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SCR 14 did not pass",
+ "claims": [
+  {
+   "text": "SCR 14 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615223
+   ]
+  },
+  {
+   "text": "SCR 14 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659106
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615223,
+    617490,
+    659106
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615223
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615223
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SCR' and MeasureNumber eq 14&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SCR14",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10317,
+  "finding_hash": "e999f8f0d8de214f5e943ff40e2a70518660ff483eefb709ea8fe0f3992441ae",
+  "evidence_digest": "sha256:da58589371b31a85807e3fbb12fd336eda40b0c00d24fd52093b9a60ef277210",
+  "gate_id": "ed851d9f75264ac181f6162e7268a649",
+  "gate_seq": 10318
+ }
+}

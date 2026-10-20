@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 119",
+ "measure_id": "SB119",
+ "subject": "or_legislature/2025R1/SB119",
+ "title": "Provides for a property tax credit against the ad valorem taxes imposed on the homestead of a resident serving on active military duty.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 119 did not pass",
+ "claims": [
+  {
+   "text": "SB 119 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615424
+   ]
+  },
+  {
+   "text": "SB 119 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659459
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615424,
+    617691,
+    659459
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615424
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615424
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 119&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB119",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6465,
+  "finding_hash": "bebf1b804aafbd6966935b77c6e7054728ab5092866e8ae23847ab1e204151d6",
+  "evidence_digest": "sha256:7800a41188f580bdae839e75f94cf72772d86b992245616488fcc0db2283b17d",
+  "gate_id": "f902dfce31fb40f7ad5f108f4c4f4e97",
+  "gate_seq": 6466
+ }
+}

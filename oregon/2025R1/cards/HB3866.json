@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3866",
+ "measure_id": "HB3866",
+ "subject": "or_legislature/2025R1/HB3866",
+ "title": "Directs the Oregon Business Development Department to study the impacts of wildfire and smoke on the recreation and fitness industries, including the cost of property insurance, and on the ability of Oregonians to engage in recreation and fitness activities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3866 did not pass",
+ "claims": [
+  {
+   "text": "HB 3866 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625042
+   ]
+  },
+  {
+   "text": "HB 3866 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661072
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625042,
+    626451,
+    661072
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625042
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625042
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3866&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3866",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5595,
+  "finding_hash": "6be41c0c8b87798c593c5652435bbfe993b9a64e6c7d55ddb9c902b660c0d3b2",
+  "evidence_digest": "sha256:e9a7b29a78ea45f2f980c24331bd80f70382da9bf4f91b6363e8550baead0f22",
+  "gate_id": "44d4e073452f4e359fa869c3c45f7a9e",
+  "gate_seq": 5596
+ }
+}

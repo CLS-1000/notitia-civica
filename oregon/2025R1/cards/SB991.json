@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 991",
+ "measure_id": "SB991",
+ "subject": "or_legislature/2025R1/SB991",
+ "title": "Deletes two bases for a worker to refuse an offer of modified employment without losing temporary total disability benefits to increase possible modified employment placements.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 991 did not pass",
+ "claims": [
+  {
+   "text": "SB 991 was introduced in the Senate on February 6, 2025.",
+   "row_ids": [
+    620897
+   ]
+  },
+  {
+   "text": "SB 991 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659557
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620897,
+    621397,
+    659557
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620897
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620897
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 991&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB991",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9081,
+  "finding_hash": "fafec140e1f6160cfd323786a11b38ff5e17aacc05ce9f8b17c41cad92e31fe7",
+  "evidence_digest": "sha256:d6d8720528c0376bf4effd675727ab4601e65e74448c02d23ce958215a40078b",
+  "gate_id": "fb30ea88cb4342baba77ae38a50e5436",
+  "gate_seq": 9082
+ }
+}

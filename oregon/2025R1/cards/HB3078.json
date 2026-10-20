@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3078",
+ "measure_id": "HB3078",
+ "subject": "or_legislature/2025R1/HB3078",
+ "title": "Directs the Oregon Drinking Water Services of the Oregon Health Authority to establish a pilot program for training drinking water system operators.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3078 did not pass",
+ "claims": [
+  {
+   "text": "HB 3078 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615042
+   ]
+  },
+  {
+   "text": "HB 3078 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660957
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615042,
+    617251,
+    660957
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615042
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615042
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3078&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3078",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3231,
+  "finding_hash": "873f60dfee7d3f2ba05486b9a4f44251fd8470ea30e63779b893167595d0462e",
+  "evidence_digest": "sha256:9498cbbf09d29fc7d1035f7a0b53477938f7482c992ffd6573b15a5c8b2f7b61",
+  "gate_id": "2ed9830187d3468f8db8826b8edafae6",
+  "gate_seq": 3232
+ }
+}

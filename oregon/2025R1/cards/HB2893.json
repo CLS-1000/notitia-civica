@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2893",
+ "measure_id": "HB2893",
+ "subject": "or_legislature/2025R1/HB2893",
+ "title": "Directs the Occupational Safety and Health Division of the Department of Consumer and Business Services to study potential safety benefits of screening replacement workers during labor disputes with an employer that employs more than 100 employees in an industry involving hazardous materials.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2893 did not pass",
+ "claims": [
+  {
+   "text": "HB 2893 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614857
+   ]
+  },
+  {
+   "text": "HB 2893 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661202
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614857,
+    617066,
+    661202
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614857
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614857
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2893&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2893",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2676,
+  "finding_hash": "2b9d28b0c5daa52fc7799329ae761a3afc0e3b1eab56129fbf90d546b8fb79ba",
+  "evidence_digest": "sha256:e8bef20f4be0c3f091fe8c7f224e096240e3d34b9701f802cb030f315adbaa55",
+  "gate_id": "1e52bda85918454dabbdfc116ad345be",
+  "gate_seq": 2677
+ }
+}

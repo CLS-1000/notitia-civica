@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 323",
+ "measure_id": "SB323",
+ "subject": "or_legislature/2025R1/SB323",
+ "title": "Requires a school district and education service district to conduct a cost analysis before extending, renewing or entering a new public contract for the procurement of substitute teacher services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 323 did not pass",
+ "claims": [
+  {
+   "text": "SB 323 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615628
+   ]
+  },
+  {
+   "text": "SB 323 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658710
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615628,
+    617895,
+    624013,
+    658710
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615628
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615628
+   ]
+  },
+  {
+   "date": "2025-02-24",
+   "when": "February 24, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624013
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658710
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 323&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB323",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7077,
+  "finding_hash": "9b4df78bd4d03a07f66fc7784b213084fee96f8d77f3e3ab94719931e4e8d8f2",
+  "evidence_digest": "sha256:1f5565031f111234673bf76049b8bb33e34239c369071963b349381770c1f934",
+  "gate_id": "5ce6cf94b460459ab8ae5f4ddd5f13f0",
+  "gate_seq": 7078
+ }
+}

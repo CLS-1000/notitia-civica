@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2494",
+ "measure_id": "HB2494",
+ "subject": "or_legislature/2025R1/HB2494",
+ "title": "Requires the Oregon Criminal Justice Commission to study the effect of different types of sentences on rates of recidivism.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2494 did not pass",
+ "claims": [
+  {
+   "text": "HB 2494 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614458
+   ]
+  },
+  {
+   "text": "HB 2494 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661459
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614458,
+    616667,
+    661459
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614458
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614458
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2494&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2494",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1479,
+  "finding_hash": "4f790127a1e3bb06164dad849d82df2e9839a05baa131e9293e3f3571e4ea5a7",
+  "evidence_digest": "sha256:d45831d7093f56281320294ba9ffe55a9049b8fe70732e1514b118c02b53ff10",
+  "gate_id": "21634f2950514f1088784f6ee6fa80f4",
+  "gate_seq": 1480
+ }
+}

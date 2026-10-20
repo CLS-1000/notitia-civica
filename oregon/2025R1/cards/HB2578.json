@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2578",
+ "measure_id": "HB2578",
+ "subject": "or_legislature/2025R1/HB2578",
+ "title": "Establishes the open enrollment process for school districts to allow students with an individualized education program or a 504 Plan to attend schools in a nonresident school district with the consent of the receiving school district.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2578 did not pass",
+ "claims": [
+  {
+   "text": "HB 2578 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614542
+   ]
+  },
+  {
+   "text": "HB 2578 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660908
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614542,
+    616751,
+    660908
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614542
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614542
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2578&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2578",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1731,
+  "finding_hash": "16aa7b1c4d486018bb8e9f88241d3ec3a493cd5acc8502c19d1136a751468fd6",
+  "evidence_digest": "sha256:c80f75028848e12f818b3f1a40e3ca11afcdf0cecb7f252d15f6c6aad58fb333",
+  "gate_id": "3e96aeafd18d4deb9d3e2e42fb060a99",
+  "gate_seq": 1732
+ }
+}

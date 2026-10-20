@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2771",
+ "measure_id": "HB2771",
+ "subject": "or_legislature/2025R1/HB2771",
+ "title": "Removes provisions prohibiting a county court or board of county commissioners from establishing a justice of the peace district that includes the county seat or city in which a circuit court regularly holds court.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2771 did not pass",
+ "claims": [
+  {
+   "text": "HB 2771 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614735
+   ]
+  },
+  {
+   "text": "HB 2771 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661151
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614735,
+    616944,
+    661151
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614735
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614735
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2771&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2771",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2310,
+  "finding_hash": "b3d90189da6cc9c1d35c14b6ac0b47bd07dc02d0c4dc98607acbbc2ac831dc10",
+  "evidence_digest": "sha256:9ce402e3e9a682d9b5cf3aae645c3c7f7312859f8bae8520bfc7a1bc42bcbbbf",
+  "gate_id": "a16d94c8eb674dabbec65125b8d76902",
+  "gate_seq": 2311
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3379",
+ "measure_id": "HB3379",
+ "subject": "or_legislature/2025R1/HB3379",
+ "title": "Requires the Oregon Health Authority to study Medicaid supplemental reimbursement for ground emergency medical transportation services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3379 did not pass",
+ "claims": [
+  {
+   "text": "HB 3379 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619430
+   ]
+  },
+  {
+   "text": "HB 3379 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660732
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619430,
+    619802,
+    660732
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619430
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619430
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3379&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3379",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4134,
+  "finding_hash": "026b0c4b63115a54d38876a1b6c00e923f548fbbcc6631afca7cb61193b93524",
+  "evidence_digest": "sha256:0a0318ca046642327f48b395b71165e824408d8dc4c55ed7b2593ca28e13bb94",
+  "gate_id": "029e1d6328644f54ab1213d92f5c9ebc",
+  "gate_seq": 4135
+ }
+}

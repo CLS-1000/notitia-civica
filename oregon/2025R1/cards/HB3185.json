@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3185",
+ "measure_id": "HB3185",
+ "subject": "or_legislature/2025R1/HB3185",
+ "title": "Provides that priority may be given to students in specified courses of study to participate in a pilot program to enhance the hiring of public university students by eligible nonprofit organizations.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3185 did not pass",
+ "claims": [
+  {
+   "text": "HB 3185 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615149
+   ]
+  },
+  {
+   "text": "HB 3185 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660882
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615149,
+    617358,
+    622236,
+    624776,
+    629993,
+    633345,
+    633346,
+    660882
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615149
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615149
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624776
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629993
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    633345
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3185&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3185",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3552,
+  "finding_hash": "b2692a17b97c68e92adb035c70ec15cae435d301fb08d34681ab114ca288a865",
+  "evidence_digest": "sha256:f37a715b117a5c6f6ea621bde5a650c106928252534f3bcd824dfb14b257ab03",
+  "gate_id": "85f253018fd1489ba17adf1fbf209463",
+  "gate_seq": 3553
+ }
+}

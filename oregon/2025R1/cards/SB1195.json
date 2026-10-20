@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1195",
+ "measure_id": "SB1195",
+ "subject": "or_legislature/2025R1/SB1195",
+ "title": "Directs the Oregon Health Authority to conduct studies and adopt rules relating to residential treatment facilities, residential treatment homes, secure residential treatment facilities and secure residential treatment homes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1195 did not pass",
+ "claims": [
+  {
+   "text": "SB 1195 was introduced in the Senate on March 20, 2025.",
+   "row_ids": [
+    630181
+   ]
+  },
+  {
+   "text": "SB 1195 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659201
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    630181,
+    630214,
+    632543,
+    659201
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    630181
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    630181
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632543
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659201
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1195&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1195",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9693,
+  "finding_hash": "018c44b46f65384d15076a26de21297ae505ef64dc96ab8ec8341145d03761fc",
+  "evidence_digest": "sha256:f00fa753d08525711388cbf0be69a91b8433403aff734c75d6cc99be30114637",
+  "gate_id": "295209db1ce74ddd9982731cafed3495",
+  "gate_seq": 9694
+ }
+}

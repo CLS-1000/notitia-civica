@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 389",
+ "measure_id": "SB389",
+ "subject": "or_legislature/2025R1/SB389",
+ "title": "Allows a person to petition for an order restraining a respondent from harassment of the petitioner.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 389 did not pass",
+ "claims": [
+  {
+   "text": "SB 389 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615694
+   ]
+  },
+  {
+   "text": "SB 389 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659016
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615694,
+    617961,
+    624561,
+    659016
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615694
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615694
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624561
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659016
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 389&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB389",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7275,
+  "finding_hash": "e91dfd4fb52644a54e97a36bba40187f9b7d01d1e143956c18e1ae4985acc10c",
+  "evidence_digest": "sha256:1643123b90cc2ec0909b1de51846706c08ed24ee37dd63d7efab888af50c38e9",
+  "gate_id": "c347ab2c862a4a11b2eee26c91f91446",
+  "gate_seq": 7276
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1119",
+ "measure_id": "SB1119",
+ "subject": "or_legislature/2025R1/SB1119",
+ "title": "Prohibits employers from engaging in unfair immigration-related practices.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1119 did not pass",
+ "claims": [
+  {
+   "text": "SB 1119 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624829
+   ]
+  },
+  {
+   "text": "SB 1119 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659220
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624829,
+    625741,
+    635219,
+    659220
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624829
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624829
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    635219
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659220
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1119&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1119",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9465,
+  "finding_hash": "8f78062dddebe440dd11732e486fa4c35833f05128896d38b5a715f1d394e3b8",
+  "evidence_digest": "sha256:036f7d050ce1f54e5ceae9a37ae0a100bcad097d562ef6704d87fcc491c2e986",
+  "gate_id": "5d8707e0ec244e949e7c18046cb1bb8e",
+  "gate_seq": 9466
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2661",
+ "measure_id": "HB2661",
+ "subject": "or_legislature/2025R1/HB2661",
+ "title": "Establishes the Task Force on Containment of Petroleum Contamination.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2661 did not pass",
+ "claims": [
+  {
+   "text": "HB 2661 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614625
+   ]
+  },
+  {
+   "text": "HB 2661 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660090
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614625,
+    616834,
+    660090
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614625
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614625
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2661&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2661",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1980,
+  "finding_hash": "69d490fc5d838a40b08c8e9e67ee0f5ddd158e47d10e66f89c3bf6331d04b228",
+  "evidence_digest": "sha256:dc5cd8f9bc56874a6ce0bba84c39c9d21fa348af13715db818039963d8ca859f",
+  "gate_id": "fb51cb7cf52f496da916852b9a3e3c7e",
+  "gate_seq": 1981
+ }
+}

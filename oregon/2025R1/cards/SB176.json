@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "SB 176",
+ "measure_id": "SB176",
+ "subject": "or_legislature/2025R1/SB176",
+ "title": "Removes the requirement that the Oregon Health Authority establish a marijuana grow site registration system.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 176 did not pass",
+ "claims": [
+  {
+   "text": "SB 176 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615481
+   ]
+  },
+  {
+   "text": "SB 176 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659503
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615481,
+    617748,
+    624157,
+    638556,
+    639037,
+    641471,
+    641472,
+    659503
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615481
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615481
+   ]
+  },
+  {
+   "date": "2025-02-24",
+   "when": "February 24, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624157
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638556
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641471
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 176&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB176",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6636,
+  "finding_hash": "332b81464bb50e44416ccfc7a03572181d1271c162d4f172ebc72582a1dd033f",
+  "evidence_digest": "sha256:5aa35f5539368409e7750721614ab8e3e37c71865e89a40dc4c47218aa74d53d",
+  "gate_id": "327600a876b6417fa952bf66f5356355",
+  "gate_seq": 6637
+ }
+}

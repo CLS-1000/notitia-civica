@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1058",
+ "measure_id": "SB1058",
+ "subject": "or_legislature/2025R1/SB1058",
+ "title": "Instructs the State Forestry Department to update a draft habitat conservation plan to increase timber harvest from state forests in western Oregon and submit the updated habitat conservation plan to federal agencies.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1058 did not pass",
+ "claims": [
+  {
+   "text": "SB 1058 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623068
+   ]
+  },
+  {
+   "text": "SB 1058 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659397
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623068,
+    623140,
+    659397
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623068
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623068
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1058&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1058",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9282,
+  "finding_hash": "11e94dcfdad49eeda5be0c57a6e654072f6a9e1f6da584cc316400e7c7ac937c",
+  "evidence_digest": "sha256:97bc0944195ab323a3b6785c456547dd3de9cf6f6330e08b64926f53a0dcdb36",
+  "gate_id": "5d2cca12141d46dc9c654b8f51bddd8c",
+  "gate_seq": 9283
+ }
+}

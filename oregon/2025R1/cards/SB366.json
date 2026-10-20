@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 366",
+ "measure_id": "SB366",
+ "subject": "or_legislature/2025R1/SB366",
+ "title": "Authorizes a producer of eggs to sell and deliver the producer's eggs to a restaurant without an egg handler's license.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 366 did not pass",
+ "claims": [
+  {
+   "text": "SB 366 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615671
+   ]
+  },
+  {
+   "text": "SB 366 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658751
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615671,
+    617938,
+    658751
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615671
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615671
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 366&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB366",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7206,
+  "finding_hash": "af6e464b58e80188b8c2c23fe678a40e45a6b7fe92c737a09facd6ea7cbb7047",
+  "evidence_digest": "sha256:7e8bc45a930d4e8da080d92b7e476b2b3b8b5e3ccb8cb388c40c187f36ad0ed5",
+  "gate_id": "16d3c86eb6d04e58b893bf7c842c4b52",
+  "gate_seq": 7207
+ }
+}

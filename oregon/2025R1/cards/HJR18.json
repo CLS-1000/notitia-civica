@@ -1,0 +1,81 @@
+{
+ "session": "2025R1",
+ "measure": "HJR 18",
+ "measure_id": "HJR18",
+ "subject": "or_legislature/2025R1/HJR18",
+ "title": "Amends the Oregon Constitution to require an initiative petition to be accompanied by a signed form providing for the means by which an increase in state or county expenditures of greater than $50,000 must be paid. Provides that an initiative petition may not be placed on the ballot unless the Secretary of State makes a finding of sufficiency of the means.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJR 18 did not pass",
+ "claims": [
+  {
+   "text": "HJR 18 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622880
+   ]
+  },
+  {
+   "text": "HJR 18 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661396
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622880,
+    623519,
+    661396
+   ]
+  },
+  {
+   "text": "HJR 18 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    661396
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622880
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622880
+   ]
+  }
+ ],
+ "topics": [
+  "ballot",
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJR' and MeasureNumber eq 18&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJR18",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9963,
+  "finding_hash": "36302091b2b1d8fb1a543aebbc280c8e42661dcb98c3135bde1a670a7dbbd499",
+  "evidence_digest": "sha256:788c4e7b749ec39ad603640cc51fd660fb48e3b13b8275490067938eaa42ac1e",
+  "gate_id": "e787c4194d3b4577ae35ff024d65d045",
+  "gate_seq": 9964
+ }
+}

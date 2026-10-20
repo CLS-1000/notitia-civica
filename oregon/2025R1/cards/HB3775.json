@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3775",
+ "measure_id": "HB3775",
+ "subject": "or_legislature/2025R1/HB3775",
+ "title": "Appropriates moneys from the General Fund to the Oregon Department of Administrative Services for distribution to the City of Salem for a plaza and memorial on the former site of the Fairview Training Center.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3775 did not pass",
+ "claims": [
+  {
+   "text": "HB 3775 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624951
+   ]
+  },
+  {
+   "text": "HB 3775 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661345
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624951,
+    626360,
+    661345
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624951
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624951
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3775&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3775",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5322,
+  "finding_hash": "b6441eb9f6377cb60f777c93d3aea7e72f88c1c6f63571186ba056dadcc8a511",
+  "evidence_digest": "sha256:db28a813ae2c2e2a255089a76224528dc1faa782548b54a5e79e4ee6af2d952b",
+  "gate_id": "1d6a8b0ca89844eda84e253a9d82e667",
+  "gate_seq": 5323
+ }
+}

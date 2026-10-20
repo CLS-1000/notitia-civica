@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1147",
+ "measure_id": "SB1147",
+ "subject": "or_legislature/2025R1/SB1147",
+ "title": "Directs the court, at a victim's request, to enter an order at sentencing permanently restraining the defendant from contacting the victim when the defendant is convicted of specified crimes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1147 did not pass",
+ "claims": [
+  {
+   "text": "SB 1147 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624857
+   ]
+  },
+  {
+   "text": "SB 1147 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659242
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624857,
+    625769,
+    659242
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624857
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624857
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1147&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1147",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9549,
+  "finding_hash": "c68a1969188f24c2385790bcf23c134e3a18a68613ff5b62fa3c9243a6afed26",
+  "evidence_digest": "sha256:c4ba8c27cb01646b9b547f930e2af0d34e1e81f15c41e1f26b06b518e1c26b6c",
+  "gate_id": "57ec32b4276246a8971412011cc8a81c",
+  "gate_seq": 9550
+ }
+}

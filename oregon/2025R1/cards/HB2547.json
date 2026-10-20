@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2547",
+ "measure_id": "HB2547",
+ "subject": "or_legislature/2025R1/HB2547",
+ "title": "Requires the owner of a public building to periodically conduct inspections and testing of fire dampers, smoke dampers, combination fire and smoke dampers and smoke control systems in the public building.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2547 did not pass",
+ "claims": [
+  {
+   "text": "HB 2547 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614511
+   ]
+  },
+  {
+   "text": "HB 2547 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660285
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614511,
+    616720,
+    660285
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614511
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614511
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2547&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2547",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1638,
+  "finding_hash": "d6f893c6eaf18f6840bb891f85b1ae2333d5149d57e9e1489351a09c41900b61",
+  "evidence_digest": "sha256:d681904b71bd8305b9870fbbbfe328a1d496d480900f04e60605eaa23e114b5e",
+  "gate_id": "bb8ae904673f48e4ac40a6408aeb49d7",
+  "gate_seq": 1639
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HJM 10",
+ "measure_id": "HJM10",
+ "subject": "or_legislature/2025R1/HJM10",
+ "title": "Requests the United States Department of Energy and the United States Congress to support the Bonneville Power Administration in providing cleaner, more affordable and more reliable energy to all consumers in the Pacific Northwest.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJM 10 did not pass",
+ "claims": [
+  {
+   "text": "HJM 10 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618713
+   ]
+  },
+  {
+   "text": "HJM 10 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659959
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618713,
+    619208,
+    659959
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618713
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618713
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJM' and MeasureNumber eq 10&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJM10",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10107,
+  "finding_hash": "ed4cbb526975a523921140786990c93b8eda737df0823d88f65736bbe9a9bb59",
+  "evidence_digest": "sha256:28ad7f6ffce4f08a7444a21968a437ad1bd08d7cc780eca066232b4cc8d59979",
+  "gate_id": "fba5b106dffe430389bff3316915b14f",
+  "gate_seq": 10108
+ }
+}

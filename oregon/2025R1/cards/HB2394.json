@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2394",
+ "measure_id": "HB2394",
+ "subject": "or_legislature/2025R1/HB2394",
+ "title": "Establishes an income tax credit for volunteer firefighters.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2394 did not pass",
+ "claims": [
+  {
+   "text": "HB 2394 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614358
+   ]
+  },
+  {
+   "text": "HB 2394 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659867
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614358,
+    616567,
+    659867
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614358
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614358
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2394&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2394",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1179,
+  "finding_hash": "1bdf1d6b5e1c9bbdbb7a2d140bc470e06e307582fe6c01b5e42766df38603d73",
+  "evidence_digest": "sha256:84a36694a1adcf247bc917256ac05127d83721449a0e894538a38dc8e48df746",
+  "gate_id": "fe770ef0b72d421e95cdc685fd6d3fe8",
+  "gate_seq": 1180
+ }
+}

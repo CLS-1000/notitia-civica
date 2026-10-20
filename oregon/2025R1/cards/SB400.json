@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 400",
+ "measure_id": "SB400",
+ "subject": "or_legislature/2025R1/SB400",
+ "title": "Exempts removal-fill projects from the requirement to obtain a permit from the Department of State Lands if the person is required to and does obtain a permit from the United States Army Corps of Engineers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 400 did not pass",
+ "claims": [
+  {
+   "text": "SB 400 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615705
+   ]
+  },
+  {
+   "text": "SB 400 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659027
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615705,
+    617972,
+    659027
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615705
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615705
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 400&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB400",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7308,
+  "finding_hash": "90fce9ce9f0d40d08954fd2469e753427ff7bcfd4428744ab737a32ca979350c",
+  "evidence_digest": "sha256:805f5fca3acda9837c389b7f2086d266c10fc12d99cd6c4581d48a07365a3fcc",
+  "gate_id": "b666b69ce59a4db0866277210e617a54",
+  "gate_seq": 7309
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3334",
+ "measure_id": "HB3334",
+ "subject": "or_legislature/2025R1/HB3334",
+ "title": "Creates an income tax credit for the unreimbursed expenses of certain public school teachers and adjunct instructors.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3334 did not pass",
+ "claims": [
+  {
+   "text": "HB 3334 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618805
+   ]
+  },
+  {
+   "text": "HB 3334 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660312
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618805,
+    619203,
+    660312
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618805
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618805
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3334&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3334",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3999,
+  "finding_hash": "2cd2fc8256c3c4b0e84809344212ee32475d88a32b7b5d201aa71cec4e8031f5",
+  "evidence_digest": "sha256:0e741081314a09e93e56ae5b0e3dccf77e838ac1af98d2a04393ae15fcd0da05",
+  "gate_id": "55d3f33731b746e6a2b25eee7722b594",
+  "gate_seq": 4000
+ }
+}

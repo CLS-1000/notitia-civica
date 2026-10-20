@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3851",
+ "measure_id": "HB3851",
+ "subject": "or_legislature/2025R1/HB3851",
+ "title": "Allows a residential landlord to give 59 days' notice after accepting an offer from a buyer who intends to occupy the premises, to terminate a tenancy.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3851 did not pass",
+ "claims": [
+  {
+   "text": "HB 3851 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625027
+   ]
+  },
+  {
+   "text": "HB 3851 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661284
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625027,
+    626436,
+    661284
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625027
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625027
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3851&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3851",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5550,
+  "finding_hash": "5411c375312e1d1757930c98415fc9b305694c769ddf366e98377585351b3448",
+  "evidence_digest": "sha256:77575a6044fba3eee4f380962304b56133a3767d85b405636ed75d60987c540b",
+  "gate_id": "e0ee311a8b9d444ab53d7771f3f8bd8f",
+  "gate_seq": 5551
+ }
+}

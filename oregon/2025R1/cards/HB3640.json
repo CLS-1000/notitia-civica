@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3640",
+ "measure_id": "HB3640",
+ "subject": "or_legislature/2025R1/HB3640",
+ "title": "Requires that rules adopted by the Department of Consumer and Business Services with respect to the registration of farmworker camps be consistent with federal regulations governing farmworker housing health and safety standards.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3640 did not pass",
+ "claims": [
+  {
+   "text": "HB 3640 was introduced in the House on February 20, 2025.",
+   "row_ids": [
+    623575
+   ]
+  },
+  {
+   "text": "HB 3640 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660568
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623575,
+    623867,
+    660568
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    623575
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623575
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3640&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3640",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4917,
+  "finding_hash": "062d392338113ae2b5bc85db8183ac4069cab7f30f7adcf7a09bef71c4467ef0",
+  "evidence_digest": "sha256:ffc2de10c7d51108622556176b88ea03f28b8d72f80615605fb2c9b736792f35",
+  "gate_id": "1dbe19b005544aac9f0655c2afb7003a",
+  "gate_seq": 4918
+ }
+}

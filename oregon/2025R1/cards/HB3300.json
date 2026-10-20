@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3300",
+ "measure_id": "HB3300",
+ "subject": "or_legislature/2025R1/HB3300",
+ "title": "Establishes the Task Force on Desalination.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3300 did not pass",
+ "claims": [
+  {
+   "text": "HB 3300 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618771
+   ]
+  },
+  {
+   "text": "HB 3300 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661006
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618771,
+    619169,
+    661006
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618771
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618771
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3300&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3300",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3897,
+  "finding_hash": "3c3250808da115bfeedf8befd98a7658bba7d757ac513ee7be094d88f2c677d1",
+  "evidence_digest": "sha256:7db627fa0354fc0568be1786f439f7868245817f8b0cc3971fcdc2e81c651dd2",
+  "gate_id": "14ceec2d97924553b01cb9b9caeccb98",
+  "gate_seq": 3898
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 646",
+ "measure_id": "SB646",
+ "subject": "or_legislature/2025R1/SB646",
+ "title": "Allows a student who is a resident of this state to attend any public school of this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 646 did not pass",
+ "claims": [
+  {
+   "text": "SB 646 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615951
+   ]
+  },
+  {
+   "text": "SB 646 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658840
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615951,
+    618218,
+    658840
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615951
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615951
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 646&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB646",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8046,
+  "finding_hash": "da94764ee2c20369aed54c1e6073e67535fc6cf4487bb55ee5e68cd8be0682f3",
+  "evidence_digest": "sha256:a411db45d2b9305ae4a80bfc34c66132e7440bb1cb0ad35a5eac874b9a594f39",
+  "gate_id": "3e3b02691ec44beb92545f8e5ba2fac5",
+  "gate_seq": 8047
+ }
+}

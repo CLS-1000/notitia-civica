@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 581",
+ "measure_id": "SB581",
+ "subject": "or_legislature/2025R1/SB581",
+ "title": "Creates the psychology provider incentive program within the Oregon Health Authority to provide financial incentives to students enrolled in approved doctoral programs in psychology who complete courses that provide cultural competency training.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 581 did not pass",
+ "claims": [
+  {
+   "text": "SB 581 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615886
+   ]
+  },
+  {
+   "text": "SB 581 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658771
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615886,
+    618153,
+    638098,
+    639403,
+    640972,
+    640973,
+    658771
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615886
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615886
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    638098
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639403
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640972
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 581&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB581",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7851,
+  "finding_hash": "ca4a8c2567ebe9b9add1365d8590df13dcbef3d34ff91a76b23f61375c45180e",
+  "evidence_digest": "sha256:4f02e3be76f4778b421d9f24b4b669c677832ec9a07a767f1d6b0478ee94d1b9",
+  "gate_id": "c5590aed99084abf81d9805f14e4f296",
+  "gate_seq": 7852
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1105",
+ "measure_id": "SB1105",
+ "subject": "or_legislature/2025R1/SB1105",
+ "title": "Directs the child support administrator to adopt rules requiring that child support awards be distributed to a debit card and that the spending of child support payments be limited and monitored by the obligor and obligee for compliance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1105 did not pass",
+ "claims": [
+  {
+   "text": "SB 1105 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624815
+   ]
+  },
+  {
+   "text": "SB 1105 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659208
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624815,
+    625727,
+    659208
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624815
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624815
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1105&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1105",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9423,
+  "finding_hash": "f42358cb74f88bffa5d09b921252af03b1094663061a634982d6c2789ddd95bd",
+  "evidence_digest": "sha256:03315807a2c9fccba5921ca4b8eb19a8292cf9d97130694127000e8c2803bfe0",
+  "gate_id": "a72bf76fc2f143dea81ef3ed83bf9f0b",
+  "gate_seq": 9424
+ }
+}

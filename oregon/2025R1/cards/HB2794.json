@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2794",
+ "measure_id": "HB2794",
+ "subject": "or_legislature/2025R1/HB2794",
+ "title": "Directs a health care facility to establish and maintain procedures that a staff member may use to submit to the health care facility a complaint regarding a medical supply or equipment that the staff member believes in good faith is faulty or dangerous.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2794 did not pass",
+ "claims": [
+  {
+   "text": "HB 2794 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614758
+   ]
+  },
+  {
+   "text": "HB 2794 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660489
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614758,
+    616967,
+    633983,
+    660489
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614758
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614758
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633983
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660489
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2794&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2794",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2379,
+  "finding_hash": "025755b4a3670e8ea3773eac93828b5f0525ae552b7d317d995b3dc85ef2a543",
+  "evidence_digest": "sha256:c0c283a3910bf2db67fa6d64aed86a70a1954b4316ca336f7932d05aac8befba",
+  "gate_id": "2754b89e2a02417ebae0b155541a9083",
+  "gate_seq": 2380
+ }
+}

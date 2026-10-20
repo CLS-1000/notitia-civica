@@ -1,0 +1,107 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2057",
+ "measure_id": "HB2057",
+ "subject": "or_legislature/2025R1/HB2057",
+ "title": "Prohibits insurers offering policies or certificates of health insurance and pharmacy benefit managers from requiring that a claim for reimbursement of a prescription drug include a modifier or other indicator that the drug is a 340B drug.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2057 did not pass",
+ "claims": [
+  {
+   "text": "HB 2057 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614021
+   ]
+  },
+  {
+   "text": "HB 2057 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660196
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614021,
+    616230,
+    627933,
+    635811,
+    660196
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614021
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614021
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627933
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    635811
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660196
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2057&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2057",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 168,
+  "finding_hash": "c8e11b3785bc4ae6b71a4dccb66a8d2f189a8ace5a6de76829982c47895d4470",
+  "evidence_digest": "sha256:e4d1c0b853b9edf9f15cf9167f1aabd4b178c4ce2ff8f121c326a55ceb58f123",
+  "gate_id": "97b57f969eaa499f896dfd0d0a4fd2c7",
+  "gate_seq": 169
+ }
+}

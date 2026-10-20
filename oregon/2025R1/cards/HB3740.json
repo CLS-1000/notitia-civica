@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3740",
+ "measure_id": "HB3740",
+ "subject": "or_legislature/2025R1/HB3740",
+ "title": "Requires school districts and certain private schools to designate athletic competitions and extracurricular sports according to biological sex.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3740 did not pass",
+ "claims": [
+  {
+   "text": "HB 3740 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624424
+   ]
+  },
+  {
+   "text": "HB 3740 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660394
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624424,
+    625285,
+    660394
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624424
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624424
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3740&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3740",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5217,
+  "finding_hash": "e865cde1666373d054e885a316456f0c4563250209d43055db97ff8b243c2ca7",
+  "evidence_digest": "sha256:77d5f8e4a131068194bcb3c9ee543fcb7e860f9079b8d0e1227f98c40a6bcb1e",
+  "gate_id": "007e90f077f14868bce9de278a907272",
+  "gate_seq": 5218
+ }
+}

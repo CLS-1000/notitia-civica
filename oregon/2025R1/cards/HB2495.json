@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2495",
+ "measure_id": "HB2495",
+ "subject": "or_legislature/2025R1/HB2495",
+ "title": "Directs the Oregon Criminal Justice Commission to study the use of technology in improving the efficiency of criminal proceedings, and to provide the results of the study to the appropriate interim committees of the Legislative Assembly no later than December 31, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2495 did not pass",
+ "claims": [
+  {
+   "text": "HB 2495 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614459
+   ]
+  },
+  {
+   "text": "HB 2495 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661460
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614459,
+    616668,
+    661460
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614459
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614459
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2495&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2495",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1482,
+  "finding_hash": "594450a78d6d77cd1ddd6b22ccee4c266f3ef6db55b1894bb34a28a44d43b51f",
+  "evidence_digest": "sha256:913433f8aa252949422ee5bd1cfe388399d57f030cae7605a6b36475fff0070e",
+  "gate_id": "c69ec4494ab4426a9a2f478348f9641c",
+  "gate_seq": 1483
+ }
+}

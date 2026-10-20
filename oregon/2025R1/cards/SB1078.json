@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1078",
+ "measure_id": "SB1078",
+ "subject": "or_legislature/2025R1/SB1078",
+ "title": "Specifies that a public servant's failure to make a mandatory report of suspected child abuse constitutes a crime of official misconduct in the second degree.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1078 did not pass",
+ "claims": [
+  {
+   "text": "SB 1078 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624277
+   ]
+  },
+  {
+   "text": "SB 1078 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659411
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624277,
+    624453,
+    659411
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624277
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624277
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1078&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1078",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9342,
+  "finding_hash": "0258c0a93c3da30e59789f41ad33d5b694a84ac64348a8393cf25b730dfa9487",
+  "evidence_digest": "sha256:e8e0e2e68662dff0cbcb14203a619570393828c700760f43c1474b6dbdf2a366",
+  "gate_id": "64371e1903164b449b685539de16599d",
+  "gate_seq": 9343
+ }
+}

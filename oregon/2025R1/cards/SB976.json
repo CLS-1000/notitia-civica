@@ -1,0 +1,343 @@
+{
+ "session": "2025R1",
+ "measure": "SB 976",
+ "measure_id": "SB976",
+ "subject": "or_legislature/2025R1/SB976",
+ "title": "Allows an individual to verify whether cattle are pregnant without holding a valid license issued by the Oregon State Veterinary Medical Examining Board under certain circumstances.",
+ "outcome": "vetoed",
+ "outcome_label": "Vetoed",
+ "headline": "SB 976 was vetoed by the Governor",
+ "claims": [
+  {
+   "text": "SB 976 was introduced in the Senate on February 4, 2025.",
+   "row_ids": [
+    620438
+   ]
+  },
+  {
+   "text": "The Governor vetoed SB 976 on August 7, 2025.",
+   "row_ids": [
+    662109
+   ]
+  },
+  {
+   "text": "The veto stood (recorded October 1, 2025).",
+   "row_ids": [
+    662908
+   ]
+  },
+  {
+   "text": "Each of the 24 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620438,
+    620463,
+    623666,
+    633836,
+    635738,
+    638393,
+    638394,
+    654675,
+    654677,
+    654676,
+    655908,
+    656462,
+    656657,
+    656912,
+    656938,
+    657013,
+    657647,
+    657867,
+    658139,
+    658406,
+    658520,
+    662109,
+    662182,
+    662908
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620438
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620438
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623666
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    633836
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638393
+   ]
+  },
+  {
+   "date": "2025-06-12",
+   "when": "June 12, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Assigned to a Senate subcommittee",
+   "rule_id": "assigned_subcommittee",
+   "row_ids": [
+    654675
+   ]
+  },
+  {
+   "date": "2025-06-16",
+   "when": "June 16, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    654677
+   ]
+  },
+  {
+   "date": "2025-06-16",
+   "when": "June 16, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Returned to the full Senate committee",
+   "rule_id": "returned_full_committee",
+   "row_ids": [
+    654676
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "when": "June 18, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    655908
+   ]
+  },
+  {
+   "date": "2025-06-20",
+   "when": "June 20, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    656462
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    656657
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    656912
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "S",
+   "state": "passed",
+   "text": "Passed the Senate",
+   "rule_id": "passed",
+   "row_ids": [
+    656912
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Arrived in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    656938
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    656938
+   ]
+  },
+  {
+   "date": "2025-06-25",
+   "when": "June 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    657647
+   ]
+  },
+  {
+   "date": "2025-06-25",
+   "when": "June 25, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    657867
+   ]
+  },
+  {
+   "date": "2025-06-26",
+   "when": "June 26, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "third_reading",
+   "row_ids": [
+    658139
+   ]
+  },
+  {
+   "date": "2025-06-26",
+   "when": "June 26, 2025",
+   "chamber": "H",
+   "state": "passed",
+   "text": "Passed the House",
+   "rule_id": "passed",
+   "row_ids": [
+    658139
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    658406
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    658520
+   ]
+  },
+  {
+   "date": "2025-08-07",
+   "when": "August 7, 2025",
+   "chamber": "S",
+   "state": "vetoed",
+   "text": "Vetoed by the Governor",
+   "rule_id": "governor_vetoed",
+   "row_ids": [
+    662109
+   ]
+  },
+  {
+   "date": "2025-08-29",
+   "when": "August 29, 2025",
+   "chamber": "S",
+   "state": "tabled",
+   "text": "Set aside (tabled) in the Senate",
+   "rule_id": "motion_to_table",
+   "row_ids": [
+    662182
+   ]
+  },
+  {
+   "date": "2025-10-01",
+   "when": "October 1, 2025",
+   "chamber": "S",
+   "state": "veto_sustained",
+   "text": "Veto stood: the Legislature did not override it",
+   "rule_id": "veto_sustained",
+   "row_ids": [
+    662908
+   ]
+  }
+ ],
+ "topics": [
+  "veto"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-10-01",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 976&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB976",
+ "row_count": 24,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9036,
+  "finding_hash": "e9f84576572490767dea0a4e39f6d3b4a0860c2606ecd258ca270128f313d5e0",
+  "evidence_digest": "sha256:41298b99c20ce803b9132ba98b368cfad1f4f094807e4de063877a936e05e2ce",
+  "gate_id": "2568b4ac1f1f4105a758c4452c58a2cc",
+  "gate_seq": 9037
+ }
+}

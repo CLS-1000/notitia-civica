@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 675",
+ "measure_id": "SB675",
+ "subject": "or_legislature/2025R1/SB675",
+ "title": "Lowers the interest rate imposed on unpaid property taxes to one-half of one percent per month.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 675 did not pass",
+ "claims": [
+  {
+   "text": "SB 675 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615980
+   ]
+  },
+  {
+   "text": "SB 675 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658869
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615980,
+    618247,
+    658869
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615980
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615980
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 675&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB675",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8133,
+  "finding_hash": "210d747554fdd032cb265e00210b11af47999884857e6b74e118e22c74459191",
+  "evidence_digest": "sha256:010d5c90c7eb15a52cc33c076d10c563fb4b7ab2cf57e45bcb2a78fcb8146003",
+  "gate_id": "42a11a93f20f485eaf5f0b6ed8ac4f94",
+  "gate_seq": 8134
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 883",
+ "measure_id": "SB883",
+ "subject": "or_legislature/2025R1/SB883",
+ "title": "Prohibits a state agency from enforcing rules requiring vaccination against COVID-19.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 883 did not pass",
+ "claims": [
+  {
+   "text": "SB 883 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618659
+   ]
+  },
+  {
+   "text": "SB 883 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659299
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618659,
+    618830,
+    659299
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618659
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618659
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 883&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB883",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8757,
+  "finding_hash": "ccc888bd84651b2dc2e57f7e6efdc04744672ec8279a465f2d5b19f50e4d894c",
+  "evidence_digest": "sha256:98ff703389461a9454222ab44141992cdfde10103b00156b02376ec3e4385ae9",
+  "gate_id": "69633ead45b649c88d95e1d9ec715923",
+  "gate_seq": 8758
+ }
+}

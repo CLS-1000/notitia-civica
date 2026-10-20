@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3955",
+ "measure_id": "HB3955",
+ "subject": "or_legislature/2025R1/HB3955",
+ "title": "Directs the Higher Education Coordinating Commission to administer a program to provide matching funds for research at Oregon Health and Science University.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3955 did not pass",
+ "claims": [
+  {
+   "text": "HB 3955 was introduced in the House on April 7, 2025.",
+   "row_ids": [
+    638033
+   ]
+  },
+  {
+   "text": "HB 3955 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660653
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    638033,
+    640208,
+    660653
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    638033
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    638033
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3955&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3955",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5862,
+  "finding_hash": "c155079587ee177b029af5dc729e5fbb1c15e8a037521bbada2d2a87aa32d027",
+  "evidence_digest": "sha256:4d712df90b6e19043f9b90789627ddc2303d041f16a15b5abf38f2ef66780ecb",
+  "gate_id": "766c65bf40f74fbab042f3cc66c1d847",
+  "gate_seq": 5863
+ }
+}

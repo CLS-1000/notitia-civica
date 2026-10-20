@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 641",
+ "measure_id": "SB641",
+ "subject": "or_legislature/2025R1/SB641",
+ "title": "Prohibits China or entities under the jurisdiction of China from buying or leasing farmlands.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 641 did not pass",
+ "claims": [
+  {
+   "text": "SB 641 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615946
+   ]
+  },
+  {
+   "text": "SB 641 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658835
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615946,
+    618213,
+    624511,
+    658835
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615946
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615946
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624511
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658835
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 641&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB641",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8031,
+  "finding_hash": "0613cdd3840587384e1006a8a18e0d59af3fd61dc280504f8f7ac6743faa1b33",
+  "evidence_digest": "sha256:c1ea8b8e1c0b668fb1fb0a0d4710857208e4f11d17b717538ead07b306d4a495",
+  "gate_id": "926a22f6f932495da9cab3be29dd097a",
+  "gate_seq": 8032
+ }
+}

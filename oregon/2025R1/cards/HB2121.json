@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2121",
+ "measure_id": "HB2121",
+ "subject": "or_legislature/2025R1/HB2121",
+ "title": "Includes a liquor store agent appointed by the Oregon Liquor and Cannabis Commission in the definition of \"licensee\" for purposes of alcoholic beverages laws.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2121 did not pass",
+ "claims": [
+  {
+   "text": "HB 2121 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614085
+   ]
+  },
+  {
+   "text": "HB 2121 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661275
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614085,
+    616294,
+    620603,
+    661275
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614085
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614085
+   ]
+  },
+  {
+   "date": "2025-02-05",
+   "when": "February 5, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620603
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661275
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2121&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2121",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 360,
+  "finding_hash": "c8f01cde22d75bf183e762c199a29ff7fe5ea0ad9459918f6decc95f4ae4eb39",
+  "evidence_digest": "sha256:74b35c50b1a4c2c16e88c32f2cf111b7db4217903e4a31ad19f1aa49fd2b7141",
+  "gate_id": "42c0bc7d97a04c5d8157f512eb878fe2",
+  "gate_seq": 361
+ }
+}

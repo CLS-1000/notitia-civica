@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 498",
+ "measure_id": "SB498",
+ "subject": "or_legislature/2025R1/SB498",
+ "title": "Redefines \"historic home\" to include dwellings built before 1974 for the purpose of serving as an accessory dwelling unit to a home newly constructed on rural residential lands.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 498 did not pass",
+ "claims": [
+  {
+   "text": "SB 498 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615803
+   ]
+  },
+  {
+   "text": "SB 498 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659335
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615803,
+    618070,
+    659335
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615803
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615803
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 498&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB498",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7602,
+  "finding_hash": "13a321600862a46b1aa5a969b04c7c5549f498a979d3b3013c7593a8f9ef591b",
+  "evidence_digest": "sha256:613adbc89759cab0d016c9407af98afdb9e19fa54131d926f13d3c77676e5cf9",
+  "gate_id": "7f6d6fe55a6b46d09e0f5b4d2a74f1f2",
+  "gate_seq": 7603
+ }
+}

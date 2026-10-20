@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2905",
+ "measure_id": "HB2905",
+ "subject": "or_legislature/2025R1/HB2905",
+ "title": "Authorizes reserve officers sponsored by a law enforcement unit to pay for training as police with cash and G.I. Bill education benefits.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2905 did not pass",
+ "claims": [
+  {
+   "text": "HB 2905 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614869
+   ]
+  },
+  {
+   "text": "HB 2905 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661212
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614869,
+    617078,
+    661212
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614869
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614869
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2905&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2905",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2712,
+  "finding_hash": "59f0b1faccb3ca1dd011c17a04fdd16d7cdccc68f0f292f03adc195097ae668e",
+  "evidence_digest": "sha256:6b744d8cef8b851d7a3089554bc54115b3581aa61418a1880eb887362f66cfcc",
+  "gate_id": "5690cfe22f8449d39f6ccdc4d554494c",
+  "gate_seq": 2713
+ }
+}

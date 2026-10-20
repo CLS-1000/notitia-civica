@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 405",
+ "measure_id": "SB405",
+ "subject": "or_legislature/2025R1/SB405",
+ "title": "Provides that, for the estates of decedents dying on or after January 1, 2026, Oregon estate tax is not due unless the value of the Oregon taxable estate exceeds $13.61 million.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 405 did not pass",
+ "claims": [
+  {
+   "text": "SB 405 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615710
+   ]
+  },
+  {
+   "text": "SB 405 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659032
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615710,
+    617977,
+    622023,
+    659032
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615710
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615710
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622023
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659032
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 405&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB405",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7323,
+  "finding_hash": "d3e78f5893d5d8a3cb385949e33bfd6820472aef01d55953246be9fd1e698d9e",
+  "evidence_digest": "sha256:594d64533dfd88229f7b83bf0f2a90e3b821d59bd23ad228daae4c1a59eddf4f",
+  "gate_id": "3c5cb0f2346542c3ac15f8123f0c8d61",
+  "gate_seq": 7324
+ }
+}

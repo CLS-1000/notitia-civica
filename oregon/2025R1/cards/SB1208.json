@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1208",
+ "measure_id": "SB1208",
+ "subject": "or_legislature/2025R1/SB1208",
+ "title": "Designates March of each year as Plastics Appreciation Month.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1208 did not pass",
+ "claims": [
+  {
+   "text": "SB 1208 was introduced in the Senate on April 23, 2025.",
+   "row_ids": [
+    642463
+   ]
+  },
+  {
+   "text": "SB 1208 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658987
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    642463,
+    642526,
+    658987
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-04-23",
+   "when": "April 23, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    642463
+   ]
+  },
+  {
+   "date": "2025-04-23",
+   "when": "April 23, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    642463
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1208&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1208",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9732,
+  "finding_hash": "2425a5d2f0eb3f952b971552a98d515af669162c305b600a9eb61ee32c835dd0",
+  "evidence_digest": "sha256:75c76201e741541cc8ea64ae7362da69f6446baae2fa893251b6520f01307059",
+  "gate_id": "c417d1c8bda44fbaa2f2e90c4f69f764",
+  "gate_seq": 9733
+ }
+}

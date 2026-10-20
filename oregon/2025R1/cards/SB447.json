@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 447",
+ "measure_id": "SB447",
+ "subject": "or_legislature/2025R1/SB447",
+ "title": "Requires a pharmacy to notify a person to whom a prescription drug is dispensed that the drug manufacturer may offer a patient assistance program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 447 did not pass",
+ "claims": [
+  {
+   "text": "SB 447 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615752
+   ]
+  },
+  {
+   "text": "SB 447 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659077
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615752,
+    618019,
+    659077
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615752
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615752
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 447&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB447",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7449,
+  "finding_hash": "edae45a7ae87339b91c4d1a4bc608c4517904aebd97bae6d55d8860a27258ca6",
+  "evidence_digest": "sha256:97cea9bee803d4128b013499b1ed24441176893f34728e1b25d04fdbdda2f2a5",
+  "gate_id": "488aecd531c24e84b88c6df1876f7a8e",
+  "gate_seq": 7450
+ }
+}

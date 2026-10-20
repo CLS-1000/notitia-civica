@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 560",
+ "measure_id": "SB560",
+ "subject": "or_legislature/2025R1/SB560",
+ "title": "Creates an Oregon personal income tax subtraction for tips received by the taxpayer during the tax year.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 560 did not pass",
+ "claims": [
+  {
+   "text": "SB 560 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615865
+   ]
+  },
+  {
+   "text": "SB 560 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659387
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615865,
+    618132,
+    659387
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615865
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615865
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 560&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB560",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7788,
+  "finding_hash": "fee360269420da4c552251a662e708eba0d6c8cb7f829ea4ff8f16e6f2ea52a0",
+  "evidence_digest": "sha256:e1cb26bb8e931a624eb8e48c6d9cdd6fe4141f8bebc6e0f158d80590dceb4587",
+  "gate_id": "2e8f4d3f2d4e48c4bd75827797f29be1",
+  "gate_seq": 7789
+ }
+}

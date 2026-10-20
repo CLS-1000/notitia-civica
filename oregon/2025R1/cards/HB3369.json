@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3369",
+ "measure_id": "HB3369",
+ "subject": "or_legislature/2025R1/HB3369",
+ "title": "Authorizes the State Treasurer to issue Article XI-Q general obligation bonds to finance expansion of courthouses.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3369 did not pass",
+ "claims": [
+  {
+   "text": "HB 3369 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619420
+   ]
+  },
+  {
+   "text": "HB 3369 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660725
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619420,
+    619792,
+    626109,
+    660725
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619420
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619420
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626109
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660725
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3369&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3369",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4104,
+  "finding_hash": "2b35ce63b2c5b9d11a6d3d578b57a366dcc68ecc5acac5569ee49c54a890dc71",
+  "evidence_digest": "sha256:ff1f31d66047a574914f84b20698b10d969d24f7b308eda190975ac315de6dd4",
+  "gate_id": "7574a69849724b11bdd6cbf63c9bab6e",
+  "gate_seq": 4105
+ }
+}

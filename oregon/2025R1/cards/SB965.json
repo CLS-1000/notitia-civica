@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "SB 965",
+ "measure_id": "SB965",
+ "subject": "or_legislature/2025R1/SB965",
+ "title": "Prohibits an individual from collecting and returning a ballot of another individual, subject to specified exceptions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 965 did not pass",
+ "claims": [
+  {
+   "text": "SB 965 was introduced in the Senate on January 30, 2025.",
+   "row_ids": [
+    619887
+   ]
+  },
+  {
+   "text": "SB 965 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658596
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619887,
+    619909,
+    658596
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    619887
+   ]
+  },
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619887
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 965&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB965",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9003,
+  "finding_hash": "40bc3272258e976abd3b02867e463590a18052f45a5cdce272b434e4f7761e4d",
+  "evidence_digest": "sha256:8f4014d503e6ebbc59051454b5db5b4f5e9e3e45be69a5dfba89002ca8a66145",
+  "gate_id": "1da91967abd4456c8bef6ad69d868d70",
+  "gate_seq": 9004
+ }
+}

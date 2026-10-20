@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2064",
+ "measure_id": "HB2064",
+ "subject": "or_legislature/2025R1/HB2064",
+ "title": "Requires the Public Utility Commission to take certain actions to support the operations of microgrids and community microgrids.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2064 did not pass",
+ "claims": [
+  {
+   "text": "HB 2064 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614028
+   ]
+  },
+  {
+   "text": "HB 2064 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661404
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614028,
+    616237,
+    620830,
+    661404
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614028
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614028
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620830
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661404
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2064&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2064",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 189,
+  "finding_hash": "9f5683fb7c2609e067bd38fd778b680385a6b92484562ff8e3ff40d889a89f62",
+  "evidence_digest": "sha256:d692cc55cb82aa105189dbcaf4bbde9baff53a1d91d7472ba439c94cf73bdf35",
+  "gate_id": "2b527b7215bc458f8493492a9e3f7125",
+  "gate_seq": 190
+ }
+}

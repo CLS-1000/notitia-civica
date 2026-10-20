@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2655",
+ "measure_id": "HB2655",
+ "subject": "or_legislature/2025R1/HB2655",
+ "title": "Requires the Housing and Community Services Department to develop a housing stipend pilot program to provide housing stipends to individuals to move to a city where their labor is expected to benefit economic development of the city.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2655 did not pass",
+ "claims": [
+  {
+   "text": "HB 2655 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614619
+   ]
+  },
+  {
+   "text": "HB 2655 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660086
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614619,
+    616828,
+    660086
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614619
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614619
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2655&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2655",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1962,
+  "finding_hash": "2396b8c445d45e83b001c9c6593ba7bed1b282b3059ce1842640a842e04b4424",
+  "evidence_digest": "sha256:7130691807ad5765cb45f5fd1a1c14d45ba768f81dc5a0ff129a166aeded65ba",
+  "gate_id": "f5221f6cd6af4c51a62a68e3c2b903de",
+  "gate_seq": 1963
+ }
+}

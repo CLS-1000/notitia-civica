@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2616",
+ "measure_id": "HB2616",
+ "subject": "or_legislature/2025R1/HB2616",
+ "title": "Directs the Oregon Criminal Justice Commission to study recidivism rates of persons granted a pardon and to provide the results of the study to the appropriate interim committees of the Legislative Assembly no later than December 31, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2616 did not pass",
+ "claims": [
+  {
+   "text": "HB 2616 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614580
+   ]
+  },
+  {
+   "text": "HB 2616 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660752
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614580,
+    616789,
+    660752
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614580
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614580
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2616&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2616",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1845,
+  "finding_hash": "274169ec6dab32e0b9a1ec5707255c74a491252414f27a1bd2326ba109061c90",
+  "evidence_digest": "sha256:e9192001288fc876c605917a7c976ae33616f1ddc244f15c2cb3ecab1e601ac7",
+  "gate_id": "2f2a7c0ea0f24a499bb3660c54473e2a",
+  "gate_seq": 1846
+ }
+}

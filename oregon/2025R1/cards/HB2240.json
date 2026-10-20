@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2240",
+ "measure_id": "HB2240",
+ "subject": "or_legislature/2025R1/HB2240",
+ "title": "Requires the Department of Consumer and Business Services to study workers' compensation in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2240 did not pass",
+ "claims": [
+  {
+   "text": "HB 2240 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614204
+   ]
+  },
+  {
+   "text": "HB 2240 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660245
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614204,
+    616413,
+    660245
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614204
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614204
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2240&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2240",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 717,
+  "finding_hash": "c099f3ed1122d1ae052c634b134eedb4b88676a67e8d5798bc82a1bf209d243d",
+  "evidence_digest": "sha256:ada7df4a275a4a3f329dcc274eb4e6369eeb378fd6b62af79529241594b64f99",
+  "gate_id": "4451cf59063a419c828f6e7183c56755",
+  "gate_seq": 718
+ }
+}

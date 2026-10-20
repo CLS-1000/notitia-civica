@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1192",
+ "measure_id": "SB1192",
+ "subject": "or_legislature/2025R1/SB1192",
+ "title": "Provides that the Water Resources Director may not forcibly convert a hydroelectric water right whose holder has ceased generating electricity on instruction from the Federal Energy Regulatory Commission if certain other criteria are met.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1192 did not pass",
+ "claims": [
+  {
+   "text": "SB 1192 was introduced in the Senate on March 20, 2025.",
+   "row_ids": [
+    630178
+   ]
+  },
+  {
+   "text": "SB 1192 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659569
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    630178,
+    630211,
+    659569
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    630178
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    630178
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1192&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1192",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9684,
+  "finding_hash": "f7e23c548d638958ece97f79dc4a432c6a326ad1983bfd96055b21724c647ed3",
+  "evidence_digest": "sha256:d2361e314537148f31a5fe7db08da22560a9ee33e89f8a24146c2833e871024c",
+  "gate_id": "4a1f6d7c8e5d4f97b20171e24a608ac5",
+  "gate_seq": 9685
+ }
+}

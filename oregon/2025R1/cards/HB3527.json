@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3527",
+ "measure_id": "HB3527",
+ "subject": "or_legislature/2025R1/HB3527",
+ "title": "Establishes the Public Drinking Water, Stormwater and Sewer Ratepayer Assistance Fund.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3527 did not pass",
+ "claims": [
+  {
+   "text": "HB 3527 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621733
+   ]
+  },
+  {
+   "text": "HB 3527 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660580
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621733,
+    622071,
+    622678,
+    631872,
+    633347,
+    633348,
+    660580
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621733
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621733
+   ]
+  },
+  {
+   "date": "2025-02-17",
+   "when": "February 17, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622678
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    631872
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    633347
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3527&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3527",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4578,
+  "finding_hash": "42b9476e124d18cd1f0d38341e29cc95702ddd0966ed7e7166950855d7aac61c",
+  "evidence_digest": "sha256:62272fd309334ee29e8bf2610499158b9565e1e61b556e3229dbf144e941a1f1",
+  "gate_id": "8a5c9c386c2a48a8b54af5df33ad81e7",
+  "gate_seq": 4579
+ }
+}

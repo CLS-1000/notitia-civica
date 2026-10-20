@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3394",
+ "measure_id": "HB3394",
+ "subject": "or_legislature/2025R1/HB3394",
+ "title": "Requires the Department of Justice to study public meetings.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3394 did not pass",
+ "claims": [
+  {
+   "text": "HB 3394 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619445
+   ]
+  },
+  {
+   "text": "HB 3394 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659908
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619445,
+    619817,
+    659908
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619445
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619445
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3394&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3394",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4179,
+  "finding_hash": "c2037984fd726643dae21e4d7e46ac9423bdb68a3dcd7201503bac719e28ea26",
+  "evidence_digest": "sha256:4cdf0dac95019a4564850ca0a2cb5c74676a5dccd32b81dd2a2dcede702b9179",
+  "gate_id": "2a1ce9c4ae684aa4a4793b5def5653fa",
+  "gate_seq": 4180
+ }
+}

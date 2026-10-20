@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2606",
+ "measure_id": "HB2606",
+ "subject": "or_legislature/2025R1/HB2606",
+ "title": "Requires the Department of State Police to study the efficiency of firearm transfer criminal background checks.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2606 did not pass",
+ "claims": [
+  {
+   "text": "HB 2606 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614570
+   ]
+  },
+  {
+   "text": "HB 2606 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660744
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614570,
+    616779,
+    660744
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614570
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614570
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2606&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2606",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1815,
+  "finding_hash": "e46d7f3ce8af5f4015db3741afdf2e8228d5b31e08ffd4b73cb6a18b95180a6c",
+  "evidence_digest": "sha256:5052b84aa7f1e9ee3efa854fc0404b85d80a07ce520c6ee982e2636cf2a6b33f",
+  "gate_id": "3e9a58a179c94b1aa0ee2241d6aaa0b7",
+  "gate_seq": 1816
+ }
+}

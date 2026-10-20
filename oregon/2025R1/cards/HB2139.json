@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2139",
+ "measure_id": "HB2139",
+ "subject": "or_legislature/2025R1/HB2139",
+ "title": "Requires the Housing and Community Services Department to provide grants to eligible, federally recognized Indian tribes in Oregon to address housing and homelessness prevention within the tribal community.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2139 did not pass",
+ "claims": [
+  {
+   "text": "HB 2139 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614103
+   ]
+  },
+  {
+   "text": "HB 2139 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660051
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614103,
+    616312,
+    621532,
+    623388,
+    624069,
+    624070,
+    660051
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614103
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614103
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "when": "February 10, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621532
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "when": "February 19, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    623388
+   ]
+  },
+  {
+   "date": "2025-02-24",
+   "when": "February 24, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    624069
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2139&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2139",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 414,
+  "finding_hash": "a7e098da72981bcf43ba4e8ff6614148f5d33344d0224fe581be4602f1f67e11",
+  "evidence_digest": "sha256:502203fd22f8acf276678498e476b3203a8fefc104570c608613dabb518b5f1d",
+  "gate_id": "777cfaafd94b4de7960fd46df9597880",
+  "gate_seq": 415
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3944",
+ "measure_id": "HB3944",
+ "subject": "or_legislature/2025R1/HB3944",
+ "title": "Repeals provisions related to building code standards for wildfire hazard mitigation, defensible space requirements, fire protection for lands outside forest protection districts and the wildfire hazard map.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3944 did not pass",
+ "claims": [
+  {
+   "text": "HB 3944 was introduced in the House on March 20, 2025.",
+   "row_ids": [
+    630037
+   ]
+  },
+  {
+   "text": "HB 3944 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661113
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    630037,
+    630282,
+    638824,
+    640533,
+    640534,
+    661113
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    630037
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    630037
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    638824
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    640533
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3944&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3944",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5829,
+  "finding_hash": "8b2d24d14a2df79bd34ce5e46f11836f447406e3e970c301c1794da2519c1d44",
+  "evidence_digest": "sha256:5f05925a36b9d99361dfb32e13704c08f2c1e4f01d91f5cf866791b9204cd0cc",
+  "gate_id": "8b6ffd169a5b41adb4785003192f7686",
+  "gate_seq": 5830
+ }
+}

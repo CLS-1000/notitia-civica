@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 406",
+ "measure_id": "SB406",
+ "subject": "or_legislature/2025R1/SB406",
+ "title": "Declares a policy of the state to use zero-based budgeting in developing the biennial budget plan.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 406 did not pass",
+ "claims": [
+  {
+   "text": "SB 406 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615711
+   ]
+  },
+  {
+   "text": "SB 406 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659033
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615711,
+    617978,
+    659033
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615711
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615711
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 406&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB406",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7326,
+  "finding_hash": "602fef638ca00e1fe648e789ca8ec9c6608f960a9c75b7ba2d9bb6a2705375fa",
+  "evidence_digest": "sha256:9d054ad2c58a38ae47c4d467779e31b4b094dd055d823217995deba1415c9fc4",
+  "gate_id": "4f73f1699fa74cc39b5d73cd75993601",
+  "gate_seq": 7327
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 491",
+ "measure_id": "SB491",
+ "subject": "or_legislature/2025R1/SB491",
+ "title": "Directs an arresting officer to notify federal immigration authorities when a person is arrested for delivery or manufacture of a controlled substance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 491 did not pass",
+ "claims": [
+  {
+   "text": "SB 491 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615796
+   ]
+  },
+  {
+   "text": "SB 491 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659329
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615796,
+    618063,
+    659329
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615796
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615796
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 491&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB491",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7581,
+  "finding_hash": "84247ef872981c579ba89cf9aff95b1aa51efc91444cc642c9665c979e525e7a",
+  "evidence_digest": "sha256:ed3ffbde132ed30bf904f3585de2b6a27df80c4f4192235e27b0f427832fff96",
+  "gate_id": "79b11bd41b21429b99eaad7a97ab8938",
+  "gate_seq": 7582
+ }
+}

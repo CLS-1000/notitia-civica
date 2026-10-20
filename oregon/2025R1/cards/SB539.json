@@ -1,0 +1,133 @@
+{
+ "session": "2025R1",
+ "measure": "SB 539",
+ "measure_id": "SB539",
+ "subject": "or_legislature/2025R1/SB539",
+ "title": "Requires a hospital or the hospital's health system to report annually to the Oregon Health Authority certain information regarding facility fees that are charged or billed for patient visits at the hospital's or health system's hospital-based facilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 539 did not pass",
+ "claims": [
+  {
+   "text": "SB 539 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615844
+   ]
+  },
+  {
+   "text": "SB 539 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659373
+   ]
+  },
+  {
+   "text": "Each of the 9 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615844,
+    618111,
+    628689,
+    639113,
+    649559,
+    649646,
+    650124,
+    650491,
+    659373
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615844
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615844
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628689
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639113
+   ]
+  },
+  {
+   "date": "2025-05-23",
+   "when": "May 23, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    649559
+   ]
+  },
+  {
+   "date": "2025-05-27",
+   "when": "May 27, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    649646
+   ]
+  },
+  {
+   "date": "2025-05-29",
+   "when": "May 29, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "motion_carried_refer",
+   "row_ids": [
+    650491
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 539&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB539",
+ "row_count": 9,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7725,
+  "finding_hash": "730ce34a6593f125437b2620437364519c4cd35d58588e454ed83b17708b2bb3",
+  "evidence_digest": "sha256:cc17817327ac26d4e101770756cf45da0c6964b67cd382689c80b5f3ce2be6ab",
+  "gate_id": "08a39a6c737047488fb4b94760475d8e",
+  "gate_seq": 7726
+ }
+}

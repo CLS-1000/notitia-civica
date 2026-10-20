@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 683",
+ "measure_id": "SB683",
+ "subject": "or_legislature/2025R1/SB683",
+ "title": "Requires the Oregon Health Authority to conduct a study every two years to count the number of licensed and actively practicing primary care physicians in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 683 did not pass",
+ "claims": [
+  {
+   "text": "SB 683 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615988
+   ]
+  },
+  {
+   "text": "SB 683 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658883
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615988,
+    618255,
+    629594,
+    639116,
+    640572,
+    640573,
+    658883
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615988
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615988
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629594
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639116
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640572
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 683&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB683",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8157,
+  "finding_hash": "68ebe6f4af4d2f1c554c8394317636e65b28d6461d1e7db1c8d48d0bbb3342b1",
+  "evidence_digest": "sha256:0f46652508ac3d2cc7fb943f6a07cfdaf671dd583e7c7e9850b13f4dc6475d60",
+  "gate_id": "00ffc693d16a4460922afd4338d9207b",
+  "gate_seq": 8158
+ }
+}

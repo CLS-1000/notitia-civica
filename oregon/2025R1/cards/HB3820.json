@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3820",
+ "measure_id": "HB3820",
+ "subject": "or_legislature/2025R1/HB3820",
+ "title": "Requires the Department of Environmental Quality to study the Climate Protection Program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3820 did not pass",
+ "claims": [
+  {
+   "text": "HB 3820 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624996
+   ]
+  },
+  {
+   "text": "HB 3820 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660525
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624996,
+    626405,
+    660525
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624996
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624996
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3820&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3820",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5457,
+  "finding_hash": "0ccca896e970cb01c3e57f2bc83d75b900ae148451120e5844dc349babc1cb93",
+  "evidence_digest": "sha256:e903e5f68006664a1ba2719367ca5923c79c07afccbebc3a9e84f58785ff96d9",
+  "gate_id": "7438734c1d8d4d9f920de6f0372b15ee",
+  "gate_seq": 5458
+ }
+}

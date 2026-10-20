@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3480",
+ "measure_id": "HB3480",
+ "subject": "or_legislature/2025R1/HB3480",
+ "title": "Requires the Department of Transportation to study the development of uniform standards for speed bump height and markings.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3480 did not pass",
+ "claims": [
+  {
+   "text": "HB 3480 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620353
+   ]
+  },
+  {
+   "text": "HB 3480 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660640
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620353,
+    621026,
+    660640
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620353
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620353
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3480&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3480",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4437,
+  "finding_hash": "697e04d36fdf231058a1f0ca85794fe934849488b07eec221a083b927aa783dd",
+  "evidence_digest": "sha256:2a56a1e59b2cef67ae97aa6fe79f7efd90b7573cf183536846467f380e3ce130",
+  "gate_id": "b5db6c5d038343dfb2ac61f7e70d208c",
+  "gate_seq": 4438
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2096",
+ "measure_id": "HB2096",
+ "subject": "or_legislature/2025R1/HB2096",
+ "title": "Provides for a process by which former owners of real property deeded to the county for delinquent property taxes may claim the surplus value after the property has been disposed of by the county.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2096 did not pass",
+ "claims": [
+  {
+   "text": "HB 2096 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614060
+   ]
+  },
+  {
+   "text": "HB 2096 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660630
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614060,
+    616269,
+    620005,
+    660630
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614060
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614060
+   ]
+  },
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620005
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660630
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2096&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2096",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 285,
+  "finding_hash": "705f757e0f0b1e48e6e9422b732d64881e5a78789a387956375fb67b10d6d9a1",
+  "evidence_digest": "sha256:13e49b1158dc4b1971f7df8389e9fd3377550b944d3fc1ba5e24c51e735033a6",
+  "gate_id": "33fb7df57f2540169808246fbd2a4b97",
+  "gate_seq": 286
+ }
+}

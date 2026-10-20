@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2839",
+ "measure_id": "HB2839",
+ "subject": "or_legislature/2025R1/HB2839",
+ "title": "Appropriates moneys from the General Fund to the Oregon Military Department for the Service Member and Family Support Program in the biennium beginning July 1, 2025.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2839 did not pass",
+ "claims": [
+  {
+   "text": "HB 2839 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614803
+   ]
+  },
+  {
+   "text": "HB 2839 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660674
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614803,
+    617012,
+    660674
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614803
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614803
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2839&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2839",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2514,
+  "finding_hash": "871a8e4f1c9bb99bff9a77cb3e7e14b2e8f990abc37d1559da097c5b2769dbd3",
+  "evidence_digest": "sha256:8a58a927020726d9249dccde058708748bd4e85242544ee82cb204c15e0dd67f",
+  "gate_id": "e8c532447f8446af931bcd9bdab47222",
+  "gate_seq": 2515
+ }
+}

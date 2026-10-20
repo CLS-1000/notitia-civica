@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 716",
+ "measure_id": "SB716",
+ "subject": "or_legislature/2025R1/SB716",
+ "title": "Requires a policy or certificate of health insurance to reimburse medical care provided at an eligible urgent care center in an amount that is 20 percent higher for the same services when the services are provided at an urgent care center that is not eligible.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 716 did not pass",
+ "claims": [
+  {
+   "text": "SB 716 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616021
+   ]
+  },
+  {
+   "text": "SB 716 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658910
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616021,
+    618288,
+    630535,
+    639125,
+    640575,
+    640576,
+    658910
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616021
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616021
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    630535
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639125
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640575
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 716&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB716",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8256,
+  "finding_hash": "496a8a3fd69b607ad54a119eae12fed0f66c5bd29888045008f55cd2be0ab1c7",
+  "evidence_digest": "sha256:b1b7cc696a7fbceb690873f584df1b7f77236708003599bc27b2f0bee4ff7842",
+  "gate_id": "712b88ea3f2a4202b35cd45c7578277f",
+  "gate_seq": 8257
+ }
+}

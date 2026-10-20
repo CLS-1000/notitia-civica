@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1027",
+ "measure_id": "SB1027",
+ "subject": "or_legislature/2025R1/SB1027",
+ "title": "Directs the Joint Legislative Audit Committee to cause an audit of the Secretary of State Elections Division to be performed to assess the integrity of elections in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1027 did not pass",
+ "claims": [
+  {
+   "text": "SB 1027 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623037
+   ]
+  },
+  {
+   "text": "SB 1027 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659002
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623037,
+    623109,
+    659002
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623037
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623037
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1027&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1027",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9189,
+  "finding_hash": "740501b03984b9e67ce6b4767ae28d8cf7ed257a0b195052ed0ffa3733fe7f14",
+  "evidence_digest": "sha256:1d02e91e4d7bde9c58d729664da793ae4a57f44a058e6673b90ed423b2292102",
+  "gate_id": "a965e4ecb5794997a3814a5e3462de96",
+  "gate_seq": 9190
+ }
+}

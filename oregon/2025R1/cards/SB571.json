@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 571",
+ "measure_id": "SB571",
+ "subject": "or_legislature/2025R1/SB571",
+ "title": "Requires the Oregon Department of Administrative Services to study road infrastructure as it relates to housing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 571 did not pass",
+ "claims": [
+  {
+   "text": "SB 571 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615876
+   ]
+  },
+  {
+   "text": "SB 571 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659147
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615876,
+    618143,
+    659147
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615876
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615876
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 571&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB571",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7821,
+  "finding_hash": "472bc5a6787393122f72055938d878f3b89dc831874e944fca52285c45a50cd5",
+  "evidence_digest": "sha256:50dee20fdbfa9caf9f6597bea6607a74c4fa6aae3880b3c61b1206185e8c763b",
+  "gate_id": "a9dd1d1379244cf88af8988e7f8813d0",
+  "gate_seq": 7822
+ }
+}

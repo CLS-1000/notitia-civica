@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 411",
+ "measure_id": "SB411",
+ "subject": "or_legislature/2025R1/SB411",
+ "title": "Modifies the existing administrative rule review process to require legislative approval of newly adopted administrative rules in order for the rules to take effect.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 411 did not pass",
+ "claims": [
+  {
+   "text": "SB 411 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615716
+   ]
+  },
+  {
+   "text": "SB 411 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659038
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615716,
+    617983,
+    659038
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615716
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615716
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 411&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB411",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7341,
+  "finding_hash": "74a1162839d93c0bccfad9f1d421639dfc2092593f6bbaf047ab1b8c687ef1e7",
+  "evidence_digest": "sha256:15b09e0eaf88d600152a2caeea864927c90be33372fb16350e693f93a7a023eb",
+  "gate_id": "023f5b1cbfa8411e861991582ed1319a",
+  "gate_seq": 7342
+ }
+}

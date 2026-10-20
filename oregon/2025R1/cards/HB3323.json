@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3323",
+ "measure_id": "HB3323",
+ "subject": "or_legislature/2025R1/HB3323",
+ "title": "Authorizes a driver improvement course as an alternative to conviction of a traffic violation for a person 18 years of age or less whose driving record shows no prior convictions of traffic offenses.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3323 did not pass",
+ "claims": [
+  {
+   "text": "HB 3323 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618794
+   ]
+  },
+  {
+   "text": "HB 3323 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661027
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618794,
+    619192,
+    623725,
+    639057,
+    640095,
+    640096,
+    661027
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618794
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618794
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623725
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639057
+   ]
+  },
+  {
+   "date": "2025-04-11",
+   "when": "April 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640095
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3323&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3323",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3966,
+  "finding_hash": "3cf0e9f26b3f15fa0e7e4739d89ae6c74c77b59ef260beb715130c6a9dc35430",
+  "evidence_digest": "sha256:b36581e6d05a41a8b474e4f964995751a1e8884a78f5d7e00086230639b8b592",
+  "gate_id": "8d3df5357d4445d8aff468a3a8056b1d",
+  "gate_seq": 3967
+ }
+}

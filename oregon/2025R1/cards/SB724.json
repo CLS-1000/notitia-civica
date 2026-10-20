@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 724",
+ "measure_id": "SB724",
+ "subject": "or_legislature/2025R1/SB724",
+ "title": "Requires the Department of Corrections to study the Corrections Ombudsman.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 724 did not pass",
+ "claims": [
+  {
+   "text": "SB 724 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616029
+   ]
+  },
+  {
+   "text": "SB 724 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658918
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616029,
+    618296,
+    658918
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616029
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616029
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 724&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB724",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8280,
+  "finding_hash": "222491cafca435d25156ec9cf3a42be3fafd0cd265fd4500660311622b830bf0",
+  "evidence_digest": "sha256:7ac7adf6898f3d8e74668ea0b926e98110b949cfaf0d7b21bcc674294ec1e848",
+  "gate_id": "73c2900c0cb24c06976bc9b69c5c4c37",
+  "gate_seq": 8281
+ }
+}

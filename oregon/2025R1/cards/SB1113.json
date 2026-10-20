@@ -1,0 +1,107 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1113",
+ "measure_id": "SB1113",
+ "subject": "or_legislature/2025R1/SB1113",
+ "title": "Modifies provisions regarding the use of restraints and involuntary seclusion on certain young people.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1113 did not pass",
+ "claims": [
+  {
+   "text": "SB 1113 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624823
+   ]
+  },
+  {
+   "text": "SB 1113 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659214
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624823,
+    625735,
+    633395,
+    636899,
+    659214
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624823
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624823
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633395
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636899
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659214
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1113&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1113",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9447,
+  "finding_hash": "2c86a41610aa5e9c36cdbcde44ddeec95046852ae658b9f34ad55bf87d224b13",
+  "evidence_digest": "sha256:f4040ad3f8df6491646cee67b47e01acfcee4bbc0bc072705c9098f17f7423ac",
+  "gate_id": "1f2aee3c117540e592192a85543e71e7",
+  "gate_seq": 9448
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 750",
+ "measure_id": "SB750",
+ "subject": "or_legislature/2025R1/SB750",
+ "title": "Directs the Oregon Department of Administrative Services to establish a pilot project to pay employees of the Department of State Police biweekly.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 750 did not pass",
+ "claims": [
+  {
+   "text": "SB 750 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616055
+   ]
+  },
+  {
+   "text": "SB 750 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659158
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616055,
+    618322,
+    659158
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616055
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616055
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 750&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB750",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8358,
+  "finding_hash": "731c7b7b1f5757c1ba261ae2440aa0a0fda3d45368a95ed7533598e7d30747a3",
+  "evidence_digest": "sha256:cd1de0e6614ae38ca5a1e3124eef6e945e4f5c39c4ddf0cf2ac9f0ac9498bee4",
+  "gate_id": "e68915e715f34d4a844d42437b31fb6f",
+  "gate_seq": 8359
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 429",
+ "measure_id": "SB429",
+ "subject": "or_legislature/2025R1/SB429",
+ "title": "Prohibits a gun dealer from transferring a firearm or unfinished frame or receiver until 72 hours have elapsed from the time the gun dealer requested a criminal background check, and the gun dealer has received the background check approval number from the Department of State Police.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 429 did not pass",
+ "claims": [
+  {
+   "text": "SB 429 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615734
+   ]
+  },
+  {
+   "text": "SB 429 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659062
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615734,
+    618001,
+    659062
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615734
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615734
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 429&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB429",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7395,
+  "finding_hash": "3d9170fa3855307f63fcf0a7dc7132013d316a03212fdfe34596579283f16d1e",
+  "evidence_digest": "sha256:193e9c4a1c724633edd97f799361343166ed25bf983482682561fcd039987ebb",
+  "gate_id": "51aa2a3dfe8949f08d91b53cf3ff8b3e",
+  "gate_seq": 7396
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3215",
+ "measure_id": "HB3215",
+ "subject": "or_legislature/2025R1/HB3215",
+ "title": "Allows chambers of commerce, community-based organizations, industry trade associations, corporations and nonprofit organizations to sponsor a public charter school.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3215 did not pass",
+ "claims": [
+  {
+   "text": "HB 3215 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615179
+   ]
+  },
+  {
+   "text": "HB 3215 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660170
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615179,
+    617388,
+    660170
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615179
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615179
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3215&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3215",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3642,
+  "finding_hash": "34efc675376d26e81a3a0340dae144e13a6a7b6555f36c446861003156e051ab",
+  "evidence_digest": "sha256:084efda7e2f40146bdd4e11f4cc2e62a81a4c7836a29e64e6bdc45884aa5c2fe",
+  "gate_id": "00f6c4a2a8ac4ee8b3d6bbdcfffe48ab",
+  "gate_seq": 3643
+ }
+}

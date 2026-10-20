@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2230",
+ "measure_id": "HB2230",
+ "subject": "or_legislature/2025R1/HB2230",
+ "title": "Creates the crime of unlawful creation, possession, distribution or purchase of an explicit digital forgery in the first degree.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2230 did not pass",
+ "claims": [
+  {
+   "text": "HB 2230 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614194
+   ]
+  },
+  {
+   "text": "HB 2230 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660236
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614194,
+    616403,
+    660236
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614194
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614194
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2230&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2230",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 687,
+  "finding_hash": "e18064865bd8c8da74135ed673fee9cc37118cef5e284c5d6ee9265b3fc7f238",
+  "evidence_digest": "sha256:3f6589accb72f6f48456d7af732e0c9a44d21a147d233039d8fd58285fa9f4f9",
+  "gate_id": "75e08cb03d0f447381422ea64d30be0d",
+  "gate_seq": 688
+ }
+}

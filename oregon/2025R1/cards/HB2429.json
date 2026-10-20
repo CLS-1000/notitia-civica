@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2429",
+ "measure_id": "HB2429",
+ "subject": "or_legislature/2025R1/HB2429",
+ "title": "Modifies provisions authorizing unemancipated minors to consent to health care services without parental consent.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2429 did not pass",
+ "claims": [
+  {
+   "text": "HB 2429 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614393
+   ]
+  },
+  {
+   "text": "HB 2429 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660075
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614393,
+    616602,
+    660075
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614393
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614393
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2429&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2429",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1284,
+  "finding_hash": "3718e9acb392bff1e51d72389a8a53a5e28eb69c968c80f77c4b0d48f79ae149",
+  "evidence_digest": "sha256:12f1d8fab9dc96aefdf4284b44c24166f4622f941f1dcf3f93f25a6b5f7c26e6",
+  "gate_id": "d0d8af5b03a24a208554649f4bf13ccc",
+  "gate_seq": 1285
+ }
+}

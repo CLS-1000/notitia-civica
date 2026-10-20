@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3099",
+ "measure_id": "HB3099",
+ "subject": "or_legislature/2025R1/HB3099",
+ "title": "Allocates lottery moneys for distribution to the economic development districts in Oregon to be used to receive federal matching grants awarded by the United States Economic Development Administration.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3099 did not pass",
+ "claims": [
+  {
+   "text": "HB 3099 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615063
+   ]
+  },
+  {
+   "text": "HB 3099 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659990
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615063,
+    617272,
+    627311,
+    632827,
+    635075,
+    635076,
+    659990
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615063
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615063
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627311
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632827
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    635075
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3099&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3099",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3294,
+  "finding_hash": "7a6b491c2316f97fb4a0c4f8598338af6a6e8ed070ebcc8c1855a358ad5587ce",
+  "evidence_digest": "sha256:058a8aa7e053b5996fb54c79ab30e465d576404a6d3754438b932d967d076b59",
+  "gate_id": "ad1ca3de92034b0aaab3afd1576bf2f5",
+  "gate_seq": 3295
+ }
+}

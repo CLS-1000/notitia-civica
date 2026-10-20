@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3320",
+ "measure_id": "HB3320",
+ "subject": "or_legislature/2025R1/HB3320",
+ "title": "Requires the Legislative Revenue Officer to study the means of granting a tax benefit to emergency management volunteers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3320 did not pass",
+ "claims": [
+  {
+   "text": "HB 3320 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618791
+   ]
+  },
+  {
+   "text": "HB 3320 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661024
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618791,
+    619189,
+    661024
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618791
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618791
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3320&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3320",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3957,
+  "finding_hash": "afd286295fbc2ef2013e3514382528018a47b303e656ddbe253864ee4fdb3a1c",
+  "evidence_digest": "sha256:b0e302797bc93a71f41768c68996be7301963b5efc4b22b2c90d87e5c7b116cf",
+  "gate_id": "5ba3356d57874ff48838d6e3d2c1a40f",
+  "gate_seq": 3958
+ }
+}

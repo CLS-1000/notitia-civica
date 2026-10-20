@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3758",
+ "measure_id": "HB3758",
+ "subject": "or_legislature/2025R1/HB3758",
+ "title": "Allows a city to expand its urban growth boundary in proportion to the unbuildable lands within the city's buildable lands inventory.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3758 did not pass",
+ "claims": [
+  {
+   "text": "HB 3758 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624934
+   ]
+  },
+  {
+   "text": "HB 3758 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661331
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624934,
+    626343,
+    661331
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624934
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624934
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3758&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3758",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5271,
+  "finding_hash": "bfde3e3ae225dbccabf20fc88b63ed6eb21f090f18e25a7c0f6090faa85ada7f",
+  "evidence_digest": "sha256:ef2ae8b03a536b691480aa26756bea4425e016ff4ba0943e1290c23d61861db5",
+  "gate_id": "391474be85ca4b66b4bbcb5bcb8bb772",
+  "gate_seq": 5272
+ }
+}

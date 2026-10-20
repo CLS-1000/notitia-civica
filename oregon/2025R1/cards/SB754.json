@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 754",
+ "measure_id": "SB754",
+ "subject": "or_legislature/2025R1/SB754",
+ "title": "Permits a labor organization to file a civil action against a public employer for failing to timely provide the labor organization with certain information regarding public employees.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 754 did not pass",
+ "claims": [
+  {
+   "text": "SB 754 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616058
+   ]
+  },
+  {
+   "text": "SB 754 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659161
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616058,
+    618325,
+    623435,
+    659161
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616058
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616058
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623435
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659161
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 754&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB754",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8370,
+  "finding_hash": "1137dbd540c0a62eb632339103669205fd92507bc064e759d44cf5f8c45cab8c",
+  "evidence_digest": "sha256:14dd0eb8e4fd25e91fcc44c83eff82adb31afe687a9252591ed47b32cd8bd480",
+  "gate_id": "7def6ce3eb55407b89702ec70eb6c5af",
+  "gate_seq": 8371
+ }
+}

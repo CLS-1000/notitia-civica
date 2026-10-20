@@ -1,0 +1,73 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1138",
+ "measure_id": "SB1138",
+ "subject": "or_legislature/2025R1/SB1138",
+ "title": "Establishes the Home and Community-Based Services Workforce Standards Board.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1138 did not pass",
+ "claims": [
+  {
+   "text": "SB 1138 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624848
+   ]
+  },
+  {
+   "text": "SB 1138 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659233
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624848,
+    625760,
+    629292,
+    659233
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624848
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624848
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1138&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1138",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9522,
+  "finding_hash": "4f9edffccae9b63f56d4ed8c52f21f9f64854062fdc40c1a868295350fcb9e28",
+  "evidence_digest": "sha256:2ee889412798f32530fddeba1bd0bd297c229dd853420eb173e29cb9e89613fd",
+  "gate_id": "e506e2b05de242e78345673a9abc229c",
+  "gate_seq": 9523
+ }
+}

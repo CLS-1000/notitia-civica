@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 530",
+ "measure_id": "SB530",
+ "subject": "or_legislature/2025R1/SB530",
+ "title": "Requires the Oregon Health Authority to adjust for inflation the amount of any grant awarded to a regional health equity coalition.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 530 did not pass",
+ "claims": [
+  {
+   "text": "SB 530 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615835
+   ]
+  },
+  {
+   "text": "SB 530 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659367
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615835,
+    618102,
+    625488,
+    632764,
+    635787,
+    635788,
+    659367
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615835
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615835
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625488
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632764
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    635787
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 530&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB530",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7698,
+  "finding_hash": "f6a29516e12a084b709e9dd1e77bdf3c141a3132b36de0258ebde4f8358c42d7",
+  "evidence_digest": "sha256:61d579b03e09421b89bf09e3bcb8d457370aecafb07f17f69ef0b4a54959a17c",
+  "gate_id": "52b98099784e4185b9a6329c586c5672",
+  "gate_seq": 7699
+ }
+}

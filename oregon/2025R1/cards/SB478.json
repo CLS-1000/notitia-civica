@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 478",
+ "measure_id": "SB478",
+ "subject": "or_legislature/2025R1/SB478",
+ "title": "Revises the duties of boards of education of community college districts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 478 did not pass",
+ "claims": [
+  {
+   "text": "SB 478 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615783
+   ]
+  },
+  {
+   "text": "SB 478 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659105
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615783,
+    618050,
+    622019,
+    659105
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615783
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615783
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622019
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659105
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 478&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB478",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7542,
+  "finding_hash": "27f62b25d3c4ed9565fcbc6d118c453d1da2fbdb9271c0226369fda537813f54",
+  "evidence_digest": "sha256:03abfafc47287416577d9dbfe790eb9b5fe142f09369c803f6d784578d15cbea",
+  "gate_id": "dcf2ba9911a74f9e9c083ace5a712786",
+  "gate_seq": 7543
+ }
+}

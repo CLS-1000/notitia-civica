@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 609",
+ "measure_id": "SB609",
+ "subject": "or_legislature/2025R1/SB609",
+ "title": "Establishes minimum amounts of reimbursement for primary care, optometry, dental care and behavioral health services provided to recipients of medical assistance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 609 did not pass",
+ "claims": [
+  {
+   "text": "SB 609 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615914
+   ]
+  },
+  {
+   "text": "SB 609 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658797
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615914,
+    618181,
+    624572,
+    637857,
+    640976,
+    640977,
+    658797
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615914
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615914
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624572
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637857
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640976
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 609&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB609",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7935,
+  "finding_hash": "0042b1c9c9bf58bf9039891cf2e043aff67d51675c6921029b53b2f92fe4ffec",
+  "evidence_digest": "sha256:a8da68ae9f156848b791f59814a6e1f2522c65aad9fa90eb83aaea1268b7db14",
+  "gate_id": "ae08681929de4a178fc18b87e288f096",
+  "gate_seq": 7936
+ }
+}

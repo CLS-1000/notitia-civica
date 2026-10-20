@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2071",
+ "measure_id": "HB2071",
+ "subject": "or_legislature/2025R1/HB2071",
+ "title": "Prohibits state and local governments from restricting certain activities related to blockchain protocols and digital assets.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2071 did not pass",
+ "claims": [
+  {
+   "text": "HB 2071 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614035
+   ]
+  },
+  {
+   "text": "HB 2071 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661408
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614035,
+    616244,
+    640552,
+    643461,
+    661408
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614035
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614035
+   ]
+  },
+  {
+   "date": "2025-04-29",
+   "when": "April 29, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    643461
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661408
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2071&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2071",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 210,
+  "finding_hash": "fe27958178aae69b11ffb77bfb6da4231e8245f55630f7e5a3d6b90e8eac805b",
+  "evidence_digest": "sha256:c6e0acbe57c190fb3138ee7fd643b6f26af3caee5ed1f5cac6758dc1102cdcc4",
+  "gate_id": "9e32ed799a604bd88fbf0ce52830be63",
+  "gate_seq": 211
+ }
+}

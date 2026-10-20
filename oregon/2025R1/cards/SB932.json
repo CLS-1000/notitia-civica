@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 932",
+ "measure_id": "SB932",
+ "subject": "or_legislature/2025R1/SB932",
+ "title": "Alters when a person whose driving privileges are revoked may petition to restore their privileges.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 932 did not pass",
+ "claims": [
+  {
+   "text": "SB 932 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618708
+   ]
+  },
+  {
+   "text": "SB 932 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659278
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618708,
+    618879,
+    659278
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618708
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618708
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 932&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB932",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8904,
+  "finding_hash": "ebdd20bdf8d6ba9b94949435fcacba8e340e7b84e3e761da8f89612ac030a7b2",
+  "evidence_digest": "sha256:8850e327cff63ef2d3b7ecfe2218ec50ec56f342ef4ddefa170b569fce5961c7",
+  "gate_id": "274a9753afa143dcbd1af759d3ed06bc",
+  "gate_seq": 8905
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 998",
+ "measure_id": "SB998",
+ "subject": "or_legislature/2025R1/SB998",
+ "title": "Removes authority to appoint the Director of the Department of Environmental Quality from the Environmental Quality Commission and provides appointment authority to the Governor.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 998 did not pass",
+ "claims": [
+  {
+   "text": "SB 998 was introduced in the Senate on February 6, 2025.",
+   "row_ids": [
+    620904
+   ]
+  },
+  {
+   "text": "SB 998 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659535
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620904,
+    621404,
+    659535
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620904
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620904
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 998&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB998",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9102,
+  "finding_hash": "9a7c243cf2a8cbc4dfadf6b1eab83926c7c8f3fda8718dcc42ae59015f9cad79",
+  "evidence_digest": "sha256:21cc0aa68077f4c23ae77f0f5292c46b248038821da9b663331b4c2c68c36966",
+  "gate_id": "f70bec7ce4904eb8bf9d2095071a6424",
+  "gate_seq": 9103
+ }
+}

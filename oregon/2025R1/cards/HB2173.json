@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2173",
+ "measure_id": "HB2173",
+ "subject": "or_legislature/2025R1/HB2173",
+ "title": "Creates the crime of using a controlled substance in an enclosed place in a manner that endangers another person.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2173 did not pass",
+ "claims": [
+  {
+   "text": "HB 2173 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614137
+   ]
+  },
+  {
+   "text": "HB 2173 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660220
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614137,
+    616346,
+    660220
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614137
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614137
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2173&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2173",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 516,
+  "finding_hash": "67a6509163c40cbce108526a50309f25eaee128fca0898438d9a104bc8484dbb",
+  "evidence_digest": "sha256:9aefd60d0c08e0237d6177337c7edce271b6ea1a773168eb0464ddf398a16a7a",
+  "gate_id": "20291a30de8a4b82b98c0cd905ab3112",
+  "gate_seq": 517
+ }
+}

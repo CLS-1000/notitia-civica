@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3358",
+ "measure_id": "HB3358",
+ "subject": "or_legislature/2025R1/HB3358",
+ "title": "Authorizes a county tax collector to withhold from property tax distributions to taxing districts within the county an amount equal to three percent of the distributions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3358 did not pass",
+ "claims": [
+  {
+   "text": "HB 3358 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619409
+   ]
+  },
+  {
+   "text": "HB 3358 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661254
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619409,
+    619781,
+    661254
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619409
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619409
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3358&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3358",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4071,
+  "finding_hash": "b3ad3684bbe08355eb9ee2e90223fc8bd804f03f8f9dd8cecdc164d06da18bd9",
+  "evidence_digest": "sha256:0d5723d7b61d43db314ade408966d1f7a00c9f32a8653b541480dc6e563ee3ae",
+  "gate_id": "6cbcea7ab7eb4076824e28c035c91123",
+  "gate_seq": 4072
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2480",
+ "measure_id": "HB2480",
+ "subject": "or_legislature/2025R1/HB2480",
+ "title": "Requires the Oregon Health Authority to study behavioral health.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2480 did not pass",
+ "claims": [
+  {
+   "text": "HB 2480 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614444
+   ]
+  },
+  {
+   "text": "HB 2480 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661446
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614444,
+    616653,
+    633928,
+    639048,
+    640075,
+    640076,
+    661446
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614444
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614444
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633928
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639048
+   ]
+  },
+  {
+   "date": "2025-04-11",
+   "when": "April 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    640075
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2480&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2480",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1437,
+  "finding_hash": "1ac8ba152704b9897d3a12ff8134af0bb4e3572758cccbe754cafa0f53ac09a4",
+  "evidence_digest": "sha256:9f884e0c756d0a2caa88a4f6505b5b3929e1e1dc05eefcdff3ce0e83ab0123ea",
+  "gate_id": "bc5a25969fe742efb15da2d5f4f64c81",
+  "gate_seq": 1438
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 220",
+ "measure_id": "SB220",
+ "subject": "or_legislature/2025R1/SB220",
+ "title": "Directs the State Department of Fish and Wildlife to establish a fish incubation nursery program for the rearing of salmonids in coastal areas of southern Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 220 did not pass",
+ "claims": [
+  {
+   "text": "SB 220 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615525
+   ]
+  },
+  {
+   "text": "SB 220 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659429
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615525,
+    617792,
+    659429
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615525
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615525
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 220&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB220",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6768,
+  "finding_hash": "c6d779f2f2486fc60bcb8e718033f7b267bee11d28dac705ff5072568d89a27f",
+  "evidence_digest": "sha256:48d9e631a6e2d130613ee68817f926b757c70f9ae34657c6bb5115c0e546d99f",
+  "gate_id": "89d5659981a0447e90a8b4b449821eb3",
+  "gate_seq": 6769
+ }
+}

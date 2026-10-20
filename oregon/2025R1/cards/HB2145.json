@@ -1,0 +1,146 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2145",
+ "measure_id": "HB2145",
+ "subject": "or_legislature/2025R1/HB2145",
+ "title": "Removes the requirement that the amount of net proceeds from the Oregon State Lottery allocated to the County Fair Account not exceed $1.53 million annually and adjusts the percentage of net lottery proceeds allocated to the County Fair Account.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2145 did not pass",
+ "claims": [
+  {
+   "text": "HB 2145 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614109
+   ]
+  },
+  {
+   "text": "HB 2145 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660197
+   ]
+  },
+  {
+   "text": "Each of the 11 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614109,
+    616318,
+    626544,
+    636169,
+    638437,
+    638438,
+    642875,
+    642864,
+    643000,
+    643001,
+    660197
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614109
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614109
+   ]
+  },
+  {
+   "date": "2025-03-05",
+   "when": "March 5, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626544
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636169
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638437
+   ]
+  },
+  {
+   "date": "2025-04-22",
+   "when": "April 22, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    642875
+   ]
+  },
+  {
+   "date": "2025-04-24",
+   "when": "April 24, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    642864
+   ]
+  },
+  {
+   "date": "2025-04-25",
+   "when": "April 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    643000
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2145&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2145",
+ "row_count": 11,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 432,
+  "finding_hash": "df5c497762a7ebff1fe0d558d73f33be6c0a7a397b06953c750ecf43b1bf02ea",
+  "evidence_digest": "sha256:064dcc150a129d9409e1e7ef1f6893cb3277a97f08e21cd724ebd2acd305d118",
+  "gate_id": "1e0280de05554f15a3ee2c983792b5b9",
+  "gate_seq": 433
+ }
+}

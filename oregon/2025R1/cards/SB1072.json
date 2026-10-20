@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1072",
+ "measure_id": "SB1072",
+ "subject": "or_legislature/2025R1/SB1072",
+ "title": "Requires a county clerk to verify that a person's political party affiliation is not changed when the person updates that person's address with the Department of Transportation, unless the person has requested the change as provided by law.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1072 did not pass",
+ "claims": [
+  {
+   "text": "SB 1072 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624271
+   ]
+  },
+  {
+   "text": "SB 1072 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659115
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624271,
+    624447,
+    659115
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624271
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624271
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1072&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1072",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9324,
+  "finding_hash": "c91db349dec22c00c9029ba83641aca5ef4eb301f6db135b10b85732d337770a",
+  "evidence_digest": "sha256:7fc18f5d9d72ab378c69731827732ff2459cb0212e6f9426571fb39edd1b2c96",
+  "gate_id": "d59795570c704b80bcafe6803c9787af",
+  "gate_seq": 9325
+ }
+}

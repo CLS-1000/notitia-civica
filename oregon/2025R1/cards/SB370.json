@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 370",
+ "measure_id": "SB370",
+ "subject": "or_legislature/2025R1/SB370",
+ "title": "Directs the Legislative Policy and Research Director to distribute to interim committees of Legislative Assembly a summary of administrative rules that have been adopted in the previous two years that are relevant to the subject of the interim committee.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 370 did not pass",
+ "claims": [
+  {
+   "text": "SB 370 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615675
+   ]
+  },
+  {
+   "text": "SB 370 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658755
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615675,
+    617942,
+    629867,
+    658755
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615675
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615675
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629867
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658755
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 370&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB370",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7218,
+  "finding_hash": "2b1b9746ce4afae56607dde913f71284a4e3b71d54b55005863c9f428119e920",
+  "evidence_digest": "sha256:cc66c2f0d6b056f500ac09a88543a6c2e956b2479939222a88e6e08c24ff247f",
+  "gate_id": "cc43de570ee24025ad29aa02825af889",
+  "gate_seq": 7219
+ }
+}

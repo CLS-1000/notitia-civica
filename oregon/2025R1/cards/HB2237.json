@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2237",
+ "measure_id": "HB2237",
+ "subject": "or_legislature/2025R1/HB2237",
+ "title": "Repeals statutes relating to predictive work scheduling.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2237 did not pass",
+ "claims": [
+  {
+   "text": "HB 2237 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614201
+   ]
+  },
+  {
+   "text": "HB 2237 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660242
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614201,
+    616410,
+    660242
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614201
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614201
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2237&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2237",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 708,
+  "finding_hash": "85a217882ac603102aa92e753f288652af882e2480d11af162c8be2e0500c366",
+  "evidence_digest": "sha256:c37fdb0474d3be7354b8f98e8b4b3c2ac3994e3eb5bf14517d71cba7b34af40d",
+  "gate_id": "826501f0f29648c881c91cd7a0266b0e",
+  "gate_seq": 709
+ }
+}

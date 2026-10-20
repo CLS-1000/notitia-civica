@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 5552",
+ "measure_id": "SB5552",
+ "subject": "or_legislature/2025R1/SB5552",
+ "title": "Appropriates moneys from the General Fund to _____ for biennial expenses.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 5552 did not pass",
+ "claims": [
+  {
+   "text": "SB 5552 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615314
+   ]
+  },
+  {
+   "text": "SB 5552 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659196
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615314,
+    617581,
+    659196
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615314
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615314
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 5552&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB5552",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9906,
+  "finding_hash": "c1fe6cee03e649223e4d432fa3a40f0cc65e43d26464ff764fdf9e3a2c28b146",
+  "evidence_digest": "sha256:e25ac5f1e05e704820ae0e99136143ee640a4e2797f9a4753b41e625b00e73d9",
+  "gate_id": "d5585615ec24478abc12c8c7c5bfcd86",
+  "gate_seq": 9907
+ }
+}

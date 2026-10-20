@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HJM 2",
+ "measure_id": "HJM2",
+ "subject": "or_legislature/2025R1/HJM2",
+ "title": "Urges Congress to change the funding of veterans' health care from a discretionary entitlement to a permanent and direct entitlement.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJM 2 did not pass",
+ "claims": [
+  {
+   "text": "HJM 2 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613905
+   ]
+  },
+  {
+   "text": "HJM 2 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660925
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613905,
+    618954,
+    660925
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613905
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613905
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJM' and MeasureNumber eq 2&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJM2",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10083,
+  "finding_hash": "3a073519e7aae98352738b50f172d7ba76530522be47a4e0e0311edff212bd11",
+  "evidence_digest": "sha256:68245115ff0267a29b3a7ac4de024e67f768f996f0373c14b69486c55232c639",
+  "gate_id": "e63ee3b45d924a8f839c3e0391533812",
+  "gate_seq": 10084
+ }
+}

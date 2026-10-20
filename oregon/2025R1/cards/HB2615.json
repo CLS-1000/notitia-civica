@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2615",
+ "measure_id": "HB2615",
+ "subject": "or_legislature/2025R1/HB2615",
+ "title": "Requires the Oregon Youth Authority to conduct a study regarding options for improving how the authority provides services to youth in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2615 did not pass",
+ "claims": [
+  {
+   "text": "HB 2615 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614579
+   ]
+  },
+  {
+   "text": "HB 2615 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660751
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614579,
+    616788,
+    660751
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614579
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614579
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2615&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2615",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1842,
+  "finding_hash": "f38bc8ce26d73f6006302735af78af951a961616ec6065b83804deb662804d83",
+  "evidence_digest": "sha256:83ce79871edf2c53ff7cff7cbf03d3ae7d41906626155262f5661d45dc0003c3",
+  "gate_id": "eaaf7f4172c24a0eb05c66c6c8f9f3c6",
+  "gate_seq": 1843
+ }
+}

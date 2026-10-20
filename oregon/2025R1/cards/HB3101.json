@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3101",
+ "measure_id": "HB3101",
+ "subject": "or_legislature/2025R1/HB3101",
+ "title": "Allocates eight-tenths of one percent of net proceeds from the Oregon State Lottery to the County Fair Account and two-tenths of one percent of net proceeds from the lottery to the Horse Racing Account.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3101 did not pass",
+ "claims": [
+  {
+   "text": "HB 3101 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615065
+   ]
+  },
+  {
+   "text": "HB 3101 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659992
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615065,
+    617274,
+    626546,
+    634561,
+    636864,
+    636865,
+    659992
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615065
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615065
+   ]
+  },
+  {
+   "date": "2025-03-05",
+   "when": "March 5, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626546
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    634561
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    636864
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3101&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3101",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3300,
+  "finding_hash": "14bdddb2cfc704f2b9ef49959cc2df6a6de60821889101a89aab89f73c11cc9c",
+  "evidence_digest": "sha256:74f7fc609f7938b72fcab3edcfbd55b128a1b07784c813b08ea17c222646f499",
+  "gate_id": "37f1732206c84201b14a2cbbf0634ef0",
+  "gate_seq": 3301
+ }
+}

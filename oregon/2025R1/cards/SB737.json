@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 737",
+ "measure_id": "SB737",
+ "subject": "or_legislature/2025R1/SB737",
+ "title": "Expands the radius for giving notices of proposed middle housing land division and requires additional content in the notices.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 737 did not pass",
+ "claims": [
+  {
+   "text": "SB 737 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616042
+   ]
+  },
+  {
+   "text": "SB 737 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658926
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616042,
+    618309,
+    634815,
+    658926
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616042
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616042
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    634815
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658926
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 737&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB737",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8319,
+  "finding_hash": "6ab06a28f59a304fbf4c967c3721f0965c6acbef8b534ff23a5ef3e13dbbf5fe",
+  "evidence_digest": "sha256:8fd25f73b8565c53b76e96cdd00da43ebbb4a6f2ac713e3ac7c049a58747e81f",
+  "gate_id": "48c1905b4ffa42558484abada723f8f4",
+  "gate_seq": 8320
+ }
+}

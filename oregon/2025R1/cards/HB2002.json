@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2002",
+ "measure_id": "HB2002",
+ "subject": "or_legislature/2025R1/HB2002",
+ "title": "Requires the Higher Education Coordinating Commission to study higher education.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2002 did not pass",
+ "claims": [
+  {
+   "text": "HB 2002 was introduced in the House on June 23, 2025.",
+   "row_ids": [
+    656745
+   ]
+  },
+  {
+   "text": "HB 2002 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660688
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    656745,
+    656785,
+    660688
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    656745
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    656745
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2002&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2002",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3,
+  "finding_hash": "43b4ad1de87ad687486386fbeae3d9b8c616fd239461becd563fd18f0b5708ea",
+  "evidence_digest": "sha256:5440e926173b181cb65f741d02b07acc552a58aff265b42b4e2c0cfd10c4f32b",
+  "gate_id": "3018dd536deb439eaedc3dc71faff885",
+  "gate_seq": 4
+ }
+}

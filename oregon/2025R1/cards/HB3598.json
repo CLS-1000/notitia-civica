@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3598",
+ "measure_id": "HB3598",
+ "subject": "or_legislature/2025R1/HB3598",
+ "title": "Requires the Department of Environmental Quality to study electric vehicles.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3598 did not pass",
+ "claims": [
+  {
+   "text": "HB 3598 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622933
+   ]
+  },
+  {
+   "text": "HB 3598 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661380
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622933,
+    623488,
+    661380
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622933
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622933
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3598&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3598",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4791,
+  "finding_hash": "28a324262797da743651d2ad19ecd91ee5201b929152b7ed8eeef7ea0bfe2047",
+  "evidence_digest": "sha256:9cdfb5fb22945dd55123f964fae4b469f9babef487563f74a4753daf2a8a078b",
+  "gate_id": "f71ce27f9a5b4a3eb959ac0010c26740",
+  "gate_seq": 4792
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3217",
+ "measure_id": "HB3217",
+ "subject": "or_legislature/2025R1/HB3217",
+ "title": "Establishes the Oregon Empowerment Scholarship Program for the purpose of providing options in education to certain students of this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3217 did not pass",
+ "claims": [
+  {
+   "text": "HB 3217 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615181
+   ]
+  },
+  {
+   "text": "HB 3217 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660172
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615181,
+    617390,
+    660172
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615181
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615181
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3217&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3217",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3648,
+  "finding_hash": "7f13e6df3a525bb6eca4a6fcbb0b6b960a063c1e3e5760f8892883ecc156cecd",
+  "evidence_digest": "sha256:f3b95a56b17c069c82b0e23aeb914e9be6b706191eb23a01264df7e64580d196",
+  "gate_id": "46e0df8943a64f5f9183e70db7fb2604",
+  "gate_seq": 3649
+ }
+}

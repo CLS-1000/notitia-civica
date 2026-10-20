@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2611",
+ "measure_id": "HB2611",
+ "subject": "or_legislature/2025R1/HB2611",
+ "title": "Requires the State Court Administrator to study lawsuits and submit findings to the interim committees of the Legislative Assembly related to the judiciary not later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2611 did not pass",
+ "claims": [
+  {
+   "text": "HB 2611 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614575
+   ]
+  },
+  {
+   "text": "HB 2611 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660749
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614575,
+    616784,
+    660749
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614575
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614575
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2611&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2611",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1830,
+  "finding_hash": "ed5d84fa441cd908fef1284a616c3f92e3c4cf2f7c5075dedbd9899c4ca401f8",
+  "evidence_digest": "sha256:15921c65742fc731c7f777d787914cbfecdfc43bab7314a6b092f4158bcf9e50",
+  "gate_id": "8d1adf5152a844ee8d6a96ba5a367ef2",
+  "gate_seq": 1831
+ }
+}

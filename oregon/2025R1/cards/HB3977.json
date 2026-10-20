@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3977",
+ "measure_id": "HB3977",
+ "subject": "or_legislature/2025R1/HB3977",
+ "title": "Repeals the motor vehicle pollution control system inspection program, contingent upon the approval of revisions to the federal Clean Air Act state implementation plan by the United States Environmental Protection Agency.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3977 did not pass",
+ "claims": [
+  {
+   "text": "HB 3977 was introduced in the House on May 22, 2025.",
+   "row_ids": [
+    649205
+   ]
+  },
+  {
+   "text": "HB 3977 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660654
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    649205,
+    650313,
+    660654
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-05-22",
+   "when": "May 22, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    649205
+   ]
+  },
+  {
+   "date": "2025-05-22",
+   "when": "May 22, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    649205
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3977&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3977",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5928,
+  "finding_hash": "c9f194ef423f1c25564f47556b2ea3d57888e4a659a416623e90fcdeadee6f78",
+  "evidence_digest": "sha256:505aa94d7c74454564744843af4dd470f9b4f789bc27947a45b4f6c21b0986d9",
+  "gate_id": "52cc86fb763c4ac5bbc7b31e4a4d0880",
+  "gate_seq": 5929
+ }
+}

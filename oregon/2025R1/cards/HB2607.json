@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2607",
+ "measure_id": "HB2607",
+ "subject": "or_legislature/2025R1/HB2607",
+ "title": "Requires the Department of Consumer and Business Services to study insurance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2607 did not pass",
+ "claims": [
+  {
+   "text": "HB 2607 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614571
+   ]
+  },
+  {
+   "text": "HB 2607 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660745
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614571,
+    616780,
+    660745
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614571
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614571
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2607&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2607",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1818,
+  "finding_hash": "f592d024e294d6804b3cae89eae7fb05de16eadecedd34a407c920c092a29ac1",
+  "evidence_digest": "sha256:aef7ae31399a068b0ffb57ce1a8ac999413999ae0c7089563d5285d46a9e384e",
+  "gate_id": "ce1865a93735403597ac76da93b98a4e",
+  "gate_seq": 1819
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2285",
+ "measure_id": "HB2285",
+ "subject": "or_legislature/2025R1/HB2285",
+ "title": "Requires the Oregon Business Development Department to study business services in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2285 did not pass",
+ "claims": [
+  {
+   "text": "HB 2285 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614249
+   ]
+  },
+  {
+   "text": "HB 2285 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659823
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614249,
+    616458,
+    659823
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614249
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614249
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2285&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2285",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 852,
+  "finding_hash": "3d2cd2c414f53ec54a064d56ded123009dfd5e2b32f880e514530ad97885f9a1",
+  "evidence_digest": "sha256:72920546f82df2afc8088ac25adef1c6f038302e47b0444977e8d8a22f56e5ef",
+  "gate_id": "fb80360ca6f74fe586981b56fcf002b2",
+  "gate_seq": 853
+ }
+}

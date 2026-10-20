@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2376",
+ "measure_id": "HB2376",
+ "subject": "or_legislature/2025R1/HB2376",
+ "title": "Establishes the Wallowa Rural and Recreational Economic Development Board to develop and implement strategies for investment in workforce development, workforce housing and economic development in the Wallowa Rural and Recreational Economic Development Region, including a grant and loan program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2376 did not pass",
+ "claims": [
+  {
+   "text": "HB 2376 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614340
+   ]
+  },
+  {
+   "text": "HB 2376 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660717
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614340,
+    616549,
+    660717
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614340
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614340
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2376&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2376",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1125,
+  "finding_hash": "ddd9c0b3ad57c1646b99c2d00c560dd7d2fc5c8898912593969b6de9dc651493",
+  "evidence_digest": "sha256:ef73963d13078eb68e626588c1b026ffc75b6007a23b9a27ed469c82d937e11e",
+  "gate_id": "ce6306331ea94dd38e65798d971321be",
+  "gate_seq": 1126
+ }
+}

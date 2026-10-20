@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3779",
+ "measure_id": "HB3779",
+ "subject": "or_legislature/2025R1/HB3779",
+ "title": "Requires a person that provides debt resolution services to consumers in this state to register with the Department of Consumer and Business Services and regulates the activities of debt resolution service providers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3779 did not pass",
+ "claims": [
+  {
+   "text": "HB 3779 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624955
+   ]
+  },
+  {
+   "text": "HB 3779 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661349
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624955,
+    626364,
+    635686,
+    661349
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624955
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624955
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    635686
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661349
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3779&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3779",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5334,
+  "finding_hash": "42d00a1aee561f34618d2a7ce79c9a78ffd27b6318341f6c8b81dd77af9f6c5e",
+  "evidence_digest": "sha256:65c0b80ef92bea79b6ca0b60584727ba3d8ec74958b1278ccbbc8112b60ba602",
+  "gate_id": "bff6594f007741b2beec8feeea8555fd",
+  "gate_seq": 5335
+ }
+}

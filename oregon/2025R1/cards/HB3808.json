@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3808",
+ "measure_id": "HB3808",
+ "subject": "or_legislature/2025R1/HB3808",
+ "title": "Requires the Teacher Standards and Practices Commission to adopt rules related to the certification of deafblind interveners.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3808 did not pass",
+ "claims": [
+  {
+   "text": "HB 3808 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624984
+   ]
+  },
+  {
+   "text": "HB 3808 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661373
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624984,
+    626393,
+    661373
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624984
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624984
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3808&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3808",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5421,
+  "finding_hash": "cca929be360b34cff7faaf96255d0cf00ec178ad844d7d1c825e2b92a83d97fa",
+  "evidence_digest": "sha256:2fb8c13c5d97caf8a3822d6e8056b35480f5570e0d7a18ec896f5ff987bbbe79",
+  "gate_id": "a45e48fd95ae40eebfd5f45b48659e37",
+  "gate_seq": 5422
+ }
+}

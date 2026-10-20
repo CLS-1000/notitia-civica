@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3495",
+ "measure_id": "HB3495",
+ "subject": "or_legislature/2025R1/HB3495",
+ "title": "Requires the Teacher Standards and Practices Commission to study the implications and necessary changes of law to establish merit-based compensation for the workforce in kindergarten through post-secondary education in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3495 did not pass",
+ "claims": [
+  {
+   "text": "HB 3495 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620368
+   ]
+  },
+  {
+   "text": "HB 3495 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661329
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620368,
+    621041,
+    661329
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620368
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620368
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3495&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3495",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4482,
+  "finding_hash": "770e0a0fa56080ef0dca94aa5cd67dc232eefa0abb29932ebec3f2f2f16647fd",
+  "evidence_digest": "sha256:56c2f4e69391f7771a77a9bd4c1cf31e9eb6cc0e3906f07c4d38d208c221cb8b",
+  "gate_id": "39af32661eda41bcbf39203b8aad547d",
+  "gate_seq": 4483
+ }
+}

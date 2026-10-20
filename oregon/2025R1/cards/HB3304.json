@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3304",
+ "measure_id": "HB3304",
+ "subject": "or_legislature/2025R1/HB3304",
+ "title": "Requires the Oregon Educators Benefit Board to study the adequacy of benefits offered to education workers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3304 did not pass",
+ "claims": [
+  {
+   "text": "HB 3304 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618775
+   ]
+  },
+  {
+   "text": "HB 3304 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661010
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618775,
+    619173,
+    661010
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618775
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618775
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3304&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3304",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3909,
+  "finding_hash": "3a0ea9c98c2cf896acf36f8baa15e73a8618800f740f60c6dca9e5ce6ee81cd6",
+  "evidence_digest": "sha256:6f282655ace6b4c1a3e04140f2476ea6136e04c2bce564b8f4e54327475a2a51",
+  "gate_id": "7f6e2621863943d0a37e9bf33f47363b",
+  "gate_seq": 3910
+ }
+}

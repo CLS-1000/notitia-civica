@@ -1,0 +1,81 @@
+{
+ "session": "2025R1",
+ "measure": "SJR 3",
+ "measure_id": "SJR3",
+ "subject": "or_legislature/2025R1/SJR3",
+ "title": "Proposes amendments to the Oregon Constitution providing that, for purposes of ad valorem property taxation, maximum assessed value shall be reassessed upon the sale of property, the ratio of maximum assessed value to real market value of property may not be less than 0.75, and the maximum number of years for which a local option tax may be passed are extended and the tax is not subject to compression under Ballot Measure 5 (1990).",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJR 3 did not pass",
+ "claims": [
+  {
+   "text": "SJR 3 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615234
+   ]
+  },
+  {
+   "text": "SJR 3 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659468
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615234,
+    617501,
+    659468
+   ]
+  },
+  {
+   "text": "SJR 3 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    659468
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615234
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615234
+   ]
+  }
+ ],
+ "topics": [
+  "ballot",
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJR' and MeasureNumber eq 3&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJR3",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9984,
+  "finding_hash": "f2e10e9ccceefec75ff0b788d7763873b336860dc36c1e24d3362d4a2b477c6f",
+  "evidence_digest": "sha256:7b7c983626d11f1a695261af0095512746676b364633f2a7e2312eab5a10985a",
+  "gate_id": "07f67f186ee54b9c925a8a38b607f340",
+  "gate_seq": 9985
+ }
+}

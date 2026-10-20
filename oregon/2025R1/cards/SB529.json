@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 529",
+ "measure_id": "SB529",
+ "subject": "or_legislature/2025R1/SB529",
+ "title": "Directs the Oregon Health Authorityto contract directly withcommunity health registered nurses and community-based organizations to provide services to medical assistance recipients.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 529 did not pass",
+ "claims": [
+  {
+   "text": "SB 529 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615834
+   ]
+  },
+  {
+   "text": "SB 529 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659366
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615834,
+    618101,
+    627038,
+    632782,
+    634913,
+    634914,
+    659366
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615834
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615834
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627038
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632782
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    634913
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 529&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB529",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7695,
+  "finding_hash": "cbe328800708db5dbe5ced97c1b135ae4a2ba06742465475681c7920706896b7",
+  "evidence_digest": "sha256:a5e4bfe5ef66df31f84e51ccd3499dcaf110bfee119280fe9ef5faac41d17360",
+  "gate_id": "ece2efa73a2f4c1798e30d0b9e2c8cec",
+  "gate_seq": 7696
+ }
+}

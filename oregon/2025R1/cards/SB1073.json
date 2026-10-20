@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1073",
+ "measure_id": "SB1073",
+ "subject": "or_legislature/2025R1/SB1073",
+ "title": "Establishes the Family Home Health Aide Program in the Oregon Health Authority for the purpose of certifying family caregivers as family home health aides to provide qualified home health services to eligible relatives in the state medical assistance program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1073 did not pass",
+ "claims": [
+  {
+   "text": "SB 1073 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624272
+   ]
+  },
+  {
+   "text": "SB 1073 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659582
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624272,
+    624448,
+    628165,
+    659582
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624272
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624272
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628165
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659582
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1073&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1073",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9327,
+  "finding_hash": "55fc8e8ea5f56c29f9f7c294e9c782339dac63ef8a22ffc154c42cdfbe3794a7",
+  "evidence_digest": "sha256:ee95162b436a47f7eddfdaf7d3d837340b092b195290bbc26085f75a5157fa94",
+  "gate_id": "b34df9eb3cc04085a23bf8824ab6e7a5",
+  "gate_seq": 9328
+ }
+}

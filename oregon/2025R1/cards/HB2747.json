@@ -1,0 +1,134 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2747",
+ "measure_id": "HB2747",
+ "subject": "or_legislature/2025R1/HB2747",
+ "title": "Requires the Department of Corrections to provide adults in custody at certain department institutions access to specific online educational programs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2747 did not pass",
+ "claims": [
+  {
+   "text": "HB 2747 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614711
+   ]
+  },
+  {
+   "text": "HB 2747 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660162
+   ]
+  },
+  {
+   "text": "Each of the 10 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614711,
+    616920,
+    619366,
+    619996,
+    619997,
+    622829,
+    632303,
+    634340,
+    634341,
+    660162
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614711
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614711
+   ]
+  },
+  {
+   "date": "2025-01-27",
+   "when": "January 27, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    619366
+   ]
+  },
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    619996
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622829
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632303
+   ]
+  },
+  {
+   "date": "2025-03-28",
+   "when": "March 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    634340
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2747&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2747",
+ "row_count": 10,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2238,
+  "finding_hash": "24350909fe9809467f452dd01358399638f0b2e62341892d7ed426fcf4c0aac7",
+  "evidence_digest": "sha256:88f3939373e594a50ecd093301d40db4764bad4aee68bfbc41f4d1a20563c677",
+  "gate_id": "d0c8e55a7e04450b9872735e41cd6136",
+  "gate_seq": 2239
+ }
+}

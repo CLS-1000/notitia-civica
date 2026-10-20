@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2675",
+ "measure_id": "HB2675",
+ "subject": "or_legislature/2025R1/HB2675",
+ "title": "Appropriates moneys from the General Fund to the Higher Education Coordinating Commission for distribution to the Oregon Institute of Technology for an after-school program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2675 did not pass",
+ "claims": [
+  {
+   "text": "HB 2675 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614639
+   ]
+  },
+  {
+   "text": "HB 2675 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660934
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614639,
+    616848,
+    619721,
+    660934
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614639
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614639
+   ]
+  },
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619721
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660934
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2675&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2675",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2022,
+  "finding_hash": "3a5a983d31961b1028a2489f2288dc0a2d6a3ad8a267fafcd70a21234ade9b30",
+  "evidence_digest": "sha256:855b9b819f00d90a049f00781ab944c711ba95671e9d8661639fd08d47bb94c4",
+  "gate_id": "d3166e99159f42cb894e39fe202f6b7e",
+  "gate_seq": 2023
+ }
+}

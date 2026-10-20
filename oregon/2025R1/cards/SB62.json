@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 62",
+ "measure_id": "SB62",
+ "subject": "or_legislature/2025R1/SB62",
+ "title": "Requires the Oregon Health Authority to develop, implement and administer a program to support consumer engagement efforts aimed at increasing and optimizing consumer involvement in planning and decision-making surrounding the access to, and delivery of, behavioral health services in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 62 did not pass",
+ "claims": [
+  {
+   "text": "SB 62 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615367
+   ]
+  },
+  {
+   "text": "SB 62 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658604
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615367,
+    617634,
+    628355,
+    635619,
+    638376,
+    638377,
+    658604
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615367
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615367
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628355
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    635619
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638376
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 62&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB62",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6294,
+  "finding_hash": "6255d18b951acd07e2e5abcd4f0936a8837ee652301ee05b33596ac0939bfba3",
+  "evidence_digest": "sha256:b5ab1305319e594ca6dc9d815fc48b3be5ace0c975fb5cbf9f27447b71221f47",
+  "gate_id": "54acc787d7c3499eb51cb1cdccad2609",
+  "gate_seq": 6295
+ }
+}

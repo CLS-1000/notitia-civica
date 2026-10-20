@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1165",
+ "measure_id": "SB1165",
+ "subject": "or_legislature/2025R1/SB1165",
+ "title": "Appropriates moneys to the Oregon Public Defense Commission to increase the hourly rate for investigators.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1165 did not pass",
+ "claims": [
+  {
+   "text": "SB 1165 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624875
+   ]
+  },
+  {
+   "text": "SB 1165 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659558
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624875,
+    625787,
+    659558
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624875
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624875
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1165&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1165",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9603,
+  "finding_hash": "ebe055f0b2451c1e694a167ef21f54d3c33e7f93af0d0e03f1fa675d9c96e1fd",
+  "evidence_digest": "sha256:572aa06e8967d48059dbcf17976163b79bcc52e941d8c56c63db1cf804806dc1",
+  "gate_id": "5c88ca0f60fc4b34986f76e07a3310c5",
+  "gate_seq": 9604
+ }
+}

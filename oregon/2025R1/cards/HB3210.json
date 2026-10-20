@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3210",
+ "measure_id": "HB3210",
+ "subject": "or_legislature/2025R1/HB3210",
+ "title": "Directs the Oregon Business Development Department to distribute moneys available through the federal State Small Business Credit Initiative to Lit Motors, Inc., to fund the manufacture of electric vehicles in Oregon, with attendant economic benefits.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3210 did not pass",
+ "claims": [
+  {
+   "text": "HB 3210 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615174
+   ]
+  },
+  {
+   "text": "HB 3210 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660046
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615174,
+    617383,
+    660046
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615174
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615174
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3210&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3210",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3627,
+  "finding_hash": "11093032f0b07468dd85e3728dc4f6263fe53bc2a0e8c69b75dbe58b1dfe792e",
+  "evidence_digest": "sha256:ac2080d7bf09c5efe05766f18a8c056ce5017324194d1bdb865aee30e88d06b2",
+  "gate_id": "fb3696848f79483c8cd786b43b2d4321",
+  "gate_seq": 3628
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2938",
+ "measure_id": "HB2938",
+ "subject": "or_legislature/2025R1/HB2938",
+ "title": "Permits a collective bargaining agreement to prescribe due dates for the payment of wages upon termination that do not require interpretation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2938 did not pass",
+ "claims": [
+  {
+   "text": "HB 2938 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614902
+   ]
+  },
+  {
+   "text": "HB 2938 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661245
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614902,
+    617111,
+    661245
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614902
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614902
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2938&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2938",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2811,
+  "finding_hash": "148c9a35a8e168fef88e756ec289476ec474837417c4a15252522bc0b43d3a5d",
+  "evidence_digest": "sha256:f5add65011b14afbeeb40445c84deaaeae55f7231aaef19e58f5b0eb751bbc84",
+  "gate_id": "c5bb9f499241446db52de88d3e0eee31",
+  "gate_seq": 2812
+ }
+}

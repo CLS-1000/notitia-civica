@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3104",
+ "measure_id": "HB3104",
+ "subject": "or_legislature/2025R1/HB3104",
+ "title": "Directs the Oregon Business Development Department to enter into an agreement with a nonprofit organization or local government association to serve as a statewide rural community resource center.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3104 did not pass",
+ "claims": [
+  {
+   "text": "HB 3104 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615068
+   ]
+  },
+  {
+   "text": "HB 3104 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659995
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615068,
+    617277,
+    627310,
+    634559,
+    636866,
+    636867,
+    659995
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615068
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615068
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627310
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    634559
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    636866
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3104&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3104",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3309,
+  "finding_hash": "edb6eacb5a6296ad35ac3d707170997fe505e153a21323cdd41e6d881b2ddc17",
+  "evidence_digest": "sha256:d74c2bcb8a6114e52089a532e279aeacc43b8691784ed95169f219b83635641e",
+  "gate_id": "c9abbfa5fb5342f69fa04974ababa306",
+  "gate_seq": 3310
+ }
+}

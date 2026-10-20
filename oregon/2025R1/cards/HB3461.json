@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3461",
+ "measure_id": "HB3461",
+ "subject": "or_legislature/2025R1/HB3461",
+ "title": "Creates a pesticide licensing exemption for certain employees using a battery-powered device to apply pesticides.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3461 did not pass",
+ "claims": [
+  {
+   "text": "HB 3461 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620334
+   ]
+  },
+  {
+   "text": "HB 3461 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660839
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620334,
+    621007,
+    660839
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620334
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620334
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3461&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3461",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4380,
+  "finding_hash": "279761b9f25e5113ef706dbf96f3a46443d7c7e5c11ae3cd6715645d0ee7bdba",
+  "evidence_digest": "sha256:ae1d7580c6cabcbc85047b21248775fc50c6c9d67ed54203428eb59ef4f1bf99",
+  "gate_id": "dcaf26d8fc1046818f64f00302d30733",
+  "gate_seq": 4381
+ }
+}

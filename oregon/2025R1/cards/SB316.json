@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 316",
+ "measure_id": "SB316",
+ "subject": "or_legislature/2025R1/SB316",
+ "title": "Requires the Oregon Department of Administrative Services to study the method for determining the current service level for the purpose of calculating the amount to appropriate for the State School Fund.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 316 did not pass",
+ "claims": [
+  {
+   "text": "SB 316 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615621
+   ]
+  },
+  {
+   "text": "SB 316 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658703
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615621,
+    617888,
+    658703
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615621
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615621
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 316&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB316",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7056,
+  "finding_hash": "9788a6dfaf6b4aa248d3184c7f3e6d6fa49d20dc9873d6866a18fc92960b8dbd",
+  "evidence_digest": "sha256:2c5c472bdb5f5590ebed799be6dfcb6331598b4f6c3f599e7993dfeb53795155",
+  "gate_id": "85fb4f4670504e1c846d8966127ec72d",
+  "gate_seq": 7057
+ }
+}

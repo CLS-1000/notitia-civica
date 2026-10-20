@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HCR 22",
+ "measure_id": "HCR22",
+ "subject": "or_legislature/2025R1/HCR22",
+ "title": "Encourages Oregon counties that have not already done so to create and adopt a natural resource plan and invoke and enforce coordination with all federal and state agencies.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HCR 22 did not pass",
+ "claims": [
+  {
+   "text": "HCR 22 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624260
+   ]
+  },
+  {
+   "text": "HCR 22 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660576
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624260,
+    625292,
+    660576
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624260
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624260
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 22&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HCR22",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10215,
+  "finding_hash": "a256c41844962b8f2ec3ddcb30cbae232cb75824266ce8b6bb36915e94bb7742",
+  "evidence_digest": "sha256:aaf21055a2e474a53a21b245021762f3bc2819c921e6d43ea74aed16ca3d14e5",
+  "gate_id": "c8af33b95c0f406a83bd9b699fe1c219",
+  "gate_seq": 10216
+ }
+}

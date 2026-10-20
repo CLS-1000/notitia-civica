@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2032",
+ "measure_id": "HB2032",
+ "subject": "or_legislature/2025R1/HB2032",
+ "title": "Requires a commercial entity that engages in the business of publishing or distributing sexual material harmful to minors to verify the ages of individuals to whom the commercial entity distributes or makes available the sexual material harmful to minors.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2032 did not pass",
+ "claims": [
+  {
+   "text": "HB 2032 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613996
+   ]
+  },
+  {
+   "text": "HB 2032 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659984
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613996,
+    616205,
+    659984
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613996
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613996
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2032&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2032",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 93,
+  "finding_hash": "6a595dd4b2d1fecfad42eda3080e3040434ee77a828dff2c7fb98c4c996ba1e2",
+  "evidence_digest": "sha256:db25fa191e20507d46332a7b2e605426958d53d9f13ed9c0a142a1e45dd07c21",
+  "gate_id": "9fd353b247eb4af6bade3bd6efbdd41f",
+  "gate_seq": 94
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2488",
+ "measure_id": "HB2488",
+ "subject": "or_legislature/2025R1/HB2488",
+ "title": "Requires the Oregon Health Authority to study civil commitment criteria.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2488 did not pass",
+ "claims": [
+  {
+   "text": "HB 2488 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614452
+   ]
+  },
+  {
+   "text": "HB 2488 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661454
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614452,
+    616661,
+    637742,
+    639050,
+    640079,
+    640080,
+    642633,
+    661454
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614452
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614452
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    637742
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639050
+   ]
+  },
+  {
+   "date": "2025-04-11",
+   "when": "April 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    640079
+   ]
+  },
+  {
+   "date": "2025-04-23",
+   "when": "April 23, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    642633
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661454
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2488&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2488",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1461,
+  "finding_hash": "ac0217977097709f0cb8aec8d9f8c547a4fbff7bc73d016c89c99ad627e7bf76",
+  "evidence_digest": "sha256:f12ed64cb4a28dbbeaf8aaea51264cae07bf427c4aaed753b987bbcda83bc72f",
+  "gate_id": "f5ba6636b68a437f968c7f9d1f0898c0",
+  "gate_seq": 1462
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2462",
+ "measure_id": "HB2462",
+ "subject": "or_legislature/2025R1/HB2462",
+ "title": "Revises some of the time limits allowed for filing complaints with the Construction Contractors Board.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2462 did not pass",
+ "claims": [
+  {
+   "text": "HB 2462 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614426
+   ]
+  },
+  {
+   "text": "HB 2462 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661433
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614426,
+    616635,
+    661433
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614426
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614426
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2462&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2462",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1383,
+  "finding_hash": "8763277e67185822c87299f831ab82c9c60428175c56f4629771d5e96c2b07e3",
+  "evidence_digest": "sha256:d7b4374982cebfdcc4c016b90d7a04c7b2e47b3dd27ff66503617f6f4d54b4ec",
+  "gate_id": "9db6f36eae034ed3a1f83063162832a8",
+  "gate_seq": 1384
+ }
+}

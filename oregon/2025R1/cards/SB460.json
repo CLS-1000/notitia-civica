@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 460",
+ "measure_id": "SB460",
+ "subject": "or_legislature/2025R1/SB460",
+ "title": "Exempts workers on public works who are participants in a pre-apprenticeship program from the application of laws that determine and require payment of a prevailing rate of wage.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 460 did not pass",
+ "claims": [
+  {
+   "text": "SB 460 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615765
+   ]
+  },
+  {
+   "text": "SB 460 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659090
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615765,
+    618032,
+    635221,
+    659090
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615765
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615765
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    635221
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659090
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 460&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB460",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7488,
+  "finding_hash": "3aa412ca0998cb6e1a18f0f3224dd6db83dd6b7600628c1098b071f2e1ce579b",
+  "evidence_digest": "sha256:d11df19a3cef24952944bb0693f7f6b2f20dac4237ad6333956f84d7476af5cc",
+  "gate_id": "e91e7bf245df42f8a3a75390213392e4",
+  "gate_seq": 7489
+ }
+}

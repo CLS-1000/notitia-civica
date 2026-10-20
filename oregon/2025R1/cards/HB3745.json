@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3745",
+ "measure_id": "HB3745",
+ "subject": "or_legislature/2025R1/HB3745",
+ "title": "Provides for the cancellation, after 10 years, of uncollected tax debt, penalties and interest.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3745 did not pass",
+ "claims": [
+  {
+   "text": "HB 3745 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624921
+   ]
+  },
+  {
+   "text": "HB 3745 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660459
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624921,
+    626330,
+    660459
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624921
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624921
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3745&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3745",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5232,
+  "finding_hash": "cdaf294f85dc11743bf8d261ee20217ecbc2cde3b8b88e014b82b6b4ec612f59",
+  "evidence_digest": "sha256:15005bb38600878021336d14b5f9bc98330609f468c63d89523ae1256b99375b",
+  "gate_id": "b41f8fed08b14dd8bea917c97785c4eb",
+  "gate_seq": 5233
+ }
+}

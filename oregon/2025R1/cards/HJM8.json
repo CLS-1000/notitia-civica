@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HJM 8",
+ "measure_id": "HJM8",
+ "subject": "or_legislature/2025R1/HJM8",
+ "title": "Urges Congress to pass legislation to prevent a future shutdown of the federal government from lasting more than 50 days in the event of an impasse between Congress and the President.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJM 8 did not pass",
+ "claims": [
+  {
+   "text": "HJM 8 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613911
+   ]
+  },
+  {
+   "text": "HJM 8 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660501
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613911,
+    618960,
+    660501
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613911
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613911
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJM' and MeasureNumber eq 8&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJM8",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10101,
+  "finding_hash": "56bb9d900cd2db8edbd506e66802e27f3e55a9a177a0559e8147dfb78786538c",
+  "evidence_digest": "sha256:5fb1013c61f8e84c63b325c5db7291fba7bf7072bc3913347a21ff6cc14f53c8",
+  "gate_id": "35db3908e2184862819a9a51e4bd8ac8",
+  "gate_seq": 10102
+ }
+}

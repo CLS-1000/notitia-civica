@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 368",
+ "measure_id": "SB368",
+ "subject": "or_legislature/2025R1/SB368",
+ "title": "Limits a declaration of a state of emergency to 30 days' duration, unless extended by the Legislative Assembly for an additional 30 days.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 368 did not pass",
+ "claims": [
+  {
+   "text": "SB 368 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615673
+   ]
+  },
+  {
+   "text": "SB 368 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658753
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615673,
+    617940,
+    658753
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615673
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615673
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 368&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB368",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7212,
+  "finding_hash": "07992bb7c254fcd80d22232296d460f40d924d864815c0f5d5e5ea089d00cdd7",
+  "evidence_digest": "sha256:9e45b44cdcab41f1031ff0ac04ef912eeec19358b714d41d18d819e29aa0c79b",
+  "gate_id": "b2140e882c554142a753e5753566d24e",
+  "gate_seq": 7213
+ }
+}

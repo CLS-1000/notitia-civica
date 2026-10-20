@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3352",
+ "measure_id": "HB3352",
+ "subject": "or_legislature/2025R1/HB3352",
+ "title": "Directs the Department of State Lands, in consultation with the State Department of Fish and Wildlife, to develop a salmon credit pilot program to encourage the voluntary restoration of salmonid habitat in the Coquille and Coos watershed basins.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3352 did not pass",
+ "claims": [
+  {
+   "text": "HB 3352 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619403
+   ]
+  },
+  {
+   "text": "HB 3352 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661248
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619403,
+    619775,
+    661248
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619403
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619403
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3352&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3352",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4053,
+  "finding_hash": "bb456e9ea890457559a9978a817fad1c2046029f13b894c74d0d37c03da289f9",
+  "evidence_digest": "sha256:f65ca04ccea76310f27002ed734ee4c4db01b8054bc70e7a538c3491610e6d7b",
+  "gate_id": "da289dbd0ddb4423a2cad0d44fa9e4fb",
+  "gate_seq": 4054
+ }
+}

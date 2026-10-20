@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2759",
+ "measure_id": "HB2759",
+ "subject": "or_legislature/2025R1/HB2759",
+ "title": "Establishes the Office of Quality Assurance as an independent office within the Judicial Department.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2759 did not pass",
+ "claims": [
+  {
+   "text": "HB 2759 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614723
+   ]
+  },
+  {
+   "text": "HB 2759 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661139
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614723,
+    616932,
+    661139
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614723
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614723
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2759&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2759",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2274,
+  "finding_hash": "4aeea0171c87f0f084aceb39801d7b1bc3f60fceaf85f5b367a8803359944e2b",
+  "evidence_digest": "sha256:8e07c2a45d75b0755414576d32cb6eaa437a340473f93770b563964d73361cf0",
+  "gate_id": "2cebcce9f8ff479cb3ae7bf7b2e46190",
+  "gate_seq": 2275
+ }
+}

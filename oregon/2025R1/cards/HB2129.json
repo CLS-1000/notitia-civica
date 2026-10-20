@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2129",
+ "measure_id": "HB2129",
+ "subject": "or_legislature/2025R1/HB2129",
+ "title": "Provides that a court may not stay or prohibit a Federal Home Loan Bank from exercising rights to collateral pledged by an insurer-member that is subject to a delinquency proceeding.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2129 did not pass",
+ "claims": [
+  {
+   "text": "HB 2129 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614093
+   ]
+  },
+  {
+   "text": "HB 2129 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660867
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614093,
+    616302,
+    660867
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614093
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614093
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2129&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2129",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 384,
+  "finding_hash": "98a043f2875792cd88f66729e55e4860c3a4daad145c56595d08e2d0b0db8f7e",
+  "evidence_digest": "sha256:fe4928258607711461c264b2ae004fe4f5647e43beac8e7068cea3c75cfcaa5d",
+  "gate_id": "4e195f42319c45bc8e7fb232b81a530f",
+  "gate_seq": 385
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 866",
+ "measure_id": "SB866",
+ "subject": "or_legislature/2025R1/SB866",
+ "title": "Requires the Department of Education to study methods for improving the social emotional health of students and staff in public schools.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 866 did not pass",
+ "claims": [
+  {
+   "text": "SB 866 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616170
+   ]
+  },
+  {
+   "text": "SB 866 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658946
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616170,
+    618437,
+    658946
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616170
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616170
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 866&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB866",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8706,
+  "finding_hash": "e1a9e66a5f786e22e0edec17d70016215d6e80e94469b9ba25b60bab3fa04a60",
+  "evidence_digest": "sha256:b8546b346e7f2118b64a3f7c59fbc809d3c82d5d7805621bac392542f836f840",
+  "gate_id": "45027c60d05345afa6a1be8614f07c16",
+  "gate_seq": 8707
+ }
+}

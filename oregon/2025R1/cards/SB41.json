@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 41",
+ "measure_id": "SB41",
+ "subject": "or_legislature/2025R1/SB41",
+ "title": "Requires the Oregon Health Authority to study substance use disorder.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 41 did not pass",
+ "claims": [
+  {
+   "text": "SB 41 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615346
+   ]
+  },
+  {
+   "text": "SB 41 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658981
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615346,
+    617613,
+    658981
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615346
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615346
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 41&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB41",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6231,
+  "finding_hash": "dcf33a35048d33deda57696b39a6f393d5d6ce056a1870b5f573e2ad42405e6f",
+  "evidence_digest": "sha256:f15eb3162a0f4a6b37476864c95415d57674287b45d0fc556961d22ca7dfb032",
+  "gate_id": "bf65858f6ffc4c3ca5859fa95f137a4f",
+  "gate_seq": 6232
+ }
+}

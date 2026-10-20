@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 990",
+ "measure_id": "SB990",
+ "subject": "or_legislature/2025R1/SB990",
+ "title": "Amends the definition of \"public agency\" to include only certain public bodies and other entities with statewide operations or jurisdiction, incorporated cities with a population of 2,500 or more and counties with a population of 300,000 or more.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 990 did not pass",
+ "claims": [
+  {
+   "text": "SB 990 was introduced in the Senate on February 6, 2025.",
+   "row_ids": [
+    620896
+   ]
+  },
+  {
+   "text": "SB 990 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659556
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620896,
+    621396,
+    659556
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620896
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620896
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 990&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB990",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9078,
+  "finding_hash": "988bc727344727685e50f4f25a04005f6c4b71ec73a8730627a9aad180beb3b6",
+  "evidence_digest": "sha256:df052eea762d58de4480f606d38093038b609fe22ea7460de62fbf2ec264c014",
+  "gate_id": "58350ca08d984a8cbbf27d1b588d211f",
+  "gate_seq": 9079
+ }
+}

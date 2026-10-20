@@ -1,0 +1,80 @@
+{
+ "session": "2025R1",
+ "measure": "SJR 33",
+ "measure_id": "SJR33",
+ "subject": "or_legislature/2025R1/SJR33",
+ "title": "Establishes the right of a parent to choose a school choice option. Provides funding for a school choice option.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJR 33 did not pass",
+ "claims": [
+  {
+   "text": "SJR 33 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624809
+   ]
+  },
+  {
+   "text": "SJR 33 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659250
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624809,
+    625721,
+    659250
+   ]
+  },
+  {
+   "text": "SJR 33 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    659250
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624809
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624809
+   ]
+  }
+ ],
+ "topics": [
+  "ballot"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJR' and MeasureNumber eq 33&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJR33",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10074,
+  "finding_hash": "9cfba878dbb177e2d9d919c000b41e0605e537dfac450a735001450d7cd8d94a",
+  "evidence_digest": "sha256:8a155b7e2b5092e752835e405d1d3290e549d61b5ab0353aa1efc819fc9dedde",
+  "gate_id": "a5345c628cb74ac78f5cb76e135c17d7",
+  "gate_seq": 10075
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 645",
+ "measure_id": "SB645",
+ "subject": "or_legislature/2025R1/SB645",
+ "title": "Repeals the statute enacted by House Bill 3115 (2021) that established objective reasonableness as a statewide standard for city and county laws regulating the use of public property with respect to persons experiencing homelessness, as the basis for a cause of action for injunctive and declaratory relief to challenge such laws and as an affirmative defense in the prosecution of violations of such laws.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 645 did not pass",
+ "claims": [
+  {
+   "text": "SB 645 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615950
+   ]
+  },
+  {
+   "text": "SB 645 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658839
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615950,
+    618217,
+    658839
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615950
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615950
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 645&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB645",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8043,
+  "finding_hash": "f77f242a325cfd9ca7d979c75cd94386da45cfa0ade2b9a8bbdfee6f25e9a678",
+  "evidence_digest": "sha256:b06dbdd1d6680e5d2354996c13b1c73984a5d0d717d5298014ca4b3f0176b92b",
+  "gate_id": "9205d1cee85a4f78a98eff8983baf4ec",
+  "gate_seq": 8044
+ }
+}

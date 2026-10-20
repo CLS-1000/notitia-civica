@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 884",
+ "measure_id": "SB884",
+ "subject": "or_legislature/2025R1/SB884",
+ "title": "Requires the Oregon Health Authority to convene an advisory group to assist in the study of solutions to ensuring access to care for individuals who have been civilly committed or who have complex mental or behavioral health needs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 884 did not pass",
+ "claims": [
+  {
+   "text": "SB 884 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618660
+   ]
+  },
+  {
+   "text": "SB 884 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659300
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618660,
+    618831,
+    659300
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618660
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618660
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 884&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB884",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8760,
+  "finding_hash": "3c2e19f7d1fb23e882a8d7942c39ade5e9ab41b6727d4ea05fe2bef229ef529e",
+  "evidence_digest": "sha256:8f8deb879deeb6428151f5cdd5c55c3974ff736b90118140dfb5176d09c2211b",
+  "gate_id": "32a6cbcafa5546d7ba5c1e8c54871d01",
+  "gate_seq": 8761
+ }
+}

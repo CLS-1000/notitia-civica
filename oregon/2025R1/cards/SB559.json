@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 559",
+ "measure_id": "SB559",
+ "subject": "or_legislature/2025R1/SB559",
+ "title": "Requires the State Board of Parole and Post-Prison Supervision to study changes to procedures for the early medical release of adults in custody.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 559 did not pass",
+ "claims": [
+  {
+   "text": "SB 559 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615864
+   ]
+  },
+  {
+   "text": "SB 559 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659385
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615864,
+    618131,
+    659385
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615864
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615864
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 559&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB559",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7785,
+  "finding_hash": "9dd87001a00d95a3374e4e45dfcd6809936843460c3036806aed7c6ea885e8ce",
+  "evidence_digest": "sha256:ec308db8585aac4a5eae36acafb46ef062e80622494454ab66ebcc4d27003f87",
+  "gate_id": "8b048844b9274f6dae3422e189263b89",
+  "gate_seq": 7786
+ }
+}

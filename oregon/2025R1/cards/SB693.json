@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 693",
+ "measure_id": "SB693",
+ "subject": "or_legislature/2025R1/SB693",
+ "title": "Establishes the Task Force on the Perinatal Workforce.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 693 did not pass",
+ "claims": [
+  {
+   "text": "SB 693 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615998
+   ]
+  },
+  {
+   "text": "SB 693 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658888
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615998,
+    618265,
+    623155,
+    637360,
+    639817,
+    639818,
+    658888
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615998
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615998
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623155
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637360
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639817
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 693&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB693",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8187,
+  "finding_hash": "25524c2d79dd6b045de594c133fe03ceb5c4beca3f1bfabb23170c729fadd7e3",
+  "evidence_digest": "sha256:33693a464f6f211977b5427d830dad10d250b3a6cc0df4cf647ae481366ccec2",
+  "gate_id": "11bc731202af4471a9f28b9805105597",
+  "gate_seq": 8188
+ }
+}

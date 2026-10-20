@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2440",
+ "measure_id": "HB2440",
+ "subject": "or_legislature/2025R1/HB2440",
+ "title": "Requires law enforcement to investigate and remove unlawful occupants upon declaration and payment of a fee by a property owner.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2440 did not pass",
+ "claims": [
+  {
+   "text": "HB 2440 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614404
+   ]
+  },
+  {
+   "text": "HB 2440 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661474
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614404,
+    616613,
+    661474
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614404
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614404
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2440&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2440",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1317,
+  "finding_hash": "5606eab3a1e3010a4381499a96c60c59731225976d2603dc89f2fb1848a9995d",
+  "evidence_digest": "sha256:ee9cb60e78eb2e2ae60f4cfdb57d8e312fc69e8cfc555bf82fc262c18479e193",
+  "gate_id": "0a45fb998e2d4858afa8f4efaf04098f",
+  "gate_seq": 1318
+ }
+}

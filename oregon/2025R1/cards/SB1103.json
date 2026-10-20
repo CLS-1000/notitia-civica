@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1103",
+ "measure_id": "SB1103",
+ "subject": "or_legislature/2025R1/SB1103",
+ "title": "Requires the Oregon Business Development Department to establish a program to provide loans to cities and tribes to develop infrastructure to support housing in climate-friendly areas.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1103 did not pass",
+ "claims": [
+  {
+   "text": "SB 1103 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624813
+   ]
+  },
+  {
+   "text": "SB 1103 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659206
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624813,
+    625725,
+    634814,
+    659206
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624813
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624813
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    634814
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659206
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1103&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1103",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9417,
+  "finding_hash": "51afc73b08f9abd52401b3ef093b8d7aa24f8511f9fe327b4e83465812a10bd4",
+  "evidence_digest": "sha256:25eb0502e712065d5c7c1878b51b9e46912d1004055a1d4f08ce4dd89e543523",
+  "gate_id": "34f7c6f226d14f16bf572c6089f2017c",
+  "gate_seq": 9418
+ }
+}

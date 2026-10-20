@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3557",
+ "measure_id": "HB3557",
+ "subject": "or_legislature/2025R1/HB3557",
+ "title": "Requires a hospital to establish, update and make public a list of standard charges that lists the regular rates or prices established by the hospital for items or services and shoppable services offered or provided by the hospital.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3557 did not pass",
+ "claims": [
+  {
+   "text": "HB 3557 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621763
+   ]
+  },
+  {
+   "text": "HB 3557 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659964
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621763,
+    622100,
+    659964
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621763
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621763
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3557&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3557",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4668,
+  "finding_hash": "98e58a506588d9de8fce165c39916b5b46449161b1e0b5792386e2a33a37925c",
+  "evidence_digest": "sha256:68919a31945ad5a5eb2b0b418122d535f4f5dd1e414a9428c66338f60a305b37",
+  "gate_id": "19aa5d1892634a4eaf104167e0ee3520",
+  "gate_seq": 4669
+ }
+}

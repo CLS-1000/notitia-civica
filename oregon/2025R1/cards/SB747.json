@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 747",
+ "measure_id": "SB747",
+ "subject": "or_legislature/2025R1/SB747",
+ "title": "Requires persons with ownership interests in at least 200 acres of irrigated land used for agriculture to annually report information about fertilizer application to the State Department of Agriculture.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 747 did not pass",
+ "claims": [
+  {
+   "text": "SB 747 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616052
+   ]
+  },
+  {
+   "text": "SB 747 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659155
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616052,
+    618319,
+    620539,
+    659155
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616052
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616052
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620539
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659155
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 747&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB747",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8349,
+  "finding_hash": "cf9a36ca8d34839fe1fc1288460c1ebcc9a1d9d24b66d49e513dd9901cf652fd",
+  "evidence_digest": "sha256:c45be4207fda75a83556ccc9acd298d00e3ec0b0d0791a913ec9294f2f30ac66",
+  "gate_id": "7830bc5d444c4f229f1f9a04e80032e6",
+  "gate_seq": 8350
+ }
+}

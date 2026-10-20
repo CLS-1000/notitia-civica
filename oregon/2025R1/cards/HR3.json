@@ -1,0 +1,146 @@
+{
+ "session": "2025R1",
+ "measure": "HR 3",
+ "measure_id": "HR3",
+ "subject": "or_legislature/2025R1/HR3",
+ "title": "Recognizes and honors the history of Black drag in Oregon.",
+ "outcome": "adopted",
+ "outcome_label": "Adopted",
+ "headline": "HR 3 was adopted",
+ "claims": [
+  {
+   "text": "HR 3 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621726
+   ]
+  },
+  {
+   "text": "HR 3 was adopted; the last recorded step was on June 19, 2025.",
+   "row_ids": [
+    656058
+   ]
+  },
+  {
+   "text": "Each of the 11 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621726,
+    622103,
+    623286,
+    652009,
+    652862,
+    653202,
+    653203,
+    655694,
+    656130,
+    656057,
+    656058
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621726
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621726
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "when": "February 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623286
+   ]
+  },
+  {
+   "date": "2025-06-05",
+   "when": "June 5, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    652009
+   ]
+  },
+  {
+   "date": "2025-06-09",
+   "when": "June 9, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it be adopted",
+   "rule_id": "rec_be_adopted",
+   "row_ids": [
+    652862
+   ]
+  },
+  {
+   "date": "2025-06-10",
+   "when": "June 10, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "read",
+   "row_ids": [
+    653202
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "when": "June 18, 2025",
+   "chamber": "H",
+   "state": "adopted",
+   "text": "Adopted by the House",
+   "rule_id": "adopted",
+   "row_ids": [
+    655694
+   ]
+  },
+  {
+   "date": "2025-06-19",
+   "when": "June 19, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    656057
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-19",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HR' and MeasureNumber eq 3&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HR3",
+ "row_count": 11,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10386,
+  "finding_hash": "917e813f4b58ba5c9711f6aea10f634d9a3454dd768dbf342d54590041eff567",
+  "evidence_digest": "sha256:3ee731a72035b954576086f8ea9149cbdc14262a2d84ca29f862c7797735982c",
+  "gate_id": "9931f1de7a7145f2a8e0f245fda8dc8a",
+  "gate_seq": 10387
+ }
+}

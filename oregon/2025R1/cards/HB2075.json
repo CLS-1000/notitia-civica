@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2075",
+ "measure_id": "HB2075",
+ "subject": "or_legislature/2025R1/HB2075",
+ "title": "Extends the sunset for the property tax incentive benefit programs for brownfields and property on brownfields.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2075 did not pass",
+ "claims": [
+  {
+   "text": "HB 2075 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614039
+   ]
+  },
+  {
+   "text": "HB 2075 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661409
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614039,
+    616248,
+    621134,
+    639029,
+    661409
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614039
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614039
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621134
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661409
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2075&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2075",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 222,
+  "finding_hash": "b90e9c30621a5644b737b21fd06116446d38c8573a796f2e28b67126c548bc3b",
+  "evidence_digest": "sha256:a868e85acf3e7d91b04b7671253a1ccb4fb1a14fb8d6cd605ad8bed00a0309cb",
+  "gate_id": "7fec5289c34c4f96908905eafc8e6cd8",
+  "gate_seq": 223
+ }
+}

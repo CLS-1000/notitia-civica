@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2516",
+ "measure_id": "HB2516",
+ "subject": "or_legislature/2025R1/HB2516",
+ "title": "Directs the Oregon Department of Administrative Services to study and develop a list of standardized job profiles for unlicensed school jobs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2516 did not pass",
+ "claims": [
+  {
+   "text": "HB 2516 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614480
+   ]
+  },
+  {
+   "text": "HB 2516 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659799
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614480,
+    616689,
+    659799
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614480
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614480
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2516&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2516",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1545,
+  "finding_hash": "56ee4911a0cb682209fca0c633a18902f61a9e163edbbf4f04e7bd003084b72f",
+  "evidence_digest": "sha256:0be4a4d0d42ddb12c58689cbefc086323facd9cb708611be221d748abe3c1e29",
+  "gate_id": "e1dec7c93250471ab9ff2bfb0f7d07a4",
+  "gate_seq": 1546
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3286",
+ "measure_id": "HB3286",
+ "subject": "or_legislature/2025R1/HB3286",
+ "title": "Directs the Oregon Department of Emergency Management to establish a liaison for each county to foster development of county-level organizations or networks to address emergency prevention, preparedness, response and recovery.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3286 did not pass",
+ "claims": [
+  {
+   "text": "HB 3286 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618757
+   ]
+  },
+  {
+   "text": "HB 3286 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660993
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618757,
+    619155,
+    660993
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618757
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618757
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3286&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3286",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3855,
+  "finding_hash": "5b707fa78ee00eb435c154715bd03f9ae8544273675db4225940a7670831ef27",
+  "evidence_digest": "sha256:3b713f97c6ea6e5c05485dd06f6d8b74215f7f39c7352e1ad2baf7bf897c2d81",
+  "gate_id": "71fc512691e94d6ea96ff2d07e5500b4",
+  "gate_seq": 3856
+ }
+}

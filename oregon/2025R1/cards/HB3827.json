@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3827",
+ "measure_id": "HB3827",
+ "subject": "or_legislature/2025R1/HB3827",
+ "title": "Prohibits an individual from using a gillnet to land salmon in the main stem of the Columbia River.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3827 did not pass",
+ "claims": [
+  {
+   "text": "HB 3827 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625003
+   ]
+  },
+  {
+   "text": "HB 3827 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660531
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625003,
+    626412,
+    660531
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625003
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625003
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3827&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3827",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5478,
+  "finding_hash": "4482d281a46f3c4349ec99c70fc04c09e1c315bff3c026267b9c85a8ecee2966",
+  "evidence_digest": "sha256:870a2cecd902d8493e434f430b2d1ff4119e9a6aa550c2cb8db482a3ae7499e6",
+  "gate_id": "ef7512e331d3465fbffff5a3eb5c62fe",
+  "gate_seq": 5479
+ }
+}

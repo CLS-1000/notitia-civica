@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2244",
+ "measure_id": "HB2244",
+ "subject": "or_legislature/2025R1/HB2244",
+ "title": "Requires the Department of Consumer and Business Services to study issues relating to workplace safety.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2244 did not pass",
+ "claims": [
+  {
+   "text": "HB 2244 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614208
+   ]
+  },
+  {
+   "text": "HB 2244 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660249
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614208,
+    616417,
+    660249
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614208
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614208
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2244&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2244",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 729,
+  "finding_hash": "936c95e3377a5123ebe9f3406ac25e5ab05b3457b6da7398fbb2b50b5b812a5c",
+  "evidence_digest": "sha256:e2ede9866422c329eb1b39634d3d1569af96203266a7fa9cd0278268a75034a3",
+  "gate_id": "00e1a4f623434ffa957762f20f2bf3b3",
+  "gate_seq": 730
+ }
+}

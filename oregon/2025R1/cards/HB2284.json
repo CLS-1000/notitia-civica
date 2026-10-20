@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2284",
+ "measure_id": "HB2284",
+ "subject": "or_legislature/2025R1/HB2284",
+ "title": "Requires the Oregon Business Development Department to study broadband.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2284 did not pass",
+ "claims": [
+  {
+   "text": "HB 2284 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614248
+   ]
+  },
+  {
+   "text": "HB 2284 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659822
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614248,
+    616457,
+    659822
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614248
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614248
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2284&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2284",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 849,
+  "finding_hash": "d017139752b99f5fe1f3cd844380f1b0ad06b92de38756d805aa083f5324d955",
+  "evidence_digest": "sha256:f3b4e0786b6ed2545c4d31bd0380f3ba2a052c1df5180a6a6348da820291d83d",
+  "gate_id": "063154fde55e47cbb2323b80184ffaf5",
+  "gate_seq": 850
+ }
+}

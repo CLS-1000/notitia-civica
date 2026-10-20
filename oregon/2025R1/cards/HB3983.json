@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3983",
+ "measure_id": "HB3983",
+ "subject": "or_legislature/2025R1/HB3983",
+ "title": "Directs the court to enter an order, at the first appearance on a charge of misdemeanor unlawful possession of a controlled substance, prohibiting the charged person from possessing a firearm.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3983 did not pass",
+ "claims": [
+  {
+   "text": "HB 3983 was introduced in the House on June 9, 2025.",
+   "row_ids": [
+    652678
+   ]
+  },
+  {
+   "text": "HB 3983 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659955
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    652678,
+    655012,
+    659955
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-06-09",
+   "when": "June 9, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    652678
+   ]
+  },
+  {
+   "date": "2025-06-09",
+   "when": "June 9, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    652678
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3983&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3983",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5946,
+  "finding_hash": "189b9733445dbca7f82f8244c2f1a5b89616223be92851a93a90cde0dd7b3759",
+  "evidence_digest": "sha256:eec72c7005a8a57018bd9e1209f10593d16f190fd7cabe78b00320013f91087e",
+  "gate_id": "d99c4ea536584020babd5bb59211b914",
+  "gate_seq": 5947
+ }
+}

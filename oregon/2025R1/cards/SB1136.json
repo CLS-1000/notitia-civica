@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1136",
+ "measure_id": "SB1136",
+ "subject": "or_legislature/2025R1/SB1136",
+ "title": "Requires the Land Conservation and Development Commission to adopt model ordinances by which a city outside of Metro with a population of less than 25,000 may add lands to its urban growth boundary.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1136 did not pass",
+ "claims": [
+  {
+   "text": "SB 1136 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624846
+   ]
+  },
+  {
+   "text": "SB 1136 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659232
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624846,
+    625758,
+    659232
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624846
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624846
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1136&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1136",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9516,
+  "finding_hash": "916755a103d00ef0f90d15486daad323c08831896a7bd95a409ef7213b09bae8",
+  "evidence_digest": "sha256:e577399e4db5310d81ef2f41ba1755e8e80b0253a611bca192658623b3a27adb",
+  "gate_id": "e499d6281e064a828a7442deefd0a237",
+  "gate_seq": 9517
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2823",
+ "measure_id": "HB2823",
+ "subject": "or_legislature/2025R1/HB2823",
+ "title": "Permits the Oregon Business Development Department to hire an attorney for the purpose of prosecuting a patent for any invention that faculty, staff or students reduce to practice while employed by or enrolled in a public high school in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2823 did not pass",
+ "claims": [
+  {
+   "text": "HB 2823 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614787
+   ]
+  },
+  {
+   "text": "HB 2823 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660658
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614787,
+    616996,
+    660658
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614787
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614787
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2823&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2823",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2466,
+  "finding_hash": "9396acc5f3fa8fdc05f3fca96ff683cd4d9f073974cef3a2f4b2196df9447364",
+  "evidence_digest": "sha256:f9bd8195422ff067800accf20fbe07d8a9323f4d38befae8be70b01bc509a984",
+  "gate_id": "b89962a3a3144e83b62fe32cdc9a59ba",
+  "gate_seq": 2467
+ }
+}

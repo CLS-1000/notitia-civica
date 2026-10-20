@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "SB 436",
+ "measure_id": "SB436",
+ "subject": "or_legislature/2025R1/SB436",
+ "title": "Provides that constructing a nonprofit child care facility within a project for affordable housing does not subject the project for affordable housing to prevailing wage requirements if the child care facility meets specified requirements.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 436 did not pass",
+ "claims": [
+  {
+   "text": "SB 436 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615741
+   ]
+  },
+  {
+   "text": "SB 436 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659067
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615741,
+    618008,
+    620269,
+    620560,
+    659067
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615741
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615741
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "when": "February 3, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    620269
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    620560
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 436&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB436",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7416,
+  "finding_hash": "babd2e201e8a28593ff7ad2f343ca826dba77d4c4ef4e98de6e1a18f842b5152",
+  "evidence_digest": "sha256:236d68ac425ccd40b6670e122421d9ff90d6687ba5edf52a7d8f80cfcc271ae2",
+  "gate_id": "cf62a986be454783975dc3d7562185aa",
+  "gate_seq": 7417
+ }
+}

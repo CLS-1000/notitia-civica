@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3657",
+ "measure_id": "HB3657",
+ "subject": "or_legislature/2025R1/HB3657",
+ "title": "Directs the State Department of Agriculture to establish a wildlife damage prevention and compensation pilot program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3657 did not pass",
+ "claims": [
+  {
+   "text": "HB 3657 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624341
+   ]
+  },
+  {
+   "text": "HB 3657 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660406
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624341,
+    625202,
+    628919,
+    632852,
+    635808,
+    635809,
+    660406
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624341
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624341
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628919
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632852
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    635808
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3657&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3657",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4968,
+  "finding_hash": "ec41e4f252cf5ce9d07b5658e75f4d58c7255ea8d4ea188b98bdf8175d411ea6",
+  "evidence_digest": "sha256:7ccb96a298480b9a80219319860de284a57aeb0cee332d4e351da791994892e7",
+  "gate_id": "47dd8386bc914999a7536b76ec0480b3",
+  "gate_seq": 4969
+ }
+}

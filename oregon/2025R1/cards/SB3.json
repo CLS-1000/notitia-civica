@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 3",
+ "measure_id": "SB3",
+ "subject": "or_legislature/2025R1/SB3",
+ "title": "Directs the Oregon Department of Administrative Services to decrease either the weight-mile tax or vehicle fuel taxes if the highway cost allocation study indicates that a vehicle class is paying more than its fair share for the use of the highways in the state and the Legislative Assembly does not enact a measure within 120 days of the Joint Committee on Transportation receiving a report on the study to correct the imbalance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 3 did not pass",
+ "claims": [
+  {
+   "text": "SB 3 was introduced in the Senate on March 11, 2025.",
+   "row_ids": [
+    627756
+   ]
+  },
+  {
+   "text": "SB 3 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658624
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    627756,
+    627989,
+    658624
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    627756
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    627756
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 3&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB3",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6117,
+  "finding_hash": "817ef172d235f50efb6da7526a52c627fb16104519384e469017abfac1b5965b",
+  "evidence_digest": "sha256:165a06217f5b8c2714d5d0ef24a7210e9385bb3f2e91adec9250a4bb51409f3e",
+  "gate_id": "cb5cac7542ae42abaf6bf1c4e6502bce",
+  "gate_seq": 6118
+ }
+}

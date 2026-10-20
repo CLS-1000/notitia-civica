@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2624",
+ "measure_id": "HB2624",
+ "subject": "or_legislature/2025R1/HB2624",
+ "title": "Directs the Oregon Public Defense Commission to study best practices to improve the provision of public defense services within this state, and provide the results of the study to the appropriate interim committees of the Legislative Assembly no later than December 31, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2624 did not pass",
+ "claims": [
+  {
+   "text": "HB 2624 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614588
+   ]
+  },
+  {
+   "text": "HB 2624 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660760
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614588,
+    616797,
+    660760
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614588
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614588
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2624&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2624",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1869,
+  "finding_hash": "a49fc7de237a986b5ad0eaa73be0aab4d292e3ccdf77de23aa23fb226d6090a6",
+  "evidence_digest": "sha256:64d6644ff51d2fdd80dc216c028380fa300c48dd233c6a976aadb015e18800bc",
+  "gate_id": "37f7d10b3328488e9cb8f5201652136d",
+  "gate_seq": 1870
+ }
+}

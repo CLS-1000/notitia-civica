@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HCR 7",
+ "measure_id": "HCR7",
+ "subject": "or_legislature/2025R1/HCR7",
+ "title": "Declares that it is the policy of the State of Oregon to protect refugee and immigrant rights.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HCR 7 did not pass",
+ "claims": [
+  {
+   "text": "HCR 7 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613901
+   ]
+  },
+  {
+   "text": "HCR 7 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660942
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613901,
+    617476,
+    660942
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613901
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613901
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 7&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HCR7",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10170,
+  "finding_hash": "cf926ed78a2f566dd3eb93f6969def003b3aef54609398a0cf4cf4a1b4e50fef",
+  "evidence_digest": "sha256:ca634c7b816fb0d2af90b0e595b24ccd31e7b7ad70466300b228549786e42c9b",
+  "gate_id": "bd5d353d44a14471827935e1bb87d3a0",
+  "gate_seq": 10171
+ }
+}

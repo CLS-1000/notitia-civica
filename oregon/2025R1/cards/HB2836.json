@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2836",
+ "measure_id": "HB2836",
+ "subject": "or_legislature/2025R1/HB2836",
+ "title": "Requires a statement of economic interest to be filed by all members of the board of directors or governing body of a nonprofit that has either received or submitted testimony to the Legislative Assembly requesting $1 million or more in state capital construction funding over the previous five years.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2836 did not pass",
+ "claims": [
+  {
+   "text": "HB 2836 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614800
+   ]
+  },
+  {
+   "text": "HB 2836 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660671
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614800,
+    617009,
+    660671
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614800
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614800
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2836&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2836",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2505,
+  "finding_hash": "1dbba8d7ce8ce57c383573b00a007e4e6244a506c6b1c54bf7b572267e5a7217",
+  "evidence_digest": "sha256:a724a243655b13c2c3f44735ae7638a7497de6460ce3f58fd6ba5edb2fb167dc",
+  "gate_id": "d6d4a956d6f34c78b5ab25546a12c1e5",
+  "gate_seq": 2506
+ }
+}

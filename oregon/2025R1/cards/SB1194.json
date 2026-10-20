@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1194",
+ "measure_id": "SB1194",
+ "subject": "or_legislature/2025R1/SB1194",
+ "title": "Prohibits the Environmental Quality Commission and Department of Environmental Quality from requiring municipally owned treatment works from meeting certain criteria for pollutants and temperature for discharges into surface water.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1194 did not pass",
+ "claims": [
+  {
+   "text": "SB 1194 was introduced in the Senate on March 20, 2025.",
+   "row_ids": [
+    630180
+   ]
+  },
+  {
+   "text": "SB 1194 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659571
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    630180,
+    630213,
+    659571
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    630180
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    630180
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1194&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1194",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9690,
+  "finding_hash": "a60ec8ecc7e034f944c6c5495873ebfda4592d32f64296e838a930878d91df89",
+  "evidence_digest": "sha256:f87bd39ab3c93767ea17c45453ec8c8aa228e18fca7e5c3596640a064362578d",
+  "gate_id": "46cee4d6ba224ff18595bb0f8a674551",
+  "gate_seq": 9691
+ }
+}

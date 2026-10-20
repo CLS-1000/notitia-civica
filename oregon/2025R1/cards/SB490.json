@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 490",
+ "measure_id": "SB490",
+ "subject": "or_legislature/2025R1/SB490",
+ "title": "Increases the exempt amount and the filing threshold for purposes of the corporate activity tax.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 490 did not pass",
+ "claims": [
+  {
+   "text": "SB 490 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615795
+   ]
+  },
+  {
+   "text": "SB 490 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659328
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615795,
+    618062,
+    625658,
+    659328
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615795
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615795
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625658
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659328
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 490&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB490",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7578,
+  "finding_hash": "e5aaa60f40170ed6dab39aa3910c6693b33cf6652c518c4f293744a3c31730d5",
+  "evidence_digest": "sha256:eac3d8b38ba8d25447a536422669a75a0d7e0680990424d8c7de7d17a7681395",
+  "gate_id": "4b1951c6b34c4a83af869cc726cfbd41",
+  "gate_seq": 7579
+ }
+}

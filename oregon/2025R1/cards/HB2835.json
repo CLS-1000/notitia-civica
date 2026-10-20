@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2835",
+ "measure_id": "HB2835",
+ "subject": "or_legislature/2025R1/HB2835",
+ "title": "Directs the Department of Veterans' Affairs to fill and utilize certain positions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2835 did not pass",
+ "claims": [
+  {
+   "text": "HB 2835 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614799
+   ]
+  },
+  {
+   "text": "HB 2835 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660670
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614799,
+    617008,
+    660670
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614799
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614799
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2835&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2835",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2502,
+  "finding_hash": "14e568acd4b10fff791f2f45237d9bedb2b21e52deb4b0f049552e6f8d2e444b",
+  "evidence_digest": "sha256:0e817517938d1628a6268fa93947e945624c9059f0e66a3de51e3bb2f4c4df48",
+  "gate_id": "d842c62ba4d544558d87c099f42ae02d",
+  "gate_seq": 2503
+ }
+}

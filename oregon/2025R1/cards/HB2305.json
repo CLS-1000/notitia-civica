@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2305",
+ "measure_id": "HB2305",
+ "subject": "or_legislature/2025R1/HB2305",
+ "title": "Allows a landlord to terminate residential tenancy upon third material violation or late payment upon 30 days' notice with no right to cure.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2305 did not pass",
+ "claims": [
+  {
+   "text": "HB 2305 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614269
+   ]
+  },
+  {
+   "text": "HB 2305 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659841
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614269,
+    616478,
+    622726,
+    623383,
+    659841
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614269
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614269
+   ]
+  },
+  {
+   "date": "2025-02-17",
+   "when": "February 17, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622726
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659841
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2305&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2305",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 912,
+  "finding_hash": "013aa5bc5f2359c6b79f0205b8d6f7bf4da8040d095f3938ccca92ef31a27888",
+  "evidence_digest": "sha256:b88566834019fcf7f974b34cf81c98d742e0bbe01bbc18637d81ecab751c39e4",
+  "gate_id": "2bffe180dd2d4dd6873fdf02bf8341fd",
+  "gate_seq": 913
+ }
+}

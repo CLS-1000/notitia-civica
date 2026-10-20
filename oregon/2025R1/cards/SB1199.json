@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1199",
+ "measure_id": "SB1199",
+ "subject": "or_legislature/2025R1/SB1199",
+ "title": "Allows counties with a population density of less than 10 people per square mile to rezone up to 50 acres to be divided and developed for residential dwellings of at least five units per acre.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1199 did not pass",
+ "claims": [
+  {
+   "text": "SB 1199 was introduced in the Senate on March 24, 2025.",
+   "row_ids": [
+    631930
+   ]
+  },
+  {
+   "text": "SB 1199 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658961
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    631930,
+    631999,
+    658961
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    631930
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    631930
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1199&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1199",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9705,
+  "finding_hash": "4ecd27defe24fa04ede27e450523840df408529729c7c2474365abaf5cf38db4",
+  "evidence_digest": "sha256:0f7b60af342cd4487e5a01cf748e2d9b8d2a9567f6fad28913ca2b5680dd3c8e",
+  "gate_id": "1557b43ac1434730acabfd9ac956558e",
+  "gate_seq": 9706
+ }
+}

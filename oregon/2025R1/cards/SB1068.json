@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1068",
+ "measure_id": "SB1068",
+ "subject": "or_legislature/2025R1/SB1068",
+ "title": "Directs the State Board of Parole and Post-Prison Supervision to classify a sex offender who has previously been placed into a risk level in another jurisdiction into the corresponding risk level in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1068 did not pass",
+ "claims": [
+  {
+   "text": "SB 1068 was introduced in the Senate on February 20, 2025.",
+   "row_ids": [
+    623604
+   ]
+  },
+  {
+   "text": "SB 1068 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659280
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623604,
+    623968,
+    659280
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623604
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623604
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1068&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1068",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9312,
+  "finding_hash": "b17d3564b1988a3a52aab5ee4b53a19fc9f930e0a617261e7c8fb2e0cc71f12a",
+  "evidence_digest": "sha256:a5bd2bd4b0378f675f04dc5147022fd5026f3d29cccf93f94a64d310a72df300",
+  "gate_id": "4c8dbfd48c994b5f8da5ad31a9cd8f7a",
+  "gate_seq": 9313
+ }
+}

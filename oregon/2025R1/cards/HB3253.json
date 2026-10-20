@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3253",
+ "measure_id": "HB3253",
+ "subject": "or_legislature/2025R1/HB3253",
+ "title": "Establishes review criteria for telecommunications towers to be applied by counties.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3253 did not pass",
+ "claims": [
+  {
+   "text": "HB 3253 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618724
+   ]
+  },
+  {
+   "text": "HB 3253 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660960
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618724,
+    619122,
+    660960
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618724
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618724
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3253&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3253",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3756,
+  "finding_hash": "3baf625ec39d3144aa10291683c9937216df44be0399cd90d00564fe990d431e",
+  "evidence_digest": "sha256:5c82308aa355f189b34f08b5a15eb16bccaff99e0941fb5658e3a61ccda73f06",
+  "gate_id": "efb7f49bf36948e09d37b33e8e14151a",
+  "gate_seq": 3757
+ }
+}

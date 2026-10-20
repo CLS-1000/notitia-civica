@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HCR 5",
+ "measure_id": "HCR5",
+ "subject": "or_legislature/2025R1/HCR5",
+ "title": "Resolves that the Legislative Assembly should appropriate from the General Fund to the Department of Veterans' Affairs an amount that is no less than the amount appropriated from the General Fund to the Department of Veterans' Affairs in the biennium beginning July 1, 2015, as adjusted.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HCR 5 did not pass",
+ "claims": [
+  {
+   "text": "HCR 5 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613899
+   ]
+  },
+  {
+   "text": "HCR 5 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660505
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613899,
+    617474,
+    660505
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613899
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613899
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 5&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HCR5",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10164,
+  "finding_hash": "bc025f8969d89ae3539e969d4bfad2fd585933907c1c9cda7accc33d69161583",
+  "evidence_digest": "sha256:2d0953e68a1dd88b450a3cacaf785512dae18502ba5db4e5f1dee940ea22f2bd",
+  "gate_id": "1199df031b0a4a1384b73600e122eafd",
+  "gate_seq": 10165
+ }
+}

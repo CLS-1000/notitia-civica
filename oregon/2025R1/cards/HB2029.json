@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2029",
+ "measure_id": "HB2029",
+ "subject": "or_legislature/2025R1/HB2029",
+ "title": "Imposes requirements and restrictions on insurer and coordinated care organization audits of claims for reimbursement submitted by behavioral health treatment providers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2029 did not pass",
+ "claims": [
+  {
+   "text": "HB 2029 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613993
+   ]
+  },
+  {
+   "text": "HB 2029 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660599
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613993,
+    616202,
+    628672,
+    639013,
+    641150,
+    641151,
+    660599
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613993
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613993
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628672
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639013
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641150
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2029&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2029",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 84,
+  "finding_hash": "2ba1ccffee68954e3fce86de47453cbf99ea5c8faaf6758240dca74d7344f9f6",
+  "evidence_digest": "sha256:3fa4424e5738770e0b2a68d30f60e315ab9b60329d2886f9817e8392143b2312",
+  "gate_id": "6e84897d37664779a4c12dda098737b9",
+  "gate_seq": 85
+ }
+}

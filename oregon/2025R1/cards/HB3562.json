@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3562",
+ "measure_id": "HB3562",
+ "subject": "or_legislature/2025R1/HB3562",
+ "title": "Directs schools to prepare school maps for use by local and state public safety agencies responsible for emergency services at the school.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3562 did not pass",
+ "claims": [
+  {
+   "text": "HB 3562 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622897
+   ]
+  },
+  {
+   "text": "HB 3562 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660400
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622897,
+    623452,
+    632268,
+    660400
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622897
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622897
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632268
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660400
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3562&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3562",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4683,
+  "finding_hash": "84cb0c74805573787a9510a1b8980fd68e7bb5d021aa36f1d6e180da03f9b836",
+  "evidence_digest": "sha256:6f259029f0e61fda840a49b21477fe2d16f2b7ccdfe0564076ae9ca3c2f6b3be",
+  "gate_id": "abe82e83e53641c983b5230a0de0d9c1",
+  "gate_seq": 4684
+ }
+}

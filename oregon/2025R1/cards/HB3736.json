@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3736",
+ "measure_id": "HB3736",
+ "subject": "or_legislature/2025R1/HB3736",
+ "title": "Requires the Oregon Department of Administrative Services to study more cost effective ways for state agencies to procure translation services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3736 did not pass",
+ "claims": [
+  {
+   "text": "HB 3736 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624420
+   ]
+  },
+  {
+   "text": "HB 3736 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660390
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624420,
+    625281,
+    660390
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624420
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624420
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3736&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3736",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5205,
+  "finding_hash": "b95ce7694f0542ac8857d8b413b0d94ec2a3fca9763a1c1ff7fc95e75cfe083e",
+  "evidence_digest": "sha256:0d3f4764779ba357c20f38bcc0873502649d770069727c594a0d02157db28a69",
+  "gate_id": "9be831f86e534c7985cf67e5bea52d1e",
+  "gate_seq": 5206
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 118",
+ "measure_id": "SB118",
+ "subject": "or_legislature/2025R1/SB118",
+ "title": "Extends the sunset date for the property tax exemption for multiunit rental housing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 118 did not pass",
+ "claims": [
+  {
+   "text": "SB 118 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615423
+   ]
+  },
+  {
+   "text": "SB 118 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659458
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615423,
+    617690,
+    620626,
+    659458
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615423
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615423
+   ]
+  },
+  {
+   "date": "2025-02-05",
+   "when": "February 5, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620626
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659458
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 118&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB118",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6462,
+  "finding_hash": "eb771ff7d86f8c1f0d58900dcca0c9181532615a090462b6c0b2986d558a9099",
+  "evidence_digest": "sha256:510c7e229edbb53fa67b811b944de06846af17b9b3b2e151fc331373d4d3de30",
+  "gate_id": "d16dc8fcb9aa436bafa46114943786e7",
+  "gate_seq": 6463
+ }
+}

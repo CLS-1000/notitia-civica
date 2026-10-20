@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3206",
+ "measure_id": "HB3206",
+ "subject": "or_legislature/2025R1/HB3206",
+ "title": "Directs the Department of Education to review, make recommendations and develop procedures related to the recording of student absences and how school districts respond to student absences.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3206 did not pass",
+ "claims": [
+  {
+   "text": "HB 3206 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615170
+   ]
+  },
+  {
+   "text": "HB 3206 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660042
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615170,
+    617379,
+    660042
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615170
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615170
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3206&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3206",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3615,
+  "finding_hash": "3e9bb0a70a256a2808c396d545f6eceb59022dff45b0fb773346db96e41884df",
+  "evidence_digest": "sha256:9abf21c9dc0c15db880dd705de6fde3ca8411a11257d1173ddeea7d9ee555bb3",
+  "gate_id": "f5dec30e57794433b0d61ba9671accee",
+  "gate_seq": 3616
+ }
+}

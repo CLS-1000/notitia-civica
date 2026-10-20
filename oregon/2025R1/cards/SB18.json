@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "SB 18",
+ "measure_id": "SB18",
+ "subject": "or_legislature/2025R1/SB18",
+ "title": "Increases the criminal and civil penalties for subsequent and intentional violations of specified election laws.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 18 did not pass",
+ "claims": [
+  {
+   "text": "SB 18 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615323
+   ]
+  },
+  {
+   "text": "SB 18 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659408
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615323,
+    617590,
+    626150,
+    659408
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615323
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615323
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626150
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659408
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 18&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB18",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6162,
+  "finding_hash": "7887e0785fab611295c59099ab03559a36f0292547b4a26eb6993d5b9e79feda",
+  "evidence_digest": "sha256:b5b2576fb1ea27b73d5fa6a4eaed5907e18cb1d14c7102648bca8dd1ec2bbadc",
+  "gate_id": "c81d39e6d7094b8cb0e5c9890da60c5f",
+  "gate_seq": 6163
+ }
+}

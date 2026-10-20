@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3626",
+ "measure_id": "HB3626",
+ "subject": "or_legislature/2025R1/HB3626",
+ "title": "Defines \"powered micromobility device\" for the vehicle code.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3626 did not pass",
+ "claims": [
+  {
+   "text": "HB 3626 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622961
+   ]
+  },
+  {
+   "text": "HB 3626 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660142
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622961,
+    623516,
+    629276,
+    648656,
+    649626,
+    649627,
+    660142
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622961
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622961
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629276
+   ]
+  },
+  {
+   "date": "2025-05-20",
+   "when": "May 20, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    648656
+   ]
+  },
+  {
+   "date": "2025-05-27",
+   "when": "May 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    649626
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3626&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3626",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4875,
+  "finding_hash": "56d9489fa5e43299a605186082336f8170a7cbf0cb7e2361ec037deb296ae625",
+  "evidence_digest": "sha256:8c5f8b5bb23ad66eedef79827a2174abcc3d4860cd30316bd03cac86c3bbf1e0",
+  "gate_id": "cf804b85d6464087adfc54bb1c5957f6",
+  "gate_seq": 4876
+ }
+}

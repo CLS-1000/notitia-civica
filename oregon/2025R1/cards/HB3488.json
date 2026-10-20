@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3488",
+ "measure_id": "HB3488",
+ "subject": "or_legislature/2025R1/HB3488",
+ "title": "Establishes the Move Oregon-Idaho Border Task Force to document the state and federal legal and legislative processes that must take place to relocate the Oregon and Idaho state boundaries to include specified Oregon counties in Idaho.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3488 did not pass",
+ "claims": [
+  {
+   "text": "HB 3488 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620361
+   ]
+  },
+  {
+   "text": "HB 3488 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660647
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620361,
+    621034,
+    660647
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620361
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620361
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3488&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3488",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4461,
+  "finding_hash": "6521b4690b2b3ce8f913037c4d6f7dbe3fc2186c256669676e79ebfc5807c400",
+  "evidence_digest": "sha256:916e42ae1b535adc453d649ef414036f02635acbf4cac0e4de8e163f1391e44d",
+  "gate_id": "4d137c68046749eabefedb3300a0709c",
+  "gate_seq": 4462
+ }
+}

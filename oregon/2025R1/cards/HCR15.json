@@ -1,0 +1,108 @@
+{
+ "session": "2025R1",
+ "measure": "HCR 15",
+ "measure_id": "HCR15",
+ "subject": "or_legislature/2025R1/HCR15",
+ "title": "Establishes deadlines for the completion of legislative measures for the 2025 regular session of the Eighty-third Legislative Assembly.",
+ "outcome": "adopted",
+ "outcome_label": "Adopted",
+ "headline": "HCR 15 was adopted",
+ "claims": [
+  {
+   "text": "HCR 15 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    616181
+   ]
+  },
+  {
+   "text": "HCR 15 was adopted; the last recorded step was on January 23, 2025.",
+   "row_ids": [
+    619039
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616181,
+    616182,
+    616183,
+    618996,
+    618998,
+    619039
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "measure_introduced",
+   "row_ids": [
+    616181
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "adopted",
+   "text": "Adopted by the House",
+   "rule_id": "adopted",
+   "row_ids": [
+    616182
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "adopted",
+   "text": "Adopted by the Senate",
+   "rule_id": "adopted",
+   "row_ids": [
+    616183
+   ]
+  },
+  {
+   "date": "2025-01-22",
+   "when": "January 22, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    618996
+   ]
+  },
+  {
+   "date": "2025-01-22",
+   "when": "January 22, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    618998
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-01-23",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 15&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HCR15",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10194,
+  "finding_hash": "97094bbcea1a65d36437bd289076f2be278c179cfc698aaae7ceccf1599aa761",
+  "evidence_digest": "sha256:af364b338a7cb8151983165f270b85d18c620af2180022941c17d3cf0037a8ca",
+  "gate_id": "fe42d07e3c524d45a62d5e324bb40d8b",
+  "gate_seq": 10195
+ }
+}

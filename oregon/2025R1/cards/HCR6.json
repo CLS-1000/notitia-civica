@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HCR 6",
+ "measure_id": "HCR6",
+ "subject": "or_legislature/2025R1/HCR6",
+ "title": "Designates <i>One Flew Over the Cuckoo's Nest</i> (1975) as the official film of Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HCR 6 did not pass",
+ "claims": [
+  {
+   "text": "HCR 6 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613900
+   ]
+  },
+  {
+   "text": "HCR 6 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660506
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613900,
+    617475,
+    660506
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613900
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613900
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 6&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HCR6",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10167,
+  "finding_hash": "661635aac2241ead853a1df619e5653fccd3f5091ae7ec3b7e7c9bda1a4dfd44",
+  "evidence_digest": "sha256:2fa0207d02f0917b6f86d34bc8c514f3a9e955f4725f554bc691333c8dd0153a",
+  "gate_id": "3c2adeb52d554c108df4e3d7ec2e18fc",
+  "gate_seq": 10168
+ }
+}

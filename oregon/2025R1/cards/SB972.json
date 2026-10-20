@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 972",
+ "measure_id": "SB972",
+ "subject": "or_legislature/2025R1/SB972",
+ "title": "Modifies the definition of \"caregiver relationship.\"",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 972 did not pass",
+ "claims": [
+  {
+   "text": "SB 972 was introduced in the Senate on February 4, 2025.",
+   "row_ids": [
+    620434
+   ]
+  },
+  {
+   "text": "SB 972 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659541
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620434,
+    620459,
+    659541
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620434
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620434
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 972&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB972",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9024,
+  "finding_hash": "b4067ac644861b6024df1ef2f4670cc3b346d98ed01af1e75cd393bfd9becf32",
+  "evidence_digest": "sha256:7cf2e11a15cbd99744ab6ebfbe9259f27ac42f044200e6999d8c25812b1866dd",
+  "gate_id": "fcaf47b677024ca5a4bcd1addabf5da4",
+  "gate_seq": 9025
+ }
+}

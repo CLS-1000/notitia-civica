@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2529",
+ "measure_id": "HB2529",
+ "subject": "or_legislature/2025R1/HB2529",
+ "title": "Prescribes requirements for schools related to automated external defibrillators.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2529 did not pass",
+ "claims": [
+  {
+   "text": "HB 2529 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614493
+   ]
+  },
+  {
+   "text": "HB 2529 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661500
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614493,
+    616702,
+    632266,
+    636576,
+    638132,
+    638133,
+    661500
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614493
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614493
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632266
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636576
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638132
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2529&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2529",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1584,
+  "finding_hash": "c26326feb89fc77d99de4b10a20cb356aea05c7c3074aaff3991165ca75b44bb",
+  "evidence_digest": "sha256:9456de34235fb005fc82009400580a8566598b3d3ca832ac5d0c90381f15413b",
+  "gate_id": "0349647a055f49ff90428e30e0e852f7",
+  "gate_seq": 1585
+ }
+}

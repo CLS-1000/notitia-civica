@@ -1,0 +1,80 @@
+{
+ "session": "2025R1",
+ "measure": "HJR 15",
+ "measure_id": "HJR15",
+ "subject": "or_legislature/2025R1/HJR15",
+ "title": "Proposes an amendment to the Oregon Constitution to prohibit an individual who is appointed to fill a vacancy in office from being elected to that office. Specifies the offices to which the prohibition applies.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJR 15 did not pass",
+ "claims": [
+  {
+   "text": "HJR 15 was introduced in the House on February 6, 2025.",
+   "row_ids": [
+    620880
+   ]
+  },
+  {
+   "text": "HJR 15 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661303
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620880,
+    621271,
+    661303
+   ]
+  },
+  {
+   "text": "HJR 15 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    661303
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620880
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620880
+   ]
+  }
+ ],
+ "topics": [
+  "ballot"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJR' and MeasureNumber eq 15&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJR15",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9954,
+  "finding_hash": "8f61edc49a6ba224a4732ce40c660d0d62a323d2676fd8e9ae51227d09a9dd9d",
+  "evidence_digest": "sha256:d39820224bee92ef9e5b1f439fac77602d5f30342b91e961595f74bec79b2a4b",
+  "gate_id": "5a3984d11aa046e4b120269a740a7f99",
+  "gate_seq": 9955
+ }
+}

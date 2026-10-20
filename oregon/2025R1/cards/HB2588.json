@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2588",
+ "measure_id": "HB2588",
+ "subject": "or_legislature/2025R1/HB2588",
+ "title": "Appropriates moneys from the General Fund to the Department of Education for distribution to the Educator Advancement Council to support the Oregon Registered Teaching Apprenticeship Program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2588 did not pass",
+ "claims": [
+  {
+   "text": "HB 2588 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614552
+   ]
+  },
+  {
+   "text": "HB 2588 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660915
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614552,
+    616761,
+    621633,
+    638429,
+    639730,
+    639731,
+    660915
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614552
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614552
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "when": "February 10, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621633
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638429
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639730
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2588&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2588",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1761,
+  "finding_hash": "482abde5dc7779a67bbcbc26c515d06cdf78c4e6cba8fe8490cfd224ba13203d",
+  "evidence_digest": "sha256:7915aea688b351883ad6269d9aa6ba44c4b9116dec25efe4011add85cebf41cc",
+  "gate_id": "a93c5ae5c7844ea28a0ca116ff29e84e",
+  "gate_seq": 1762
+ }
+}

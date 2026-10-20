@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1209",
+ "measure_id": "SB1209",
+ "subject": "or_legislature/2025R1/SB1209",
+ "title": "Provides that a person may not file a special motion to strike a claim brought by a public body.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1209 did not pass",
+ "claims": [
+  {
+   "text": "SB 1209 was introduced in the Senate on May 1, 2025.",
+   "row_ids": [
+    643971
+   ]
+  },
+  {
+   "text": "SB 1209 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659291
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    643971,
+    644023,
+    659291
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-05-01",
+   "when": "May 1, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    643971
+   ]
+  },
+  {
+   "date": "2025-05-01",
+   "when": "May 1, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    643971
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1209&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1209",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9735,
+  "finding_hash": "ea285d375d7fd77610b3bb9d240e11ce0c1cc08b061a26efcc31f14ae1de02b6",
+  "evidence_digest": "sha256:9fba06d219ae6895e11165963fc236adcc98a73856e2cb96da8c59e5d37794b9",
+  "gate_id": "4691014c37a3427d883ca646eb333615",
+  "gate_seq": 9736
+ }
+}

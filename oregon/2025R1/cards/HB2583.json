@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2583",
+ "measure_id": "HB2583",
+ "subject": "or_legislature/2025R1/HB2583",
+ "title": "Allows virtual public charter schools that do not provide educational services through a for-profit entity that contracts with the governing body of the virtual public charter school to be eligible for grants distributed from the Student Investment Account.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2583 did not pass",
+ "claims": [
+  {
+   "text": "HB 2583 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614547
+   ]
+  },
+  {
+   "text": "HB 2583 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660911
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614547,
+    616756,
+    636589,
+    660911
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614547
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614547
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    636589
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660911
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2583&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2583",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1746,
+  "finding_hash": "3fa26b0e8e07315b70e8ac5d851821aea7ecc9923a945cc816263fd3383b33dc",
+  "evidence_digest": "sha256:2d3ffb1b288999d36479f0b5f2e2cf9b66479a13b943968c8ab119438550325c",
+  "gate_id": "58f592119cf341f28996996fc98b5800",
+  "gate_seq": 1747
+ }
+}

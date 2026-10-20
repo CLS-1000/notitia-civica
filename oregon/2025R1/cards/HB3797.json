@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3797",
+ "measure_id": "HB3797",
+ "subject": "or_legislature/2025R1/HB3797",
+ "title": "Requires the Department of Human Services to study the demographics of children in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3797 did not pass",
+ "claims": [
+  {
+   "text": "HB 3797 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624973
+   ]
+  },
+  {
+   "text": "HB 3797 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661363
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624973,
+    626382,
+    661363
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624973
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624973
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3797&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3797",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5388,
+  "finding_hash": "e9a4e977d8cf85420714722fbd2830c63d2a1d25567e7663c69d5c51ef9d6d84",
+  "evidence_digest": "sha256:dcf3c884c62b3feefeaee7dfaeae39dc77679aeac52c7f1f02a34f526d85da00",
+  "gate_id": "d1bcf45515044cf187e8ad57ec18b6cf",
+  "gate_seq": 5389
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 359",
+ "measure_id": "SB359",
+ "subject": "or_legislature/2025R1/SB359",
+ "title": "Authorizes any person to submit a complaint to the Department of Environmental Quality if the person reasonably believes that a camping site of homeless individuals is causing the discharge of wastes into state waters.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 359 did not pass",
+ "claims": [
+  {
+   "text": "SB 359 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615664
+   ]
+  },
+  {
+   "text": "SB 359 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658745
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615664,
+    617931,
+    658745
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615664
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615664
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 359&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB359",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7185,
+  "finding_hash": "a7f9086565238ea84326943a47435f90a4b6160381ffa0537b27fa3a32de74b2",
+  "evidence_digest": "sha256:4b6dd1b44f8a113c1be07978f5dab43c1c2c509c9482f055d76fbb2b0e30b96f",
+  "gate_id": "f68e6318fd4b4eaab8385587d939df96",
+  "gate_seq": 7186
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3601",
+ "measure_id": "HB3601",
+ "subject": "or_legislature/2025R1/HB3601",
+ "title": "Requires the Oregon Health Authority to study mental health.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3601 did not pass",
+ "claims": [
+  {
+   "text": "HB 3601 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622936
+   ]
+  },
+  {
+   "text": "HB 3601 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661383
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622936,
+    623491,
+    661383
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622936
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622936
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3601&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3601",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4800,
+  "finding_hash": "5a9aec3daaf9c767ba2b335700176577800ab55956fe00f9e975a86b0f79053e",
+  "evidence_digest": "sha256:38af5ea434620857a7fd085a719e28e1db8c60db219f68566722451a453c6ecd",
+  "gate_id": "d629091851de4c90a0cc927b2f33e419",
+  "gate_seq": 4801
+ }
+}

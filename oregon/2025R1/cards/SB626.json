@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 626",
+ "measure_id": "SB626",
+ "subject": "or_legislature/2025R1/SB626",
+ "title": "Expands the crimes of encouraging child sexual abuse in the first degree, second degree and third degree to include visual depictions of child abuse that are computer-generated.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 626 did not pass",
+ "claims": [
+  {
+   "text": "SB 626 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615931
+   ]
+  },
+  {
+   "text": "SB 626 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658813
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615931,
+    618198,
+    658813
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615931
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615931
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 626&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB626",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7986,
+  "finding_hash": "f65f9665cf314ba2cdb66c453293eaa95c8f1e74350c56d4a7d17369bb1f9f69",
+  "evidence_digest": "sha256:e4f0790fca9fab3f2e699a7c573c4fc68e5dd0e29b62ac0d22166a5c8030db5c",
+  "gate_id": "a0f811f3fa864d74ad0bbca79765d97a",
+  "gate_seq": 7987
+ }
+}

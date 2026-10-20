@@ -1,0 +1,73 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2124",
+ "measure_id": "HB2124",
+ "subject": "or_legislature/2025R1/HB2124",
+ "title": "Directs the Legislative Revenue Officer to study land value taxation and submit a report to the interim committees of the Legislative Assembly related to revenue.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2124 did not pass",
+ "claims": [
+  {
+   "text": "HB 2124 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614088
+   ]
+  },
+  {
+   "text": "HB 2124 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661278
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614088,
+    616297,
+    648654,
+    661278
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614088
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614088
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2124&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2124",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 369,
+  "finding_hash": "d5eff07e6f50547033bae67f6d1f70be495d53173f2a19daa83c66cd4586d8f3",
+  "evidence_digest": "sha256:1c4d5c9c796bd342cd6dd472b1d213ce5a83dc8a125147b1ceef95c9b7557828",
+  "gate_id": "adf4be6dba64450bb2f64865007f90e8",
+  "gate_seq": 370
+ }
+}

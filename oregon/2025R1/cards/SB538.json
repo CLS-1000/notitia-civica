@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 538",
+ "measure_id": "SB538",
+ "subject": "or_legislature/2025R1/SB538",
+ "title": "Requires the Department of Human Services to pay parents to provide attendant care services for children with developmental disabilities who have very high behavioral health or medical needs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 538 did not pass",
+ "claims": [
+  {
+   "text": "SB 538 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615843
+   ]
+  },
+  {
+   "text": "SB 538 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659372
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615843,
+    618110,
+    620586,
+    628695,
+    629762,
+    629763,
+    659372
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615843
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615843
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620586
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    628695
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    629762
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 538&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB538",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7722,
+  "finding_hash": "6d1e4575eeb6f8597ffb8a5d0273525a431e0b09aba8ad1799af9bf4aeae8f75",
+  "evidence_digest": "sha256:e77085c317c23c033de65eb1584b52e5c86385972f93c2273bf11220edf3d4ac",
+  "gate_id": "e73ddf82a56445c4a4951389101bb3e0",
+  "gate_seq": 7723
+ }
+}

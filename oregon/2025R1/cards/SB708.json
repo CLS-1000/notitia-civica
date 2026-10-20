@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 708",
+ "measure_id": "SB708",
+ "subject": "or_legislature/2025R1/SB708",
+ "title": "Requires the Oregon Criminal Justice Commission to study the effect of different types of sentences on rates of recidivism.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 708 did not pass",
+ "claims": [
+  {
+   "text": "SB 708 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616013
+   ]
+  },
+  {
+   "text": "SB 708 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658903
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616013,
+    618280,
+    658903
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616013
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616013
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 708&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB708",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8232,
+  "finding_hash": "6f046fb3a33253c14a4bfe5c4573cbb098c81b9ca6072bee6870609db8c74ee3",
+  "evidence_digest": "sha256:62b2d75efed2ab6f96781f14aa8aea261a1b1e3588d0018a0158f361568abfd0",
+  "gate_id": "11a7c3032dee4c7096f6cad529c750f9",
+  "gate_seq": 8233
+ }
+}

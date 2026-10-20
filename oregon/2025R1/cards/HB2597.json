@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2597",
+ "measure_id": "HB2597",
+ "subject": "or_legislature/2025R1/HB2597",
+ "title": "Directs the Oregon Health Authority and coordinated care organizations to reimburse dental care organizations for dental services provided to medical assistance recipients at a rate no less than 59.8 percent of the average rate paid by insurers nationwide.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2597 did not pass",
+ "claims": [
+  {
+   "text": "HB 2597 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614561
+   ]
+  },
+  {
+   "text": "HB 2597 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660922
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614561,
+    616770,
+    627926,
+    639861,
+    640527,
+    640528,
+    660922
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614561
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614561
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627926
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639861
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640527
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2597&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2597",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1788,
+  "finding_hash": "9ba7766a09d990a56becd1dc5a3560b04f96c7c7edf1ec23657d6c0ba1509bd6",
+  "evidence_digest": "sha256:3985f90b098a78c5ffa80376642edda22a43b5e417a9bd2bb0f52f5743f8e549",
+  "gate_id": "12ee520c2e8449ecaeed8918e3b4cfdf",
+  "gate_seq": 1789
+ }
+}

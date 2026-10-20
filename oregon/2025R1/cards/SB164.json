@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 164",
+ "measure_id": "SB164",
+ "subject": "or_legislature/2025R1/SB164",
+ "title": "Updates and modernizes laws that govern the formation, governance, operations and conversion of limited liability companies in this state and relations among members, managers and third parties with respect to limited liability companies in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 164 did not pass",
+ "claims": [
+  {
+   "text": "SB 164 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615469
+   ]
+  },
+  {
+   "text": "SB 164 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659497
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615469,
+    617736,
+    620785,
+    623714,
+    624651,
+    624652,
+    659497
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615469
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615469
+   ]
+  },
+  {
+   "date": "2025-02-05",
+   "when": "February 5, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620785
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    623714
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    624651
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 164&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB164",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6600,
+  "finding_hash": "c2e266db66a45c96a80401199848a3e915b19171df58d814b2a777daa26bc521",
+  "evidence_digest": "sha256:601f81dd82ef4392624d9623d26d196e4285a369bc031631ca4b60997185c5b1",
+  "gate_id": "64fd31b2af6f4384ae4e2d9fbaa92653",
+  "gate_seq": 6601
+ }
+}

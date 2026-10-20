@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 572",
+ "measure_id": "SB572",
+ "subject": "or_legislature/2025R1/SB572",
+ "title": "Creates a process for challenging a charge, finding of guilt, conviction or sentence, by filing a motion in the trial court or a petition for post-conviction relief, based on evidence that the conviction or sentence was sought, obtained or imposed based on race, ethnicity or national origin.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 572 did not pass",
+ "claims": [
+  {
+   "text": "SB 572 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615877
+   ]
+  },
+  {
+   "text": "SB 572 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658765
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615877,
+    618144,
+    658765
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615877
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615877
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 572&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB572",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7824,
+  "finding_hash": "84ad2249de91302c6db37b7a5e4f4bd7647e0e1246bb50f1c5ffee16154a56be",
+  "evidence_digest": "sha256:87ee316e1011eb7d7d28e3daac83c8063caa1c3cac2f510cfbe64e6d6f118acc",
+  "gate_id": "10d152d98bf448378a49c5461ecb2b81",
+  "gate_seq": 7825
+ }
+}

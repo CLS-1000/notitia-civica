@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 888",
+ "measure_id": "SB888",
+ "subject": "or_legislature/2025R1/SB888",
+ "title": "Prohibits local governments from prohibiting or limiting the residential use of natural gas as an energy source.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 888 did not pass",
+ "claims": [
+  {
+   "text": "SB 888 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618664
+   ]
+  },
+  {
+   "text": "SB 888 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659552
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618664,
+    618835,
+    659552
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618664
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618664
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 888&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB888",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8772,
+  "finding_hash": "bdb7e7ac05fa66d2dedd8a060bed9b0d8c15e899f05efdc88f84df2cb0e348a1",
+  "evidence_digest": "sha256:c5e50f7d0fcff5c6e8a1747b9cdef0aea64e25549a2e7642e5ac03bed1afc494",
+  "gate_id": "c18c6be86697441b8b7076e973392980",
+  "gate_seq": 8773
+ }
+}

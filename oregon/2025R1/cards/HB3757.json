@@ -1,0 +1,73 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3757",
+ "measure_id": "HB3757",
+ "subject": "or_legislature/2025R1/HB3757",
+ "title": "Allows owners of rural land on which a dwelling is sited to divide the land to add up to four additional dwellings.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3757 did not pass",
+ "claims": [
+  {
+   "text": "HB 3757 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624933
+   ]
+  },
+  {
+   "text": "HB 3757 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660470
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624933,
+    626342,
+    642081,
+    660470
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624933
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624933
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3757&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3757",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5268,
+  "finding_hash": "c3267de050835f20fb6972744f786250632c908514f78aa78c3d3db4da097504",
+  "evidence_digest": "sha256:82709c0188cac17ad457d2bf012da762d8bcc0e279e61b8c36290ff30e397b08",
+  "gate_id": "84906eaed05741b6982ed82fd5fe80dd",
+  "gate_seq": 5269
+ }
+}

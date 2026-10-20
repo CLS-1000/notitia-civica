@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SJM 8",
+ "measure_id": "SJM8",
+ "subject": "or_legislature/2025R1/SJM8",
+ "title": "Requests that the Federal Trade Commission and the National Institute of Standards and Technology coordinate on and provide to manufacturers of electronic devices voluntary criteria for a one through ten repair score that may be displayed to consumers at the point of sale.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJM 8 did not pass",
+ "claims": [
+  {
+   "text": "SJM 8 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615231
+   ]
+  },
+  {
+   "text": "SJM 8 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658878
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615231,
+    617498,
+    658878
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615231
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615231
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJM' and MeasureNumber eq 8&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJM8",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10143,
+  "finding_hash": "b83e4a918b2e55f3b8611d0725d6373b5f92217ff92473d2ba18d7f995b84651",
+  "evidence_digest": "sha256:2c080364443d04677e80d442591f617923d9a51d1f83bb83d1f05d5141098372",
+  "gate_id": "4d81272fbc3a4c29a9741c9a396e264a",
+  "gate_seq": 10144
+ }
+}

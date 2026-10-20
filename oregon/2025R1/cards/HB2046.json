@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2046",
+ "measure_id": "HB2046",
+ "subject": "or_legislature/2025R1/HB2046",
+ "title": "Directs the State Fish and Wildlife Commission to issue credits or adjust fees for angling tags and permits when an angling season is shortened or canceled, in proportion to the portion of the season during which the tags or permits may not be used.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2046 did not pass",
+ "claims": [
+  {
+   "text": "HB 2046 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614010
+   ]
+  },
+  {
+   "text": "HB 2046 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660813
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614010,
+    616219,
+    660813
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614010
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614010
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2046&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2046",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 135,
+  "finding_hash": "9dadc1ba6e1164e75ced533ba861586a4ccec6a456a34ff4a2e7388ba70c004a",
+  "evidence_digest": "sha256:1026a8eab6dcfff141cb0cf14673a1a4919facfb9a64d3991160dac21f742e6d",
+  "gate_id": "640ea5efda0a49149b681a23d8b1d5f5",
+  "gate_seq": 136
+ }
+}

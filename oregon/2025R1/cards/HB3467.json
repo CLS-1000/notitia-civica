@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3467",
+ "measure_id": "HB3467",
+ "subject": "or_legislature/2025R1/HB3467",
+ "title": "Prohibits an individual from collecting and returning the ballot of another individual, subject to specified exceptions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3467 did not pass",
+ "claims": [
+  {
+   "text": "HB 3467 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620340
+   ]
+  },
+  {
+   "text": "HB 3467 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660845
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620340,
+    621013,
+    660845
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620340
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620340
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3467&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3467",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4398,
+  "finding_hash": "2d88310ab4a59e4c8d19c386d8d2f068a4702e8b1641cd32aefd97a9f8f70227",
+  "evidence_digest": "sha256:546be7d34167cd74a09062b4778ff536181a30b183d53923957f8602ce1d1168",
+  "gate_id": "fd29b305e46346c9afe0cb1f9efc3319",
+  "gate_seq": 4399
+ }
+}

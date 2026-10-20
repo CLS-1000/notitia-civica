@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 695",
+ "measure_id": "SB695",
+ "subject": "or_legislature/2025R1/SB695",
+ "title": "Requires the Oregon Health Authority and coordinated care organizations to develop and implement a whole-person maternal health model for medical assistance recipients.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 695 did not pass",
+ "claims": [
+  {
+   "text": "SB 695 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616000
+   ]
+  },
+  {
+   "text": "SB 695 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658890
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616000,
+    618267,
+    624506,
+    637361,
+    639819,
+    639820,
+    658890
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616000
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616000
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624506
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637361
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639819
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 695&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB695",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8193,
+  "finding_hash": "89c8e3fdcfce4e97c968a0331f6e475d5645dcb60053498a9a07f53d9f0d36ad",
+  "evidence_digest": "sha256:3ba17a4dd5381f9bb7d0e7fa7482392a1968b34c7962463b7f9f0a9927d3b7e5",
+  "gate_id": "02e615bb6fb04ae89a7921592f05a886",
+  "gate_seq": 8194
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 486",
+ "measure_id": "SB486",
+ "subject": "or_legislature/2025R1/SB486",
+ "title": "Repeals the prohibition on the use of public resources to assist federal immigration enforcement.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 486 did not pass",
+ "claims": [
+  {
+   "text": "SB 486 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615791
+   ]
+  },
+  {
+   "text": "SB 486 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659324
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615791,
+    618058,
+    659324
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615791
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615791
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 486&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB486",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7566,
+  "finding_hash": "a8bbb31d32cfc817136a7203f7f3b91cebc6d3d7987b5a35d695fe7e40af3ef7",
+  "evidence_digest": "sha256:3d88110ac3d141a9b22bb131a7d30c0e3eb582f6f40a1365d06932531059dcfe",
+  "gate_id": "4575aeb8010240d99bd669c839966bb8",
+  "gate_seq": 7567
+ }
+}

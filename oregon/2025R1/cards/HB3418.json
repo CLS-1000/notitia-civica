@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3418",
+ "measure_id": "HB3418",
+ "subject": "or_legislature/2025R1/HB3418",
+ "title": "Requires the Oregon Business Development Department to study economic development in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3418 did not pass",
+ "claims": [
+  {
+   "text": "HB 3418 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619469
+   ]
+  },
+  {
+   "text": "HB 3418 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659929
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619469,
+    619841,
+    659929
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619469
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619469
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3418&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3418",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4251,
+  "finding_hash": "c071f56011d87497bbcf1b0a91bea39e8474bcb69df2b4fb77d251702fee9627",
+  "evidence_digest": "sha256:926018b09319ba921417f5bcd8522f53fbb2d87cbf8221f4f870d4a325040eb5",
+  "gate_id": "3061c32d0f354cda892a811288ee4e21",
+  "gate_seq": 4252
+ }
+}

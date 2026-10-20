@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2369",
+ "measure_id": "HB2369",
+ "subject": "or_legislature/2025R1/HB2369",
+ "title": "Provides that a person who receives a finding under the wolf depredation compensation and financial assistance grant program may appeal the finding to a county advisory committee.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2369 did not pass",
+ "claims": [
+  {
+   "text": "HB 2369 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614333
+   ]
+  },
+  {
+   "text": "HB 2369 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660713
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614333,
+    616542,
+    660713
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614333
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614333
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2369&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2369",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1104,
+  "finding_hash": "35210c5f47e8a89acf16e6a45f2ae9f43743099477fd6dcf6a2865a092c41b9a",
+  "evidence_digest": "sha256:0a01506f72df7c208839de8084b351f868831ea1b148dc086bed2716e4486d33",
+  "gate_id": "3af1acc8d8d14a9c8a1dc0de4153c04e",
+  "gate_seq": 1105
+ }
+}

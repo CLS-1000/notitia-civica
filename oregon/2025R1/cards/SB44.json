@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "SB 44",
+ "measure_id": "SB44",
+ "subject": "or_legislature/2025R1/SB44",
+ "title": "Requires the Secretary of State to study elections.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 44 did not pass",
+ "claims": [
+  {
+   "text": "SB 44 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615349
+   ]
+  },
+  {
+   "text": "SB 44 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659572
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615349,
+    617616,
+    645288,
+    659572
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615349
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615349
+   ]
+  },
+  {
+   "date": "2025-05-07",
+   "when": "May 7, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    645288
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659572
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 44&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB44",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6240,
+  "finding_hash": "bc05c50165d1f3c855c7efe2c7199a0b1accec37a888f18b96bb23d2901d4f39",
+  "evidence_digest": "sha256:37979dfa0d4d2480744c1a7a5c2e852446cf7bc052e9f7b1e381c11e62598406",
+  "gate_id": "dea3dbd89a4b4e02aed601c6b2b134e8",
+  "gate_seq": 6241
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3240",
+ "measure_id": "HB3240",
+ "subject": "or_legislature/2025R1/HB3240",
+ "title": "Establishes the Oregon Public Places Are Safe Places Investment Fund.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3240 did not pass",
+ "claims": [
+  {
+   "text": "HB 3240 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615204
+   ]
+  },
+  {
+   "text": "HB 3240 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660190
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615204,
+    617413,
+    660190
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615204
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615204
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3240&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3240",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3717,
+  "finding_hash": "47102c2b847fd3b29df9a8b3cb3926ee0af6bbb83871da724e80370721c41e4d",
+  "evidence_digest": "sha256:36582151f1bc3286bd0096624ffbf83207df8730d592ba9a67dc419f0cc8f363",
+  "gate_id": "28826d3839754f149ea47a3e045537ea",
+  "gate_seq": 3718
+ }
+}

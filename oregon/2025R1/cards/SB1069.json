@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1069",
+ "measure_id": "SB1069",
+ "subject": "or_legislature/2025R1/SB1069",
+ "title": "Creates new requirements for the application process for a license, certificate, endorsement or authorization from the Department of Human Services for various providers of services to children, older adults and individuals with disabilities, and individuals with intellectual or developmental disabilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1069 did not pass",
+ "claims": [
+  {
+   "text": "SB 1069 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624268
+   ]
+  },
+  {
+   "text": "SB 1069 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659112
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624268,
+    624444,
+    659112
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624268
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624268
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1069&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1069",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9315,
+  "finding_hash": "62593ae486aaaf9aa53be1add8d73a0b6e6ffe4f7af426b6a467c27045c7cf87",
+  "evidence_digest": "sha256:e79d4a0dd9c0ef366651360232132ebc91eab7c0d41150943b54f5eb936833a4",
+  "gate_id": "5786237beb254deda6db492599232da9",
+  "gate_seq": 9316
+ }
+}

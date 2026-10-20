@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 298",
+ "measure_id": "SB298",
+ "subject": "or_legislature/2025R1/SB298",
+ "title": "Requires the Legislative Revenue Officer to study tax incentives for energy development, storage and transmission in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 298 did not pass",
+ "claims": [
+  {
+   "text": "SB 298 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615603
+   ]
+  },
+  {
+   "text": "SB 298 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658689
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615603,
+    617870,
+    658689
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615603
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615603
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 298&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB298",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7002,
+  "finding_hash": "42a4a7243bb32b738c635cd8b1950a76f0db8b618ab02ea1678f302557aca2a2",
+  "evidence_digest": "sha256:49fd4f151157c687da01afe82708454d34f4d684344f4621bf9a81cde9709a61",
+  "gate_id": "65803e79e81241aeb5694f4f4f305774",
+  "gate_seq": 7003
+ }
+}

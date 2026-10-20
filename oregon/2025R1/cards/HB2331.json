@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2331",
+ "measure_id": "HB2331",
+ "subject": "or_legislature/2025R1/HB2331",
+ "title": "Limits the right of a parent to delegate parental rights over a child who is in the care or custody of the Department of Human Services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2331 did not pass",
+ "claims": [
+  {
+   "text": "HB 2331 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614295
+   ]
+  },
+  {
+   "text": "HB 2331 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659862
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614295,
+    616504,
+    659862
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614295
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614295
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2331&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2331",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 990,
+  "finding_hash": "1569397b98ba6efd64ddd9f0406ebf25f42a00c4c6215959a81fe3e3b7e70947",
+  "evidence_digest": "sha256:10e72571132358b52947ae6959471e7c26fad3ea4609e34c11da35f03d22e3f4",
+  "gate_id": "4bac3616007d466da97b62c5ff3d87bf",
+  "gate_seq": 991
+ }
+}

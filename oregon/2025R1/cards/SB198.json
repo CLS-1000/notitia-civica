@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 198",
+ "measure_id": "SB198",
+ "subject": "or_legislature/2025R1/SB198",
+ "title": "Requires the Oregon Department of Administrative Services to study courthouses.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 198 did not pass",
+ "claims": [
+  {
+   "text": "SB 198 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615503
+   ]
+  },
+  {
+   "text": "SB 198 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659522
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615503,
+    617770,
+    659522
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615503
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615503
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 198&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB198",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6702,
+  "finding_hash": "0b4a8c75136f17341b4f54e023e06533726203078c293ac3673b6bebead04890",
+  "evidence_digest": "sha256:889cfb89e5b9f0c052a40deb9ca6262bbdde8b638a73e606ad27bf65ca178eb3",
+  "gate_id": "64d217671c5a4ba19fb00b998289f1e4",
+  "gate_seq": 6703
+ }
+}

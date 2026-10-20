@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3391",
+ "measure_id": "HB3391",
+ "subject": "or_legislature/2025R1/HB3391",
+ "title": "Requires the Secretary of State to study ranked choice voting.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3391 did not pass",
+ "claims": [
+  {
+   "text": "HB 3391 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619442
+   ]
+  },
+  {
+   "text": "HB 3391 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659905
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619442,
+    619814,
+    659905
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619442
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619442
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3391&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3391",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4170,
+  "finding_hash": "9e848ae4a60b07fa3bff1f653e936b7572805708d6ebf2c4b1c19dfcaa12b46d",
+  "evidence_digest": "sha256:a61f1ceddc7d3b6b9750bcf49387a29a2ac90d852531fd939b0246258001ab28",
+  "gate_id": "b049c02daf4e40ceac2ce4e630059ce7",
+  "gate_seq": 4171
+ }
+}

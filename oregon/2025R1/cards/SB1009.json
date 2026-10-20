@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1009",
+ "measure_id": "SB1009",
+ "subject": "or_legislature/2025R1/SB1009",
+ "title": "Defines \"victim\" for purposes of the release of sex offender information by the Department of State Police.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1009 did not pass",
+ "claims": [
+  {
+   "text": "SB 1009 was introduced in the Senate on February 11, 2025.",
+   "row_ids": [
+    621779
+   ]
+  },
+  {
+   "text": "SB 1009 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658580
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621779,
+    621884,
+    658580
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    621779
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621779
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1009&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1009",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9135,
+  "finding_hash": "17074c42b49d630f3743c10089ff0a288448401413a73460e513d51da3aedf7c",
+  "evidence_digest": "sha256:1253ef1cc24f27a04f0cfb683f158c0fa53d72c6c5c743b1baffcae56c2b38b1",
+  "gate_id": "0c3192dc69974db9996548d00496a7b3",
+  "gate_seq": 9136
+ }
+}

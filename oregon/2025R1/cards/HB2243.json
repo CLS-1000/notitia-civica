@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2243",
+ "measure_id": "HB2243",
+ "subject": "or_legislature/2025R1/HB2243",
+ "title": "Requires the Employment Department to study issues related to the family and medical leave insurance program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2243 did not pass",
+ "claims": [
+  {
+   "text": "HB 2243 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614207
+   ]
+  },
+  {
+   "text": "HB 2243 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660248
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614207,
+    616416,
+    660248
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614207
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614207
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2243&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2243",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 726,
+  "finding_hash": "0a8e70f790974d5d724c10b800a78438ce054c1ce3157c1712c66433a5f04d88",
+  "evidence_digest": "sha256:1095a0f38dfcab2713acf13da5b3dee78aaecfe70f302b97f160a1bdaadb8278",
+  "gate_id": "1782ab04355b4bf7bf8890aeffe7faf1",
+  "gate_seq": 727
+ }
+}

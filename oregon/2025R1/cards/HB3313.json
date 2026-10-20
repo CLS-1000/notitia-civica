@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3313",
+ "measure_id": "HB3313",
+ "subject": "or_legislature/2025R1/HB3313",
+ "title": "Establishes the eligibility for renewable energy certificates for facilities that generate electricity from the direct combustion of municipal solid waste and became operational before January 1, 1995, if such facilities register with the Western Renewable Energy Generation Information System at any time, and for up to 11 average megawatts of electricity generated, per calendar year, from the combustion of biogenic material.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3313 did not pass",
+ "claims": [
+  {
+   "text": "HB 3313 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618784
+   ]
+  },
+  {
+   "text": "HB 3313 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660609
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618784,
+    619182,
+    660609
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618784
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618784
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3313&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3313",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3936,
+  "finding_hash": "ee7c18330f3a75b7d6083d5d0ed18f78c05da410d3b687cd5cd8d9e8de065b73",
+  "evidence_digest": "sha256:6fd61fbe63ac530945ca95d3bf28d410da1392e3cc894fe6287ac400b290815e",
+  "gate_id": "6c2b2df549054e178a77571d5f409d25",
+  "gate_seq": 3937
+ }
+}

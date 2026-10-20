@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2753",
+ "measure_id": "HB2753",
+ "subject": "or_legislature/2025R1/HB2753",
+ "title": "Authorizes the issuance of general obligation bonds under Article XI-Q of the Oregon Constitution for the emergency preparedness equipment grant program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2753 did not pass",
+ "claims": [
+  {
+   "text": "HB 2753 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614717
+   ]
+  },
+  {
+   "text": "HB 2753 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661133
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614717,
+    616926,
+    637408,
+    638979,
+    640083,
+    640084,
+    661133
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614717
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614717
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    637408
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638979
+   ]
+  },
+  {
+   "date": "2025-04-11",
+   "when": "April 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640083
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2753&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2753",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2256,
+  "finding_hash": "ab5adbc58200b4d2913f5d05d84a5dd4a4b575b02922dbba7f25d734d388a27f",
+  "evidence_digest": "sha256:62f61d0a94ca23b8018d9d3a7bdc6456fb4c07e2b08bd7a083d492627be7a02e",
+  "gate_id": "119767f85cd44000bd38e15780415818",
+  "gate_seq": 2257
+ }
+}

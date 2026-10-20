@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2474",
+ "measure_id": "HB2474",
+ "subject": "or_legislature/2025R1/HB2474",
+ "title": "Modifies the types of familial relationships involved in a manner of committing rape in the first degree and sodomy in the first degree.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2474 did not pass",
+ "claims": [
+  {
+   "text": "HB 2474 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614438
+   ]
+  },
+  {
+   "text": "HB 2474 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661440
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614438,
+    616647,
+    624161,
+    661440
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614438
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614438
+   ]
+  },
+  {
+   "date": "2025-02-24",
+   "when": "February 24, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624161
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661440
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2474&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2474",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1419,
+  "finding_hash": "1b9736d5ee1a56e07840129ce6901573b636ecce04068e355a5e12e176548d43",
+  "evidence_digest": "sha256:089b8830dd7dafbde2870392b7b9892ca97d5f4d382efd632e5742a5151012d1",
+  "gate_id": "b489f9c367e0447e916d3d5394e0a14a",
+  "gate_seq": 1420
+ }
+}

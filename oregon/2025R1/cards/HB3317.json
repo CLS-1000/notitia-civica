@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3317",
+ "measure_id": "HB3317",
+ "subject": "or_legislature/2025R1/HB3317",
+ "title": "Requires a publicly traded corporation that makes a political expenditure of more than $100 in a calendar year to first obtain approval for the political expenditure from shareholders by an affirmative vote of the majority of shares entitled to vote.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3317 did not pass",
+ "claims": [
+  {
+   "text": "HB 3317 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618788
+   ]
+  },
+  {
+   "text": "HB 3317 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661021
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618788,
+    619186,
+    661021
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618788
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618788
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3317&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3317",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3948,
+  "finding_hash": "a01bebd70fc59c45e482c4cfd9ae2ac804124337d790286b3e000343f31cea56",
+  "evidence_digest": "sha256:819e49a1a46aee52ce3cff6f83026d812c8f407396770d92513f8a368da78dd7",
+  "gate_id": "5027a47375ac4395ae2febd0529245c8",
+  "gate_seq": 3949
+ }
+}

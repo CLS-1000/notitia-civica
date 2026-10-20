@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2340",
+ "measure_id": "HB2340",
+ "subject": "or_legislature/2025R1/HB2340",
+ "title": "Reduces the minimum number of years that property must have been the homestead of an individual before the property is eligible for the homestead property tax deferral program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2340 did not pass",
+ "claims": [
+  {
+   "text": "HB 2340 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614304
+   ]
+  },
+  {
+   "text": "HB 2340 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660692
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614304,
+    616513,
+    660692
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614304
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614304
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2340&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2340",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1017,
+  "finding_hash": "7ca9cf0a00b4e2e791dcb8e4366e5410d2c730bcadbe0faaef46ad917f133017",
+  "evidence_digest": "sha256:a5c205bf470575c1873ecfb7531f8a25108f35e84d9d599f25c06608cb2f5fbc",
+  "gate_id": "29d2b498de92409ab40aeed985de8ff4",
+  "gate_seq": 1018
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2427",
+ "measure_id": "HB2427",
+ "subject": "or_legislature/2025R1/HB2427",
+ "title": "Directs the Department of Justice to review state statutes and administrative rules and determine whether each statute or rule is likely to be found unconstitutional under the reasoning and interpretation of the Fourteenth Amendment to the United States Constitution set forth in the Students for Fair Admissions case decided by the United States Supreme Court.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2427 did not pass",
+ "claims": [
+  {
+   "text": "HB 2427 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614391
+   ]
+  },
+  {
+   "text": "HB 2427 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660073
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614391,
+    616600,
+    660073
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614391
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614391
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2427&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2427",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1278,
+  "finding_hash": "920f754ce1242fe18b81163e7d37abd941b1f5bc85688473d073b097aaa07fc9",
+  "evidence_digest": "sha256:2a18d866dd61c457eb1946893422c3c9908f7a7d84f9067beb1d806ff44485bf",
+  "gate_id": "887b370f9194434d832a6b386e19bf9e",
+  "gate_seq": 1279
+ }
+}

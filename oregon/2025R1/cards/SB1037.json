@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1037",
+ "measure_id": "SB1037",
+ "subject": "or_legislature/2025R1/SB1037",
+ "title": "Requires an institution of higher education to provide specified information related to a realistic expectation of income for an individual in a field related to the degree the student seeks to obtain.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1037 did not pass",
+ "claims": [
+  {
+   "text": "SB 1037 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623047
+   ]
+  },
+  {
+   "text": "SB 1037 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659260
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623047,
+    623119,
+    659260
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623047
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623047
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1037&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1037",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9219,
+  "finding_hash": "6e6595a7c1148742e30b84713f2117d2acc17e2d3c70034926d8a3aa0baa1fbc",
+  "evidence_digest": "sha256:c1e6e95db2d597132d8ec2b24fab707619e3c5a2faa48168ae4228b4efd84d3c",
+  "gate_id": "967c0fd5f3cf42f78afda206ea9a43de",
+  "gate_seq": 9220
+ }
+}

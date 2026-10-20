@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 519",
+ "measure_id": "SB519",
+ "subject": "or_legislature/2025R1/SB519",
+ "title": "Exempts from state income tax for a taxpayer who is a veteran all retirement pay or pension received for service in the Armed Forces of the United States.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 519 did not pass",
+ "claims": [
+  {
+   "text": "SB 519 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615824
+   ]
+  },
+  {
+   "text": "SB 519 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659356
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615824,
+    618091,
+    659356
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615824
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615824
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 519&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB519",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7665,
+  "finding_hash": "49ae22e685448007ab5148b7b892fd43d1da201a0dc8cc4ed13f5f3b2a8f2ac2",
+  "evidence_digest": "sha256:af1519d2fa8ebd907d93afbc57e76bdf09a0dbf2dc9dee6f637fb9ce36612a16",
+  "gate_id": "6953221998c94c4294421f7707a49d4f",
+  "gate_seq": 7666
+ }
+}

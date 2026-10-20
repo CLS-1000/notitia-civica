@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3339",
+ "measure_id": "HB3339",
+ "subject": "or_legislature/2025R1/HB3339",
+ "title": "Enacts the Psychology Interjurisdictional Compact.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3339 did not pass",
+ "claims": [
+  {
+   "text": "HB 3339 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619390
+   ]
+  },
+  {
+   "text": "HB 3339 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660319
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619390,
+    619762,
+    623252,
+    660319
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619390
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619390
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623252
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660319
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3339&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3339",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4014,
+  "finding_hash": "a8bb76a4e65c817a04066cce47c432e93f5e8fc3b9960cefe01a8647584c1acc",
+  "evidence_digest": "sha256:8c69b4e806c9a264cffc6b8068aaaff6434b0c15016cd2a59661afb15297e93f",
+  "gate_id": "12791a5870bf4672923d7be48d87b142",
+  "gate_seq": 4015
+ }
+}

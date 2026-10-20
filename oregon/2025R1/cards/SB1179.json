@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1179",
+ "measure_id": "SB1179",
+ "subject": "or_legislature/2025R1/SB1179",
+ "title": "Requires the sentencing court to consider as mitigation evidence that the defendant was subjected to domestic abuse that was ongoing when the criminal behavior occurred and was a contributing factor in the criminal behavior.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1179 did not pass",
+ "claims": [
+  {
+   "text": "SB 1179 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624889
+   ]
+  },
+  {
+   "text": "SB 1179 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658952
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624889,
+    625801,
+    629592,
+    658952
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624889
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624889
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629592
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658952
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1179&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1179",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9645,
+  "finding_hash": "69d18dff4b9754167703c07fca45c65c0e4433e8e6de2b7d0e36ba09de04e479",
+  "evidence_digest": "sha256:8415719ec7ce584b46f6bd7978f7870d6b838bf739d6ef9f1bee171d2c67caef",
+  "gate_id": "ccacaaefa5a541bfb86250e2ba8c5479",
+  "gate_seq": 9646
+ }
+}

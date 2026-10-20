@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 669",
+ "measure_id": "SB669",
+ "subject": "or_legislature/2025R1/SB669",
+ "title": "Requires a school district that is making reductions in educator staff positions to prioritize seniority when determining which teachers to retain.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 669 did not pass",
+ "claims": [
+  {
+   "text": "SB 669 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615974
+   ]
+  },
+  {
+   "text": "SB 669 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658863
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615974,
+    618241,
+    658863
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615974
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615974
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 669&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB669",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8115,
+  "finding_hash": "f2fa4a8eea35f38e4ec9211e250291fa30226598d16cc699789408c654c688fa",
+  "evidence_digest": "sha256:4e477b50fe0bc4bed1d25c3f8d1da01fd8c0c28271ab2e974183c32eb3422208",
+  "gate_id": "83e95f4d23e240baab468405ee5d252d",
+  "gate_seq": 8116
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3769",
+ "measure_id": "HB3769",
+ "subject": "or_legislature/2025R1/HB3769",
+ "title": "Directs the Department of Consumer and Business Services to establish a program to register all dwelling units that are rented or available for rent.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3769 did not pass",
+ "claims": [
+  {
+   "text": "HB 3769 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624945
+   ]
+  },
+  {
+   "text": "HB 3769 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661339
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624945,
+    626354,
+    661339
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624945
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624945
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3769&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3769",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5304,
+  "finding_hash": "2534c36a7238fdda21ae5394d25ceb807fa515a8d22f9d60c24fbb697a3a714c",
+  "evidence_digest": "sha256:02d2438141e3b2ae9addfd706d4a16dcd30c8ffea0b0c006afa72f095e4159df",
+  "gate_id": "42d47a64c32f402197ca171840b5f145",
+  "gate_seq": 5305
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2610",
+ "measure_id": "HB2610",
+ "subject": "or_legislature/2025R1/HB2610",
+ "title": "Requires the Department of Public Safety Standards and Training to study public safety officers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2610 did not pass",
+ "claims": [
+  {
+   "text": "HB 2610 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614574
+   ]
+  },
+  {
+   "text": "HB 2610 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660748
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614574,
+    616783,
+    660748
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614574
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614574
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2610&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2610",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1827,
+  "finding_hash": "0ac6f5adda93c42c1a1b6f8832e136734d06f4660d2d77161d33b2850309e08f",
+  "evidence_digest": "sha256:9d37a22e94abdd804db1184b2b75840ca79a8266f77be090825a9981cb9c52dc",
+  "gate_id": "a03014bcf2ec458990947223e23016cd",
+  "gate_seq": 1828
+ }
+}

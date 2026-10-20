@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3484",
+ "measure_id": "HB3484",
+ "subject": "or_legislature/2025R1/HB3484",
+ "title": "Increases appropriations made to the Water Resources Department for the 2025-2027 biennium to fund positions related to water right transaction processing activities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3484 did not pass",
+ "claims": [
+  {
+   "text": "HB 3484 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620357
+   ]
+  },
+  {
+   "text": "HB 3484 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660644
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620357,
+    621030,
+    638276,
+    639189,
+    641185,
+    641186,
+    660644
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620357
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620357
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    638276
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639189
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641185
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3484&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3484",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4449,
+  "finding_hash": "2ad4221f55a2611e4595e8d78127853687ab7de9a56001557a7fec06523747ee",
+  "evidence_digest": "sha256:fb35d282c39bb40520d0f8674d967709a68071493cbe016d7f5c5977912a1067",
+  "gate_id": "b21b315e57a24b85ac4a354a55cf6872",
+  "gate_seq": 4450
+ }
+}

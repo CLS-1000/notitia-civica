@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3651",
+ "measure_id": "HB3651",
+ "subject": "or_legislature/2025R1/HB3651",
+ "title": "Requires a person that plants turf type perennial ryegrass or turf type tall fescue in a field for sale as agricultural seed to register the field with, and make an annual report to, Oregon State University.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3651 did not pass",
+ "claims": [
+  {
+   "text": "HB 3651 was introduced in the House on February 20, 2025.",
+   "row_ids": [
+    623586
+   ]
+  },
+  {
+   "text": "HB 3651 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660552
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623586,
+    623878,
+    660552
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    623586
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623586
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3651&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3651",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4950,
+  "finding_hash": "24fb704c2e8335fba194f87fffad30081996f15081372e5e8ee23a78ba550d1e",
+  "evidence_digest": "sha256:acfc0c7ee1b2019a25fa6cfc905f89b2e1d683dfcde2a501147763cfd7e71ec7",
+  "gate_id": "4ec48ae813da4b74826efe74b4f93027",
+  "gate_seq": 4951
+ }
+}

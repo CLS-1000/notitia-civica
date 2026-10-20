@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 768",
+ "measure_id": "SB768",
+ "subject": "or_legislature/2025R1/SB768",
+ "title": "Requires the State of Oregon to contribute a 50 percent match for every donation of $10,000 or more made to the Oregon State University Foundation for the express purpose of supporting agricultural research with emphasis on cereal grains, to the extent moneys are available.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 768 did not pass",
+ "claims": [
+  {
+   "text": "SB 768 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616072
+   ]
+  },
+  {
+   "text": "SB 768 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659173
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616072,
+    618339,
+    620744,
+    626617,
+    628025,
+    628026,
+    659173
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616072
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616072
+   ]
+  },
+  {
+   "date": "2025-02-05",
+   "when": "February 5, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620744
+   ]
+  },
+  {
+   "date": "2025-03-05",
+   "when": "March 5, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    626617
+   ]
+  },
+  {
+   "date": "2025-03-12",
+   "when": "March 12, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    628025
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 768&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB768",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8412,
+  "finding_hash": "f31d1ffdf0ecff82a9e610fc8c113dab3f2cd032b864dafe4027dcfc5f653143",
+  "evidence_digest": "sha256:dff3c1020591280cca7627a07c87578533911675558335b55dd9c7c9fb485041",
+  "gate_id": "d8691c7795244ce29863e74fd30909b7",
+  "gate_seq": 8413
+ }
+}

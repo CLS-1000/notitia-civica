@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2855",
+ "measure_id": "HB2855",
+ "subject": "or_legislature/2025R1/HB2855",
+ "title": "Requires the Department of State Police to establish public exchange locations with certain requirements.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2855 did not pass",
+ "claims": [
+  {
+   "text": "HB 2855 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614819
+   ]
+  },
+  {
+   "text": "HB 2855 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661164
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614819,
+    617028,
+    622273,
+    622751,
+    661164
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614819
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614819
+   ]
+  },
+  {
+   "date": "2025-02-17",
+   "when": "February 17, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622751
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661164
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2855&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2855",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2562,
+  "finding_hash": "e797bf377a43f240a5f862ab44b6249f4f30495fa0f8b0523ecbdc4fccdc8414",
+  "evidence_digest": "sha256:b118c936e6eba9b4fd62d0e6169b05f7bb2b6bcabbd616012b06ce59298969d4",
+  "gate_id": "701ee627f1474163bd7229e261652d8e",
+  "gate_seq": 2563
+ }
+}

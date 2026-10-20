@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "SB 722",
+ "measure_id": "SB722",
+ "subject": "or_legislature/2025R1/SB722",
+ "title": "Prohibits residential landlords from using certain software to set rents or occupancy rates.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 722 did not pass",
+ "claims": [
+  {
+   "text": "SB 722 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616027
+   ]
+  },
+  {
+   "text": "SB 722 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658916
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616027,
+    618294,
+    629855,
+    633151,
+    658916
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616027
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616027
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629855
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658916
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 722&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB722",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8274,
+  "finding_hash": "d0b74920fcfd9337f60146d4b7ffa3f064fd8801b1a59cc433cf316678847fe8",
+  "evidence_digest": "sha256:956750123464469d4e11101ebc65a58ca443f00ab867dfd3a5aba6fec42f9bdf",
+  "gate_id": "e5c6e8d789894510b8eb5f9a52e1e4d2",
+  "gate_seq": 8275
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2885",
+ "measure_id": "HB2885",
+ "subject": "or_legislature/2025R1/HB2885",
+ "title": "Directs the Higher Education Coordinating Commission, Oregon Department of Emergency Management, Oregon Health Authority and Department of Public Safety Standards and Training to collaboratively plan and implement the creation of an interoperative, centralized electronic system to manage information about persons in Oregon who are available to serve as volunteers in case of emergency.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2885 did not pass",
+ "claims": [
+  {
+   "text": "HB 2885 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614849
+   ]
+  },
+  {
+   "text": "HB 2885 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661194
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614849,
+    617058,
+    661194
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614849
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614849
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2885&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2885",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2652,
+  "finding_hash": "628747769c5340f1c964d493e97b20d578188f7d1731456e6fa862e0b7209524",
+  "evidence_digest": "sha256:4e23f9aab1cf35066f7f53fdd5e913040c83d17efdefc13d8b8adbfdcbf0905e",
+  "gate_id": "2d88403ae72a4424be50ccf8512c523d",
+  "gate_seq": 2653
+ }
+}

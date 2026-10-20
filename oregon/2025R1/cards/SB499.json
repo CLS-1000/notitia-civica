@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 499",
+ "measure_id": "SB499",
+ "subject": "or_legislature/2025R1/SB499",
+ "title": "Appropriates moneys to the Housing and Community Services Department to replace manufactured dwellings in specified counties.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 499 did not pass",
+ "claims": [
+  {
+   "text": "SB 499 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615804
+   ]
+  },
+  {
+   "text": "SB 499 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659336
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615804,
+    618071,
+    622189,
+    659336
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615804
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615804
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622189
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659336
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 499&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB499",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7605,
+  "finding_hash": "72de40c50f76bca69b9709fe62663ff4c400eb6fd116f8c8a002e44fdf7aabb3",
+  "evidence_digest": "sha256:50c3df37b7703090cf59ec6c7abc00c8120a7a9f6f081b258d0238ab76953ec4",
+  "gate_id": "2852459d254340009035d61fa304b405",
+  "gate_seq": 7606
+ }
+}

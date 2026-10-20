@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2058",
+ "measure_id": "HB2058",
+ "subject": "or_legislature/2025R1/HB2058",
+ "title": "Provides that, for the estates of decedents dying on or after January 1, 2026, Oregon estate tax is not due unless the value of the Oregon taxable estate exceeds $13.99 million.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2058 did not pass",
+ "claims": [
+  {
+   "text": "HB 2058 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614022
+   ]
+  },
+  {
+   "text": "HB 2058 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661129
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614022,
+    616231,
+    661129
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614022
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614022
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2058&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2058",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 171,
+  "finding_hash": "a19412a1552eeaf8a43cac4ec0f1575d537fd2485195166e80b5c2162f7f1886",
+  "evidence_digest": "sha256:0104a36823163003fba6197f6e85deff43820415a73102be61c7d712b538aa61",
+  "gate_id": "c5f5fececda34a08b43c1df74301bb05",
+  "gate_seq": 172
+ }
+}

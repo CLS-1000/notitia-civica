@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 282",
+ "measure_id": "SB282",
+ "subject": "or_legislature/2025R1/SB282",
+ "title": "Requires the Oregon Health Authority to study environmental health.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 282 did not pass",
+ "claims": [
+  {
+   "text": "SB 282 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615587
+   ]
+  },
+  {
+   "text": "SB 282 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658676
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615587,
+    617854,
+    658676
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615587
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615587
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 282&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB282",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6954,
+  "finding_hash": "cd2b9bc9d063d7ca4b55182726130d040ca78bba512a08a67da51131c5e83f86",
+  "evidence_digest": "sha256:aaa4173e405cc6a488e57761c54bfdb902fc077b1f8d48175a3853e9254f1959",
+  "gate_id": "5cf522800cd84d67a645987012d506ba",
+  "gate_seq": 6955
+ }
+}

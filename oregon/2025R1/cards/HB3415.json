@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3415",
+ "measure_id": "HB3415",
+ "subject": "or_legislature/2025R1/HB3415",
+ "title": "Directs the State Forestry Department to study wildfires.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3415 did not pass",
+ "claims": [
+  {
+   "text": "HB 3415 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619466
+   ]
+  },
+  {
+   "text": "HB 3415 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659926
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619466,
+    619838,
+    659926
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619466
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619466
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3415&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3415",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4242,
+  "finding_hash": "5d223e88327fee41054a8e3ef26ccc90880e16b187cbeb571c7fec5a7751be33",
+  "evidence_digest": "sha256:3fa47b028736c07f4935f06902ff72dc66dc88b862fa3084e398532c5560d36d",
+  "gate_id": "fe6cb74f98aa40f5b75073fdbe260c68",
+  "gate_seq": 4243
+ }
+}

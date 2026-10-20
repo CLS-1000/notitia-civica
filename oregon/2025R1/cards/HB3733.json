@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3733",
+ "measure_id": "HB3733",
+ "subject": "or_legislature/2025R1/HB3733",
+ "title": "Appropriates moneys from the General Fund to the Oregon Department of Administrative Services for distribution to the Clackamas County Children's Commission for a Head Start facility.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3733 did not pass",
+ "claims": [
+  {
+   "text": "HB 3733 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624417
+   ]
+  },
+  {
+   "text": "HB 3733 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660387
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624417,
+    625278,
+    660387
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624417
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624417
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3733&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3733",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5196,
+  "finding_hash": "0b12f2e4cec3bb02832e19b4f332fa8f598c9316be5508ce4fb8e6397c150637",
+  "evidence_digest": "sha256:ff2c6eac3ac7d68cb94241db125f51134c1a97ffe4d1a96b22d493e6e9b0725f",
+  "gate_id": "c6e78369e4754fc2b619878c946ef913",
+  "gate_seq": 5197
+ }
+}

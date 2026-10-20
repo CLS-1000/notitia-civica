@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 421",
+ "measure_id": "SB421",
+ "subject": "or_legislature/2025R1/SB421",
+ "title": "Requires the System of Care Advisory Council to study the youth behavioral health workforce.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 421 did not pass",
+ "claims": [
+  {
+   "text": "SB 421 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615726
+   ]
+  },
+  {
+   "text": "SB 421 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659055
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615726,
+    617993,
+    659055
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615726
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615726
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 421&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB421",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7371,
+  "finding_hash": "277f6e4e0c38e9dd1ec7a61bd670bd5707970ef6ee85363dfda66d3f1b01b3b5",
+  "evidence_digest": "sha256:c7e098b2d3f2e14ece06782b6660aca0271e8959cd9b59801433678627cea43d",
+  "gate_id": "19800eacb1f149a9813a6021e17b2ece",
+  "gate_seq": 7372
+ }
+}

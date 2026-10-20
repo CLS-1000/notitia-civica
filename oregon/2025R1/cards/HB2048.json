@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2048",
+ "measure_id": "HB2048",
+ "subject": "or_legislature/2025R1/HB2048",
+ "title": "Prohibits the Oregon Health Authority from issuing a license to a food cart that does not have a licensed commissary as a base of operation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2048 did not pass",
+ "claims": [
+  {
+   "text": "HB 2048 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614012
+   ]
+  },
+  {
+   "text": "HB 2048 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660815
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614012,
+    616221,
+    660815
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614012
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614012
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2048&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2048",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 141,
+  "finding_hash": "cfc8e6b5cdf081a72ff5f1f86303720d1bf2d5996cb374b0d26a642ee54ae418",
+  "evidence_digest": "sha256:02a6cbb2901ede97b2dc4360c5f7e84348389efb68a6c07038197f677a1161ec",
+  "gate_id": "fcbfd156108d4c03ad2077a4df31469c",
+  "gate_seq": 142
+ }
+}

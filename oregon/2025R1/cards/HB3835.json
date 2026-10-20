@@ -1,0 +1,148 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3835",
+ "measure_id": "HB3835",
+ "subject": "or_legislature/2025R1/HB3835",
+ "title": "Modifies provisions regarding the use of restraint and involuntary seclusion on certain young people.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3835 did not pass",
+ "claims": [
+  {
+   "text": "HB 3835 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625011
+   ]
+  },
+  {
+   "text": "HB 3835 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660540
+   ]
+  },
+  {
+   "text": "Each of the 13 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625011,
+    626420,
+    637867,
+    630014,
+    632353,
+    636961,
+    639528,
+    639529,
+    646094,
+    653501,
+    654774,
+    654775,
+    660540
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625011
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625011
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    630014
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636961
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    639528
+   ]
+  },
+  {
+   "date": "2025-05-12",
+   "when": "May 12, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    646094
+   ]
+  },
+  {
+   "date": "2025-06-11",
+   "when": "June 11, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    653501
+   ]
+  },
+  {
+   "date": "2025-06-16",
+   "when": "June 16, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    654774
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3835&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3835",
+ "row_count": 13,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5502,
+  "finding_hash": "7ce1972363dab9aea4a2618d62fbb32e63508b024482d2dec303bbd5c7ef4498",
+  "evidence_digest": "sha256:aef020757230cfc49c453d2c44f6831f75b91fb6953396abcb0af0afff0cb84f",
+  "gate_id": "17aaa47a946e401b8c0d46d78cc525c5",
+  "gate_seq": 5503
+ }
+}

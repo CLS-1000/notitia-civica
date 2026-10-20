@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3619",
+ "measure_id": "HB3619",
+ "subject": "or_legislature/2025R1/HB3619",
+ "title": "Provides that a court that issues an order for the custody of a child must issue the order in writing within five days after the ruling.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3619 did not pass",
+ "claims": [
+  {
+   "text": "HB 3619 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622954
+   ]
+  },
+  {
+   "text": "HB 3619 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661400
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622954,
+    623509,
+    661400
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622954
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622954
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3619&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3619",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4854,
+  "finding_hash": "9a79e7db118f5b7c75da0f2df144fbda35f5708587735aa94507dba8f0ed0006",
+  "evidence_digest": "sha256:2cebb0f9bac16c00af61d460127032eec43c53ab46697e5f8b299b3369d5dceb",
+  "gate_id": "b92bbfc739cf4ec0a1fa75eb14a55371",
+  "gate_seq": 4855
+ }
+}

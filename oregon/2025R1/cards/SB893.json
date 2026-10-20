@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 893",
+ "measure_id": "SB893",
+ "subject": "or_legislature/2025R1/SB893",
+ "title": "Permits a person to open a first-time home buyer savings account until January 1, 2030, and doubles the annual contribution limits on the accounts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 893 did not pass",
+ "claims": [
+  {
+   "text": "SB 893 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618669
+   ]
+  },
+  {
+   "text": "SB 893 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659129
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618669,
+    618840,
+    659129
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618669
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618669
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 893&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB893",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8787,
+  "finding_hash": "a53eff3ba95f24beb8dd95e82dc3baeca9cc69554e2b0fd33abe6003808820f1",
+  "evidence_digest": "sha256:eebc9f359bc25b4aecfdd78c8d0c2c88e7adfe33fe888d1fd463bdeb3c890ff2",
+  "gate_id": "31686e211d34421a8f1ab642a1d2fe6d",
+  "gate_seq": 8788
+ }
+}

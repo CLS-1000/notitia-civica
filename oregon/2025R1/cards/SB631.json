@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 631",
+ "measure_id": "SB631",
+ "subject": "or_legislature/2025R1/SB631",
+ "title": "Directs each school district board to adopt a child sexual abuse prevention instructional program that addresses sex trafficking of children.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 631 did not pass",
+ "claims": [
+  {
+   "text": "SB 631 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615936
+   ]
+  },
+  {
+   "text": "SB 631 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658825
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615936,
+    618203,
+    658825
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615936
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615936
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 631&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB631",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8001,
+  "finding_hash": "5aaef1d474bf06459e0559df2741a1c8f9fd6eef632aaba37c67b2f59cf65aac",
+  "evidence_digest": "sha256:2ab6ad91215c7e511a338c94bdf097d71749bfdcef1bc16b5acecfaf73f400af",
+  "gate_id": "ef3c6b9782974d45a093a475cfd977cb",
+  "gate_seq": 8002
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3163",
+ "measure_id": "HB3163",
+ "subject": "or_legislature/2025R1/HB3163",
+ "title": "Allows counties to adopt an ordinance or resolution that provides, for purposes of ad valorem property taxation, a specially assessed value for the owner-occupied primary residences of individuals who are at least 62 years of age.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3163 did not pass",
+ "claims": [
+  {
+   "text": "HB 3163 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615127
+   ]
+  },
+  {
+   "text": "HB 3163 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660797
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615127,
+    617336,
+    623748,
+    660797
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615127
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615127
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623748
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660797
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3163&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3163",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3486,
+  "finding_hash": "c14a9f12cb70e1a5024c4367ecfe803ad2a66ae9d4db0dca2a8b701ec9071209",
+  "evidence_digest": "sha256:8ec082dba41f42c263c4ae6978c2295712cc658c392e671130e0e3346a79f4e0",
+  "gate_id": "3e6ad2c8cbb64f329dfd123c4fbd8907",
+  "gate_seq": 3487
+ }
+}

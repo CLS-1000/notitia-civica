@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 649",
+ "measure_id": "SB649",
+ "subject": "or_legislature/2025R1/SB649",
+ "title": "Provides that the Oregon estate tax is imposed only on the estates of decedents dying on or before January 1, 2025.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 649 did not pass",
+ "claims": [
+  {
+   "text": "SB 649 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615954
+   ]
+  },
+  {
+   "text": "SB 649 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658843
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615954,
+    618221,
+    658843
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615954
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615954
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 649&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB649",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8055,
+  "finding_hash": "2070f04110c2e6a5cc16a587229d1a366f5aa8f3dc9ab22952d820e8c3cf85bf",
+  "evidence_digest": "sha256:a0f01ccdab7f660161b3fc6be19bd469949d47d9f9ea0ceb432ac46ebf833860",
+  "gate_id": "dd7b674798774c1ba2ec067c3b57c97d",
+  "gate_seq": 8056
+ }
+}

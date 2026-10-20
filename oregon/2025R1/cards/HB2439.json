@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2439",
+ "measure_id": "HB2439",
+ "subject": "or_legislature/2025R1/HB2439",
+ "title": "Removes \"gender identity\" from certain statutes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2439 did not pass",
+ "claims": [
+  {
+   "text": "HB 2439 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614403
+   ]
+  },
+  {
+   "text": "HB 2439 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660608
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614403,
+    616612,
+    660608
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614403
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614403
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2439&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2439",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1314,
+  "finding_hash": "33e7a8fe25fa8d763eb4674fbd2a9d53564b7749b2270ea07647d7594a5a3d94",
+  "evidence_digest": "sha256:daf6230be74987d00d36a70c6f564783eb3d25bf81115b25afd750b02824f6b1",
+  "gate_id": "355df9e903a94a958dbce46368828824",
+  "gate_seq": 1315
+ }
+}

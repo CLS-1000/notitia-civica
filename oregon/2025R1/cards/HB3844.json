@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3844",
+ "measure_id": "HB3844",
+ "subject": "or_legislature/2025R1/HB3844",
+ "title": "Provides for an additional exemption against Oregon estate tax in order to account for inflation in the calculation of a taxable estate.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3844 did not pass",
+ "claims": [
+  {
+   "text": "HB 3844 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625020
+   ]
+  },
+  {
+   "text": "HB 3844 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660600
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625020,
+    626429,
+    660600
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625020
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625020
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3844&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3844",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5529,
+  "finding_hash": "15231aa17bb75773620693b5d88cc3469666387fe5c95c2a82a34c7b4258e44f",
+  "evidence_digest": "sha256:8cc4d905a72e5534f8aacc2b9c6ccfd66839db8a052e276f6d6d7f87609885ad",
+  "gate_id": "323eb3956e394943beb2ace8afee2a58",
+  "gate_seq": 5530
+ }
+}

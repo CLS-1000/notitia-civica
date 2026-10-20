@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1077",
+ "measure_id": "SB1077",
+ "subject": "or_legislature/2025R1/SB1077",
+ "title": "Requires the Public Records Advisory Council to study public records.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1077 did not pass",
+ "claims": [
+  {
+   "text": "SB 1077 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624276
+   ]
+  },
+  {
+   "text": "SB 1077 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659584
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624276,
+    624452,
+    651948,
+    659584
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624276
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624276
+   ]
+  },
+  {
+   "date": "2025-06-04",
+   "when": "June 4, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    651948
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659584
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1077&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1077",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9339,
+  "finding_hash": "c94b17982076877a929c05baeb2696e75f4a1797c5aaa3beb3c3fb9912e8dff8",
+  "evidence_digest": "sha256:1f585b820d8e4caf32fcb44db8372f3ebaa1dbe5eea44400da0cd4b6d1b85b72",
+  "gate_id": "23de2a7bb1ed432f846a33b911b62ae5",
+  "gate_seq": 9340
+ }
+}

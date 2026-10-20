@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 390",
+ "measure_id": "SB390",
+ "subject": "or_legislature/2025R1/SB390",
+ "title": "Prohibits the Higher Education Coordinating Commission from making any distributions during the 2025-2027 biennium to the University of Oregon unless the University of Oregon transfers to the commission for distribution to Oregon State University the balance of any receipts received by the University of Oregon from the athletic conference of which the university is a member.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 390 did not pass",
+ "claims": [
+  {
+   "text": "SB 390 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615695
+   ]
+  },
+  {
+   "text": "SB 390 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659017
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615695,
+    617962,
+    659017
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615695
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615695
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 390&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB390",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7278,
+  "finding_hash": "e871a0ed53a023b0a286ce7fa19dc992787eb8b0ba9d906556c0efa07f213100",
+  "evidence_digest": "sha256:389b7b1521210f1f820bf635e34acf68151dce894cf03a79d7917bed4a75186b",
+  "gate_id": "61eca173ee17492db6ae91e24464d9c5",
+  "gate_seq": 7279
+ }
+}

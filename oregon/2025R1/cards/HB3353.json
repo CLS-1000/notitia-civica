@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3353",
+ "measure_id": "HB3353",
+ "subject": "or_legislature/2025R1/HB3353",
+ "title": "Requires the State Department of Fish and Wildlife and Department of Environmental Quality to study the impacts of wildfire on water quality of streams and tributaries.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3353 did not pass",
+ "claims": [
+  {
+   "text": "HB 3353 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619404
+   ]
+  },
+  {
+   "text": "HB 3353 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661249
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619404,
+    619776,
+    661249
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619404
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619404
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3353&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3353",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4056,
+  "finding_hash": "57bb26bcd6a40d3beaa8c81ef78d166ac4c4aa85039f40695905d67df937e65b",
+  "evidence_digest": "sha256:46e407278049d47b0147190df65e6ebc56181c201994e6c189f3bb1c617a9de7",
+  "gate_id": "26834188044841b08b314fad6f02dc83",
+  "gate_seq": 4057
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2707",
+ "measure_id": "HB2707",
+ "subject": "or_legislature/2025R1/HB2707",
+ "title": "Requires the owner of a public building to periodically conduct inspections and testing of fire dampers, smoke dampers, combination fire and smoke dampers and smoke control systems in the public building.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2707 did not pass",
+ "claims": [
+  {
+   "text": "HB 2707 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614671
+   ]
+  },
+  {
+   "text": "HB 2707 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660103
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614671,
+    616880,
+    660103
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614671
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614671
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2707&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2707",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2118,
+  "finding_hash": "82a0146335e49709e1e471407c5f13454d0bad9663126cda03e5a05d66ce1d6e",
+  "evidence_digest": "sha256:6c532a5ba845a6a75f24d0b050699ec21f05a862d5699de624828a53db5c780e",
+  "gate_id": "70c44fc9c9c04d9aa01b3d3aac1e4d6b",
+  "gate_seq": 2119
+ }
+}

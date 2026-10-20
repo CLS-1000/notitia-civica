@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 133",
+ "measure_id": "SB133",
+ "subject": "or_legislature/2025R1/SB133",
+ "title": "Requires the Department of Human Services, when the department enters into a contract with a provider agency for the provision of services to individuals with intellectual or developmental disabilities by direct support professionals, to annually adjust the payments made under the contract for inflation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 133 did not pass",
+ "claims": [
+  {
+   "text": "SB 133 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615438
+   ]
+  },
+  {
+   "text": "SB 133 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659476
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615438,
+    617705,
+    633397,
+    639602,
+    641808,
+    641809,
+    659476
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615438
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615438
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633397
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639602
+   ]
+  },
+  {
+   "date": "2025-04-18",
+   "when": "April 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641808
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 133&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB133",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6507,
+  "finding_hash": "a702809197e1d4eac7586064b0b075d30df60f66f95df2750ab88957d6d49217",
+  "evidence_digest": "sha256:2e7d73c43499093e561f468f6d8d536429a7bd4ab725c9405c5962221140fe60",
+  "gate_id": "b94d5fc037434a4391ed875c19d3b5e1",
+  "gate_seq": 6508
+ }
+}

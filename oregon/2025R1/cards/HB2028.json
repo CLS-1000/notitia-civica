@@ -1,0 +1,99 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2028",
+ "measure_id": "HB2028",
+ "subject": "or_legislature/2025R1/HB2028",
+ "title": "Requires the Oregon Health Authority to study the funding formula under Ballot Measure 110 (2020).",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2028 did not pass",
+ "claims": [
+  {
+   "text": "HB 2028 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613992
+   ]
+  },
+  {
+   "text": "HB 2028 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661506
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613992,
+    616201,
+    623243,
+    623685,
+    623686,
+    661506
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613992
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613992
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    623243
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    623685
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2028&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2028",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 81,
+  "finding_hash": "a8f64ee15dbb6343a165eb0a0b08372f562d960af783027e7b6a5353c80e712d",
+  "evidence_digest": "sha256:c7d0197e563a5df04fd196fc395966610534dacd6bc35eac5d0ebe62d43d38d0",
+  "gate_id": "3fc5fce087404451a16aea6effc047f2",
+  "gate_seq": 82
+ }
+}

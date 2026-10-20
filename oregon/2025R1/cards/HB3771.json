@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3771",
+ "measure_id": "HB3771",
+ "subject": "or_legislature/2025R1/HB3771",
+ "title": "Requires the State Chief Information Officer to study artificial intelligence.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3771 did not pass",
+ "claims": [
+  {
+   "text": "HB 3771 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624947
+   ]
+  },
+  {
+   "text": "HB 3771 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661341
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624947,
+    626356,
+    661341
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624947
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624947
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3771&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3771",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5310,
+  "finding_hash": "9eb988d6e573891b0db4ba08ddcbb90bc8748246bd4920734a17036a9a98bc5b",
+  "evidence_digest": "sha256:d67a456cf860c10dfa65786a1a9bb0056caa181c5bb6edd6c24960ad2eceda21",
+  "gate_id": "3639e918cdf54e2c9a50668c19d40890",
+  "gate_seq": 5311
+ }
+}

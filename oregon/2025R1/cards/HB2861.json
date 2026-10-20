@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2861",
+ "measure_id": "HB2861",
+ "subject": "or_legislature/2025R1/HB2861",
+ "title": "Directs the Oregon Military Department to study and make recommendations regarding improvements to the operations of the department.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2861 did not pass",
+ "claims": [
+  {
+   "text": "HB 2861 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614825
+   ]
+  },
+  {
+   "text": "HB 2861 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661170
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614825,
+    617034,
+    661170
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614825
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614825
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2861&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2861",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2580,
+  "finding_hash": "4cc1941562fbc38b89208e6d54d57fb858250cac9e7078c4803b783e83b3dcde",
+  "evidence_digest": "sha256:aa5d2b1c0b2a55982a2d9a0b568bb5b0c791d7e5041d5008f0ccf482e3964812",
+  "gate_id": "230b2408d6354efd8bb76db8392b37be",
+  "gate_seq": 2581
+ }
+}

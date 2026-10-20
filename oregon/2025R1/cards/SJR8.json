@@ -1,0 +1,81 @@
+{
+ "session": "2025R1",
+ "measure": "SJR 8",
+ "measure_id": "SJR8",
+ "subject": "or_legislature/2025R1/SJR8",
+ "title": "Proposes an amendment to the Oregon Constitution establishing an independent redistricting commission to adopt redistricting maps for the Senate, House of Representatives and United States House of Representatives. Refers the proposed amendment to the people for their approval or rejection at the next general election.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJR 8 did not pass",
+ "claims": [
+  {
+   "text": "SJR 8 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615239
+   ]
+  },
+  {
+   "text": "SJR 8 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659044
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615239,
+    617506,
+    659044
+   ]
+  },
+  {
+   "text": "SJR 8 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    659044
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615239
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615239
+   ]
+  }
+ ],
+ "topics": [
+  "ballot",
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJR' and MeasureNumber eq 8&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJR8",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9999,
+  "finding_hash": "13aa5ace5c657aa8492d080f60eee503282c68de68d5e3ba1925143de868ec23",
+  "evidence_digest": "sha256:70888b6db274d4567f6da6f23480b099e7aa7b127de6e621ce98bd4c01fe879f",
+  "gate_id": "49f2b0f0455747669c26b37ae914dc46",
+  "gate_seq": 10000
+ }
+}

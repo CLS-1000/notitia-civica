@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3572",
+ "measure_id": "HB3572",
+ "subject": "or_legislature/2025R1/HB3572",
+ "title": "Directs the Emergency Medical Services Program to develop a state emergency medical services 10-year strategic plan.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3572 did not pass",
+ "claims": [
+  {
+   "text": "HB 3572 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622907
+   ]
+  },
+  {
+   "text": "HB 3572 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661318
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622907,
+    623462,
+    630522,
+    637514,
+    639619,
+    639620,
+    661318
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622907
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622907
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    630522
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637514
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639619
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3572&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3572",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4713,
+  "finding_hash": "7dcaa3081c8a81111787bc129ad66799b2ff92d5d131bfb246c120888a023c5d",
+  "evidence_digest": "sha256:8f787b62d39c4d7adbe22c33da5c50c24b2779009f03508a1d977e4de93c29ba",
+  "gate_id": "5fc381c6680c4286883097fdd3747962",
+  "gate_seq": 4714
+ }
+}

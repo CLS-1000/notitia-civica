@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3204",
+ "measure_id": "HB3204",
+ "subject": "or_legislature/2025R1/HB3204",
+ "title": "Requires the quarterly collection and compilation of data about students who are regular attenders or who are chronically absent.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3204 did not pass",
+ "claims": [
+  {
+   "text": "HB 3204 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615168
+   ]
+  },
+  {
+   "text": "HB 3204 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660040
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615168,
+    617377,
+    660040
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615168
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615168
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3204&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3204",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3609,
+  "finding_hash": "0d965d91e2a044058ce76fabde7e6ac96a5d853c244debd6a27bb3456a4b9fd3",
+  "evidence_digest": "sha256:c542ebb6ccdba8caa6cfb6ff6c11093745d1322fdca3cd8b7a6008e70a45f22b",
+  "gate_id": "d6056a33a21f4c9ab44b2f6dbabb3045",
+  "gate_seq": 3610
+ }
+}

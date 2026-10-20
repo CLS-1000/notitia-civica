@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3319",
+ "measure_id": "HB3319",
+ "subject": "or_legislature/2025R1/HB3319",
+ "title": "Permits the State Accident Insurance Fund Corporation to evaluate the risk the corporation has insured for employers during the past three years and reduce the premium the corporation charges the employer to reflect any reductions or mitigations in risk that result from an agreement between the employer and the corporation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3319 did not pass",
+ "claims": [
+  {
+   "text": "HB 3319 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618790
+   ]
+  },
+  {
+   "text": "HB 3319 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661023
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618790,
+    619188,
+    661023
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618790
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618790
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3319&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3319",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3954,
+  "finding_hash": "7d5ad0bdd80f554e67058f0bda070d08136d214a597424edaa1a91789ef32785",
+  "evidence_digest": "sha256:6d1f463dde9e7b08b9e4276ce937bfe59680063767d4be32ac0c9f06c2b922f9",
+  "gate_id": "7f28fbbde200450784f9c61b7f171d87",
+  "gate_seq": 3955
+ }
+}

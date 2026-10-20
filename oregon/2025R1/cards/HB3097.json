@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3097",
+ "measure_id": "HB3097",
+ "subject": "or_legislature/2025R1/HB3097",
+ "title": "Increases sentencing guidelines for felony attempting to elude a police officer.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3097 did not pass",
+ "claims": [
+  {
+   "text": "HB 3097 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615061
+   ]
+  },
+  {
+   "text": "HB 3097 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659981
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615061,
+    617270,
+    624164,
+    635071,
+    659981
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615061
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615061
+   ]
+  },
+  {
+   "date": "2025-02-24",
+   "when": "February 24, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624164
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659981
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3097&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3097",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3288,
+  "finding_hash": "2f2a3809eeadcc4354857e87e37dfcdf5885868a0df746c7571bd4cf65f1389a",
+  "evidence_digest": "sha256:274487d55c5a66d2e18bfc348ccbf463e2faa54285956104f3575e8ba158937c",
+  "gate_id": "358b6e0b08024b479ec0a2cf9c885133",
+  "gate_seq": 3289
+ }
+}

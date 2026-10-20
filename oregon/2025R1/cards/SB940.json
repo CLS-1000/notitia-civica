@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "SB 940",
+ "measure_id": "SB940",
+ "subject": "or_legislature/2025R1/SB940",
+ "title": "Allows development of certain accessory dwelling units, recreational vehicles or emergency shelters on farmland on which is sited certain nonfarm dwellings.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 940 did not pass",
+ "claims": [
+  {
+   "text": "SB 940 was introduced in the Senate on January 23, 2025.",
+   "row_ids": [
+    619028
+   ]
+  },
+  {
+   "text": "SB 940 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659441
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619028,
+    619035,
+    621078,
+    621388,
+    621389,
+    659441
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-23",
+   "when": "January 23, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    619028
+   ]
+  },
+  {
+   "date": "2025-01-23",
+   "when": "January 23, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619028
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    621078
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "when": "February 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    621388
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 940&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB940",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8928,
+  "finding_hash": "49f134e26fe35f951441afdffc85085cabb9c9eb51d8e625a9689c7e6eb286de",
+  "evidence_digest": "sha256:b4069fab4cfe338ce8e49dd9ad2bf7e6d65f039d7abc51adeca0fa7193f4d31f",
+  "gate_id": "92040fc1ef654cc4a7526c8ceebe9942",
+  "gate_seq": 8929
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3276",
+ "measure_id": "HB3276",
+ "subject": "or_legislature/2025R1/HB3276",
+ "title": "Directs the Oregon Department of Aviation to study issues related to improving airport infrastructure resilience and to report to an appropriate committee or interim committee of the Legislative Assembly on or before September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3276 did not pass",
+ "claims": [
+  {
+   "text": "HB 3276 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618747
+   ]
+  },
+  {
+   "text": "HB 3276 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660983
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618747,
+    619145,
+    660983
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618747
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618747
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3276&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3276",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3825,
+  "finding_hash": "19af1cada17d476483401b3ea3b40b4cb52c6dd70295130b4277777ed725ac35",
+  "evidence_digest": "sha256:676c3811104ed7fc54d3ac6b0e1adde2e57a7c6ca9e3ed2944d4e4111cfd15c9",
+  "gate_id": "881c53459b46413883cced493b61050c",
+  "gate_seq": 3826
+ }
+}

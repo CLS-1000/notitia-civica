@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3979",
+ "measure_id": "HB3979",
+ "subject": "or_legislature/2025R1/HB3979",
+ "title": "Prohibits strikes by public employees.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3979 did not pass",
+ "claims": [
+  {
+   "text": "HB 3979 was introduced in the House on May 29, 2025.",
+   "row_ids": [
+    650509
+   ]
+  },
+  {
+   "text": "HB 3979 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659954
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    650509,
+    652058,
+    659954
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-05-29",
+   "when": "May 29, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    650509
+   ]
+  },
+  {
+   "date": "2025-05-29",
+   "when": "May 29, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    650509
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3979&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3979",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5934,
+  "finding_hash": "71cbb067b2a6d2bb79f441d8b5f30241ff98a3947cdcdbb993e6f5ed68c6fae9",
+  "evidence_digest": "sha256:2d3b6e2108b2d036b4bd8bbf1ba65ba93b31cc4f4345b8c0ed86f464aaa72377",
+  "gate_id": "6f759a14dbb340e395a65428be391583",
+  "gate_seq": 5935
+ }
+}

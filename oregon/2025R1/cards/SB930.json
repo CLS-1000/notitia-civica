@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 930",
+ "measure_id": "SB930",
+ "subject": "or_legislature/2025R1/SB930",
+ "title": "Reinstates the tax credit for reforestation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 930 did not pass",
+ "claims": [
+  {
+   "text": "SB 930 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618706
+   ]
+  },
+  {
+   "text": "SB 930 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659276
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618706,
+    618877,
+    659276
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618706
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618706
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 930&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB930",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8898,
+  "finding_hash": "15b7f3717d0373cc8c29fd6d33e0071c9323f2acc1791378e91025008df7c9ca",
+  "evidence_digest": "sha256:4a04aa0f4f5384cc8000fcc93315ca59f5d231ab5e0a4875cfa3e68be2f05b4e",
+  "gate_id": "3dd1b111b3654d82a90b1008a339985f",
+  "gate_seq": 8899
+ }
+}

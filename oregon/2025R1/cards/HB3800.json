@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3800",
+ "measure_id": "HB3800",
+ "subject": "or_legislature/2025R1/HB3800",
+ "title": "Renames the \"Greater Harney Valley Groundwater Area of Concern\" the \"Harney Basin Groundwater Management Area.\"",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3800 did not pass",
+ "claims": [
+  {
+   "text": "HB 3800 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624976
+   ]
+  },
+  {
+   "text": "HB 3800 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661366
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624976,
+    626385,
+    632854,
+    638041,
+    639621,
+    639622,
+    661366
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624976
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624976
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632854
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638041
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    639621
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3800&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3800",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5397,
+  "finding_hash": "a377c92e973b45e8dfafe141dc93f03b6905c032548842b515d39e6d8a1881dd",
+  "evidence_digest": "sha256:1e6d8b22b7a11183c54bc567d6a81e15e78c36761663d3e8681a9e5be454253a",
+  "gate_id": "9e058c0bdbea49a392382641df175200",
+  "gate_seq": 5398
+ }
+}

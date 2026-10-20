@@ -1,0 +1,108 @@
+{
+ "session": "2025R1",
+ "measure": "SB 65",
+ "measure_id": "SB65",
+ "subject": "or_legislature/2025R1/SB65",
+ "title": "Allows a person who has been deprived of rights, privileges or immunities secured by the Oregon Constitution or the laws of this state by a person acting under color of law to bring a civil action for economic and noneconomic damages and for injunctive or other equitable relief.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 65 did not pass",
+ "claims": [
+  {
+   "text": "SB 65 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615370
+   ]
+  },
+  {
+   "text": "SB 65 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658606
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615370,
+    617637,
+    621625,
+    632724,
+    638553,
+    658606
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615370
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615370
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "when": "February 10, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621625
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632724
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658606
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 65&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB65",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6303,
+  "finding_hash": "c4bfcb8bc34f181aaa280820cbd2b19a33372dd95d3bba8f30d544cf89819715",
+  "evidence_digest": "sha256:eb7e9be21ef5c5c1e861b7a7b16264ef83e6102a2300ef914af15256c2aed29d",
+  "gate_id": "505ae4dc2c1343ec9f06b8decb258555",
+  "gate_seq": 6304
+ }
+}

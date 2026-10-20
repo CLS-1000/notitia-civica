@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3699",
+ "measure_id": "HB3699",
+ "subject": "or_legislature/2025R1/HB3699",
+ "title": "Requires the Department of Education to study the statutory requirements for approved recovery schools.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3699 did not pass",
+ "claims": [
+  {
+   "text": "HB 3699 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624383
+   ]
+  },
+  {
+   "text": "HB 3699 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660433
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624383,
+    625244,
+    660433
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624383
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624383
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3699&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3699",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5094,
+  "finding_hash": "f415b3fa3e9e0cf847e0c8fe9a7c3c9e0f0cb968bf8dbe8cda517bad47cb0d6b",
+  "evidence_digest": "sha256:b9deb7e05833a0cceee4ed908ec3d3c985e770497fc269e0e819a8a30231656c",
+  "gate_id": "c74b467835dd469cb2b4f9d7d6a2b6e2",
+  "gate_seq": 5095
+ }
+}

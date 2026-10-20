@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3019",
+ "measure_id": "HB3019",
+ "subject": "or_legislature/2025R1/HB3019",
+ "title": "Requires the Oregon Medical Board to study licensing certain providers who received training outside of the United States.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3019 did not pass",
+ "claims": [
+  {
+   "text": "HB 3019 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614983
+   ]
+  },
+  {
+   "text": "HB 3019 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660370
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614983,
+    617192,
+    660370
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614983
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614983
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3019&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3019",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3054,
+  "finding_hash": "c2115bc73f38fb929944b92698c760edc12f2267f59bfa68cf37da41f02149eb",
+  "evidence_digest": "sha256:9a509ffaa9f175194bb1ce82ce5fbda66f88c6916aefb8db5c62208cff5faf25",
+  "gate_id": "218b2565e29148cca7991e93b0911098",
+  "gate_seq": 3055
+ }
+}

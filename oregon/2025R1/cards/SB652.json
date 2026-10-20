@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 652",
+ "measure_id": "SB652",
+ "subject": "or_legislature/2025R1/SB652",
+ "title": "Allows a school district, an education service district or a public charter school to employ a person who is not licensed or registered with the Teacher Standards and Practices Commission to teach reading to students.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 652 did not pass",
+ "claims": [
+  {
+   "text": "SB 652 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615957
+   ]
+  },
+  {
+   "text": "SB 652 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658846
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615957,
+    618224,
+    658846
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615957
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615957
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 652&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB652",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8064,
+  "finding_hash": "48ad7942a776d3c1cdf0ca6b27b86de2c4b26a2b32e27161862cb0cdcbac1ff1",
+  "evidence_digest": "sha256:b541d154f312e1e96e684a6b1514b95e772e97e4a0fcf8dd58ebcc5c128eca73",
+  "gate_id": "90f23340226940acb44cef59b6d93711",
+  "gate_seq": 8065
+ }
+}

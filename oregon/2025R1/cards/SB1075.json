@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1075",
+ "measure_id": "SB1075",
+ "subject": "or_legislature/2025R1/SB1075",
+ "title": "Requires evidence of United States citizenship for persons registering to vote in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1075 did not pass",
+ "claims": [
+  {
+   "text": "SB 1075 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624274
+   ]
+  },
+  {
+   "text": "SB 1075 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659403
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624274,
+    624450,
+    659403
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624274
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624274
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1075&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1075",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9333,
+  "finding_hash": "f6901ba427c456a9a1ccbd5063be374d94362919d32d53158d84c13f610668f5",
+  "evidence_digest": "sha256:f27c8e536f0f871de66db182f15f6e9ddc8c09dcd1ca072f7d37c3ef53686e30",
+  "gate_id": "f5911aa95d864f02a5eff4ecdc3a8d77",
+  "gate_seq": 9334
+ }
+}

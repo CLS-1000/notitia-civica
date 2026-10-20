@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3344",
+ "measure_id": "HB3344",
+ "subject": "or_legislature/2025R1/HB3344",
+ "title": "Authorizes a cemetery authority to elect to use the total return distribution method to fund endowment care of the cemetery.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3344 did not pass",
+ "claims": [
+  {
+   "text": "HB 3344 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619395
+   ]
+  },
+  {
+   "text": "HB 3344 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660376
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619395,
+    619767,
+    660376
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619395
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619395
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3344&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3344",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4029,
+  "finding_hash": "95b022b4d6b7c51a30441bebe8eca3879036a344ac3966f6f76fa32b17e6cd0e",
+  "evidence_digest": "sha256:5835650eb82e814e24f1f50acba1ec08afea7de98893897d7e4f649f9247eca3",
+  "gate_id": "0832985e43ce4738a6cd81a95ecfa130",
+  "gate_seq": 4030
+ }
+}

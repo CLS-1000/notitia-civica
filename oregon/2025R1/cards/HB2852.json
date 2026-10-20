@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2852",
+ "measure_id": "HB2852",
+ "subject": "or_legislature/2025R1/HB2852",
+ "title": "Directs contracting agencies to give preference to a bidder or proposer who is certified by the Oregon Department of Emergency Management as an emergency preparedness partner.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2852 did not pass",
+ "claims": [
+  {
+   "text": "HB 2852 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614816
+   ]
+  },
+  {
+   "text": "HB 2852 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661161
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614816,
+    617025,
+    661161
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614816
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614816
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2852&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2852",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2553,
+  "finding_hash": "2df1f722c5bff69190aa030a7b39fa466bc74c5c9c5565271e28a9dfef65e914",
+  "evidence_digest": "sha256:f1b3901eb2ea7f79d28a1c5d75cf4f52f2f966d591f2f0629d6fe240bb47684f",
+  "gate_id": "32861007e1a64b8294641430258fdf39",
+  "gate_seq": 2554
+ }
+}

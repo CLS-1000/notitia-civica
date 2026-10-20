@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 563",
+ "measure_id": "SB563",
+ "subject": "or_legislature/2025R1/SB563",
+ "title": "Creates Oregon tax subtraction for interest received by financial institutions from loans made for purchase or improvement of agricultural real estate, rural residences and coastal fishing boats.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 563 did not pass",
+ "claims": [
+  {
+   "text": "SB 563 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615868
+   ]
+  },
+  {
+   "text": "SB 563 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659390
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615868,
+    618135,
+    659390
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615868
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615868
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 563&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB563",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7797,
+  "finding_hash": "8ee7190735e008724ab567ff31f42d6cf3e73fecc2901abb8c8f9126d1486276",
+  "evidence_digest": "sha256:fe7c9d3b265f7c93802ca02b139aac68c458d006845a8e60d9549455c7eb3e86",
+  "gate_id": "8d628162746c41278d31eb4fd8571a39",
+  "gate_seq": 7798
+ }
+}

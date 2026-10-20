@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HJM 4",
+ "measure_id": "HJM4",
+ "subject": "or_legislature/2025R1/HJM4",
+ "title": "Urges Congress to enact legislation that extends certain benefits to Reserve and National Guard units deployed under 10 U.S.C. 12304b that are comparable to the benefits received by Reserve and National Guard units under other mobilization authority.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJM 4 did not pass",
+ "claims": [
+  {
+   "text": "HJM 4 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613907
+   ]
+  },
+  {
+   "text": "HJM 4 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660927
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613907,
+    618956,
+    660927
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613907
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613907
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJM' and MeasureNumber eq 4&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJM4",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10089,
+  "finding_hash": "00ff81ae5e64ecbd9609034a805dd50199ad34563a9d5cfcd37f6046a453d53b",
+  "evidence_digest": "sha256:df00733043446c3a13226ae9481ab69720fe7111d090120c51ec3c242a409c1e",
+  "gate_id": "ab8b738ca0a84402a7bd44e1e802a881",
+  "gate_seq": 10090
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "session": "2025R1",
+ "measure": "HJR 1",
+ "measure_id": "HJR1",
+ "subject": "or_legislature/2025R1/HJR1",
+ "title": "Proposes an amendment to the Oregon Constitution to require approval by the Legislative Assembly of any new fees or fee increases adopted by a state agency. Requires that bills approving new or increased fees be approved by a three-fifths supermajority of each chamber of the Legislative Assembly.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJR 1 did not pass",
+ "claims": [
+  {
+   "text": "HJR 1 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613913
+   ]
+  },
+  {
+   "text": "HJR 1 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660223
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613913,
+    618962,
+    660223
+   ]
+  },
+  {
+   "text": "HJR 1 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    660223
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613913
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613913
+   ]
+  }
+ ],
+ "topics": [
+  "ballot"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJR' and MeasureNumber eq 1&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJR1",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9912,
+  "finding_hash": "d2f1787266d7aff3ae2a311ce6b50cb7b689bed020cb9c495a1b2f69062814e5",
+  "evidence_digest": "sha256:49985cfe56de1fad9879380549b05a8ca6caa29468c4eaed173eece907a070a2",
+  "gate_id": "6694936cde314cccaac3142f70adefe0",
+  "gate_seq": 9913
+ }
+}

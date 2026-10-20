@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 542",
+ "measure_id": "SB542",
+ "subject": "or_legislature/2025R1/SB542",
+ "title": "Makes certain findings related to gluten.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 542 did not pass",
+ "claims": [
+  {
+   "text": "SB 542 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615847
+   ]
+  },
+  {
+   "text": "SB 542 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659376
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615847,
+    618114,
+    659376
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615847
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615847
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 542&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB542",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7734,
+  "finding_hash": "f45271e45752dcd989ba1ebdcedefb42a0aa40a4557eca20836ea524a937baa5",
+  "evidence_digest": "sha256:00630db919ca5688520458b05996cb42f50ce22a88c811c99ecbed12e18754b9",
+  "gate_id": "828f6d35abd14373b7bb038a2019d15d",
+  "gate_seq": 7735
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 319",
+ "measure_id": "SB319",
+ "subject": "or_legislature/2025R1/SB319",
+ "title": "Establishes the Office of Substitute Teachers in the Department of Education to develop, communicate and coordinate best practices and supports for substitute teachers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 319 did not pass",
+ "claims": [
+  {
+   "text": "SB 319 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615624
+   ]
+  },
+  {
+   "text": "SB 319 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658706
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615624,
+    617891,
+    658706
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615624
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615624
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 319&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB319",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7065,
+  "finding_hash": "30013b181d665e48d7c8cfb1e61042ac77e28466c509010654d8d2574e01521b",
+  "evidence_digest": "sha256:51efc765cdb2a7d3ba80bb5e758ed6bf5a812bff2790e92c6a20ee0915f977f7",
+  "gate_id": "066922eeafa24028ba90526ea3716a4a",
+  "gate_seq": 7066
+ }
+}

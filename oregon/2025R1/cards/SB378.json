@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 378",
+ "measure_id": "SB378",
+ "subject": "or_legislature/2025R1/SB378",
+ "title": "Directs the State Parks and Recreation Commission to adopt rules authorizing persons 65 years or older who reside in Oregon to use any state park, individual campsite or day use fee area without charge.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 378 did not pass",
+ "claims": [
+  {
+   "text": "SB 378 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615683
+   ]
+  },
+  {
+   "text": "SB 378 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659005
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615683,
+    617950,
+    659005
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615683
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615683
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 378&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB378",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7242,
+  "finding_hash": "9a16a5a5784f3a6ca79dba64e935e2b867baf8a9342109ec0fac21dbf4f33e20",
+  "evidence_digest": "sha256:d1ab94475296a8d97f3728b5c29e9e0d81ae99b2a2821a0477cacbeefeda3de7",
+  "gate_id": "d6e88f91a40a4acfaf002b586a16a12b",
+  "gate_seq": 7243
+ }
+}

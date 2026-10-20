@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3770",
+ "measure_id": "HB3770",
+ "subject": "or_legislature/2025R1/HB3770",
+ "title": "Provides that the crime of buying or selling a person under 18 years of age includes conduct related to adoption.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3770 did not pass",
+ "claims": [
+  {
+   "text": "HB 3770 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624946
+   ]
+  },
+  {
+   "text": "HB 3770 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661340
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624946,
+    626355,
+    661340
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624946
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624946
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3770&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3770",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5307,
+  "finding_hash": "f60e0a6b2ae3984e7d05d309bec7ce5324ac62ae524b69f37abda487cfaeeed7",
+  "evidence_digest": "sha256:0a5193eb8715271e7ec72979cd07522a655d67cc542a3eb61d1116da5d6d7bd9",
+  "gate_id": "cdc85be845ec48ba82489afea4db2955",
+  "gate_seq": 5308
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 507",
+ "measure_id": "SB507",
+ "subject": "or_legislature/2025R1/SB507",
+ "title": "Separates the possession, delivery and manufacture of fentanyl from general controlled substance offense statutes into separate statutes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 507 did not pass",
+ "claims": [
+  {
+   "text": "SB 507 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615812
+   ]
+  },
+  {
+   "text": "SB 507 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659343
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615812,
+    618079,
+    659343
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615812
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615812
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 507&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB507",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7629,
+  "finding_hash": "5354541505be53f04b397de5ee44f7515188f6c61ab1a2e353bb8b97bae154ba",
+  "evidence_digest": "sha256:018c21db2cfd54540ff0847f86850a6aa3e5afe50ba966a8b7d7ada629636734",
+  "gate_id": "8d150ca317f941f7b91a175079d32923",
+  "gate_seq": 7630
+ }
+}

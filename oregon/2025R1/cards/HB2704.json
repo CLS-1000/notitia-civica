@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2704",
+ "measure_id": "HB2704",
+ "subject": "or_legislature/2025R1/HB2704",
+ "title": "Directs the Department of Corrections to determine the last-known address of adults in custody, if the address is readily known or available to the adult in custody, and to submit the information to the Secretary of State.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2704 did not pass",
+ "claims": [
+  {
+   "text": "HB 2704 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614668
+   ]
+  },
+  {
+   "text": "HB 2704 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660101
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614668,
+    616877,
+    660101
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614668
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614668
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2704&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2704",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2109,
+  "finding_hash": "0d52865b1b723311efa77f0ceb00ffacb61ab3f788af7442539fc473ecc4d01f",
+  "evidence_digest": "sha256:dabc48f13c95b3b8c823b9381821fc7331be23c361845ff8c8ecd6c846fa9625",
+  "gate_id": "c1955c22ac7b43319cda88bd72691ec2",
+  "gate_seq": 2110
+ }
+}

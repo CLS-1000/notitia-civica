@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3451",
+ "measure_id": "HB3451",
+ "subject": "or_legislature/2025R1/HB3451",
+ "title": "Establishes the Superintendent of Public Instruction as a nonpartisan statewide elected office.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3451 did not pass",
+ "claims": [
+  {
+   "text": "HB 3451 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620324
+   ]
+  },
+  {
+   "text": "HB 3451 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660829
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620324,
+    620997,
+    660829
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620324
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620324
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3451&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3451",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4350,
+  "finding_hash": "1662fcc38c36c6dd5f1677464fd23407586b5b5c0ff5599fae2e121a061e50ab",
+  "evidence_digest": "sha256:dee49db5e954f3d06e217aff22fcb1df4e5320c6fa301c208c492b3c5b576370",
+  "gate_id": "50a2096876f440ac9e076a0ca25a9fec",
+  "gate_seq": 4351
+ }
+}

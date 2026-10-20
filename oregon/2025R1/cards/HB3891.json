@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3891",
+ "measure_id": "HB3891",
+ "subject": "or_legislature/2025R1/HB3891",
+ "title": "Requires the Oregon Health Authority to study behavioral health.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3891 did not pass",
+ "claims": [
+  {
+   "text": "HB 3891 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625067
+   ]
+  },
+  {
+   "text": "HB 3891 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661095
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625067,
+    626476,
+    661095
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625067
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625067
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3891&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3891",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5670,
+  "finding_hash": "6a7b08ed9e4e81e89360407cd9ebb149fe03f93a2d27e2749ecbbc1615ec69bb",
+  "evidence_digest": "sha256:4abda81ef54101e8d0ac05e969d22b64524b908ca9e296b1340c108907c526b6",
+  "gate_id": "04c143b9b19e48b6b033a3ccb63b4388",
+  "gate_seq": 5671
+ }
+}

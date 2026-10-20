@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1079",
+ "measure_id": "SB1079",
+ "subject": "or_legislature/2025R1/SB1079",
+ "title": "Appropriates moneys to the Housing Project Revolving Loan Fund.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1079 did not pass",
+ "claims": [
+  {
+   "text": "SB 1079 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624278
+   ]
+  },
+  {
+   "text": "SB 1079 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659137
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624278,
+    624454,
+    659137
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624278
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624278
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1079&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1079",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9345,
+  "finding_hash": "6a023e8e458bb703191621667d20a4704c7af5afc3b5185188a6d49553d3c66e",
+  "evidence_digest": "sha256:ed29c02512cd5f6aac34344ea9f3a5500f64f8a3cee5513550cffb657949fc22",
+  "gate_id": "e36c5ffec2624b51a10659ad147ea95f",
+  "gate_seq": 9346
+ }
+}

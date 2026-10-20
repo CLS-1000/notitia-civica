@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "SB 284",
+ "measure_id": "SB284",
+ "subject": "or_legislature/2025R1/SB284",
+ "title": "Requires the Oregon Health Authority to study health care.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 284 did not pass",
+ "claims": [
+  {
+   "text": "SB 284 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615589
+   ]
+  },
+  {
+   "text": "SB 284 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658678
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615589,
+    617856,
+    639067,
+    641522,
+    641523,
+    658678
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615589
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615589
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639067
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    641522
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 284&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB284",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6960,
+  "finding_hash": "56db6a756627b84c320bb995fe658f6f2b0a37053f8e81fd997d1435c6d466bc",
+  "evidence_digest": "sha256:4c1014973770f2b9d1cabe3febbff92fc3dc8ba20278370a551e0500c6456728",
+  "gate_id": "ade74aa4fda04a27abb8f2a1f7f308fa",
+  "gate_seq": 6961
+ }
+}

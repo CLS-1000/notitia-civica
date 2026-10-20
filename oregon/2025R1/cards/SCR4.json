@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SCR 4",
+ "measure_id": "SCR4",
+ "subject": "or_legislature/2025R1/SCR4",
+ "title": "Requires that a committee of the Legislative Assembly may adopt an amendment to a legislative measure only if the chief sponsor of the measure approves the amendment prior to amendment adoption by the committee.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SCR 4 did not pass",
+ "claims": [
+  {
+   "text": "SCR 4 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615213
+   ]
+  },
+  {
+   "text": "SCR 4 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659097
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615213,
+    617480,
+    659097
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615213
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615213
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SCR' and MeasureNumber eq 4&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SCR4",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10287,
+  "finding_hash": "5206de0c364a2c1540efb2518a5b85ffa0454a7b369ce0759e3bd1f19f8a0d96",
+  "evidence_digest": "sha256:af1ecfe3809a3c0eb5c014632bb84dbcbfb95305dbcdcb9f2f2408c0986514ff",
+  "gate_id": "40bb2b1edee54a09a32c39fc989e2c48",
+  "gate_seq": 10288
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3883",
+ "measure_id": "HB3883",
+ "subject": "or_legislature/2025R1/HB3883",
+ "title": "Requires public meetings to include a time for public comments at the start of each public meeting.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3883 did not pass",
+ "claims": [
+  {
+   "text": "HB 3883 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625059
+   ]
+  },
+  {
+   "text": "HB 3883 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661087
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625059,
+    626468,
+    640179,
+    661087
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625059
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625059
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    640179
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661087
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3883&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3883",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5646,
+  "finding_hash": "ba7a3bcf5ca3804467dec7176a5b13263ae99ca56dabda073d6f8925b3b9114b",
+  "evidence_digest": "sha256:27de2d2c54cc6e7eac5da22603907f0eec533c0e0a0363928df4c35d2fb1aa72",
+  "gate_id": "f0332cda948b4e53ab1b891f20c92823",
+  "gate_seq": 5647
+ }
+}

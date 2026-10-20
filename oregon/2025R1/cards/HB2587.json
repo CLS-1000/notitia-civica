@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2587",
+ "measure_id": "HB2587",
+ "subject": "or_legislature/2025R1/HB2587",
+ "title": "Removes the percentage cap on the amount of moneys that are distributed from the State School Fund to school districts for students eligible for special education as a child with a disability.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2587 did not pass",
+ "claims": [
+  {
+   "text": "HB 2587 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614551
+   ]
+  },
+  {
+   "text": "HB 2587 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660914
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614551,
+    616760,
+    660914
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614551
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614551
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2587&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2587",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1758,
+  "finding_hash": "c66de56a8553748e0e8c07e8bb2e6e2a1846b87b96b425823ea9a6f3db71dd3a",
+  "evidence_digest": "sha256:be4d2ca15524d8663c8b1fcac08b83fa8773263d99db24b9a4371208f30abdc7",
+  "gate_id": "711ba14f26ed4a71b63fc4698be364fe",
+  "gate_seq": 1759
+ }
+}

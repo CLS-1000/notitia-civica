@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1040",
+ "measure_id": "SB1040",
+ "subject": "or_legislature/2025R1/SB1040",
+ "title": "Limits pretrial release of defendants charged with unlawful delivery of a controlled substance involving a substantial quantity to security release.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1040 did not pass",
+ "claims": [
+  {
+   "text": "SB 1040 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623050
+   ]
+  },
+  {
+   "text": "SB 1040 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659131
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623050,
+    623122,
+    659131
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623050
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623050
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1040&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1040",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9228,
+  "finding_hash": "792acd383055cb0ccad6665ee16bf85f22f5a90ffd1b5728d56399b62742953e",
+  "evidence_digest": "sha256:ae00dc522e1e2b73e902537294fa9641883dc8f444ab3dfe55ad5b9d36f986c1",
+  "gate_id": "339345bb25834c369ddb764609ce34a1",
+  "gate_seq": 9229
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1028",
+ "measure_id": "SB1028",
+ "subject": "or_legislature/2025R1/SB1028",
+ "title": "Requires the State Department of Agriculture to study manure digesters.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1028 did not pass",
+ "claims": [
+  {
+   "text": "SB 1028 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623038
+   ]
+  },
+  {
+   "text": "SB 1028 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659204
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623038,
+    623110,
+    659204
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623038
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623038
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1028&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1028",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9192,
+  "finding_hash": "fd14b983c0512c1de677971a46b29bf32b56816cc7f68e4ded1e46b302c9c8d3",
+  "evidence_digest": "sha256:329894a9dbc7adb56f26ce9369da84309781a55d1091eb393158c966c056f407",
+  "gate_id": "256cb5bf99ec421cb4da0e4c4cd2e576",
+  "gate_seq": 9193
+ }
+}

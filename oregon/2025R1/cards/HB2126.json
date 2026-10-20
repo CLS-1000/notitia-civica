@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2126",
+ "measure_id": "HB2126",
+ "subject": "or_legislature/2025R1/HB2126",
+ "title": "Provides that home care workers and personal support workers have the right to labor union representation in interviews, investigations or administrative reviews that could result in disciplinary action.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2126 did not pass",
+ "claims": [
+  {
+   "text": "HB 2126 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614090
+   ]
+  },
+  {
+   "text": "HB 2126 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660866
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614090,
+    616299,
+    660866
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614090
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614090
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2126&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2126",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 375,
+  "finding_hash": "5734d08f898c89b912df780a721c9952a5950eafc5392cc8227b1ec5ae87e406",
+  "evidence_digest": "sha256:9613421206bf603066ef305c970474c6f1a19c128387fda52e0d4a27cbdddf3f",
+  "gate_id": "7ac332ce32a94af4b83b5bb382237c1a",
+  "gate_seq": 376
+ }
+}

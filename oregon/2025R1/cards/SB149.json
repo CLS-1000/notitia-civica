@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 149",
+ "measure_id": "SB149",
+ "subject": "or_legislature/2025R1/SB149",
+ "title": "Requires the Department of Human Services to contract with eligible entities to provide support services to refugees residing in this state, for up to 24 months, and immigration assistance and referrals to individuals who are seeking a refugee status.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 149 did not pass",
+ "claims": [
+  {
+   "text": "SB 149 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615454
+   ]
+  },
+  {
+   "text": "SB 149 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659485
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615454,
+    617721,
+    638551,
+    639034,
+    641518,
+    641519,
+    659485
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615454
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615454
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    638551
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639034
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641518
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 149&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB149",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6555,
+  "finding_hash": "1246afafc508677864a32f63716838ea9f38fbfde810ccbfc31b438b55fbf6e8",
+  "evidence_digest": "sha256:9c5ccd783467dd61d9992c53601617a0a793c92776a5318664a7800b7a7d1446",
+  "gate_id": "9417a7c580cf4e84be15b5d7312cf985",
+  "gate_seq": 6556
+ }
+}

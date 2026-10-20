@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3282",
+ "measure_id": "HB3282",
+ "subject": "or_legislature/2025R1/HB3282",
+ "title": "Requires the Oregon Health Authority to contract with a third party to examine restructuring of the authority to improve efficiency and responsiveness.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3282 did not pass",
+ "claims": [
+  {
+   "text": "HB 3282 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618753
+   ]
+  },
+  {
+   "text": "HB 3282 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660989
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618753,
+    619151,
+    660989
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618753
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618753
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3282&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3282",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3843,
+  "finding_hash": "5c89eb0695ea739c771d502bf8415d572920c7e6ad05b035ea1945a9fd73b088",
+  "evidence_digest": "sha256:43c91b58f2a889397cf72d7380adffe806a14fb468aa43efb9184e42ec6c5bc4",
+  "gate_id": "56669bdeb2004a8d982fd3277e05f307",
+  "gate_seq": 3844
+ }
+}

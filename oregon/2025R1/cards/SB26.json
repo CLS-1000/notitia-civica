@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 26",
+ "measure_id": "SB26",
+ "subject": "or_legislature/2025R1/SB26",
+ "title": "Requires the Department of Environmental Quality to study environmental health.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 26 did not pass",
+ "claims": [
+  {
+   "text": "SB 26 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615331
+   ]
+  },
+  {
+   "text": "SB 26 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658967
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615331,
+    617598,
+    658967
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615331
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615331
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 26&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB26",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6186,
+  "finding_hash": "ba907692dbcf481eb2bd1cdf8afe89e526f071b20187a4ede85d0784b2f2f59a",
+  "evidence_digest": "sha256:525f5cf514b42d6701348c302d04bac493b3145feb658d827f33051e5e13d8f4",
+  "gate_id": "90ddac3bef34423797fda9ea3cfabe06",
+  "gate_seq": 6187
+ }
+}

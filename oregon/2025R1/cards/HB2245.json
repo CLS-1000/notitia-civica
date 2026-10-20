@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2245",
+ "measure_id": "HB2245",
+ "subject": "or_legislature/2025R1/HB2245",
+ "title": "Requires the Construction Contractors Board to study construction contractors.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2245 did not pass",
+ "claims": [
+  {
+   "text": "HB 2245 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614209
+   ]
+  },
+  {
+   "text": "HB 2245 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660250
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614209,
+    616418,
+    660250
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614209
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614209
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2245&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2245",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 732,
+  "finding_hash": "52a293bc06a7fb58787694872913525f1091701b4aeac5b64e250c3e22622550",
+  "evidence_digest": "sha256:1537d5d17b90ee76bb6e4a5703be8fc210ff2e9f4c0035caf76b9d3cf5c39bf9",
+  "gate_id": "8828c9730bc342c38b711d4bad9169a9",
+  "gate_seq": 733
+ }
+}

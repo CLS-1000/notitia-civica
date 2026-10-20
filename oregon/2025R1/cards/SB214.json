@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 214",
+ "measure_id": "SB214",
+ "subject": "or_legislature/2025R1/SB214",
+ "title": "Requires the Public Utility Commission to investigate the status of renewable energy projects in Oregon, including any project failures.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 214 did not pass",
+ "claims": [
+  {
+   "text": "SB 214 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615519
+   ]
+  },
+  {
+   "text": "SB 214 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659423
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615519,
+    617786,
+    659423
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615519
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615519
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 214&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB214",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6750,
+  "finding_hash": "e0bb66558244f657dbb9cd559925eaa2feb246004a1ad43594a3e142dfbca1da",
+  "evidence_digest": "sha256:57f03df525efd0474a5697a38f7b902b6d9f9cb69aff98f09ea421cde848e152",
+  "gate_id": "8d1c588073764fa18c3bf708f74a8bcb",
+  "gate_seq": 6751
+ }
+}

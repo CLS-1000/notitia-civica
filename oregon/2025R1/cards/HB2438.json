@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2438",
+ "measure_id": "HB2438",
+ "subject": "or_legislature/2025R1/HB2438",
+ "title": "Prohibits a person from denying a real estate licensee access to the multiple listing service because the licensee is not a member of a professional real estate association or organization.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2438 did not pass",
+ "claims": [
+  {
+   "text": "HB 2438 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614402
+   ]
+  },
+  {
+   "text": "HB 2438 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660607
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614402,
+    616611,
+    620751,
+    660607
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614402
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614402
+   ]
+  },
+  {
+   "date": "2025-02-05",
+   "when": "February 5, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620751
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660607
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2438&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2438",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1311,
+  "finding_hash": "adfbfa1642a1e7fc09bfa3520ea377fd9b6b44c31c8e69c3e7715ed9506afc34",
+  "evidence_digest": "sha256:d44b0588941fb6a26eb99d215f6d63fed8121597c0940de72a69c984692f333e",
+  "gate_id": "2f80cfe9929d49f3bd37ebb193b4bc04",
+  "gate_seq": 1312
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3901",
+ "measure_id": "HB3901",
+ "subject": "or_legislature/2025R1/HB3901",
+ "title": "Directs the Water Resources Department to study rules related to water.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3901 did not pass",
+ "claims": [
+  {
+   "text": "HB 3901 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625077
+   ]
+  },
+  {
+   "text": "HB 3901 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661105
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625077,
+    626486,
+    661105
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625077
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625077
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3901&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3901",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5700,
+  "finding_hash": "7678157687716b47c5b6db5f5ba84975f666ef9453ddb3f8b0ecbbcb039bbb00",
+  "evidence_digest": "sha256:ac1a3559b53c17e85dc8ba0e04f62681347b1755948290e4306ea6686ac3cd81",
+  "gate_id": "d9b9ed3966e24db19c686982968b1437",
+  "gate_seq": 5701
+ }
+}

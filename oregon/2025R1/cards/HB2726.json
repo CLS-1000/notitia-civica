@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2726",
+ "measure_id": "HB2726",
+ "subject": "or_legislature/2025R1/HB2726",
+ "title": "Authorizes the issuance of lottery bonds to fund Columbia corridor flood safety projects in Multnomah County.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2726 did not pass",
+ "claims": [
+  {
+   "text": "HB 2726 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614690
+   ]
+  },
+  {
+   "text": "HB 2726 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660143
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614690,
+    616899,
+    623167,
+    628392,
+    629498,
+    629499,
+    660143
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614690
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614690
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623167
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    628392
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    629498
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2726&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2726",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2175,
+  "finding_hash": "bf01043d3fb54ac9a38fc64fe0776a244edbd5898bcf4458cfcce9ff05ca653a",
+  "evidence_digest": "sha256:e7546556864683763d48aabcb3abaaf6de7c91a07e0643cd1d9781d19d8bd7f1",
+  "gate_id": "0f182a94626b41d49aeeb6ce75a6e538",
+  "gate_seq": 2176
+ }
+}

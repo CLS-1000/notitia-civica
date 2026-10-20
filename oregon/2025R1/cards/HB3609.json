@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3609",
+ "measure_id": "HB3609",
+ "subject": "or_legislature/2025R1/HB3609",
+ "title": "Requires each electric company to develop a distributed power plant program for the procurement of grid services to be provided by distributed energy resources.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3609 did not pass",
+ "claims": [
+  {
+   "text": "HB 3609 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622944
+   ]
+  },
+  {
+   "text": "HB 3609 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661389
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622944,
+    623499,
+    627708,
+    638813,
+    640531,
+    640532,
+    661389
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622944
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622944
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627708
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638813
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640531
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3609&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3609",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4824,
+  "finding_hash": "3536a40fb2989c36ca2685b365cfdb3db6617ce7a98e60fe5edd054c3af3b9bb",
+  "evidence_digest": "sha256:04899ad6f078b3b4c2acc53d211505b08905078578e028b4d3f8282c0dc30ed6",
+  "gate_id": "be515f09f5ca4dd88033cceae3410280",
+  "gate_seq": 4825
+ }
+}

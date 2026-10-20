@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 219",
+ "measure_id": "SB219",
+ "subject": "or_legislature/2025R1/SB219",
+ "title": "Modifies the general powers of the Public Utility Commission by removing the commission's general power to balance the interests of the utility investor and the consumer in establishing fair and reasonable rates.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 219 did not pass",
+ "claims": [
+  {
+   "text": "SB 219 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615524
+   ]
+  },
+  {
+   "text": "SB 219 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659428
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615524,
+    617791,
+    659428
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615524
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615524
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 219&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB219",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6765,
+  "finding_hash": "04dbdca05d8973d4ddbb3e71d3d44efc7274af5cb423de1dc3342428533ff5e5",
+  "evidence_digest": "sha256:179ce86528e294d8337a0572030ffa0e5226f98885e00e8f5c9d0dd5485ea953",
+  "gate_id": "678f1b76441b4c9fb132995b34dee20f",
+  "gate_seq": 6766
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 674",
+ "measure_id": "SB674",
+ "subject": "or_legislature/2025R1/SB674",
+ "title": "Instructs the Water Resources Commission to allow the appropriation of water from the mainstem of the Columbia River at a total rate and duty of two percent of average annual flow.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 674 did not pass",
+ "claims": [
+  {
+   "text": "SB 674 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615979
+   ]
+  },
+  {
+   "text": "SB 674 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658868
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615979,
+    618246,
+    658868
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615979
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615979
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 674&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB674",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8130,
+  "finding_hash": "b74a821fc4206281d92363874c0886704dc5c4d1e1be3f9309c4458a3708a8fb",
+  "evidence_digest": "sha256:5c7a9de02c0985186da874380212ce994c3ba3aa19f46670ab8b689b5d2ad991",
+  "gate_id": "bb2e2e6d019b402abf79a0b8b1c8f16f",
+  "gate_seq": 8131
+ }
+}

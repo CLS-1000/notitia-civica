@@ -1,0 +1,107 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1126",
+ "measure_id": "SB1126",
+ "subject": "or_legislature/2025R1/SB1126",
+ "title": "Requires public elementary school students to be provided with recess time each day.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1126 did not pass",
+ "claims": [
+  {
+   "text": "SB 1126 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624836
+   ]
+  },
+  {
+   "text": "SB 1126 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659223
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624836,
+    625748,
+    632809,
+    636222,
+    659223
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624836
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624836
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632809
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636222
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659223
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1126&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1126",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9486,
+  "finding_hash": "34c327ca1c2f56d012d32e54489d869e8b9bc26531c36fa8e3481822cc6c0974",
+  "evidence_digest": "sha256:6037b8b6a57415509ec259755f0251eb2a774fbc61c9ca0761cef3246ad26d81",
+  "gate_id": "34769f0ef0454f67a98b2a074d8ce41d",
+  "gate_seq": 9487
+ }
+}

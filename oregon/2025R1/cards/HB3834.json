@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3834",
+ "measure_id": "HB3834",
+ "subject": "or_legislature/2025R1/HB3834",
+ "title": "Directs the Oregon Department of Administrative Services to establish a program to provide reinsurance against the risk of economic loss for insurers that issue policies of insurance against damage or loss caused by wildlife.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3834 did not pass",
+ "claims": [
+  {
+   "text": "HB 3834 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625010
+   ]
+  },
+  {
+   "text": "HB 3834 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660539
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625010,
+    626419,
+    660539
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625010
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625010
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3834&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3834",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5499,
+  "finding_hash": "a358bc69903151c825d8adddfcde296ccf03322aa0483358941936451528455e",
+  "evidence_digest": "sha256:fa7ac6ec4237f703b867661530d6954a8806b6fec18e1592c4eed75ec88b556e",
+  "gate_id": "0ab538f958304faf98114a9f261c4add",
+  "gate_seq": 5500
+ }
+}

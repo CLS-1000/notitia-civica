@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2291",
+ "measure_id": "HB2291",
+ "subject": "or_legislature/2025R1/HB2291",
+ "title": "Appropriates moneys to establish a revolving grant program for organizers of festivals and other public events at Tom McCall Waterfront Park in Portland.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2291 did not pass",
+ "claims": [
+  {
+   "text": "HB 2291 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614255
+   ]
+  },
+  {
+   "text": "HB 2291 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659829
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614255,
+    616464,
+    634564,
+    639168,
+    640834,
+    640835,
+    659829
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614255
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614255
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    634564
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639168
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640834
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2291&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2291",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 870,
+  "finding_hash": "a7ca78d5613e4f518bd39d625380e01d9e936cd40aec8c4f0da8aa8b7de88dfc",
+  "evidence_digest": "sha256:46414fb41ee3eca72a0128096dc15147b5ad68375973b5ab7135549955a5c07b",
+  "gate_id": "daa8e69eb48f4442a7bb613d59a85522",
+  "gate_seq": 871
+ }
+}

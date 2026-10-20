@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 325",
+ "measure_id": "SB325",
+ "subject": "or_legislature/2025R1/SB325",
+ "title": "Requires the Legislative and Policy Research Director to cause to be studied the accuracy of fiscal impact statements that are submitted by school districts to the Legislative Fiscal Office.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 325 did not pass",
+ "claims": [
+  {
+   "text": "SB 325 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615630
+   ]
+  },
+  {
+   "text": "SB 325 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658712
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615630,
+    617897,
+    658712
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615630
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615630
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 325&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB325",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7083,
+  "finding_hash": "8d89b4e10f97c83643bd201fc07d66a9e9543b24771eb250de9bcae2afa21524",
+  "evidence_digest": "sha256:910d6d07bc3c610a230f6c454ae1dd022c05689a20bca5f0dc86b343165578cc",
+  "gate_id": "ebe5349f463d483bbfebe8e071ba0e0b",
+  "gate_seq": 7084
+ }
+}

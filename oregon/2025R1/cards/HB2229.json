@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2229",
+ "measure_id": "HB2229",
+ "subject": "or_legislature/2025R1/HB2229",
+ "title": "Extends the term of a contract entered into between the Oregon Health Authority and a coordinated care organization to 10 years and allows the authority to reevaluate a contract after the initial five years.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2229 did not pass",
+ "claims": [
+  {
+   "text": "HB 2229 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614193
+   ]
+  },
+  {
+   "text": "HB 2229 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660235
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614193,
+    616402,
+    660235
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614193
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614193
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2229&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2229",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 684,
+  "finding_hash": "193d676c0690d692e36e9794d2fe3ad0af7e9a06b18d57938c3731e5bf11dd5d",
+  "evidence_digest": "sha256:da2a0fbffb9d1cb8034340e06e5f00bf30dd3ce776d53814e4de1c47b6a39fb8",
+  "gate_id": "a84456891be14e2b9ce3e5c23ad0d862",
+  "gate_seq": 685
+ }
+}

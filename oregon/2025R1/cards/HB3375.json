@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3375",
+ "measure_id": "HB3375",
+ "subject": "or_legislature/2025R1/HB3375",
+ "title": "Directs the Alcohol and Drug Policy Commission to inventory and assess existing primary prevention programs and youth substance use screening, intervention and referral programs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3375 did not pass",
+ "claims": [
+  {
+   "text": "HB 3375 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619426
+   ]
+  },
+  {
+   "text": "HB 3375 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660729
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619426,
+    619798,
+    623245,
+    623700,
+    623701,
+    660729
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619426
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619426
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    623245
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    623700
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3375&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3375",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4122,
+  "finding_hash": "674e90e261ec77630699268669a09a7ec68568888b4fe33a1c6b89cff12b7dde",
+  "evidence_digest": "sha256:3a60b5ee72174ecb9c90ef21fc78ce1b28a861c151faaed57969a1de53deb826",
+  "gate_id": "4ace108b26af4d7e9621cfb3a379561f",
+  "gate_seq": 4123
+ }
+}

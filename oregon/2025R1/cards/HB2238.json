@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2238",
+ "measure_id": "HB2238",
+ "subject": "or_legislature/2025R1/HB2238",
+ "title": "Extends the term of a contract entered into between the Oregon Health Authority and a coordinated care organization to 10 years and allows the authority to reevaluate a contract after the initial five years.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2238 did not pass",
+ "claims": [
+  {
+   "text": "HB 2238 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614202
+   ]
+  },
+  {
+   "text": "HB 2238 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660243
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614202,
+    616411,
+    660243
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614202
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614202
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2238&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2238",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 711,
+  "finding_hash": "f104c43185efe0a7823b30f45ef46f318099786738f5d009618c42821e3d2925",
+  "evidence_digest": "sha256:e0eea34e7153d2bc471144f177cbbb16b0b64069a68bab4a5d111225b53ac4a7",
+  "gate_id": "583f9d45b24c492b9ba7a2531bb76cbf",
+  "gate_seq": 712
+ }
+}

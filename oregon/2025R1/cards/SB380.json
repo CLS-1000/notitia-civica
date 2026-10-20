@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 380",
+ "measure_id": "SB380",
+ "subject": "or_legislature/2025R1/SB380",
+ "title": "Provides for an additional exemption against Oregon estate tax.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 380 did not pass",
+ "claims": [
+  {
+   "text": "SB 380 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615685
+   ]
+  },
+  {
+   "text": "SB 380 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659007
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615685,
+    617952,
+    622022,
+    659007
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615685
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615685
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622022
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659007
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 380&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB380",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7248,
+  "finding_hash": "0b97c7ea2f4cd113abb6ed291524bed6e605147b5d7dfcb77cb31daa9b7b1b8f",
+  "evidence_digest": "sha256:a9b1d2df0091da6b3934f45e38ca2a64c8971ff4519128ada72d2e17b5d3ad42",
+  "gate_id": "84d272c3d8064d0d81ac83dd72186bb7",
+  "gate_seq": 7249
+ }
+}

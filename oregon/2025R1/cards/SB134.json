@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 134",
+ "measure_id": "SB134",
+ "subject": "or_legislature/2025R1/SB134",
+ "title": "Establishes the right of a resident of a long term care facility, residential care facility or adult foster home to use an electronic monitoring device in the resident's room or private living unit.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 134 did not pass",
+ "claims": [
+  {
+   "text": "SB 134 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615439
+   ]
+  },
+  {
+   "text": "SB 134 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659477
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615439,
+    617706,
+    625964,
+    659477
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615439
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615439
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625964
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659477
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 134&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB134",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6510,
+  "finding_hash": "81342091e0e419ecd589bc2bf883e29620a5582f8591dd3c59d17c785261147e",
+  "evidence_digest": "sha256:a9e9008cb1bff7440abe24aad015126f33b8113747aebebe913af0c67730a4de",
+  "gate_id": "df2ee190e52f4c6c9d0a9b529eff646c",
+  "gate_seq": 6511
+ }
+}

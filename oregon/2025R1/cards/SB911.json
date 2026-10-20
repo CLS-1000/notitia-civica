@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "SB 911",
+ "measure_id": "SB911",
+ "subject": "or_legislature/2025R1/SB911",
+ "title": "Requires the Department of Human Services to adopt a methodology for payments made to providers of independent living transition services provided to foster children.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 911 did not pass",
+ "claims": [
+  {
+   "text": "SB 911 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618687
+   ]
+  },
+  {
+   "text": "SB 911 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659126
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618687,
+    618858,
+    623426,
+    638729,
+    639600,
+    641827,
+    641828,
+    659126
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618687
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618687
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623426
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638729
+   ]
+  },
+  {
+   "date": "2025-04-18",
+   "when": "April 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641827
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 911&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB911",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8841,
+  "finding_hash": "98b8f62d4321d9b0c7a65e47e7b087f3f8b4164e79d42143f5b44692308a0ab8",
+  "evidence_digest": "sha256:3c2f1ea89f00dfc32f9e5c999f1ef73e8beb7a4b2919ce0124801b2a67d29b71",
+  "gate_id": "3823312ada0e4e18975ab3211a6f98c7",
+  "gate_seq": 8842
+ }
+}

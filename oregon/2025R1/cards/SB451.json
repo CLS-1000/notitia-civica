@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 451",
+ "measure_id": "SB451",
+ "subject": "or_legislature/2025R1/SB451",
+ "title": "Prohibits cost-sharing on certain health insurance coverage of cervical cancer screenings and follow-up examinations.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 451 did not pass",
+ "claims": [
+  {
+   "text": "SB 451 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615756
+   ]
+  },
+  {
+   "text": "SB 451 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659080
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615756,
+    618023,
+    624570,
+    627896,
+    633144,
+    633145,
+    659080
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615756
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615756
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624570
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    627896
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    633144
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 451&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB451",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7461,
+  "finding_hash": "5ce93f073b5cf88e4e1a3151ce3d4a7133652075d566d382529b48360a2815de",
+  "evidence_digest": "sha256:73c463a36ab6f9d59d4b7a23e2f5c50e5692e127fd68222ed7f9a0c0be8f9f6a",
+  "gate_id": "c7855b2a497e4e46b7626d04d9285d18",
+  "gate_seq": 7462
+ }
+}

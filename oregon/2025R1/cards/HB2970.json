@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2970",
+ "measure_id": "HB2970",
+ "subject": "or_legislature/2025R1/HB2970",
+ "title": "Prohibits a person from using dogs to hunt or pursue lynx or bobcats.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2970 did not pass",
+ "claims": [
+  {
+   "text": "HB 2970 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614934
+   ]
+  },
+  {
+   "text": "HB 2970 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661231
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614934,
+    617143,
+    661231
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614934
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614934
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2970&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2970",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2907,
+  "finding_hash": "739ad8620a881a0b9cd77d39e361a678869a0346d0e2bbddbb9c77b30f33d01e",
+  "evidence_digest": "sha256:06c1d5712fc03aa4a6b27a4ef0b13f30ffe6ffef25b9e5a9c346d91c267ad89e",
+  "gate_id": "cda760f49cce4d49844f9c23bce840d8",
+  "gate_seq": 2908
+ }
+}

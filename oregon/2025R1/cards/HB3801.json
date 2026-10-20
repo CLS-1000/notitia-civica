@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3801",
+ "measure_id": "HB3801",
+ "subject": "or_legislature/2025R1/HB3801",
+ "title": "Makes certain changes related to voluntary agreements among ground water users.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3801 did not pass",
+ "claims": [
+  {
+   "text": "HB 3801 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624977
+   ]
+  },
+  {
+   "text": "HB 3801 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661367
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624977,
+    626386,
+    661367
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624977
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624977
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3801&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3801",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5400,
+  "finding_hash": "e98ea6a42c868f6ed6b468b7aa4b9d1b645174067a6fb7ce157b16e3c93ef2c0",
+  "evidence_digest": "sha256:e8f5849cb86c2924730e1ad94109a7ca19221489bff1e8e3a8ea8214b816f2fc",
+  "gate_id": "650b5961e6f04416a42c39700353e56f",
+  "gate_seq": 5401
+ }
+}

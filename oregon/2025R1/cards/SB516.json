@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 516",
+ "measure_id": "SB516",
+ "subject": "or_legislature/2025R1/SB516",
+ "title": "Appropriates moneys to the State Department of Agriculture for purposes related to a program of state inspection for the processing and sale of meat products from nonamenable species.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 516 did not pass",
+ "claims": [
+  {
+   "text": "SB 516 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615821
+   ]
+  },
+  {
+   "text": "SB 516 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659353
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615821,
+    618088,
+    659353
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615821
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615821
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 516&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB516",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7656,
+  "finding_hash": "cb48819f70d6810012164610c2fb52f77f16660b1185b1ce0a58d89446837601",
+  "evidence_digest": "sha256:76bd53d694beacd167cb4dfb0e4e833e0768dac8c854a9703a9a7808215eda31",
+  "gate_id": "0e4ac4f7ce7b40618d62253d8401decf",
+  "gate_seq": 7657
+ }
+}

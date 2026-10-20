@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 22",
+ "measure_id": "SB22",
+ "subject": "or_legislature/2025R1/SB22",
+ "title": "Requires the Department of Consumer and Business Services to study affordability in health care.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 22 did not pass",
+ "claims": [
+  {
+   "text": "SB 22 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615327
+   ]
+  },
+  {
+   "text": "SB 22 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658963
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615327,
+    617594,
+    658963
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615327
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615327
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 22&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB22",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6174,
+  "finding_hash": "9c5d2d859262899e756faf4a39c2a1970698cfd2259efd7128a10bfa85b8e213",
+  "evidence_digest": "sha256:5cd4a4d35c03d35039bc2d53beadfe157be93f6eda175a1e0ad990fea299335b",
+  "gate_id": "c47265c37c5d44fc99a703ca164103ac",
+  "gate_seq": 6175
+ }
+}

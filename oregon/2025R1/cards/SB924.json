@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 924",
+ "measure_id": "SB924",
+ "subject": "or_legislature/2025R1/SB924",
+ "title": "Requires the Department of State Police to study ways to expedite forensic testing of controlled substances.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 924 did not pass",
+ "claims": [
+  {
+   "text": "SB 924 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618700
+   ]
+  },
+  {
+   "text": "SB 924 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659269
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618700,
+    618871,
+    659269
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618700
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618700
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 924&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB924",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8880,
+  "finding_hash": "518e14900750cec88bec24d1602ad29be7368eb794c764351b379fb6853ec81e",
+  "evidence_digest": "sha256:822d0fe932b2dbea93af9af215878a5bd458f9bcbe1de4c9909ad219e2b3f3c7",
+  "gate_id": "e90bb3d21c8b4d16a899e8f84c29ab7e",
+  "gate_seq": 8881
+ }
+}

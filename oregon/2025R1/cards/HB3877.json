@@ -1,0 +1,73 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3877",
+ "measure_id": "HB3877",
+ "subject": "or_legislature/2025R1/HB3877",
+ "title": "Requires the Department of Consumer and Business Services to establish a rental licensing program for the annual licensing of dwelling units for rental or vacation occupancy.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3877 did not pass",
+ "claims": [
+  {
+   "text": "HB 3877 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625053
+   ]
+  },
+  {
+   "text": "HB 3877 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661081
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625053,
+    626462,
+    642080,
+    661081
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625053
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625053
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3877&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3877",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5628,
+  "finding_hash": "7e4a8236239cdf6e3c506236172463c1a8e8c0d02018a91f5791094d1a81f19e",
+  "evidence_digest": "sha256:9566a3f9022212fd8f650f25eb77cf128ffc7b4a51509225d9e1bf6130d1937b",
+  "gate_id": "e204e28f50444c86b042cf718fdc535e",
+  "gate_seq": 5629
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 445",
+ "measure_id": "SB445",
+ "subject": "or_legislature/2025R1/SB445",
+ "title": "Authorizes the State Accident Insurance Fund Corporation to form or acquire subsidiaries to perform any function the corporation may delegate under law.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 445 did not pass",
+ "claims": [
+  {
+   "text": "SB 445 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615750
+   ]
+  },
+  {
+   "text": "SB 445 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659075
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615750,
+    618017,
+    659075
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615750
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615750
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 445&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB445",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7443,
+  "finding_hash": "a17e770ba2a4c761c32bcc31bde977f288ceea79559b402df45cc776ad01832f",
+  "evidence_digest": "sha256:b40e000b4158c8208e418fa7eec43abb085366a79fbb92ff45a06b57e2f8c19b",
+  "gate_id": "1ea8d2d536144419be2c51a579ff5d41",
+  "gate_seq": 7444
+ }
+}

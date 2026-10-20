@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 257",
+ "measure_id": "SB257",
+ "subject": "or_legislature/2025R1/SB257",
+ "title": "Directs the Psychiatric Security Review Board to study progress in developing a restorative justice program, and to provide the results of the study to the appropriate interim committees of the Legislative Assembly no later than December 31, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 257 did not pass",
+ "claims": [
+  {
+   "text": "SB 257 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615562
+   ]
+  },
+  {
+   "text": "SB 257 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658653
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615562,
+    617829,
+    658653
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615562
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615562
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 257&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB257",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6879,
+  "finding_hash": "60415de967ca63c1e1cd807ffd386245482f23958e746d376cfe6720ff005421",
+  "evidence_digest": "sha256:b69d753ac5c255ddd6b1f160d3fbe864ace03f0f4a6d1311d63a6bf4b0e9270f",
+  "gate_id": "89c7976e13974497aa12d617c1ff28a7",
+  "gate_seq": 6880
+ }
+}

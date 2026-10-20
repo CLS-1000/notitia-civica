@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3658",
+ "measure_id": "HB3658",
+ "subject": "or_legislature/2025R1/HB3658",
+ "title": "Modifies provisions regarding the appointment of counsel for parents or children in juvenile dependency proceedings and contested adoption proceedings.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3658 did not pass",
+ "claims": [
+  {
+   "text": "HB 3658 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624342
+   ]
+  },
+  {
+   "text": "HB 3658 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660407
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624342,
+    625203,
+    660407
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624342
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624342
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3658&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3658",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4971,
+  "finding_hash": "6b3960c5bfd3906e8f9caf844f81fac1b4e7c2f1b29f722471449a4ba6cb4587",
+  "evidence_digest": "sha256:3a9a49f3e5d3f387af81c6993dabef158e6bf27320cdaed272fb73edca90baf8",
+  "gate_id": "813c3bd6c6b349feb166c97eb75d6771",
+  "gate_seq": 4972
+ }
+}

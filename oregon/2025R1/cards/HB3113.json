@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3113",
+ "measure_id": "HB3113",
+ "subject": "or_legislature/2025R1/HB3113",
+ "title": "Creates a state and federal grants coordinator position in the Regional Solutions Program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3113 did not pass",
+ "claims": [
+  {
+   "text": "HB 3113 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615077
+   ]
+  },
+  {
+   "text": "HB 3113 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660004
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615077,
+    617286,
+    660004
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615077
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615077
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3113&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3113",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3336,
+  "finding_hash": "028f9684e2315911e11fd33593d8ed5a4c71cbbdc4a6e92717d692ff0fe33298",
+  "evidence_digest": "sha256:c287d5707dc5647bda19416574e46ba3ddb50fe3f00a3add89e56d996fcc9101",
+  "gate_id": "4852f1ff70d9439a9d8b2fd893cd5a65",
+  "gate_seq": 3337
+ }
+}

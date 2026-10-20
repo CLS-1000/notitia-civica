@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2879",
+ "measure_id": "HB2879",
+ "subject": "or_legislature/2025R1/HB2879",
+ "title": "Establishes the Task Force on Seismic Event Preparation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2879 did not pass",
+ "claims": [
+  {
+   "text": "HB 2879 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614843
+   ]
+  },
+  {
+   "text": "HB 2879 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661188
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614843,
+    617052,
+    661188
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614843
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614843
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2879&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2879",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2634,
+  "finding_hash": "7f0323e4f3a1804f4ab816dd54d2b83fec66074471c8df29e2174c31466410fa",
+  "evidence_digest": "sha256:f5a9edb047240fb93ac5939bad7de9e52168dd2d5739344d662832a4df108871",
+  "gate_id": "14b8d73aef4e456a8da55b443d0e8ec1",
+  "gate_seq": 2635
+ }
+}

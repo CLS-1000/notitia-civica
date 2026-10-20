@@ -1,0 +1,80 @@
+{
+ "session": "2025R1",
+ "measure": "HJR 8",
+ "measure_id": "HJR8",
+ "subject": "or_legislature/2025R1/HJR8",
+ "title": "Proposes an amendment to the Oregon Constitution requiring the Legislative Assembly to create an administrative authority for funding public safety in this state. Directs the Legislative Assembly to impose a state property tax to fund public safety in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJR 8 did not pass",
+ "claims": [
+  {
+   "text": "HJR 8 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613920
+   ]
+  },
+  {
+   "text": "HJR 8 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660503
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613920,
+    618969,
+    660503
+   ]
+  },
+  {
+   "text": "HJR 8 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    660503
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613920
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613920
+   ]
+  }
+ ],
+ "topics": [
+  "ballot"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJR' and MeasureNumber eq 8&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJR8",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9933,
+  "finding_hash": "7ca0fb1e474087da5669d49746a502bfb0140d2678bcdaf72b1c2092cca1394c",
+  "evidence_digest": "sha256:f863ca1619a2ec4fa8c23b45c97f6ca7d1c47eeb233a61a9643fe28ecff34be6",
+  "gate_id": "e2a76c33f7a54903983d3862fd9a52e3",
+  "gate_seq": 9934
+ }
+}

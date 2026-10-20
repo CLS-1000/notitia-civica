@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2483",
+ "measure_id": "HB2483",
+ "subject": "or_legislature/2025R1/HB2483",
+ "title": "Requires the Judicial Department to study options for simplifying child custody proceedings in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2483 did not pass",
+ "claims": [
+  {
+   "text": "HB 2483 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614447
+   ]
+  },
+  {
+   "text": "HB 2483 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661449
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614447,
+    616656,
+    661449
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614447
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614447
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2483&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2483",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1446,
+  "finding_hash": "9e313b29b2de97d44f5986c8b5fef4a109f48ad15c7a3ba9c62c05dcf4f8fedd",
+  "evidence_digest": "sha256:aca7610b40b1f898fe0590040266881a35a8908f509ff72c78ba83239768a5a3",
+  "gate_id": "ed8c9f1ab5474f8ba1760b939c099a8b",
+  "gate_seq": 1447
+ }
+}

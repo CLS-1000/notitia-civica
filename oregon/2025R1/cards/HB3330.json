@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3330",
+ "measure_id": "HB3330",
+ "subject": "or_legislature/2025R1/HB3330",
+ "title": "Provides protections for a person who refuses to participate in a procedure related to abortion, physician-assisted suicide or gender-affirming treatment if the refusal is based on a person's ethical, moral or religious convictions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3330 did not pass",
+ "claims": [
+  {
+   "text": "HB 3330 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618801
+   ]
+  },
+  {
+   "text": "HB 3330 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661320
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618801,
+    619199,
+    661320
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618801
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618801
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3330&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3330",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3987,
+  "finding_hash": "04e2b786cab8046c6eaa25ceec04e3e61db298a8fdc79fa083ecbbbcdd6b92f1",
+  "evidence_digest": "sha256:7994ab007998c1af8957dec7d52a79977d7404535d43be2b7f8a8d6bd94f2bae",
+  "gate_id": "f655c84124c447009ea76ff61ff7759b",
+  "gate_seq": 3988
+ }
+}

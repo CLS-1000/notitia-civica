@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 206",
+ "measure_id": "SB206",
+ "subject": "or_legislature/2025R1/SB206",
+ "title": "Requires the Judicial Department to study options for simplifying estate administration proceedings in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 206 did not pass",
+ "claims": [
+  {
+   "text": "SB 206 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615511
+   ]
+  },
+  {
+   "text": "SB 206 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659416
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615511,
+    617778,
+    659416
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615511
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615511
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 206&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB206",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6726,
+  "finding_hash": "11e543fbcd9a0775f999c3d64370a8aeab524bddd5e3e8f3a3742419ebbf8208",
+  "evidence_digest": "sha256:5275267851c9d0d057df452a4f227627974361abeb0bc6d7e48b5cd9e8e21c94",
+  "gate_id": "cd932141f2d7449cb2cb26078e77afec",
+  "gate_seq": 6727
+ }
+}

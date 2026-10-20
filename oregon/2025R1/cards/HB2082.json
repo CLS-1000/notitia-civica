@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2082",
+ "measure_id": "HB2082",
+ "subject": "or_legislature/2025R1/HB2082",
+ "title": "Requires the Legislative Revenue Officer to study the funding of the assessment and taxation functions of the property tax system in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2082 did not pass",
+ "claims": [
+  {
+   "text": "HB 2082 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614046
+   ]
+  },
+  {
+   "text": "HB 2082 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660621
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614046,
+    616255,
+    660621
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614046
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614046
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2082&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2082",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 243,
+  "finding_hash": "eb9354c3df717c5b5a6ba4cb8bc3a3353f77995428160c9295536ab831178a13",
+  "evidence_digest": "sha256:73d38047cffb896842d2cbb171e3bb3e50e0b6e3f6adbc707b6ff0ae7c89eeeb",
+  "gate_id": "e66f83c1afea4e44acc8d90ea8d009e8",
+  "gate_seq": 244
+ }
+}

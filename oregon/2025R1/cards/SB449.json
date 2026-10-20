@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 449",
+ "measure_id": "SB449",
+ "subject": "or_legislature/2025R1/SB449",
+ "title": "Establishes the Task Force on Health Care Training Partnerships and directs the task force to report to an interim committee of the Legislative Assembly related to health care no later than December 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 449 did not pass",
+ "claims": [
+  {
+   "text": "SB 449 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615754
+   ]
+  },
+  {
+   "text": "SB 449 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659079
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615754,
+    618021,
+    659079
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615754
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615754
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 449&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB449",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7455,
+  "finding_hash": "0ad015581f7f99bd0aaac54d60659c5767feee5cf6949ad261156fc071eb17b7",
+  "evidence_digest": "sha256:308b4e103bd85d629a420b9c58679b86f3b7c69342984fd0225b6eed75d16c05",
+  "gate_id": "d7038d9cedc5466bae28c7e7841bf8d0",
+  "gate_seq": 7456
+ }
+}

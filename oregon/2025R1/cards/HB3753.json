@@ -1,0 +1,73 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3753",
+ "measure_id": "HB3753",
+ "subject": "or_legislature/2025R1/HB3753",
+ "title": "Increases the Oregon standard deduction allowed for personal income taxpayers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3753 did not pass",
+ "claims": [
+  {
+   "text": "HB 3753 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624929
+   ]
+  },
+  {
+   "text": "HB 3753 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660466
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624929,
+    626338,
+    640732,
+    660466
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624929
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624929
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3753&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3753",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5256,
+  "finding_hash": "5fad82aae5871d445886e60507aa5877ccaa6b512787894a854b227b7d418aae",
+  "evidence_digest": "sha256:b5a3179282a09010c820b4f9f2296941521bdcd89921521f1473e251f52c0789",
+  "gate_id": "6ec39759020848b1b6108870ad96f9bf",
+  "gate_seq": 5257
+ }
+}

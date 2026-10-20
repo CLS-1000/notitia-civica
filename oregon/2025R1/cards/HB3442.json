@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3442",
+ "measure_id": "HB3442",
+ "subject": "or_legislature/2025R1/HB3442",
+ "title": "Exempts from the requirement to obtain a money transmission license a person that assists with or facilitates payment for goods or services under the terms of a contract with a payee if the person does not engage in money transmission and if payment to the person satisfies or otherwise extinguishes a payor's obligation to the payee.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3442 did not pass",
+ "claims": [
+  {
+   "text": "HB 3442 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619493
+   ]
+  },
+  {
+   "text": "HB 3442 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660802
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619493,
+    619865,
+    660802
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619493
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619493
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3442&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3442",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4323,
+  "finding_hash": "19cde129009d1f79be14163286e6edbb3fa59e337c603e3c50a1b35b516a75bb",
+  "evidence_digest": "sha256:c4d2453247f175e60454ae56ebca82fbc5d218d24bca4c07d080b40624c06cb3",
+  "gate_id": "9bef3021141047bcacb8019bfe9513a1",
+  "gate_seq": 4324
+ }
+}

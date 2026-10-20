@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 173",
+ "measure_id": "SB173",
+ "subject": "or_legislature/2025R1/SB173",
+ "title": "Requires the Oregon Health Authority to study behavioral health.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 173 did not pass",
+ "claims": [
+  {
+   "text": "SB 173 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615478
+   ]
+  },
+  {
+   "text": "SB 173 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659501
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615478,
+    617745,
+    659501
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615478
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615478
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 173&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB173",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6627,
+  "finding_hash": "bea14dda792023152368640da46fae1d04a3cb5490ea857ba41d1707165e95ca",
+  "evidence_digest": "sha256:ccf9bd9877749f26fa41ab5a8efa4d3b02864262c0ff3ac9e5f3b994ddd4028f",
+  "gate_id": "a891b6e5ee3640f9858c1989610348fb",
+  "gate_seq": 6628
+ }
+}

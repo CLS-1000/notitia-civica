@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2405",
+ "measure_id": "HB2405",
+ "subject": "or_legislature/2025R1/HB2405",
+ "title": "Appropriates moneys from the General Fund to the Higher Education Coordinating Commission for distribution to Eastern Oregon University to provide university degrees to adults in custody at some correctional facilities in eastern Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2405 did not pass",
+ "claims": [
+  {
+   "text": "HB 2405 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614369
+   ]
+  },
+  {
+   "text": "HB 2405 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659878
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614369,
+    616578,
+    625939,
+    636879,
+    638733,
+    640413,
+    640414,
+    659878
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614369
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614369
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625939
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638733
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640413
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2405&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2405",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1212,
+  "finding_hash": "ccb509db251507eadd93e73886354e8883f3db2d5732311da9d6ef74412b651b",
+  "evidence_digest": "sha256:a17fe1d67e0b9b5d2c780e0a1aeb8fd9334f2df94a963d8fc970cd2c3803539c",
+  "gate_id": "a3a9d771164a4033b1b485afe5947a38",
+  "gate_seq": 1213
+ }
+}

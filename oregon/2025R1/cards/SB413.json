@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 413",
+ "measure_id": "SB413",
+ "subject": "or_legislature/2025R1/SB413",
+ "title": "Directs the governing board of public universities in this state to adopt a policy that limits the enrollment of students who have not established residency in this state to 35 percent of the total student population at that university.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 413 did not pass",
+ "claims": [
+  {
+   "text": "SB 413 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615718
+   ]
+  },
+  {
+   "text": "SB 413 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659040
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615718,
+    617985,
+    659040
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615718
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615718
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 413&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB413",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7347,
+  "finding_hash": "2e5659a5c09a89c7365bb46c40accfaf351fee841e193a018fcbc07b8ddb09c5",
+  "evidence_digest": "sha256:916fb4a4a71548df64f6e78b219924991e8e05f8d66771abeff16dddeefbbf28",
+  "gate_id": "b01f72ade3b24b478327f596cc24e671",
+  "gate_seq": 7348
+ }
+}

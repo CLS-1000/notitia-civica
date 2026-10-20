@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "SB 811",
+ "measure_id": "SB811",
+ "subject": "or_legislature/2025R1/SB811",
+ "title": "Adds new requirements for obtaining a license to operate a residential facility or adult foster home.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 811 did not pass",
+ "claims": [
+  {
+   "text": "SB 811 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616115
+   ]
+  },
+  {
+   "text": "SB 811 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658937
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616115,
+    618382,
+    629297,
+    635243,
+    658937
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616115
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616115
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629297
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658937
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 811&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB811",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8541,
+  "finding_hash": "462ac053daf9565b1a55db78bbacfadc5fdb0b42e5edc583c8c1bff6261dff3d",
+  "evidence_digest": "sha256:ce52c1c0caf4981b17dd5515ed594895cd461734c9ed82d47c8a17d4c2b6ecde",
+  "gate_id": "ebde34074c274649a5be763c44317bd0",
+  "gate_seq": 8542
+ }
+}

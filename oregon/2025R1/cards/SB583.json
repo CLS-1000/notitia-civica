@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 583",
+ "measure_id": "SB583",
+ "subject": "or_legislature/2025R1/SB583",
+ "title": "Establishes the State Public Bank Task Force.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 583 did not pass",
+ "claims": [
+  {
+   "text": "SB 583 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615888
+   ]
+  },
+  {
+   "text": "SB 583 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658773
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615888,
+    618155,
+    658773
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615888
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615888
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 583&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB583",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7857,
+  "finding_hash": "36144792806a5668d73040b0c1be7c5d30eefb046282a281ec08e9dbeda37833",
+  "evidence_digest": "sha256:d22651894cfe7b248fa696450f26e4a96afcdd59de5df564af7249906fb1e032",
+  "gate_id": "5db400064b6b4f4ea2ebc71375aca87a",
+  "gate_seq": 7858
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2317",
+ "measure_id": "HB2317",
+ "subject": "or_legislature/2025R1/HB2317",
+ "title": "Requires the governing body of a coordinated care organization to include at least one representative of a federally qualified health center and at least one senior public health official.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2317 did not pass",
+ "claims": [
+  {
+   "text": "HB 2317 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614281
+   ]
+  },
+  {
+   "text": "HB 2317 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659850
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614281,
+    616490,
+    626514,
+    659850
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614281
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614281
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626514
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659850
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2317&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2317",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 948,
+  "finding_hash": "c026f4caf1074a11d89f8b04f33f6a0fcf4267c7fd51a5748082df7de7c9feb8",
+  "evidence_digest": "sha256:05aa9647d398abb35915b1a8bbc0a5eb3e9e5daa4710e584e1b6987f0138c7ae",
+  "gate_id": "b512b5574d19418390f2f08765fbe958",
+  "gate_seq": 949
+ }
+}

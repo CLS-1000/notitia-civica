@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1104",
+ "measure_id": "SB1104",
+ "subject": "or_legislature/2025R1/SB1104",
+ "title": "Increases the standard of proof necessary to retain a child in protective custody after removal from the child's parent or guardian.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1104 did not pass",
+ "claims": [
+  {
+   "text": "SB 1104 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624814
+   ]
+  },
+  {
+   "text": "SB 1104 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659207
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624814,
+    625726,
+    659207
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624814
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624814
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1104&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1104",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9420,
+  "finding_hash": "129244b77a1882b202357455cd133c7223f10992f567cdb1f849e4faad6a96c2",
+  "evidence_digest": "sha256:665cd313445a6750284404fd0ed36c0352634a116c2de2ad8387f236d857028f",
+  "gate_id": "e969ad1fd780403f834ff23c86426894",
+  "gate_seq": 9421
+ }
+}

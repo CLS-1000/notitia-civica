@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3343",
+ "measure_id": "HB3343",
+ "subject": "or_legislature/2025R1/HB3343",
+ "title": "Requires the State Department of Fish and Wildlife to study natural resources.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3343 did not pass",
+ "claims": [
+  {
+   "text": "HB 3343 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619394
+   ]
+  },
+  {
+   "text": "HB 3343 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660322
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619394,
+    619766,
+    660322
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619394
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619394
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3343&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3343",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4026,
+  "finding_hash": "825f9d043bcdeec542c7d26b604c8e284f5385bd77b99c2b3f9b02164221080f",
+  "evidence_digest": "sha256:fea2a59cbda5fc87dc274c316456f14059871fe702525a5012ef37ee04ad3332",
+  "gate_id": "79efa913fe45475b9ac406ec7db58048",
+  "gate_seq": 4027
+ }
+}

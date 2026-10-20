@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2404",
+ "measure_id": "HB2404",
+ "subject": "or_legislature/2025R1/HB2404",
+ "title": "Requires the State Board of Education, in coordination with Eastern Oregon University, to establish a pilot program to provide resources and support for students to access post-secondary education opportunities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2404 did not pass",
+ "claims": [
+  {
+   "text": "HB 2404 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614368
+   ]
+  },
+  {
+   "text": "HB 2404 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659877
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614368,
+    616577,
+    623540,
+    659877
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614368
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614368
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623540
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659877
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2404&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2404",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1209,
+  "finding_hash": "bdad0184c111a03fe0e3c4e7af78839fe54f373e3d8dbec244b07371fe906162",
+  "evidence_digest": "sha256:9e978c9beae701926548dee7f1dc0974406ff2160736c0a11314ae8e67fd8f44",
+  "gate_id": "147ef22e5aaf4b73ba8219782f0f22b7",
+  "gate_seq": 1210
+ }
+}

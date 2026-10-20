@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2312",
+ "measure_id": "HB2312",
+ "subject": "or_legislature/2025R1/HB2312",
+ "title": "Establishes the Task Force on Staffing at Correctional Facilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2312 did not pass",
+ "claims": [
+  {
+   "text": "HB 2312 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614276
+   ]
+  },
+  {
+   "text": "HB 2312 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659846
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614276,
+    616485,
+    659846
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614276
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614276
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2312&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2312",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 933,
+  "finding_hash": "786ffa88ad14119220ddccdb7fb90b452e16df249e515b0207745fa26eb3b5f2",
+  "evidence_digest": "sha256:76ab486a56b519105f5b7ef079c7aff18a5733e9c39f376c6938d53a12177889",
+  "gate_id": "d1ad93f63e9a4de5af32eb15dd28ffd4",
+  "gate_seq": 934
+ }
+}

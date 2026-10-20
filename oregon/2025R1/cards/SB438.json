@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 438",
+ "measure_id": "SB438",
+ "subject": "or_legislature/2025R1/SB438",
+ "title": "Allows the owner of property outside an urban growth boundary to site an additional dwelling on the property for occupancy by a relative of the owner.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 438 did not pass",
+ "claims": [
+  {
+   "text": "SB 438 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615743
+   ]
+  },
+  {
+   "text": "SB 438 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659069
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615743,
+    618010,
+    624662,
+    659069
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615743
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615743
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624662
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659069
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 438&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB438",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7422,
+  "finding_hash": "79ef13806888b3548f6a56587121ccc58258af64f343dd32a45a1cc687018eb1",
+  "evidence_digest": "sha256:43ac8cfd92a5eec7e36d46e6a28e6371a6474d4452737319418390b2f7b2f310",
+  "gate_id": "783ac762274a40d792a7ec7b0c8362df",
+  "gate_seq": 7423
+ }
+}

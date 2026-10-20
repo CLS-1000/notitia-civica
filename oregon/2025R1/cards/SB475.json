@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 475",
+ "measure_id": "SB475",
+ "subject": "or_legislature/2025R1/SB475",
+ "title": "Modifies how the overtime cap is calculated for use in calculating the final average salary of members of the Oregon Public Service Retirement Plan.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 475 did not pass",
+ "claims": [
+  {
+   "text": "SB 475 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615780
+   ]
+  },
+  {
+   "text": "SB 475 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659103
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615780,
+    618047,
+    624235,
+    659103
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615780
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615780
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624235
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659103
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 475&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB475",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7533,
+  "finding_hash": "3bc2dce3479498b66dbf7be739d654dc287d775a874b062b02b0649ffe39818a",
+  "evidence_digest": "sha256:324eda21a5120114a043fe3bad6227aace768c97825794f100e5c12732d69336",
+  "gate_id": "718c18e860e64f88aad41a0db35a9e7d",
+  "gate_seq": 7534
+ }
+}

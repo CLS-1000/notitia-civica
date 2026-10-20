@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3077",
+ "measure_id": "HB3077",
+ "subject": "or_legislature/2025R1/HB3077",
+ "title": "Allows local government employees to volunteer to support wildland fire suppression in emergency situations.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3077 did not pass",
+ "claims": [
+  {
+   "text": "HB 3077 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615041
+   ]
+  },
+  {
+   "text": "HB 3077 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660956
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615041,
+    617250,
+    626108,
+    660956
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615041
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615041
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626108
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660956
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3077&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3077",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3228,
+  "finding_hash": "2af7183fcc49aa0729493af720c4aad68212ff5f8baa5828aa13cdcbf3fde784",
+  "evidence_digest": "sha256:adc4171a3b1ff1061d8dfc90af5909ceeea5e6d29d425ae5e855f59a4faa9757",
+  "gate_id": "5713cdc21623495ab50128f2b5cfb490",
+  "gate_seq": 3229
+ }
+}

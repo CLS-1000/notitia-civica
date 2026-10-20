@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2656",
+ "measure_id": "HB2656",
+ "subject": "or_legislature/2025R1/HB2656",
+ "title": "Prohibits the Public Utility Commission, municipal electric utilities, electric cooperatives and people's utility districts from setting a maximum amount of cumulative generating capacity for solar net metering systems that is allowed to be interconnected.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2656 did not pass",
+ "claims": [
+  {
+   "text": "HB 2656 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614620
+   ]
+  },
+  {
+   "text": "HB 2656 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660087
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614620,
+    616829,
+    622257,
+    622836,
+    660087
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614620
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614620
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622836
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660087
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2656&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2656",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1965,
+  "finding_hash": "a6ca589214731eef0089bf5943b4e1679ebd405be3bacd0b1dffcad5c5fa0f2c",
+  "evidence_digest": "sha256:e2f51909876851e208a89bb9604df4dbededca3d1a45b3a5c97e0a25cead517d",
+  "gate_id": "203514cca89044a38c80ed83db7f69c4",
+  "gate_seq": 1966
+ }
+}

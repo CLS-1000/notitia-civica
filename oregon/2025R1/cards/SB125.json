@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "SB 125",
+ "measure_id": "SB125",
+ "subject": "or_legislature/2025R1/SB125",
+ "title": "Phases in an exemption from commercial activity subject to corporate activity tax reimbursements for certain health care services, including care provided to medical assistance recipients and to Medicare recipients.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 125 did not pass",
+ "claims": [
+  {
+   "text": "SB 125 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615430
+   ]
+  },
+  {
+   "text": "SB 125 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659465
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615430,
+    617697,
+    624022,
+    650007,
+    652692,
+    654165,
+    654166,
+    659465
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615430
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615430
+   ]
+  },
+  {
+   "date": "2025-02-24",
+   "when": "February 24, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624022
+   ]
+  },
+  {
+   "date": "2025-06-09",
+   "when": "June 9, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    652692
+   ]
+  },
+  {
+   "date": "2025-06-12",
+   "when": "June 12, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    654165
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 125&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB125",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6483,
+  "finding_hash": "3dd8d47389ee18e2158da4a256c7c4d889e708a053a070fd33c60c094d126c42",
+  "evidence_digest": "sha256:12c43b188b506a2b98375c29c12b87a760ee9fc8276d769e3f2ccad244427441",
+  "gate_id": "fa193fbf42a8406b9c5ee5a4393d29a0",
+  "gate_seq": 6484
+ }
+}

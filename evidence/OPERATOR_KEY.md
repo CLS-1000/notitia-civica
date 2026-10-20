@@ -26,6 +26,19 @@ An anchor is the last sealed record of a pack. If records are deleted from the e
 }
 ```
 
+### civica_2025R1 (Oregon Legislature, Verified — 2025 regular session)
+
+Published at [oregon/2025R1/](https://cls-1000.github.io/notitia-civica/oregon/2025R1/). 3,466 measures, 0 withheld, 0 unverified. Built 2026-10-20 with measure titles; the chain and its verifier ship with the site in `oregon/2025R1/verify/`.
+
+```json
+{
+  "chain_id": "civica.publish",
+  "seq": 10399,
+  "h": "09f48fd428384d7c06931d25809b4e7cf1403450dd5777b80dfcd53872752d5b",
+  "sig": "01755605377279f7b530bfee33f0464b49681dc8118e678844a354f06490d33825d07d9bb815991c3532e7019f1c67552b73c23911ece5defed8d1c93fbfbf0d"
+}
+```
+
 ## Verify
 
 Requires Python 3.11 or later, standard library only. The verifier is `verify.py` in this folder.
@@ -35,6 +48,16 @@ python3 verify.py or_veto_pack_2026-10-01/chain \
   --pubkey c7dbbf86b2e014fad70190276f4e20969743d2fa2bc7c13e48c95fdd91a7d0ad \
   --anchor or_veto_pack_2026-10-01/anchor.json
 ```
+
+For the Oregon site, unzip `oregon/2025R1/verify/chain.zip` and run:
+
+```
+python3 oregon/2025R1/verify/verify.py chain \
+  --pubkey c7dbbf86b2e014fad70190276f4e20969743d2fa2bc7c13e48c95fdd91a7d0ad \
+  --anchor oregon/2025R1/verify/anchor.json
+```
+
+It prints `OK: 10400 records, 1 seals, head 10399`.
 
 Exit code 0 means the pack verifies. Exit code 5 means no key was pinned, which is not a pass.
 

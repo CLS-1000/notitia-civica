@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 329",
+ "measure_id": "SB329",
+ "subject": "or_legislature/2025R1/SB329",
+ "title": "Requires a distributor cooperative to implement a managed system for reusable beverage containers that achieves certain sales and return rates.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 329 did not pass",
+ "claims": [
+  {
+   "text": "SB 329 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615634
+   ]
+  },
+  {
+   "text": "SB 329 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658716
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615634,
+    617901,
+    658716
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615634
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615634
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 329&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB329",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7095,
+  "finding_hash": "a04660b5d7f1f4b86335c3a7c1069e901994e6ef3fc88c20a364b9d4ce1beb29",
+  "evidence_digest": "sha256:f192e3da91260ab79b90c744bd6c774436b6ada446a8d52195b723e97dfe797d",
+  "gate_id": "c6eb60845ce1497e85e18e96f6a43009",
+  "gate_seq": 7096
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3230",
+ "measure_id": "HB3230",
+ "subject": "or_legislature/2025R1/HB3230",
+ "title": "Requires the State Chief Information Officer to contract for an independent assessment of the information technology environment within the executive department, to include recommendations for improving performance, operations and resources.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3230 did not pass",
+ "claims": [
+  {
+   "text": "HB 3230 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615194
+   ]
+  },
+  {
+   "text": "HB 3230 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660182
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615194,
+    617403,
+    627211,
+    641911,
+    634574,
+    634575,
+    660182
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615194
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615194
+   ]
+  },
+  {
+   "date": "2025-03-07",
+   "when": "March 7, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627211
+   ]
+  },
+  {
+   "date": "2025-03-28",
+   "when": "March 28, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    641911
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    634574
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3230&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3230",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3687,
+  "finding_hash": "bd451a3889876ccff646d64b9e5dbe09cfafeefe33df736d5e1ec230e2468021",
+  "evidence_digest": "sha256:37db4ce2560cc9acf85ed8c4a87bc78297b74569e0de7a810301004a5b994ad9",
+  "gate_id": "5428bc47b7d24edea9e4ec0345855a5e",
+  "gate_seq": 3688
+ }
+}

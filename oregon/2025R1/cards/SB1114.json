@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1114",
+ "measure_id": "SB1114",
+ "subject": "or_legislature/2025R1/SB1114",
+ "title": "Limits the total term of commitment and conditional release for certain persons found guilty except for insanity to the sentence the person would have received under the sentencing guidelines or as required by a mandatory minimum sentence.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1114 did not pass",
+ "claims": [
+  {
+   "text": "SB 1114 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624824
+   ]
+  },
+  {
+   "text": "SB 1114 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659215
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624824,
+    625736,
+    632183,
+    659215
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624824
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624824
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632183
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659215
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1114&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1114",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9450,
+  "finding_hash": "3a0ae79c9a8d09018bb64703932681f4c6f3d5c4047e9616805797f894a9bd19",
+  "evidence_digest": "sha256:acb5dde5474fa990f809e720bf94fe6fb1ee692ab5f342bd99e8a11da12255fc",
+  "gate_id": "3483245df43c4dbdb85b21dbf5828712",
+  "gate_seq": 9451
+ }
+}

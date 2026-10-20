@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1131",
+ "measure_id": "SB1131",
+ "subject": "or_legislature/2025R1/SB1131",
+ "title": "Directs the Oregon Department of Administrative Services to award a grant to the Chintimini Wildlife Center.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1131 did not pass",
+ "claims": [
+  {
+   "text": "SB 1131 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624841
+   ]
+  },
+  {
+   "text": "SB 1131 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659227
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624841,
+    625753,
+    630271,
+    659227
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624841
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624841
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    630271
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659227
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1131&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1131",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9501,
+  "finding_hash": "e1d2ef4289a1374bc0efa447a6a47f35786ea0996a107c9c94d0229d76a8b429",
+  "evidence_digest": "sha256:57108b491b1ea16ae0e15c9adbafa0a99b7b4a7dbafbf6b9c75a4cab2ef65563",
+  "gate_id": "10d1a219f8964efaaf459bbc527b2a00",
+  "gate_seq": 9502
+ }
+}

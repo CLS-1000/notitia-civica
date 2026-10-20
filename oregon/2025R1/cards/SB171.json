@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 171",
+ "measure_id": "SB171",
+ "subject": "or_legislature/2025R1/SB171",
+ "title": "Defines \"dangerous to self,\" \"dangerous to others\" and \"serious physical harm\" for the purpose of involuntarily committing a person with mental illness.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 171 did not pass",
+ "claims": [
+  {
+   "text": "SB 171 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615476
+   ]
+  },
+  {
+   "text": "SB 171 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659499
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615476,
+    617743,
+    659499
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615476
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615476
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 171&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB171",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6621,
+  "finding_hash": "22d2031adc9ad0938f649d129a2b0f9bf7ca253f5cef95441b6b4b2c52e54cec",
+  "evidence_digest": "sha256:3054374542429015e83902798d432da6248ec83d6148cc5625e09f4253bdae39",
+  "gate_id": "c34ab8fbc4c84c089856cfb7975112fc",
+  "gate_seq": 6622
+ }
+}

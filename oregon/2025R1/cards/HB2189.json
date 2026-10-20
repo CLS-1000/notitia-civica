@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2189",
+ "measure_id": "HB2189",
+ "subject": "or_legislature/2025R1/HB2189",
+ "title": "Provides that a person shall receive a written warning for a first offense of speeding or running a red light if the conduct was captured by photo radar or photo red light cameras.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2189 did not pass",
+ "claims": [
+  {
+   "text": "HB 2189 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614153
+   ]
+  },
+  {
+   "text": "HB 2189 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661036
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614153,
+    616362,
+    661036
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614153
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614153
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2189&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2189",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 564,
+  "finding_hash": "a23cd0b8e177d72c2ca8719d27a09a3b6d7b43b43ba4545f10034fcd6e2622bc",
+  "evidence_digest": "sha256:f185f6ef3cf8845ecd921b4d5fd9e5f2626122e0f432bf8033dc6687f0d48e97",
+  "gate_id": "6e90a001de944e71a9a2e63ddc2fbfa7",
+  "gate_seq": 565
+ }
+}

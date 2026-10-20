@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2132",
+ "measure_id": "HB2132",
+ "subject": "or_legislature/2025R1/HB2132",
+ "title": "Directs the Department of Human Services to establish medical assistance reimbursement rates for residential care facilities that are commensurate with rates for assisted living facilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2132 did not pass",
+ "claims": [
+  {
+   "text": "HB 2132 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614096
+   ]
+  },
+  {
+   "text": "HB 2132 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660890
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614096,
+    616305,
+    660890
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614096
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614096
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2132&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2132",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 393,
+  "finding_hash": "045a8efa0d699ec511a93a87785d4bea940a2a0d457577cd145f2b6c0bbeaa21",
+  "evidence_digest": "sha256:73cb0fd789e1a8fba73efcdeae648f11830ef16ea9cc352fd184fc148c6746f8",
+  "gate_id": "1adf8c90c2ec42c3aff5f9aa1fa5b34f",
+  "gate_seq": 394
+ }
+}

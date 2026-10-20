@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 820",
+ "measure_id": "SB820",
+ "subject": "or_legislature/2025R1/SB820",
+ "title": "Provides that the State Board of Parole and Post-Prison Supervision is required to classify sex offender registrants convicted before January 1, 2014, into a risk level only in specified circumstances.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 820 did not pass",
+ "claims": [
+  {
+   "text": "SB 820 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616124
+   ]
+  },
+  {
+   "text": "SB 820 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658940
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616124,
+    618391,
+    627031,
+    658940
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616124
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616124
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627031
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658940
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 820&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB820",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8568,
+  "finding_hash": "51c96bcf877da1d8ea1fd7bc171dc074447e37bc55e82d32d1faadcced7e879f",
+  "evidence_digest": "sha256:edf2c11752bee32089b87b27a6f4b062b149f7e43d44817e95c1d1d5c59e7950",
+  "gate_id": "882d5db64f3d41adb1f4b85efe59583c",
+  "gate_seq": 8569
+ }
+}

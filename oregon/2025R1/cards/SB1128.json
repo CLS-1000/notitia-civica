@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1128",
+ "measure_id": "SB1128",
+ "subject": "or_legislature/2025R1/SB1128",
+ "title": "Provides that a police officer or firefighter member of the Public Employees Retirement System is considered disabled if the member is unable to perform the work the member performed at the time the member became disabled.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1128 did not pass",
+ "claims": [
+  {
+   "text": "SB 1128 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624838
+   ]
+  },
+  {
+   "text": "SB 1128 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659225
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624838,
+    625750,
+    659225
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624838
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624838
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1128&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1128",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9492,
+  "finding_hash": "a80d2e722eb62ea973b8fac59e5f114e813d8c5d773272d8a22a32a711155c4a",
+  "evidence_digest": "sha256:92b6e5fb70f3278837d211a4a59fdb7c598e40a69bae13226603f1e7cc9fc3f7",
+  "gate_id": "70816a3ed336434ca4fe06d751373670",
+  "gate_seq": 9493
+ }
+}

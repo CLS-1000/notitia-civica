@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2277",
+ "measure_id": "HB2277",
+ "subject": "or_legislature/2025R1/HB2277",
+ "title": "Authorizes state CHIPS Fund grants and loans to be made to businesses that are eligible for federal semiconductor financial assistance under the CHIPS Act but have not applied for it.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2277 did not pass",
+ "claims": [
+  {
+   "text": "HB 2277 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614241
+   ]
+  },
+  {
+   "text": "HB 2277 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659816
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614241,
+    616450,
+    629671,
+    638015,
+    639721,
+    639722,
+    659816
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614241
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614241
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629671
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638015
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639721
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2277&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2277",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 828,
+  "finding_hash": "26e94d13926ad9680e579678bacf70436f24a19e2326019e44e0fbf07f236cd1",
+  "evidence_digest": "sha256:3d45dd75d5ebfc2f4bc880c096c48e8851ea7ded065d312426e790d3ee7870d2",
+  "gate_id": "f455a8e1678b40e0a158e4f1795dec18",
+  "gate_seq": 829
+ }
+}

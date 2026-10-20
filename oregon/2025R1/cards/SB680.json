@@ -1,0 +1,120 @@
+{
+ "session": "2025R1",
+ "measure": "SB 680",
+ "measure_id": "SB680",
+ "subject": "or_legislature/2025R1/SB680",
+ "title": "Prohibits a person from publishing or causing to be published an environmental marketing claim, net zero claim or reputational advertising that is materially false, misleading, deceptive or fraudulent.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 680 did not pass",
+ "claims": [
+  {
+   "text": "SB 680 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615985
+   ]
+  },
+  {
+   "text": "SB 680 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658880
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615985,
+    618252,
+    619041,
+    619326,
+    619327,
+    624706,
+    658880
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615985
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615985
+   ]
+  },
+  {
+   "date": "2025-01-23",
+   "when": "January 23, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    619041
+   ]
+  },
+  {
+   "date": "2025-01-27",
+   "when": "January 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    619326
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624706
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658880
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 680&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB680",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8148,
+  "finding_hash": "ebb75bd0ded93dfdded54617f7bf27c1f07d5d3465ec0c2a842ed3fb345b8472",
+  "evidence_digest": "sha256:00ddc68549bd450f7618bc6c70353e91b5a97ec939abb882b7f152278d2b1b0e",
+  "gate_id": "ba9a942d66474c46ac7fdc30b465034c",
+  "gate_seq": 8149
+ }
+}

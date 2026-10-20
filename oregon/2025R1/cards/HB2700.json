@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2700",
+ "measure_id": "HB2700",
+ "subject": "or_legislature/2025R1/HB2700",
+ "title": "Directs the Oregon Department of Emergency Management to create and maintain a registry of persons able and willing to provide services related to emergency response.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2700 did not pass",
+ "claims": [
+  {
+   "text": "HB 2700 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614664
+   ]
+  },
+  {
+   "text": "HB 2700 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660097
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614664,
+    616873,
+    660097
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614664
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614664
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2700&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2700",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2097,
+  "finding_hash": "20b9d9b156d26f127a2ae223d1e3adf89a1f7557a66e7185ec81e819e035967e",
+  "evidence_digest": "sha256:69ee0adc0d103914c3de5cb21fb286960b444c80d1d7ea7bb3351ac9ac13a2b1",
+  "gate_id": "fea50034697243dea9edab7040c6bd5e",
+  "gate_seq": 2098
+ }
+}

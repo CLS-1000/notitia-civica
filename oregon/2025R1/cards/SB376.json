@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 376",
+ "measure_id": "SB376",
+ "subject": "or_legislature/2025R1/SB376",
+ "title": "Defines \"rural\" for purposes of the rural health care provider incentive program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 376 did not pass",
+ "claims": [
+  {
+   "text": "SB 376 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615681
+   ]
+  },
+  {
+   "text": "SB 376 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659003
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615681,
+    617948,
+    621126,
+    659003
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615681
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615681
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621126
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659003
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 376&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB376",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7236,
+  "finding_hash": "52001e1be91646f199ad6809a4ecd9f76f6ec13669eb0d2fbb7db9549704970a",
+  "evidence_digest": "sha256:a8b67a90a5129d3f63bcd34059aeac10735162b27fe8c6c3246867f295a1e77b",
+  "gate_id": "4666a8c7fefb406dbc23ae4142e2aad9",
+  "gate_seq": 7237
+ }
+}

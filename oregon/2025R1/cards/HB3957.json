@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3957",
+ "measure_id": "HB3957",
+ "subject": "or_legislature/2025R1/HB3957",
+ "title": "Transfers regulatory authority over construction labor contractors from the Bureau of Labor and Industries to the Construction Contractors Board.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3957 did not pass",
+ "claims": [
+  {
+   "text": "HB 3957 was introduced in the House on April 10, 2025.",
+   "row_ids": [
+    639653
+   ]
+  },
+  {
+   "text": "HB 3957 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660082
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    639653,
+    641841,
+    660082
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    639653
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    639653
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3957&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3957",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5868,
+  "finding_hash": "58721bd2032ac8a428271b6eb8be9c5dc2fb0009876ebba1863e62917a3bd780",
+  "evidence_digest": "sha256:2662fffe94bb1fd26c8061e597267c029b27f3e4b359d550cba3fafa7a77fc4b",
+  "gate_id": "48d1583f8f814e589d0b36d0e3107f83",
+  "gate_seq": 5869
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3738",
+ "measure_id": "HB3738",
+ "subject": "or_legislature/2025R1/HB3738",
+ "title": "Creates an Oregon personal income tax subtraction for amounts received from retirement plans.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3738 did not pass",
+ "claims": [
+  {
+   "text": "HB 3738 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624422
+   ]
+  },
+  {
+   "text": "HB 3738 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660392
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624422,
+    625283,
+    660392
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624422
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624422
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3738&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3738",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5211,
+  "finding_hash": "e6c57c4af60118f4462489fd0bf365446d2e5cab60cf3081c7bd74982a5e68ce",
+  "evidence_digest": "sha256:c38302cecefb90f687f9ed4d16b22df81a9e92611bce2de6dd29b0ce9f0fcb22",
+  "gate_id": "9986b4eb76244b369f42e94e6fb6c42c",
+  "gate_seq": 5212
+ }
+}

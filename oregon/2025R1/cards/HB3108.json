@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3108",
+ "measure_id": "HB3108",
+ "subject": "or_legislature/2025R1/HB3108",
+ "title": "Requires the Water Resources Department to implement additional rules and requirements for the review of limited license applications for an aquifer storage and recovery permit.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3108 did not pass",
+ "claims": [
+  {
+   "text": "HB 3108 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615072
+   ]
+  },
+  {
+   "text": "HB 3108 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659999
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615072,
+    617281,
+    659999
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615072
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615072
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3108&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3108",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3321,
+  "finding_hash": "4c20f9098bf37a2b0cf690c5a1891829be999dde670252db0bcd7cd00450c348",
+  "evidence_digest": "sha256:c2d77a5c49db87727d9cd701ac22ad76d6ba44c7980239117d604cff6ada6afb",
+  "gate_id": "80dd1112aa51425880d33f5d27f924b0",
+  "gate_seq": 3322
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3496",
+ "measure_id": "HB3496",
+ "subject": "or_legislature/2025R1/HB3496",
+ "title": "Requires the Department of Land Conservation and Development to develop guidance for local governments on siting, and incentivizing the development of, child care facilities on or before December 31, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3496 did not pass",
+ "claims": [
+  {
+   "text": "HB 3496 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620369
+   ]
+  },
+  {
+   "text": "HB 3496 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660613
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620369,
+    621042,
+    622843,
+    635231,
+    637841,
+    637842,
+    660613
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620369
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620369
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622843
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    635231
+   ]
+  },
+  {
+   "date": "2025-04-04",
+   "when": "April 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    637841
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3496&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3496",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4485,
+  "finding_hash": "921f99b8875fd13651a04bac36be365d2acd09e4e4d08ea37cb2e040f18b5be4",
+  "evidence_digest": "sha256:ef5799c05e0caf05d1512e755313115f962f131b2f307059ab4e9d9ebac88f35",
+  "gate_id": "80c89148ce344d8f86886130409b81dc",
+  "gate_seq": 4486
+ }
+}

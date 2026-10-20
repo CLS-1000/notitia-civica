@@ -1,0 +1,108 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2200",
+ "measure_id": "HB2200",
+ "subject": "or_legislature/2025R1/HB2200",
+ "title": "Directs the Oregon Investment Council and the State Treasurer to take certain actions to reduce the carbon intensity of state investments and address certain investment risks relating to climate change.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2200 did not pass",
+ "claims": [
+  {
+   "text": "HB 2200 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614164
+   ]
+  },
+  {
+   "text": "HB 2200 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661047
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614164,
+    616373,
+    619572,
+    628394,
+    638966,
+    661047
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614164
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614164
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619572
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638966
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661047
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2200&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2200",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 597,
+  "finding_hash": "f87fa891e9c4c4e13257947c3ece8825996a411b2471afde1a3c9f583dfe5a1a",
+  "evidence_digest": "sha256:e96e79927a3ab0635a75fa444d16e6dbc26c89e73d205bb1fc85aefc90ea9b90",
+  "gate_id": "43c1642381074dcc85e628e614858f77",
+  "gate_seq": 598
+ }
+}

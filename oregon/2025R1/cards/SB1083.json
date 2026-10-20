@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1083",
+ "measure_id": "SB1083",
+ "subject": "or_legislature/2025R1/SB1083",
+ "title": "Adds crimes of conviction that qualify for sexually violent dangerous offender sentencing, requiring lifetime post-prison supervision if the court makes certain findings.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1083 did not pass",
+ "claims": [
+  {
+   "text": "SB 1083 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624282
+   ]
+  },
+  {
+   "text": "SB 1083 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659141
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624282,
+    624458,
+    659141
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624282
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624282
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1083&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1083",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9357,
+  "finding_hash": "5c287133a955c36ffb0833f46f6b7377b772cb8db3c81f031c1ffd21b3e53a14",
+  "evidence_digest": "sha256:6fa724d385059d07c479594d5295284d63239dfb77b4118f9679f156a2a598dd",
+  "gate_id": "acfa546c3b104b2e8a2983730e66829e",
+  "gate_seq": 9358
+ }
+}

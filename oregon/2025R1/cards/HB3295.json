@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3295",
+ "measure_id": "HB3295",
+ "subject": "or_legislature/2025R1/HB3295",
+ "title": "Appropriates moneys from the General Fund to the Department of Transportation for the purpose of improving a portion of Southeast Powell Boulevard.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3295 did not pass",
+ "claims": [
+  {
+   "text": "HB 3295 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618766
+   ]
+  },
+  {
+   "text": "HB 3295 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661001
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618766,
+    619164,
+    661001
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618766
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618766
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3295&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3295",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3882,
+  "finding_hash": "20e11603b5f730f06dba2dda7fcb6cb8fdf6470dd3954cbb9bd2a210d155a174",
+  "evidence_digest": "sha256:93ff19244d68f37a5e342b3001a719f24b3bb743aed8431152377fcc49c11f3e",
+  "gate_id": "8c234ee6ba8645c587eab2e1a46e091c",
+  "gate_seq": 3883
+ }
+}

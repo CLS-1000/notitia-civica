@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3586",
+ "measure_id": "HB3586",
+ "subject": "or_legislature/2025R1/HB3586",
+ "title": "Creates a civil cause of action against a person who removes a condom without the consent of the plaintiff.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3586 did not pass",
+ "claims": [
+  {
+   "text": "HB 3586 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622921
+   ]
+  },
+  {
+   "text": "HB 3586 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661419
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622921,
+    623476,
+    661419
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622921
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622921
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3586&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3586",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4755,
+  "finding_hash": "686cf7514df749833b459ad58209d58c3b456209ce8723597c886fb76ff6fe7e",
+  "evidence_digest": "sha256:1b689d91398c08ddebf30be09669877ed965bce96cd550f278c7e27d393f3b68",
+  "gate_id": "1a3a7aff8b90483db161e45274b949bd",
+  "gate_seq": 4756
+ }
+}

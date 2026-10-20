@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 388",
+ "measure_id": "SB388",
+ "subject": "or_legislature/2025R1/SB388",
+ "title": "Requires the Oregon Health Policy Board to produce and provide to the interim committees of the Legislative Assembly related to health by December 31, 2026, a comprehensive report regarding the success in achieving the aims of the Oregon Integrated and Coordinated Health Care Delivery System.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 388 did not pass",
+ "claims": [
+  {
+   "text": "SB 388 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615693
+   ]
+  },
+  {
+   "text": "SB 388 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659015
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615693,
+    617960,
+    621125,
+    659015
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615693
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615693
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621125
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659015
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 388&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB388",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7272,
+  "finding_hash": "4d4151114366a39cb048295eb78d76b74e2569662eb8445584a9411bfb1b414c",
+  "evidence_digest": "sha256:700823cf5ea4992089a7870a24bcfb98442e34ea50729b97dfa3c880032943ba",
+  "gate_id": "7eaf8b5e65f147a290e080d1bc18d9c0",
+  "gate_seq": 7273
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2109",
+ "measure_id": "HB2109",
+ "subject": "or_legislature/2025R1/HB2109",
+ "title": "Increases the threshold amount of understated income tax above which a penalty applies.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2109 did not pass",
+ "claims": [
+  {
+   "text": "HB 2109 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614073
+   ]
+  },
+  {
+   "text": "HB 2109 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661264
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614073,
+    616282,
+    661264
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614073
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614073
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2109&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2109",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 324,
+  "finding_hash": "59d74b3f8c0e5289f82d55c64de4e1ae002c66d7085087eba4f115918fb9a032",
+  "evidence_digest": "sha256:104d4ed3154820e6ba923d213d6eb6170dd088db437053aab802171aa08f5e24",
+  "gate_id": "66e10c2c1522485b83026a4077f5da01",
+  "gate_seq": 325
+ }
+}

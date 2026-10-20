@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3647",
+ "measure_id": "HB3647",
+ "subject": "or_legislature/2025R1/HB3647",
+ "title": "Requires a person that operates a service station, business or other place for the purpose of retailing and delivering gasoline, diesel or other fuel to display on a sign visible from the street and on a sign visible at or near each dispensing device the prices charged for all grades of gasoline, diesel or other fuel.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3647 did not pass",
+ "claims": [
+  {
+   "text": "HB 3647 was introduced in the House on February 20, 2025.",
+   "row_ids": [
+    623582
+   ]
+  },
+  {
+   "text": "HB 3647 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660573
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623582,
+    623874,
+    630262,
+    660573
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    623582
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623582
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    630262
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660573
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3647&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3647",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4938,
+  "finding_hash": "014fdf49f020921bb8bf9e7d6f8fa9f85790326f40d84bd34eb22dc6af484cc6",
+  "evidence_digest": "sha256:64197b90ec03a0d9dbe8c55102c2fd555821a871692a1d386f746911c82f9af1",
+  "gate_id": "ba58fd30595845d59a602e52b030cf71",
+  "gate_seq": 4939
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2088",
+ "measure_id": "HB2088",
+ "subject": "or_legislature/2025R1/HB2088",
+ "title": "Provides for a process by which former owners of real property deeded to the county for delinquent property taxes may claim the surplus value after the property has been disposed of by the county.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2088 did not pass",
+ "claims": [
+  {
+   "text": "HB 2088 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614052
+   ]
+  },
+  {
+   "text": "HB 2088 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660625
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614052,
+    616261,
+    620003,
+    660625
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614052
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614052
+   ]
+  },
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620003
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660625
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2088&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2088",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 261,
+  "finding_hash": "467f2ee6b64b86ad5b286d59d0ddd495887a15318cfdd2bc836ad19c32081875",
+  "evidence_digest": "sha256:5457d8c0095725b1a31d480d3e6d9b0796ed396f46c3da2657b0130e3e10fae8",
+  "gate_id": "afbe7c6007e74dc68515a46f45e55f5e",
+  "gate_seq": 262
+ }
+}

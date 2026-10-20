@@ -1,0 +1,168 @@
+{
+ "session": "2025R1",
+ "measure": "SJM 10",
+ "measure_id": "SJM10",
+ "subject": "or_legislature/2025R1/SJM10",
+ "title": "Urges the President of the United States, the Executive Director of the Maritime Administration of the United States Department of Transportation and the Congress of the United States to purchase the SS United States from Okaloosa County, Florida, using funds transferred from the United States Department of Defense, designate it as a national landmark, restore it to its full working condition and name it the official flagship of our nation.",
+ "outcome": "adopted",
+ "outcome_label": "Adopted",
+ "headline": "SJM 10 was adopted",
+ "claims": [
+  {
+   "text": "SJM 10 was introduced in the Senate on March 13, 2025.",
+   "row_ids": [
+    628227
+   ]
+  },
+  {
+   "text": "SJM 10 was adopted; the last recorded step was on June 27, 2025.",
+   "row_ids": [
+    660378
+   ]
+  },
+  {
+   "text": "Each of the 11 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    628227,
+    628381,
+    641458,
+    648009,
+    649557,
+    649644,
+    650122,
+    650593,
+    651103,
+    651484,
+    660378
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    628227
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    628227
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    641458
+   ]
+  },
+  {
+   "date": "2025-05-19",
+   "when": "May 19, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    648009
+   ]
+  },
+  {
+   "date": "2025-05-23",
+   "when": "May 23, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it be adopted",
+   "rule_id": "rec_do_adopt",
+   "row_ids": [
+    649557
+   ]
+  },
+  {
+   "date": "2025-05-27",
+   "when": "May 27, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    649644
+   ]
+  },
+  {
+   "date": "2025-05-29",
+   "when": "May 29, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "final_reading",
+   "row_ids": [
+    650593
+   ]
+  },
+  {
+   "date": "2025-05-29",
+   "when": "May 29, 2025",
+   "chamber": "S",
+   "state": "adopted",
+   "text": "Adopted by the Senate",
+   "rule_id": "adopted",
+   "row_ids": [
+    650593
+   ]
+  },
+  {
+   "date": "2025-06-02",
+   "when": "June 2, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Arrived in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    651103
+   ]
+  },
+  {
+   "date": "2025-06-02",
+   "when": "June 2, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    651103
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJM' and MeasureNumber eq 10&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJM10",
+ "row_count": 11,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10149,
+  "finding_hash": "d2d7f609a2954a8896dd5075c66903a711f1b5caeb7a625716214599b6c0f54a",
+  "evidence_digest": "sha256:b8f81b72643b354f4bebbd6be1cfd4b23e4ff291eda36b45426a75582c71b519",
+  "gate_id": "f33d7f744e3f48dd9349e2ca991e525c",
+  "gate_seq": 10150
+ }
+}

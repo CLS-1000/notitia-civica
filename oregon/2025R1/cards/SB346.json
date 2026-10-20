@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 346",
+ "measure_id": "SB346",
+ "subject": "or_legislature/2025R1/SB346",
+ "title": "Directs the State Forestry Department to establish by rule a pilot grant program for the purpose of managing wildfire risk by certain methods.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 346 did not pass",
+ "claims": [
+  {
+   "text": "SB 346 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615651
+   ]
+  },
+  {
+   "text": "SB 346 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658733
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615651,
+    617918,
+    658733
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615651
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615651
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 346&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB346",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7146,
+  "finding_hash": "1667ae06b2aff68798a98b3923c3c07a8f3f47f1a7ca4d22b86584733c06f6fa",
+  "evidence_digest": "sha256:6c9b8abd3296063da49092e1cd2727270eb9182b2fc7dc0cbb7d9f34b975fb88",
+  "gate_id": "e1b2dfb2e43c4987b780ebbf2090b1f8",
+  "gate_seq": 7147
+ }
+}

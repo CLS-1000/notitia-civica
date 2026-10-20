@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3813",
+ "measure_id": "HB3813",
+ "subject": "or_legislature/2025R1/HB3813",
+ "title": "Authorizes the Department of Education to award grants to school districts and education service districts for the purpose of developing, implementing and annually updating a health services plan.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3813 did not pass",
+ "claims": [
+  {
+   "text": "HB 3813 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624989
+   ]
+  },
+  {
+   "text": "HB 3813 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660521
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624989,
+    626398,
+    660521
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624989
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624989
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3813&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3813",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5436,
+  "finding_hash": "2428c32d94f5484f303b0c11efd18315aeeea91bf521a8957470be5da6bafcfb",
+  "evidence_digest": "sha256:60257cc92c809c10c0cc35b2015347c9e9504ae79015600c37e077a49d47d12e",
+  "gate_id": "ee59acddc0a74c12a46e6d1acc87d6d3",
+  "gate_seq": 5437
+ }
+}

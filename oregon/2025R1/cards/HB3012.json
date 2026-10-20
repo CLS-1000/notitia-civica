@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3012",
+ "measure_id": "HB3012",
+ "subject": "or_legislature/2025R1/HB3012",
+ "title": "Permits an individual who is 16 or 17 years of age and registered to vote to cast a ballot in school district elections.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3012 did not pass",
+ "claims": [
+  {
+   "text": "HB 3012 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614976
+   ]
+  },
+  {
+   "text": "HB 3012 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660363
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614976,
+    617185,
+    625660,
+    660363
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614976
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614976
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625660
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660363
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3012&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3012",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3033,
+  "finding_hash": "2c8b99a220666860fa0da81dc30125e22c2088318320b6b42ce02dcb1630a0af",
+  "evidence_digest": "sha256:c29615dbace05ea086dff97342bbd6afd3b9b0e3b5de6aeb5813ae14015d33a3",
+  "gate_id": "2303a568421d4ba89e1c8b6e1484bef0",
+  "gate_seq": 3034
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3855",
+ "measure_id": "HB3855",
+ "subject": "or_legislature/2025R1/HB3855",
+ "title": "Directs the State Department of Agriculture to study the regulation of agriculture.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3855 did not pass",
+ "claims": [
+  {
+   "text": "HB 3855 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625031
+   ]
+  },
+  {
+   "text": "HB 3855 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661288
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625031,
+    626440,
+    661288
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625031
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625031
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3855&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3855",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5562,
+  "finding_hash": "4852bbd8b75b87dae0c1bb696b7da51805642e2ea0a65b112bcafa2fab12df02",
+  "evidence_digest": "sha256:8e6e6b31c010c27d31f83c2eb0d51ecdd8db968f59f58bd806f53b575ef7715d",
+  "gate_id": "12d4a7e068224fd5881063a0786cb076",
+  "gate_seq": 5563
+ }
+}

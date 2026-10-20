@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2252",
+ "measure_id": "HB2252",
+ "subject": "or_legislature/2025R1/HB2252",
+ "title": "Requires a person that intends to register to do business in this state as a pharmacy benefit manager to demonstrate to the satisfaction of the Director of the Department of Consumer and Business Services that the person is not owned or operated by an insurer or an affiliate of an insurer.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2252 did not pass",
+ "claims": [
+  {
+   "text": "HB 2252 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614216
+   ]
+  },
+  {
+   "text": "HB 2252 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660255
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614216,
+    616425,
+    620594,
+    660255
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614216
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614216
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620594
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660255
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2252&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2252",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 753,
+  "finding_hash": "8bdde5fec3b036be6f06f22de2816dbc5ef172b279c72bb1507fd372839472b9",
+  "evidence_digest": "sha256:1e118717fb4f0f5d2e37d111281a265006f17827df1a46909397fc3f5a27103b",
+  "gate_id": "30a305f9ae6642deaec45a5de47e2620",
+  "gate_seq": 754
+ }
+}

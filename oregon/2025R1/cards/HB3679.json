@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3679",
+ "measure_id": "HB3679",
+ "subject": "or_legislature/2025R1/HB3679",
+ "title": "Requires the State Department of Fish and Wildlife to allow a person meeting certain criteria to hunt game mammals using a crossbow.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3679 did not pass",
+ "claims": [
+  {
+   "text": "HB 3679 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624363
+   ]
+  },
+  {
+   "text": "HB 3679 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660429
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624363,
+    625224,
+    660429
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624363
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624363
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3679&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3679",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5034,
+  "finding_hash": "f5d6efa31122e38f69362265692eaa189f9812eede21e6f5e271ff550c9beb31",
+  "evidence_digest": "sha256:366a7631c844409d1e625c59e13325a573572dc14edbed0ccd5331e2c541f8c6",
+  "gate_id": "de14611233ae400d8bc8b4507d5d848c",
+  "gate_seq": 5035
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3413",
+ "measure_id": "HB3413",
+ "subject": "or_legislature/2025R1/HB3413",
+ "title": "Requires the State Department of Fish and Wildlife to study natural resources.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3413 did not pass",
+ "claims": [
+  {
+   "text": "HB 3413 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619464
+   ]
+  },
+  {
+   "text": "HB 3413 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659924
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619464,
+    619836,
+    659924
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619464
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619464
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3413&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3413",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4236,
+  "finding_hash": "fdd77cfcc3cb791e6c3f6c0ddc34e5bc00383fdd3869b2648b23722476eef1df",
+  "evidence_digest": "sha256:1a5511dd73872abeaed97f82a805c69c1b4c336bbd4ad8aa944b51aba7065ee2",
+  "gate_id": "3feb910862374e67becd399236bc6272",
+  "gate_seq": 4237
+ }
+}

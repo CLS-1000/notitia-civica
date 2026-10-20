@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3057",
+ "measure_id": "HB3057",
+ "subject": "or_legislature/2025R1/HB3057",
+ "title": "Directs the Department of Human Services to establish the Adoption Awareness Program to be administered by a nonprofit organization or agency.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3057 did not pass",
+ "claims": [
+  {
+   "text": "HB 3057 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615021
+   ]
+  },
+  {
+   "text": "HB 3057 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660938
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615021,
+    617230,
+    660938
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615021
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615021
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3057&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3057",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3168,
+  "finding_hash": "f29b347337580726c69082d08c80dcee362c48e3be2f4a31b8de59eb3fc03e62",
+  "evidence_digest": "sha256:7370f2b87257d8119e204b7aa9648c251d10df0e1e96736fc44056c2c760028c",
+  "gate_id": "916bbbd344bf48eea89d136b75de7775",
+  "gate_seq": 3169
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 942",
+ "measure_id": "SB942",
+ "subject": "or_legislature/2025R1/SB942",
+ "title": "Requires individual and group health benefit plans to cover a child over the age of 26 in certain circumstances.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 942 did not pass",
+ "claims": [
+  {
+   "text": "SB 942 was introduced in the Senate on January 28, 2025.",
+   "row_ids": [
+    619518
+   ]
+  },
+  {
+   "text": "SB 942 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658957
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619518,
+    619550,
+    627039,
+    639120,
+    640984,
+    640985,
+    658957
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    619518
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619518
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627039
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639120
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640984
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 942&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB942",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8934,
+  "finding_hash": "655909b205a8b067a493be12e6dadc80a2c2074d7c0c152f2523beca6599e1d1",
+  "evidence_digest": "sha256:4b02e0877459dc872f8ef16cd0fac2c235b5b4ad86adda1205af2e9558de31f1",
+  "gate_id": "953af2e8953f4bdbb7b281b956544d74",
+  "gate_seq": 8935
+ }
+}

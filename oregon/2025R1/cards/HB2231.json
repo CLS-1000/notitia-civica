@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2231",
+ "measure_id": "HB2231",
+ "subject": "or_legislature/2025R1/HB2231",
+ "title": "Instructs the Oregon Seed Certification Service of Oregon State University to continue to periodically produce, and make available to the public, the Oregon Seed Certification Handbook.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2231 did not pass",
+ "claims": [
+  {
+   "text": "HB 2231 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614195
+   ]
+  },
+  {
+   "text": "HB 2231 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660237
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614195,
+    616404,
+    660237
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614195
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614195
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2231&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2231",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 690,
+  "finding_hash": "1a90bf940f80b4f9225ea72ba05a6aed129c94e93468960db7fd40d40e2038cd",
+  "evidence_digest": "sha256:10ca44cd6f3ef016c89951682d07862fe17eb9b7fe54a162fd5aee329d00fb01",
+  "gate_id": "3e4024999a12444da2de318f784e4b1d",
+  "gate_seq": 691
+ }
+}

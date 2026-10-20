@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2213",
+ "measure_id": "HB2213",
+ "subject": "or_legislature/2025R1/HB2213",
+ "title": "Directs the Oregon Health Authority to establish a minimum medical loss ratio for coordinated care organizations at 85 percent.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2213 did not pass",
+ "claims": [
+  {
+   "text": "HB 2213 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614177
+   ]
+  },
+  {
+   "text": "HB 2213 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661057
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614177,
+    616386,
+    661057
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614177
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614177
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2213&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2213",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 636,
+  "finding_hash": "09cadab4d6c2f44738b996875344e769490cf800cbf6a78c7d2f4f4263b0a6d7",
+  "evidence_digest": "sha256:8f61cf870c677a25c519aa960be16d7ba8a53f926ef21826432f25914d314d1e",
+  "gate_id": "553af708e9d14d7abbe8adecb4029a23",
+  "gate_seq": 637
+ }
+}

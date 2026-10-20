@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 312",
+ "measure_id": "SB312",
+ "subject": "or_legislature/2025R1/SB312",
+ "title": "Directs the Department of Education to develop and implement a standardized method to be used by school districts, education service districts and the department to electronically create, collect, use, maintain, disclose, transfer and access student data.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 312 did not pass",
+ "claims": [
+  {
+   "text": "SB 312 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615617
+   ]
+  },
+  {
+   "text": "SB 312 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658700
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615617,
+    617884,
+    631819,
+    634484,
+    636561,
+    636562,
+    658700
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615617
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615617
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    631819
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    634484
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    636561
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 312&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB312",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7044,
+  "finding_hash": "f8b5687008b01d149b88e255540fb8fb5a28b3fe4987161c6d234917b7333a64",
+  "evidence_digest": "sha256:cee7896ef0d784da6b278c0e879d9b1315f015dede7dac1949bd95bfee6f8d79",
+  "gate_id": "145c0fa24c974d629b649a190bf08c0e",
+  "gate_seq": 7045
+ }
+}

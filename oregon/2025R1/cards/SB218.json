@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 218",
+ "measure_id": "SB218",
+ "subject": "or_legislature/2025R1/SB218",
+ "title": "Requires the Department of Environmental Quality to study the impacts of waste from solar or wind renewable energy facilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 218 did not pass",
+ "claims": [
+  {
+   "text": "SB 218 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615523
+   ]
+  },
+  {
+   "text": "SB 218 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659427
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615523,
+    617790,
+    624699,
+    659427
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615523
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615523
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624699
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659427
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 218&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB218",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6762,
+  "finding_hash": "dc4e744988f00d29f1fe2299c088c9d5d57c64a92fbd1e1894c288b5882d3891",
+  "evidence_digest": "sha256:b74da00b22ca04f0834f3546d2e06385036a63f1c022d6c3ff3129eae3c9e64f",
+  "gate_id": "0168d665f4974f85af8c810bcb972bc1",
+  "gate_seq": 6763
+ }
+}

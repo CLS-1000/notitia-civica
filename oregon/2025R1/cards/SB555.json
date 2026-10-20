@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 555",
+ "measure_id": "SB555",
+ "subject": "or_legislature/2025R1/SB555",
+ "title": "Makes research requested, collected, maintained or utilized by the Legislative Policy and Research Office confidential unless it is specifically authorized to be released.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 555 did not pass",
+ "claims": [
+  {
+   "text": "SB 555 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615860
+   ]
+  },
+  {
+   "text": "SB 555 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659383
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615860,
+    618127,
+    628047,
+    659383
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615860
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615860
+   ]
+  },
+  {
+   "date": "2025-03-12",
+   "when": "March 12, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628047
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659383
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 555&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB555",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7773,
+  "finding_hash": "c2b9beea8e8133c8a8950bf75df1370cf9b7a7c7ed4804a10c7585489340205e",
+  "evidence_digest": "sha256:a328b51089c3fe8358fc3c1562e1b7a03b5092f9fbb5366cbef43ee0cce151a2",
+  "gate_id": "e427def287714f6681d5550eccc29b1c",
+  "gate_seq": 7774
+ }
+}

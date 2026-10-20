@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2268",
+ "measure_id": "HB2268",
+ "subject": "or_legislature/2025R1/HB2268",
+ "title": "Requires a person that advertises, solicits, markets, sells or offers a health care cost sharing arrangement in this state or enters into a health care cost sharing arrangement with a resident must register with the Director of the Department of Consumer and Business Services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2268 did not pass",
+ "claims": [
+  {
+   "text": "HB 2268 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614232
+   ]
+  },
+  {
+   "text": "HB 2268 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660269
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614232,
+    616441,
+    660269
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614232
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614232
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2268&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2268",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 801,
+  "finding_hash": "180648cac6b071c8f602888cfae15aa0e9f9e7a2cef2517ece9ade71933ae386",
+  "evidence_digest": "sha256:996711ee6dfd8eecc3e306bb2337a9db33d8e1be0271d3543e7b64bf7b66dcea",
+  "gate_id": "3b811560c1ff42faaef175e7b59b70c0",
+  "gate_seq": 802
+ }
+}

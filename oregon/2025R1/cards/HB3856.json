@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3856",
+ "measure_id": "HB3856",
+ "subject": "or_legislature/2025R1/HB3856",
+ "title": "Imposes additional personal income tax.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3856 did not pass",
+ "claims": [
+  {
+   "text": "HB 3856 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625032
+   ]
+  },
+  {
+   "text": "HB 3856 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661289
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625032,
+    626441,
+    629651,
+    631865,
+    633688,
+    633689,
+    661289
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625032
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625032
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629651
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    631865
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    633688
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3856&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3856",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5565,
+  "finding_hash": "2aa9fe45dccf0404a5aa99310fadd2b8cffb1203ecf1ad7d6c998d372181a2aa",
+  "evidence_digest": "sha256:355e54590ec2828b80bf11fa7a8e41f1d3bb63fe68365cbc374d74bb151d88da",
+  "gate_id": "cbd3d2aed2924084a0c37c753ae28118",
+  "gate_seq": 5566
+ }
+}

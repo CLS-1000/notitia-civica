@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1031",
+ "measure_id": "SB1031",
+ "subject": "or_legislature/2025R1/SB1031",
+ "title": "Requires a physician who prescribes drugs for a chemical abortion to provide certain information to a person to whom such drugs are prescribed.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1031 did not pass",
+ "claims": [
+  {
+   "text": "SB 1031 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623041
+   ]
+  },
+  {
+   "text": "SB 1031 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658959
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623041,
+    623113,
+    658959
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623041
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623041
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1031&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1031",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9201,
+  "finding_hash": "0d0822a85440eb38ebe9513fb5e711e91993233e7b24ed75df82e514ceed7474",
+  "evidence_digest": "sha256:0bc64c70a01600742cd1c72dcce313bd2f9816ea4682a81f7665e4182bba130c",
+  "gate_id": "1607af1aadf745cdb20528a55364c113",
+  "gate_seq": 9202
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2890",
+ "measure_id": "HB2890",
+ "subject": "or_legislature/2025R1/HB2890",
+ "title": "Authorizes the Oregon Innovation Council to make grants to small businesses for seed and start-up capital and gap funding to create and support invention, innovation and economic development in rural areas of this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2890 did not pass",
+ "claims": [
+  {
+   "text": "HB 2890 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614854
+   ]
+  },
+  {
+   "text": "HB 2890 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661199
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614854,
+    617063,
+    661199
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614854
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614854
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2890&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2890",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2667,
+  "finding_hash": "bddb1e3166d1b24f3185601e0e0a55a68a5b5abdc611171885ac4cb6f1f444b4",
+  "evidence_digest": "sha256:06ddaafd05703921babefeed8229dec66267deee36bcbebf7ce852e31b541790",
+  "gate_id": "10b5f54cdaa3477db0dce2f2379fc911",
+  "gate_seq": 2668
+ }
+}

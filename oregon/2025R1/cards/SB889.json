@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 889",
+ "measure_id": "SB889",
+ "subject": "or_legislature/2025R1/SB889",
+ "title": "Limits pretrial release of defendants charged with a felony or Class A misdemeanor to security release.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 889 did not pass",
+ "claims": [
+  {
+   "text": "SB 889 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618665
+   ]
+  },
+  {
+   "text": "SB 889 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659530
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618665,
+    618836,
+    659530
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618665
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618665
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 889&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB889",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8775,
+  "finding_hash": "0792788a45b59121efdb1161919ef9b5967d40eee5a2454ef31aedb287a20a30",
+  "evidence_digest": "sha256:edb928d6386828bd16d891303a8098b7085700185de7e970c4c68e5f5fa7bee4",
+  "gate_id": "c81e162b8e194bf8af92fc73eb125255",
+  "gate_seq": 8776
+ }
+}

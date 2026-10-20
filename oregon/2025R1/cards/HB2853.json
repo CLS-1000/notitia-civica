@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2853",
+ "measure_id": "HB2853",
+ "subject": "or_legislature/2025R1/HB2853",
+ "title": "Authorizes cities to bring certain lands within their urban growth boundaries for light industrial and open space uses.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2853 did not pass",
+ "claims": [
+  {
+   "text": "HB 2853 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614817
+   ]
+  },
+  {
+   "text": "HB 2853 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661162
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614817,
+    617026,
+    661162
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614817
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614817
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2853&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2853",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2556,
+  "finding_hash": "52aed61e7a77e6ba477d82e02060aebc587e412c36c6450b3645e496d0c8730f",
+  "evidence_digest": "sha256:d90c9b6e7da7dba78a56c55b496d0fdae3a4b918a0479bd73ef7bef3fac8fbb3",
+  "gate_id": "e322a641802c47a39670fdcc9a0c86c2",
+  "gate_seq": 2557
+ }
+}

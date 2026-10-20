@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2297",
+ "measure_id": "HB2297",
+ "subject": "or_legislature/2025R1/HB2297",
+ "title": "Requires a tenant to pay accruing rent to avoid termination for nonpayment.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2297 did not pass",
+ "claims": [
+  {
+   "text": "HB 2297 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614261
+   ]
+  },
+  {
+   "text": "HB 2297 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659834
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614261,
+    616470,
+    659834
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614261
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614261
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2297&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2297",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 888,
+  "finding_hash": "be451a43d040c04d49db945dd0c387e971edce0d7aa8110c5d172a1a9765f195",
+  "evidence_digest": "sha256:34bdf2938305d1f9680e04fc8eba7b6fab14c9831653e31c6c0d3713b4bc6486",
+  "gate_id": "16490860c83746f486258b42b4ac1f9f",
+  "gate_seq": 889
+ }
+}

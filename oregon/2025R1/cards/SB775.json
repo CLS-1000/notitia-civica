@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 775",
+ "measure_id": "SB775",
+ "subject": "or_legislature/2025R1/SB775",
+ "title": "Requires that ground water data generated or used for specified purposes by the Department of Environmental Quality, State Department of Agriculture, Water Resources Commission or Water Resources Department be peer reviewed.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 775 did not pass",
+ "claims": [
+  {
+   "text": "SB 775 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616079
+   ]
+  },
+  {
+   "text": "SB 775 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659180
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616079,
+    618346,
+    659180
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616079
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616079
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 775&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB775",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8433,
+  "finding_hash": "64901750c9856ad55d2d0e3c9e1710ece654aa3bab05f5fd992402be0f999fb0",
+  "evidence_digest": "sha256:ebf13d1f60295b165f4e2d9924d56b1336df36728fff030dc93ee0d473fb3278",
+  "gate_id": "04c41aba10524406847bc024a2c792cf",
+  "gate_seq": 8434
+ }
+}

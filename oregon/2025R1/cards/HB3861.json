@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3861",
+ "measure_id": "HB3861",
+ "subject": "or_legislature/2025R1/HB3861",
+ "title": "Makes certain changes related to the qualifications of directors of soil and water conservation districts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3861 did not pass",
+ "claims": [
+  {
+   "text": "HB 3861 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625037
+   ]
+  },
+  {
+   "text": "HB 3861 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661069
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625037,
+    626446,
+    661069
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625037
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625037
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3861&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3861",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5580,
+  "finding_hash": "9d4632f891fb89109cb8b0bfd14c5bd4d29b3f3d8e33afd0dfd653fb861c706e",
+  "evidence_digest": "sha256:b7d8ec99fbdb7799eb6d70d2be6bde9145bcdc0c1c6a5b69a416e12111a38d1c",
+  "gate_id": "db3f6e13269f40339f8d689aa5fa1b24",
+  "gate_seq": 5581
+ }
+}

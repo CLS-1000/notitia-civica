@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3611",
+ "measure_id": "HB3611",
+ "subject": "or_legislature/2025R1/HB3611",
+ "title": "Requires the Department of Education to study the adequacy of assessments administered in public schools.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3611 did not pass",
+ "claims": [
+  {
+   "text": "HB 3611 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622946
+   ]
+  },
+  {
+   "text": "HB 3611 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661391
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622946,
+    623501,
+    661391
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622946
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622946
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3611&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3611",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4830,
+  "finding_hash": "25d74046aaecb24456264f3aa5355532c01a4abcdba8fd10c556e9b0107a61d2",
+  "evidence_digest": "sha256:09078cc2be864028d6673bdaed42af1f35872bb5d51894bf0ac2d834ef5688a8",
+  "gate_id": "ac19325f865c44af9a213692d6d61761",
+  "gate_seq": 4831
+ }
+}

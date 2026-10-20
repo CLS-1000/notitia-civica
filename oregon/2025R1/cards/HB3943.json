@@ -1,0 +1,73 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3943",
+ "measure_id": "HB3943",
+ "subject": "or_legislature/2025R1/HB3943",
+ "title": "Requires all state agencies to prepare a report within 60 days on the impacts of the agency's current rules on construction of new housing and the agency's land that may be available for housing production.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3943 did not pass",
+ "claims": [
+  {
+   "text": "HB 3943 was introduced in the House on March 20, 2025.",
+   "row_ids": [
+    630036
+   ]
+  },
+  {
+   "text": "HB 3943 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661293
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    630036,
+    630281,
+    643740,
+    661293
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    630036
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    630036
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3943&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3943",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5826,
+  "finding_hash": "b7cb1fe6e9a68463203cf7c2df25d87fed2e708c241f37b875cfdd27755e112b",
+  "evidence_digest": "sha256:e547f77df143cf1211a86209e5518c0b081bd8dc8e52db92e6c2310759457a7d",
+  "gate_id": "f515f9486af849409639c203d498cbf6",
+  "gate_seq": 5827
+ }
+}

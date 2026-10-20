@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2550",
+ "measure_id": "HB2550",
+ "subject": "or_legislature/2025R1/HB2550",
+ "title": "Changes the requirements to qualify for the Oregon Promise program by removing the requirement that a person must receive the person's highest level of education six months prior to enrolling in a community college, removing the requirement that a person must complete high school in this state, removing the requirement that a person must have earned a cumulative grade point average of 2.0 or better in high school and specifying that a person may qualify by enrolling in a program to earn an applied baccalaureate degree or a Bachelor of Science: Nursing degree.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2550 did not pass",
+ "claims": [
+  {
+   "text": "HB 2550 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614514
+   ]
+  },
+  {
+   "text": "HB 2550 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660287
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614514,
+    616723,
+    620319,
+    660287
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614514
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614514
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620319
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660287
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2550&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2550",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1647,
+  "finding_hash": "ec4b90a124c93bb83ff18b6b7af66cac628b72f1245e1815994b4e0333cccfc6",
+  "evidence_digest": "sha256:8c31fe120b23b2a257100b2bda79c81f8817413b7ca5e672cb2e981c54bf97c3",
+  "gate_id": "419cab690f4646f4b40eb0b7d4b1a2bb",
+  "gate_seq": 1648
+ }
+}

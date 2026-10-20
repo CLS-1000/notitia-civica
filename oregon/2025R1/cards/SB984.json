@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 984",
+ "measure_id": "SB984",
+ "subject": "or_legislature/2025R1/SB984",
+ "title": "Allows battery-charged fences on properties not used as residences.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 984 did not pass",
+ "claims": [
+  {
+   "text": "SB 984 was introduced in the Senate on February 6, 2025.",
+   "row_ids": [
+    620890
+   ]
+  },
+  {
+   "text": "SB 984 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659576
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620890,
+    621390,
+    659576
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620890
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620890
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 984&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB984",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9060,
+  "finding_hash": "62a38af1f913f69fc78b0739240489d323eab7d6c4260dbe48ff528644d87bc0",
+  "evidence_digest": "sha256:fbbde443428bf22d6ad1f4528adfca82f513bfbe0304b79a963374fbb2bd06c1",
+  "gate_id": "2e220b03f15645e0a6658b1371f5e45c",
+  "gate_seq": 9061
+ }
+}

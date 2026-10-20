@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2355",
+ "measure_id": "HB2355",
+ "subject": "or_legislature/2025R1/HB2355",
+ "title": "Provides that more than one parcel of land may be included in a petition for annexation to a district that does not require an election.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2355 did not pass",
+ "claims": [
+  {
+   "text": "HB 2355 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614319
+   ]
+  },
+  {
+   "text": "HB 2355 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660699
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614319,
+    616528,
+    660699
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614319
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614319
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2355&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2355",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1062,
+  "finding_hash": "16687ade81dee3c1c31fc8c4e8ac06ecf8034ae37ba04ed1d5891b50bc42b9bf",
+  "evidence_digest": "sha256:fa50500211bd749f1c3ebdd095e7b0dc27ea08d24eb262e1b8ece50c341ddd56",
+  "gate_id": "0d176111ad2b4ff08ab0744108c7a3f3",
+  "gate_seq": 1063
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1163",
+ "measure_id": "SB1163",
+ "subject": "or_legislature/2025R1/SB1163",
+ "title": "Requires an original equipment manufacturer to make available on fair and reasonable terms to a public body that owns or leases agricultural equipment any documentation, tool, part, embedded software, firmware, data or other device or implement for diagnosing, maintaining, repairing or updating the agricultural equipment that the original equipment manufacturer makes available to an authorized service provider.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1163 did not pass",
+ "claims": [
+  {
+   "text": "SB 1163 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624873
+   ]
+  },
+  {
+   "text": "SB 1163 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659255
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624873,
+    625785,
+    659255
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624873
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624873
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1163&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1163",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9597,
+  "finding_hash": "b3e63d7b98e3f0c9d9be111367630980441b5082b3eeaafc900b56aa4b77421e",
+  "evidence_digest": "sha256:7d48c62027ca47cb85bcfe42397477da8d038951aee84a51f2408f1cd9e61709",
+  "gate_id": "4bbb8007b9274543b6eca3bc8266a015",
+  "gate_seq": 9598
+ }
+}

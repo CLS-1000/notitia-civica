@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2227",
+ "measure_id": "HB2227",
+ "subject": "or_legislature/2025R1/HB2227",
+ "title": "Requires the State Treasurer to study investments.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2227 did not pass",
+ "claims": [
+  {
+   "text": "HB 2227 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614191
+   ]
+  },
+  {
+   "text": "HB 2227 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660233
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614191,
+    616400,
+    660233
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614191
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614191
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2227&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2227",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 678,
+  "finding_hash": "e7e4f716bfc28032672466f7d511f99f9e5f8d875e933c77da50ec4564a220c3",
+  "evidence_digest": "sha256:fc58331b954e550f0462529c6ae1922c536aa7899cb0a2e2706f3e6f4949d2cf",
+  "gate_id": "944a30a0035a4b4db34b24207a3fea1b",
+  "gate_seq": 679
+ }
+}

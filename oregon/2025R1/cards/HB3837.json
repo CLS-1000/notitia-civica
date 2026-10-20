@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3837",
+ "measure_id": "HB3837",
+ "subject": "or_legislature/2025R1/HB3837",
+ "title": "Appropriates moneys to the Oregon Business Development Department to award grants to cities and Oregon Indian tribes with high poverty rates for the purpose of developing local poverty reduction plans.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3837 did not pass",
+ "claims": [
+  {
+   "text": "HB 3837 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625013
+   ]
+  },
+  {
+   "text": "HB 3837 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660542
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625013,
+    626422,
+    631823,
+    638017,
+    639738,
+    639739,
+    660542
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625013
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625013
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    631823
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638017
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639738
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3837&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3837",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5508,
+  "finding_hash": "e9f0634bc7747a3017c32a623b7c9f5d93bbd921f270f4a8f3738c2faf0aca70",
+  "evidence_digest": "sha256:09e899fef3cad7e338dce641c76879f1a3feb590c2a09624d49aa6b41c57f5b9",
+  "gate_id": "3f174bc5b64c44ae828efff4774218d4",
+  "gate_seq": 5509
+ }
+}

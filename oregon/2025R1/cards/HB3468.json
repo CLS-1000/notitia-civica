@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3468",
+ "measure_id": "HB3468",
+ "subject": "or_legislature/2025R1/HB3468",
+ "title": "Prohibits a county clerk from using certain information provided by the Department of Transportation or the Oregon Health Authority to update any registration information for an elector who is already registered to vote.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3468 did not pass",
+ "claims": [
+  {
+   "text": "HB 3468 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620341
+   ]
+  },
+  {
+   "text": "HB 3468 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660846
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620341,
+    621014,
+    627956,
+    660846
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620341
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620341
+   ]
+  },
+  {
+   "date": "2025-03-12",
+   "when": "March 12, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627956
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660846
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3468&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3468",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4401,
+  "finding_hash": "42b422a75a6102d8a24ccfc30d603d4500db39df21ddb34b700ba971a3868e30",
+  "evidence_digest": "sha256:b473e26cc4dae5c0da8e64175e3119fe8135e1daac9ae2517e0fe462a2998f0d",
+  "gate_id": "0e477bd264dc43aeb9329985b68f9a25",
+  "gate_seq": 4402
+ }
+}

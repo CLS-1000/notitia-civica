@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2502",
+ "measure_id": "HB2502",
+ "subject": "or_legislature/2025R1/HB2502",
+ "title": "Directs the Department of Education to award grants to approved recovery schools.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2502 did not pass",
+ "claims": [
+  {
+   "text": "HB 2502 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614466
+   ]
+  },
+  {
+   "text": "HB 2502 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661467
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614466,
+    616675,
+    628160,
+    643819,
+    645475,
+    646629,
+    646630,
+    661467
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614466
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614466
+   ]
+  },
+  {
+   "date": "2025-03-12",
+   "when": "March 12, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628160
+   ]
+  },
+  {
+   "date": "2025-04-30",
+   "when": "April 30, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    643819
+   ]
+  },
+  {
+   "date": "2025-05-13",
+   "when": "May 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    646629
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2502&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2502",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1503,
+  "finding_hash": "ba0cf76eb1810f50217b145f0a77502ff4c8ed360a19a83a06745c31775c3d1b",
+  "evidence_digest": "sha256:f58280c7c2a1caa16931ea06ae8d17e64875bc19858a0b0d64733e6df7112d20",
+  "gate_id": "6df6fce0060746ff83c9f00ea3a81209",
+  "gate_seq": 1504
+ }
+}

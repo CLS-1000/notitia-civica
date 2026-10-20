@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1097",
+ "measure_id": "SB1097",
+ "subject": "or_legislature/2025R1/SB1097",
+ "title": "Directs the Department of Early Learning and Care to enter into an agreement with a nongovernmental organization to establish and administer a child care subsidy program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1097 did not pass",
+ "claims": [
+  {
+   "text": "SB 1097 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624296
+   ]
+  },
+  {
+   "text": "SB 1097 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659548
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624296,
+    624472,
+    659548
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624296
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624296
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1097&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1097",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9399,
+  "finding_hash": "0a99a7f8c8720ed98b50e88f58999b65b99add7a27724fdbf613e818ffaf1d1d",
+  "evidence_digest": "sha256:d88cd6c34ca8d6704793f9c1844c0f6e623a71cbeee776cca0342345f99d11e6",
+  "gate_id": "e51893e17a3c42ffb079127388803171",
+  "gate_seq": 9400
+ }
+}

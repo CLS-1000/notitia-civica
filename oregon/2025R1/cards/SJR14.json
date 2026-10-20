@@ -1,0 +1,81 @@
+{
+ "session": "2025R1",
+ "measure": "SJR 14",
+ "measure_id": "SJR14",
+ "subject": "or_legislature/2025R1/SJR14",
+ "title": "Proposes an amendment to the Oregon Constitution to increase the number of Senators serving in Legislative Assembly to 36 and to modify Senate legislative districts to be coterminous with county boundaries. Refers the proposed amendment to the people for approval or rejection at the next regular general election.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJR 14 did not pass",
+ "claims": [
+  {
+   "text": "SJR 14 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615245
+   ]
+  },
+  {
+   "text": "SJR 14 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659083
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615245,
+    617512,
+    659083
+   ]
+  },
+  {
+   "text": "SJR 14 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    659083
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615245
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615245
+   ]
+  }
+ ],
+ "topics": [
+  "ballot",
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJR' and MeasureNumber eq 14&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJR14",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10017,
+  "finding_hash": "9c3a56b8e3c74f84da39a927d7412e84729cb6f63d14ec30de221c441d925069",
+  "evidence_digest": "sha256:ad46faf6d82926146d5e89a29f37f61303fddecb719e47d53af4e0db8c5d0b13",
+  "gate_id": "abd5a3c6937244faad8029e1f0d4be9a",
+  "gate_seq": 10018
+ }
+}

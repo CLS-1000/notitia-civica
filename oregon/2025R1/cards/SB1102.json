@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1102",
+ "measure_id": "SB1102",
+ "subject": "or_legislature/2025R1/SB1102",
+ "title": "Requires the State Department of Energy to study energy.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1102 did not pass",
+ "claims": [
+  {
+   "text": "SB 1102 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624812
+   ]
+  },
+  {
+   "text": "SB 1102 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659205
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624812,
+    625724,
+    636721,
+    659205
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624812
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624812
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    636721
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659205
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1102&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1102",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9414,
+  "finding_hash": "1344c2187842a6ff93dffc92870abd91cc6e7b077e2c3eb12769e42ebfeefd66",
+  "evidence_digest": "sha256:4939ea75d6c98872a3c23948c8ef76dc4729ae5b8b3af5076e0c2bcc12056dc7",
+  "gate_id": "e41c8cb33e8b42f3afb622d36012bbd4",
+  "gate_seq": 9415
+ }
+}

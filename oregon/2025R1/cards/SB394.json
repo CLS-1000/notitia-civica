@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 394",
+ "measure_id": "SB394",
+ "subject": "or_legislature/2025R1/SB394",
+ "title": "Provides that, for 10 years, revenues from the corporate activity tax are transferred to the Public Employees Retirement Fund for payment of the unfunded actuarial liability of the Public Employees Retirement System, instead of to the Fund for Student Success.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 394 did not pass",
+ "claims": [
+  {
+   "text": "SB 394 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615699
+   ]
+  },
+  {
+   "text": "SB 394 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659021
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615699,
+    617966,
+    659021
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615699
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615699
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 394&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB394",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7290,
+  "finding_hash": "106a974c297100db8bdd62fc0534f3c3a887cff8e4da477f56206afb0ad0c189",
+  "evidence_digest": "sha256:371ab73273b3f276da1dd346076a284cc9d8eb78cedab9afc3ce94d3b687e48c",
+  "gate_id": "db016c7f208547d3a6a2514301ab7cd7",
+  "gate_seq": 7291
+ }
+}

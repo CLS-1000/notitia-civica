@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HCR 32",
+ "measure_id": "HCR32",
+ "subject": "or_legislature/2025R1/HCR32",
+ "title": "Designates the Corgi as the official state dog.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HCR 32 did not pass",
+ "claims": [
+  {
+   "text": "HCR 32 was introduced in the House on March 17, 2025.",
+   "row_ids": [
+    628963
+   ]
+  },
+  {
+   "text": "HCR 32 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660324
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    628963,
+    629552,
+    660324
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    628963
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    628963
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 32&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HCR32",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10245,
+  "finding_hash": "e9d52fd0026906f3dbd895928ab55708a64ca4218d6ead728392af0f4305a902",
+  "evidence_digest": "sha256:a71d9ac7996f3fb411e324e29b32e072740f0eefdd65932dd46068b1f7cfa660",
+  "gate_id": "bdd2569efb55432385d2209f9e52cb62",
+  "gate_seq": 10246
+ }
+}

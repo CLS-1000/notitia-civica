@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 114",
+ "measure_id": "SB114",
+ "subject": "or_legislature/2025R1/SB114",
+ "title": "Requires the Legislative Revenue Officer to study the property tax system in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 114 did not pass",
+ "claims": [
+  {
+   "text": "SB 114 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615419
+   ]
+  },
+  {
+   "text": "SB 114 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659454
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615419,
+    617686,
+    659454
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615419
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615419
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 114&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB114",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6450,
+  "finding_hash": "a8465dd068a58874b91442d8385ea8136d5df79ecc3b1cac6d6b72fa7739a953",
+  "evidence_digest": "sha256:6014274e68b5bf9e1292ea7ce4f8b7a6f26a6ace3a94383904023cea9978e0f9",
+  "gate_id": "7472f0ea02b5448dbbe52b4f52113183",
+  "gate_seq": 6451
+ }
+}

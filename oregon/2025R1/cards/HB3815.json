@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3815",
+ "measure_id": "HB3815",
+ "subject": "or_legislature/2025R1/HB3815",
+ "title": "Requires the Oregon Criminal Justice Commission to study the effect of different types of sentences on rates of recidivism.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3815 did not pass",
+ "claims": [
+  {
+   "text": "HB 3815 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624991
+   ]
+  },
+  {
+   "text": "HB 3815 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660522
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624991,
+    626400,
+    660522
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624991
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624991
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3815&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3815",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5442,
+  "finding_hash": "d77714cc071ea122e8e915ad034939b1eebc1e34d77b7416f236327a34dd770b",
+  "evidence_digest": "sha256:e962b645cf95e73a523c7a3ba0a2a5ca166861e2d93d60ba75db41cd4c0cbefb",
+  "gate_id": "82d3ec2926a34730add16fa3dc8170a2",
+  "gate_seq": 5443
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 545",
+ "measure_id": "SB545",
+ "subject": "or_legislature/2025R1/SB545",
+ "title": "Establishes an income tax credit for volunteer firefighters.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 545 did not pass",
+ "claims": [
+  {
+   "text": "SB 545 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615850
+   ]
+  },
+  {
+   "text": "SB 545 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659379
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615850,
+    618117,
+    619639,
+    659379
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615850
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615850
+   ]
+  },
+  {
+   "date": "2025-01-29",
+   "when": "January 29, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619639
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659379
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 545&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB545",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7743,
+  "finding_hash": "d12e27c3839ba5aa631ea48c22ef8eed804095691cf4916b3cc58e2cfa7d81c4",
+  "evidence_digest": "sha256:875b974bf54e32ebd11ba979efb0f6d2e270e28bab0902676e6f220763065116",
+  "gate_id": "db8577547a2b4cb9b3818b67923ab2e0",
+  "gate_seq": 7744
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2224",
+ "measure_id": "HB2224",
+ "subject": "or_legislature/2025R1/HB2224",
+ "title": "Modifies the membership of the metrics and scoring subcommittee of the Health Plan Quality Metrics Committee to include a member with expertise in public health or population health data.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2224 did not pass",
+ "claims": [
+  {
+   "text": "HB 2224 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614188
+   ]
+  },
+  {
+   "text": "HB 2224 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660193
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614188,
+    616397,
+    626513,
+    660193
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614188
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614188
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626513
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660193
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2224&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2224",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 669,
+  "finding_hash": "6f505c85012959032844cb1609c92072f07d9de06741645de66d5a71c55e2b05",
+  "evidence_digest": "sha256:ef2a2dc8b816db05f4d9e904adacf400f3ea515199e69b43442e7443a0e4faaa",
+  "gate_id": "2d6d8db74f4d4c76aecd8b3942517e24",
+  "gate_seq": 670
+ }
+}

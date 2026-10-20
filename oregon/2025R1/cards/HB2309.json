@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2309",
+ "measure_id": "HB2309",
+ "subject": "or_legislature/2025R1/HB2309",
+ "title": "Requires an applicant for change of name who has been convicted of some crimes to prove necessity of name change by clear and convincing evidence.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2309 did not pass",
+ "claims": [
+  {
+   "text": "HB 2309 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614273
+   ]
+  },
+  {
+   "text": "HB 2309 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659843
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614273,
+    616482,
+    659843
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614273
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614273
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2309&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2309",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 924,
+  "finding_hash": "e4911d450d18f2a8eca2427a7e077f1847ab6fe7a19f4942fc5af5670e56ddac",
+  "evidence_digest": "sha256:79b385a7e288654b42ed22b67fae439a74ab0e2a925ae6030528cd5b6afa6005",
+  "gate_id": "50338e9630204fc0aeca1779d6bab9ee",
+  "gate_seq": 925
+ }
+}

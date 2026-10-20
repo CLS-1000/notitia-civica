@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 886",
+ "measure_id": "SB886",
+ "subject": "or_legislature/2025R1/SB886",
+ "title": "Directs the Department of Transportation or county authorities to prioritize applications for renewable energy facilities and lines, facilities or systems for transmitting electricity from renewable energy facilities when reviewing or granting applications to place, build or construct on the right of way of a state highway or county road.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 886 did not pass",
+ "claims": [
+  {
+   "text": "SB 886 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618662
+   ]
+  },
+  {
+   "text": "SB 886 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659303
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618662,
+    618833,
+    659303
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618662
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618662
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 886&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB886",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8766,
+  "finding_hash": "45ec0de1be1d46cd9d3474daaccfcea92c932df3ff1af78069a7d43298ce67b9",
+  "evidence_digest": "sha256:1d7239bbd37012a727d76532fa7034419263382d3b39463dd4e9fff06fe8189a",
+  "gate_id": "91bfc9861e594a4898babf40c1405cfd",
+  "gate_seq": 8767
+ }
+}

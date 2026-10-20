@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3258",
+ "measure_id": "HB3258",
+ "subject": "or_legislature/2025R1/HB3258",
+ "title": "Requires the Oregon Business Development Department to conduct a study of economic development in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3258 did not pass",
+ "claims": [
+  {
+   "text": "HB 3258 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618729
+   ]
+  },
+  {
+   "text": "HB 3258 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660965
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618729,
+    619127,
+    660965
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618729
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618729
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3258&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3258",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3771,
+  "finding_hash": "6cbe8a814207fdcf4a2dc2b5fde06becc74e6e5acf06632ddd64cf4f479b9c64",
+  "evidence_digest": "sha256:04c2c6a6b87a3d4eac455fefec3042c4bf9880138d5a4ebd71ccb9d636824f4e",
+  "gate_id": "ff0b65e134324f5390f9c819692b5aa4",
+  "gate_seq": 3772
+ }
+}

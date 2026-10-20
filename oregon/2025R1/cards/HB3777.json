@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3777",
+ "measure_id": "HB3777",
+ "subject": "or_legislature/2025R1/HB3777",
+ "title": "Designates Election Day as a legal holiday on the first Tuesday after the first Monday in November of an even-numbered year.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3777 did not pass",
+ "claims": [
+  {
+   "text": "HB 3777 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624953
+   ]
+  },
+  {
+   "text": "HB 3777 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661347
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624953,
+    626362,
+    661347
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624953
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624953
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3777&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3777",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5328,
+  "finding_hash": "fca7f9fc29a84b7fcd6902e2477dc05c895d47776d50364ae97624101a7dffbd",
+  "evidence_digest": "sha256:f156a5796151d45d13e43adbd85742667f2e5d26d5de8546f4e7a3400b2276c1",
+  "gate_id": "af117a03eef44b0183dc788fdd7e1d6a",
+  "gate_seq": 5329
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2313",
+ "measure_id": "HB2313",
+ "subject": "or_legislature/2025R1/HB2313",
+ "title": "Expands the crime of assault in the third degree to include causing physical injury to a health care worker while the worker is acting in the course of official duty.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2313 did not pass",
+ "claims": [
+  {
+   "text": "HB 2313 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614277
+   ]
+  },
+  {
+   "text": "HB 2313 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659847
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614277,
+    616486,
+    659847
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614277
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614277
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2313&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2313",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 936,
+  "finding_hash": "66e8f0808e25e536952b819208be6dc0b8eb9f504661d87bd19f2330d218ab1f",
+  "evidence_digest": "sha256:279c71df629b80fb30dddc41621f0f4141dada85c5ccdaf39b16c972e07cbc85",
+  "gate_id": "8e186f3f974e4055b1f6cb43f09c5c4f",
+  "gate_seq": 937
+ }
+}

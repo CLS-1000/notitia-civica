@@ -1,0 +1,104 @@
+{
+ "session": "2025R1",
+ "measure": "HJR 11",
+ "measure_id": "HJR11",
+ "subject": "or_legislature/2025R1/HJR11",
+ "title": "Proposes an amendment to the Oregon Constitution to require petition signatures for initiative laws to contain at least eight percent of the total votes cast for all candidates for Governor at the last general election at which a Governor was elected divided equally among the congressional districts of this state. Proposes an amendment to the Oregon Constitution to require petition signatures for initiative amendments to the Oregon Constitution to contain at least ten percent of the total votes cast for all candidates for Governor at the last general election at which a Governor was elected divided equally among the congressional districts of this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJR 11 did not pass",
+ "claims": [
+  {
+   "text": "HJR 11 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613923
+   ]
+  },
+  {
+   "text": "HJR 11 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660887
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613923,
+    618972,
+    627349,
+    660887
+   ]
+  },
+  {
+   "text": "HJR 11 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    660887
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613923
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613923
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627349
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660887
+   ]
+  }
+ ],
+ "topics": [
+  "ballot",
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJR' and MeasureNumber eq 11&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJR11",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9942,
+  "finding_hash": "f5db80fd7a8d7777990dedc144a7147f8f74a01adaf1c9cbe8c0291200e49ace",
+  "evidence_digest": "sha256:9fe3a297265af8db05446c3e6ef80224843aa3beb66985bc164da07d7e1c527d",
+  "gate_id": "cae15b00a8784051bdce50a13f6fa749",
+  "gate_seq": 9943
+ }
+}

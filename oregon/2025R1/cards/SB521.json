@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 521",
+ "measure_id": "SB521",
+ "subject": "or_legislature/2025R1/SB521",
+ "title": "Requires additional cities to develop urban reserves.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 521 did not pass",
+ "claims": [
+  {
+   "text": "SB 521 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615826
+   ]
+  },
+  {
+   "text": "SB 521 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659358
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615826,
+    618093,
+    659358
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615826
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615826
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 521&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB521",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7671,
+  "finding_hash": "6b20ce35eeed386fbb44507fffbe655cd738f680cbd941f042d82a62dafead84",
+  "evidence_digest": "sha256:e292fedbad132ee54cc057375b09f3b82a7fc9c4ed5be3e919ac613db1377100",
+  "gate_id": "fbe055701b7b469881cbfb5059698919",
+  "gate_seq": 7672
+ }
+}

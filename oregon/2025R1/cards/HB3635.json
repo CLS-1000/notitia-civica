@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3635",
+ "measure_id": "HB3635",
+ "subject": "or_legislature/2025R1/HB3635",
+ "title": "Increases the limit on the aggregate amount of XI-G general obligation bonds that may be issued for projects at a single community college.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3635 did not pass",
+ "claims": [
+  {
+   "text": "HB 3635 was introduced in the House on February 20, 2025.",
+   "row_ids": [
+    623570
+   ]
+  },
+  {
+   "text": "HB 3635 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660564
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623570,
+    623862,
+    627681,
+    632305,
+    634347,
+    634348,
+    660564
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    623570
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623570
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627681
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632305
+   ]
+  },
+  {
+   "date": "2025-03-28",
+   "when": "March 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    634347
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3635&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3635",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4902,
+  "finding_hash": "e14632fab6c12921183e74dcc6d6714a74ec02a327f43b56c0ce52fe6d31ceda",
+  "evidence_digest": "sha256:f07116208f19fc6463fff67bc4fc7783bf46cf0aabde57f9ae574284d06bc3b8",
+  "gate_id": "08c86a481d3d45be8978b1ae5384dbd1",
+  "gate_seq": 4903
+ }
+}

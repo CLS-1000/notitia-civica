@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2907",
+ "measure_id": "HB2907",
+ "subject": "or_legislature/2025R1/HB2907",
+ "title": "Creates an income tax credit for investment in community gardens and food banks.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2907 did not pass",
+ "claims": [
+  {
+   "text": "HB 2907 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614871
+   ]
+  },
+  {
+   "text": "HB 2907 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661214
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614871,
+    617080,
+    622221,
+    623429,
+    624760,
+    625696,
+    625697,
+    661214
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614871
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614871
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623429
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    624760
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    625696
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2907&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2907",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2718,
+  "finding_hash": "05247fc9f531094ac6fbac4eb4ac86bb0da73418b8c244723cb2c40596fda4d3",
+  "evidence_digest": "sha256:ed18303d25af2782283f04500b36a6d36c901f85ce221934dfbcc471a6bca2d8",
+  "gate_id": "0d4978d705a046a8a49765d9a08a423c",
+  "gate_seq": 2719
+ }
+}

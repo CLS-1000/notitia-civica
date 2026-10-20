@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "SB 769",
+ "measure_id": "SB769",
+ "subject": "or_legislature/2025R1/SB769",
+ "title": "Provides that a county is exempt from the applicability of a statute banning the use of dogs to hunt or pursue cougars if voters approve a county measure proposed by initiative petition or referred to the people by the governing body of the county.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 769 did not pass",
+ "claims": [
+  {
+   "text": "SB 769 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616073
+   ]
+  },
+  {
+   "text": "SB 769 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659174
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616073,
+    618340,
+    621920,
+    659174
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616073
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616073
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621920
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659174
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 769&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB769",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8415,
+  "finding_hash": "13895c52ce71ca827054fa158476cf24439d1d97b6712a7c6dab71f2e71ad716",
+  "evidence_digest": "sha256:06f9ea968922ad6f5fa0d1ac47518709029d48151a2672019e58598c6424adb4",
+  "gate_id": "388e20dea9ad47aea053e2bc98d76d76",
+  "gate_seq": 8416
+ }
+}

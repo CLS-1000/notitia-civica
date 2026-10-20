@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 457",
+ "measure_id": "SB457",
+ "subject": "or_legislature/2025R1/SB457",
+ "title": "Requires the Legislative Revenue Officer to study the inclusion of public safety programs as tourism promotion for purposes of transient lodging tax expenditures.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 457 did not pass",
+ "claims": [
+  {
+   "text": "SB 457 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615762
+   ]
+  },
+  {
+   "text": "SB 457 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659088
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615762,
+    618029,
+    659088
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615762
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615762
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 457&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB457",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7479,
+  "finding_hash": "20f49c12649e6149c797a0f4b9a0b147b6c19a0b450877a4391b2ca9ec3d80d4",
+  "evidence_digest": "sha256:f236984df4d532554499349cff51813e0e75c15a7755336b9da256c727b20721",
+  "gate_id": "057914a21fa74d9f91e2af2b07b4e699",
+  "gate_seq": 7480
+ }
+}

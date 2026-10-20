@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2040",
+ "measure_id": "HB2040",
+ "subject": "or_legislature/2025R1/HB2040",
+ "title": "Establishes a complaint process for health care providers to submit complaints to the Department of Consumer and Business Services or the Oregon Health Authority regarding health insurers or coordinated care organizations.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2040 did not pass",
+ "claims": [
+  {
+   "text": "HB 2040 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614004
+   ]
+  },
+  {
+   "text": "HB 2040 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660856
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614004,
+    616213,
+    660856
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614004
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614004
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2040&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2040",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 117,
+  "finding_hash": "d2529e62842ea815af3e78b14dbeb3b19b620c7901aa9446c2e21c8805a354bb",
+  "evidence_digest": "sha256:dafa7ac059d5d60df777de47738e1c98b01722c47a6eee11536cba75eead1e28",
+  "gate_id": "4532e2ed4bbf4d83b9b39f024856b8ee",
+  "gate_seq": 118
+ }
+}

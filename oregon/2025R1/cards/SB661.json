@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 661",
+ "measure_id": "SB661",
+ "subject": "or_legislature/2025R1/SB661",
+ "title": "Repeals the directive to the State Board of Education to review social studies standards.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 661 did not pass",
+ "claims": [
+  {
+   "text": "SB 661 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615966
+   ]
+  },
+  {
+   "text": "SB 661 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658855
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615966,
+    618233,
+    658855
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615966
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615966
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 661&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB661",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8091,
+  "finding_hash": "d4abd16221d7848000d215408e873c5ce73b081ceb1942bb8ced1a3aedacf5b8",
+  "evidence_digest": "sha256:ffbde97351e3c0c18eb5141b8c7417fd906d7a9eab234dcf348f5d0bdf6be96e",
+  "gate_id": "0e104144f04b4a5f826c991d7bd49af0",
+  "gate_seq": 8092
+ }
+}

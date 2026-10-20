@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3949",
+ "measure_id": "HB3949",
+ "subject": "or_legislature/2025R1/HB3949",
+ "title": "Prescribes requirements related to contracts entered into between the State Board of Education and a publisher of textbooks and instructional materials.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3949 did not pass",
+ "claims": [
+  {
+   "text": "HB 3949 was introduced in the House on March 20, 2025.",
+   "row_ids": [
+    630042
+   ]
+  },
+  {
+   "text": "HB 3949 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659939
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    630042,
+    630287,
+    659939
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    630042
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    630042
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3949&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3949",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5844,
+  "finding_hash": "b501c930a421e779f0c1d60bfcef02e5351e9497f99a952bab8166c6d427d329",
+  "evidence_digest": "sha256:8a2c52e150559a314882e697e3a07b21bc8ff2003b5a78aa75f96e1f6729320b",
+  "gate_id": "00e0f1e04099495a8ba28267a430d3a8",
+  "gate_seq": 5845
+ }
+}

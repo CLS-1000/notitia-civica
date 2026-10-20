@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SR 1",
+ "measure_id": "SR1",
+ "subject": "or_legislature/2025R1/SR1",
+ "title": "Modifies Senate Rules to permit parking permits supplied to staff and staff reimbursement for costs incurred by staff in parking at or near the State Capitol building to be paid for out of the members' services and supplies accounts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SR 1 did not pass",
+ "claims": [
+  {
+   "text": "SR 1 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615262
+   ]
+  },
+  {
+   "text": "SR 1 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658777
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615262,
+    617529,
+    658777
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615262
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615262
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SR' and MeasureNumber eq 1&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SR1",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10389,
+  "finding_hash": "6ffe3b9862289c086a185773e2a49ab1d9a19f2cb4420b9a7ef10d7f72605d45",
+  "evidence_digest": "sha256:3550707df02344ac9f4f3f7f06e2e86a76276b6205c46daefc74d5557ce83606",
+  "gate_id": "9226c6199f2049f88f749161a360d5bc",
+  "gate_seq": 10390
+ }
+}

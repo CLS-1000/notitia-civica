@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 532",
+ "measure_id": "SB532",
+ "subject": "or_legislature/2025R1/SB532",
+ "title": "Requires dental insurers to follow certain rules for payment and denial of claims.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 532 did not pass",
+ "claims": [
+  {
+   "text": "SB 532 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615837
+   ]
+  },
+  {
+   "text": "SB 532 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659369
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615837,
+    618104,
+    635968,
+    639112,
+    640970,
+    640971,
+    659369
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615837
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615837
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    635968
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639112
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640970
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 532&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB532",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7704,
+  "finding_hash": "cf4f27658c9df3d9d337f8c8cd59ece7badd839c7e80b8348b20cf776e6ac040",
+  "evidence_digest": "sha256:24d63570746ad099615bd631fb4a9411aeaaa88da9443b7ad58194449fed01aa",
+  "gate_id": "f9d948b764e7481d8fbd75c6db746465",
+  "gate_seq": 7705
+ }
+}

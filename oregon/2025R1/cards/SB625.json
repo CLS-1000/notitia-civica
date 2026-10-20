@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 625",
+ "measure_id": "SB625",
+ "subject": "or_legislature/2025R1/SB625",
+ "title": "Repeals provisions requiring employers to pay overtime to agricultural workers who work in excess of the maximum allowable hours.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 625 did not pass",
+ "claims": [
+  {
+   "text": "SB 625 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615930
+   ]
+  },
+  {
+   "text": "SB 625 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658812
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615930,
+    618197,
+    658812
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615930
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615930
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 625&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB625",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7983,
+  "finding_hash": "b472c2d318802bf84c39cbf5282dc74ecc40b5514b52f8ac7a1919f419822263",
+  "evidence_digest": "sha256:b46058b6c4f24e1448ec72a601a9b4a5d5632e14cb943c1c68ef058b7478235a",
+  "gate_id": "d3601498cfb54526be7a672b5b5d5a95",
+  "gate_seq": 7984
+ }
+}

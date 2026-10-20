@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 894",
+ "measure_id": "SB894",
+ "subject": "or_legislature/2025R1/SB894",
+ "title": "Requires the Department of Education, in collaboration with the STEM Investment Council, to conduct specified reviews for the purpose of developing and recommending standards by which technology-based competitive student activities may satisfy high school diploma requirements or career and technical education program requirements.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 894 did not pass",
+ "claims": [
+  {
+   "text": "SB 894 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618670
+   ]
+  },
+  {
+   "text": "SB 894 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659108
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618670,
+    618841,
+    620217,
+    624015,
+    624657,
+    624658,
+    659108
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618670
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618670
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "when": "February 3, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620217
+   ]
+  },
+  {
+   "date": "2025-02-24",
+   "when": "February 24, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    624015
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    624657
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 894&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB894",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8790,
+  "finding_hash": "7dacbc3e55b0784055d24d5a5e59bf0c15cbd576b644c11bbf9698c9499b3d01",
+  "evidence_digest": "sha256:6d7a9dfc0e3a8e39b87eb20f30447b6c4d05f6168931b776e960207679a59a65",
+  "gate_id": "21761cd8f6d9460483d6eab625799c24",
+  "gate_seq": 8791
+ }
+}

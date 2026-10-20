@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 639",
+ "measure_id": "SB639",
+ "subject": "or_legislature/2025R1/SB639",
+ "title": "Requires the State Forester to actively manage state forestlands to achieve and maintain low forest fuel load levels.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 639 did not pass",
+ "claims": [
+  {
+   "text": "SB 639 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615944
+   ]
+  },
+  {
+   "text": "SB 639 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658833
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615944,
+    618211,
+    658833
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615944
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615944
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 639&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB639",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8025,
+  "finding_hash": "d6d167c143dc1603e7366e0c196f1afec3906dea73e24511d224a8c35c155d7c",
+  "evidence_digest": "sha256:27fc4b1142bdb639a4b20f2fcb6e7cfbff4025d4502a444cd7ee624a95f3b192",
+  "gate_id": "625af785611744ea9ec589b951423990",
+  "gate_seq": 8026
+ }
+}

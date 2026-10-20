@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3102",
+ "measure_id": "HB3102",
+ "subject": "or_legislature/2025R1/HB3102",
+ "title": "Directs the Department of Consumer and Business Services to study certain impacts of damages from wildfire.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3102 did not pass",
+ "claims": [
+  {
+   "text": "HB 3102 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615066
+   ]
+  },
+  {
+   "text": "HB 3102 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659993
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615066,
+    617275,
+    637373,
+    639513,
+    639514,
+    659993
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615066
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615066
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637373
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    639513
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3102&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3102",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3303,
+  "finding_hash": "75a58c69f48025000b3ccbf7e6dbe32035b6947fb6ed7f8b5eca6439ea2c81b1",
+  "evidence_digest": "sha256:16dc5a5b01414a7d93629347129fbf492d14b5d322025b78c47c19f95f9fa284",
+  "gate_id": "f88fc4bff43740998dc154cb0223f3cf",
+  "gate_seq": 3304
+ }
+}

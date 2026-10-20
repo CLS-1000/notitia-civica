@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3198",
+ "measure_id": "HB3198",
+ "subject": "or_legislature/2025R1/HB3198",
+ "title": "Directs the Oregon Health Authority to dedicate staff in the office of the authority that is responsible for tribal affairs to lead the work of addressing the issue of missing and murdered indigenous people.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3198 did not pass",
+ "claims": [
+  {
+   "text": "HB 3198 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615162
+   ]
+  },
+  {
+   "text": "HB 3198 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660035
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615162,
+    617371,
+    620286,
+    621643,
+    622376,
+    622377,
+    660035
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615162
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615162
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "when": "February 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620286
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "when": "February 10, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    621643
+   ]
+  },
+  {
+   "date": "2025-02-13",
+   "when": "February 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    622376
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3198&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3198",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3591,
+  "finding_hash": "fb3f68e6e5d60a698e698973021e1fdb342c9c8f9e913debe39464f66f75c3ec",
+  "evidence_digest": "sha256:52ee5b8639c57a87c635ae5b8327cded1d02bf8fac369238fa38716d3bbac2c8",
+  "gate_id": "f1a0b442166243ac93cb84e7d6d57353",
+  "gate_seq": 3592
+ }
+}

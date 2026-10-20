@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3742",
+ "measure_id": "HB3742",
+ "subject": "or_legislature/2025R1/HB3742",
+ "title": "Provides that members of the Legislative Assembly and legislative branch employees who have a valid concealed handgun license have an affirmative defense to a charge of possessing a firearm within the Capitol, and may not be arrested or charged for the offense while in possession of the license.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3742 did not pass",
+ "claims": [
+  {
+   "text": "HB 3742 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624426
+   ]
+  },
+  {
+   "text": "HB 3742 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660396
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624426,
+    625287,
+    660396
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624426
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624426
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3742&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3742",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5223,
+  "finding_hash": "b7b480721509c1e98bd4d7310d8a409b7527d76b0d77d13274e7e7f8456a77a3",
+  "evidence_digest": "sha256:d76228e7065e712bdc64fd6bb6583acda554d79557e7a51a432e1d7f3aeb761a",
+  "gate_id": "3c3dac90dcdb438a8100e477e90f0fa7",
+  "gate_seq": 5224
+ }
+}

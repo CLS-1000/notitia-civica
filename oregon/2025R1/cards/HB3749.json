@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3749",
+ "measure_id": "HB3749",
+ "subject": "or_legislature/2025R1/HB3749",
+ "title": "Allows a community solar project to participate in the community solar program irrespective of the project's nameplate capacity or location within this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3749 did not pass",
+ "claims": [
+  {
+   "text": "HB 3749 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624925
+   ]
+  },
+  {
+   "text": "HB 3749 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660462
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624925,
+    626334,
+    660462
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624925
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624925
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3749&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3749",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5244,
+  "finding_hash": "f4e5abdbea3cfd4680ef7122e3119ce279e959fc11a7dce91d3ca03d91d49c20",
+  "evidence_digest": "sha256:e3e20a75c91c9d94ea74e7a8cb4c994b786be36645d543599614933e7faf2966",
+  "gate_id": "09cd71b3479e48ea94b275f6cf5f4825",
+  "gate_seq": 5245
+ }
+}

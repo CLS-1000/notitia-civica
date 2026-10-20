@@ -1,0 +1,111 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3382",
+ "measure_id": "HB3382",
+ "subject": "or_legislature/2025R1/HB3382",
+ "title": "Directs the Secretary of State to maintain an online Oregon Rulemaking Information System.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3382 did not pass",
+ "claims": [
+  {
+   "text": "HB 3382 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619433
+   ]
+  },
+  {
+   "text": "HB 3382 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659899
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619433,
+    619805,
+    622000,
+    649985,
+    650700,
+    650701,
+    659899
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619433
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619433
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622000
+   ]
+  },
+  {
+   "date": "2025-05-28",
+   "when": "May 28, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    649985
+   ]
+  },
+  {
+   "date": "2025-05-29",
+   "when": "May 29, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    650700
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3382&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3382",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4143,
+  "finding_hash": "7b201e9183bdfff9e8472f20f57437d194fbe402c069e6bf3b932001a8e14b80",
+  "evidence_digest": "sha256:a7d9a2b5e73000fd401e61a5fda283a9654b1c34381aeb224c80f181495046f3",
+  "gate_id": "3e2350d406634d90af7c2cf3fe73ff64",
+  "gate_seq": 4144
+ }
+}

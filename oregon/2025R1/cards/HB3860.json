@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3860",
+ "measure_id": "HB3860",
+ "subject": "or_legislature/2025R1/HB3860",
+ "title": "Prohibits a major residential contractor from collecting or retaining more than 50 percent of the original contract price before substantially completing a remodeling or repair of an owner-occupied one-family or two-family residential structure if the original contract price exceeds $40,000.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3860 did not pass",
+ "claims": [
+  {
+   "text": "HB 3860 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625036
+   ]
+  },
+  {
+   "text": "HB 3860 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661068
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625036,
+    626445,
+    632250,
+    661068
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625036
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625036
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632250
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661068
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3860&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3860",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5577,
+  "finding_hash": "3df8c47ba0065666002e7f3a3014a393ff71dc504fcd87b4f990c5b94320f6e6",
+  "evidence_digest": "sha256:59768077138271ed300d5e8b8d4ae5a826f123bd18dabb342bf9f6d27dfd32cd",
+  "gate_id": "210726e1fa56424d909d2ad72706f8a8",
+  "gate_seq": 5578
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3617",
+ "measure_id": "HB3617",
+ "subject": "or_legislature/2025R1/HB3617",
+ "title": "Appropriates moneys to the Mapleton Water District to fund the replacement of its water distribution lines.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3617 did not pass",
+ "claims": [
+  {
+   "text": "HB 3617 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622952
+   ]
+  },
+  {
+   "text": "HB 3617 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661398
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622952,
+    623507,
+    661398
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622952
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622952
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3617&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3617",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4848,
+  "finding_hash": "81a440d839aa00fc9399e141b9cfa8aaa6533a5e996abcc7e6a86aa4bb7e3f48",
+  "evidence_digest": "sha256:b2fc1139b40649c1f9bb29f06caa6f0008bb747764b6f89c0f2d9d7f2b02a0dd",
+  "gate_id": "0892770eb07c40a993779b2928187095",
+  "gate_seq": 4849
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1135",
+ "measure_id": "SB1135",
+ "subject": "or_legislature/2025R1/SB1135",
+ "title": "Allows a qualifying county to adopt an ordinance to impose a tax on adult-use and medical marijuana production.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1135 did not pass",
+ "claims": [
+  {
+   "text": "SB 1135 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624845
+   ]
+  },
+  {
+   "text": "SB 1135 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659231
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624845,
+    625757,
+    659231
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624845
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624845
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1135&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1135",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9513,
+  "finding_hash": "9a2ba22b841cea01113c5d7831b3ee98c02e28bb20df41e0e4097e089bfdf427",
+  "evidence_digest": "sha256:b5c5274316d569cefb29321995b1f8bd993b9530ccd454cc2e7929438b423fcd",
+  "gate_id": "4b78b79e616d420381d1fd158470ea51",
+  "gate_seq": 9514
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3292",
+ "measure_id": "HB3292",
+ "subject": "or_legislature/2025R1/HB3292",
+ "title": "Requires the Oregon Department of Emergency Management to study seaport transportation infrastructure resilience.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3292 did not pass",
+ "claims": [
+  {
+   "text": "HB 3292 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618763
+   ]
+  },
+  {
+   "text": "HB 3292 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660999
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618763,
+    619161,
+    660999
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618763
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618763
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3292&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3292",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3873,
+  "finding_hash": "ee568f1945de6764610379530f44d62763662fa50e29973f8f768d6ff85b45da",
+  "evidence_digest": "sha256:43dfe288cd1665d15b6f28783ea1573e77c8fe09f7f8f07f1cc37353f68c429b",
+  "gate_id": "470b7893fb124d22bf3ec001ff0e9d16",
+  "gate_seq": 3874
+ }
+}

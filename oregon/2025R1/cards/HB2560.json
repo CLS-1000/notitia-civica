@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2560",
+ "measure_id": "HB2560",
+ "subject": "or_legislature/2025R1/HB2560",
+ "title": "Directs the Department of Human Services to restructure its rate methodology for payments to adult foster home providers by January 1, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2560 did not pass",
+ "claims": [
+  {
+   "text": "HB 2560 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614524
+   ]
+  },
+  {
+   "text": "HB 2560 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660896
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614524,
+    616733,
+    621679,
+    630013,
+    632323,
+    632324,
+    660896
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614524
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614524
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621679
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    630013
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    632323
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2560&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2560",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1677,
+  "finding_hash": "d64fcd36059099f076203ac6a021a0f647c3393f7f0863433bd7f26f3ef12cd2",
+  "evidence_digest": "sha256:788db0173e2e1c96951e4d286aee64778f7f5a20fc39e004c376592adbb0243c",
+  "gate_id": "0a6176ee78aa4aa081501aa82cc6641b",
+  "gate_seq": 1678
+ }
+}

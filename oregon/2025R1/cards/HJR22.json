@@ -1,0 +1,80 @@
+{
+ "session": "2025R1",
+ "measure": "HJR 22",
+ "measure_id": "HJR22",
+ "subject": "or_legislature/2025R1/HJR22",
+ "title": "Proposes an amendment to the Oregon Constitution to create the County Review Board, consisting of one representative from each county in this state. Directs the board to meet after each session of the Legislative Assembly to review each legislative Act enacted at the session that is related to land use, natural resources or forestry.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJR 22 did not pass",
+ "claims": [
+  {
+   "text": "HJR 22 was introduced in the House on April 15, 2025.",
+   "row_ids": [
+    640673
+   ]
+  },
+  {
+   "text": "HJR 22 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659952
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    640673,
+    641847,
+    659952
+   ]
+  },
+  {
+   "text": "HJR 22 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    659952
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    640673
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    640673
+   ]
+  }
+ ],
+ "topics": [
+  "ballot"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJR' and MeasureNumber eq 22&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJR22",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9975,
+  "finding_hash": "3dccfc461de39ecd27771cdecf236494f386ccc8941bfa9d2331c436cb880afa",
+  "evidence_digest": "sha256:085102c571a816be69c82826a335c7ce1c4e1debd308653b91b660b05a93d850",
+  "gate_id": "c906b5d00e1843a78da742d6836a94be",
+  "gate_seq": 9976
+ }
+}

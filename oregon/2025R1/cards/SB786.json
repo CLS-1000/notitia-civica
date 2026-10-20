@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 786",
+ "measure_id": "SB786",
+ "subject": "or_legislature/2025R1/SB786",
+ "title": "Requires a public institution of higher education to award academic credit when an enrolled student completed a high school class or participated in a high school program that offered learning and experiences comparable to an introductory communications, public speaking or argumentation course offered at the institution.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 786 did not pass",
+ "claims": [
+  {
+   "text": "SB 786 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616090
+   ]
+  },
+  {
+   "text": "SB 786 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659189
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616090,
+    618357,
+    627289,
+    659189
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616090
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616090
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627289
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659189
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 786&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB786",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8466,
+  "finding_hash": "8cfae42424c7edbbdf9083cbb9e449be81715e6b926a2d6dc161a669ea1ce634",
+  "evidence_digest": "sha256:ee97b14141a8ea8eb02b81137f0ec3043a492120ac8c3c035a0bd8fe7d9d35f7",
+  "gate_id": "1fc92fc7b8f348fc8c4b8cebc0839313",
+  "gate_seq": 8467
+ }
+}

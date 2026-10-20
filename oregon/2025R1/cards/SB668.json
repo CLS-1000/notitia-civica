@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 668",
+ "measure_id": "SB668",
+ "subject": "or_legislature/2025R1/SB668",
+ "title": "Expands tuition benefits available to disabled veterans to permit veterans who are Oregon residents and are 80 percent or more disabled, and the spouse and child of disabled veterans, to have tuition waived for enrollment in a vocational program or an associate degree, baccalaureate degree or master's degree program at community colleges, public universities and the Oregon Health and Science University.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 668 did not pass",
+ "claims": [
+  {
+   "text": "SB 668 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615973
+   ]
+  },
+  {
+   "text": "SB 668 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658862
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615973,
+    618240,
+    621068,
+    623158,
+    623952,
+    623953,
+    658862
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615973
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615973
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621068
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    623158
+   ]
+  },
+  {
+   "date": "2025-02-21",
+   "when": "February 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    623952
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 668&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB668",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8112,
+  "finding_hash": "cae84ed968eb5620bf53a71d625fcf232f69025c012fa6e008e2ed29f6f1c9e6",
+  "evidence_digest": "sha256:5ad2808b53de0f6c1194b8710a88845e63f69c970990cd25fbe03011974e0a19",
+  "gate_id": "c908d638d306416990e9f6f192f9e953",
+  "gate_seq": 8113
+ }
+}

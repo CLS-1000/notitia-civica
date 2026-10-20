@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2525",
+ "measure_id": "HB2525",
+ "subject": "or_legislature/2025R1/HB2525",
+ "title": "Increases the maximum allowable amount of political contribution personal income tax credit.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2525 did not pass",
+ "claims": [
+  {
+   "text": "HB 2525 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614489
+   ]
+  },
+  {
+   "text": "HB 2525 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661497
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614489,
+    616698,
+    661497
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614489
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614489
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2525&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2525",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1572,
+  "finding_hash": "d5cf45894e517ea0e2a7aafd85e6da15944b0f0d7ded0cdafaac286c043066a5",
+  "evidence_digest": "sha256:c7852e5cc493cbf1bcfa6d638aff00a02b0af841b45a58cc97bbc9f0c60037ea",
+  "gate_id": "075c198d03d849c3afb64f1ad3332393",
+  "gate_seq": 1573
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SJM 3",
+ "measure_id": "SJM3",
+ "subject": "or_legislature/2025R1/SJM3",
+ "title": "Urges the establishment and funding of a federal system to reimburse state and local government property owners and private property owners for damage to real property that results from the spreading of wildfires originating on federal lands.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJM 3 did not pass",
+ "claims": [
+  {
+   "text": "SJM 3 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615226
+   ]
+  },
+  {
+   "text": "SJM 3 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659041
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615226,
+    617493,
+    659041
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615226
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615226
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJM' and MeasureNumber eq 3&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJM3",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10128,
+  "finding_hash": "cb859a60207012ca5f4369b051bd2015832f9ded643e69a92b3da32ed6cbb315",
+  "evidence_digest": "sha256:e494c55273c365f4c1c570e98b0b89cf3444c0649efa7c8bddc82183df5c511d",
+  "gate_id": "05f05a0991bd4a1380a59590b9996ded",
+  "gate_seq": 10129
+ }
+}

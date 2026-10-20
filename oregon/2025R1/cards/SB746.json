@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 746",
+ "measure_id": "SB746",
+ "subject": "or_legislature/2025R1/SB746",
+ "title": "Directs the Department of Justice to report annually to the Joint Committee on Ways and Means and the committees of the Legislative Assembly related to the judiciary on the use of outside counsel to defend state agencies in lawsuits.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 746 did not pass",
+ "claims": [
+  {
+   "text": "SB 746 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616051
+   ]
+  },
+  {
+   "text": "SB 746 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658931
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616051,
+    618318,
+    658931
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616051
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616051
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 746&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB746",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8346,
+  "finding_hash": "4415a5546ad6f15d6b1f4923a9315ede4f61620961e18e8a05739b32421297d9",
+  "evidence_digest": "sha256:1783c727efda4519a1d19094d43380026a312912fe3f4c0763e61ea4b0ec1ab1",
+  "gate_id": "ba17ab7d4c8e46b08c1139fdcf9203c4",
+  "gate_seq": 8347
+ }
+}

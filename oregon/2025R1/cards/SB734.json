@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 734",
+ "measure_id": "SB734",
+ "subject": "or_legislature/2025R1/SB734",
+ "title": "Prohibits the use of certain mechanical restraints on youth, adjudicated youth or young persons in detention facilities or youth correction facilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 734 did not pass",
+ "claims": [
+  {
+   "text": "SB 734 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616039
+   ]
+  },
+  {
+   "text": "SB 734 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658925
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616039,
+    618306,
+    658925
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616039
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616039
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 734&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB734",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8310,
+  "finding_hash": "f6e3664c9243ed1b55da5e9dd3bd6c709ed8cdac6c9ca68b12ccc18aca77aaf8",
+  "evidence_digest": "sha256:4db283a351deb00de122b3f3680c810495c23011cffe4ccbaca1cd1e4dd347bb",
+  "gate_id": "06edb43a5a31459c8cbbe3f51b6a0e40",
+  "gate_seq": 8311
+ }
+}

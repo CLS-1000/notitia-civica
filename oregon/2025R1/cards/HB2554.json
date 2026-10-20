@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2554",
+ "measure_id": "HB2554",
+ "subject": "or_legislature/2025R1/HB2554",
+ "title": "Enacts the interstate Social Work Licensure Compact.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2554 did not pass",
+ "claims": [
+  {
+   "text": "HB 2554 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614518
+   ]
+  },
+  {
+   "text": "HB 2554 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660894
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614518,
+    616727,
+    623255,
+    660894
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614518
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614518
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623255
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660894
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2554&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2554",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1659,
+  "finding_hash": "15a19f08e358a149ccf52c98c8351e51d38b3557674be0c6e2d27b45e5955005",
+  "evidence_digest": "sha256:a0bb41fb779ac09e01760a4f71aee61cb4b6d72d383e8fc4af50b0461c4be34e",
+  "gate_id": "079fcb5a59eb4087aae6fa4bc74e7b90",
+  "gate_seq": 1660
+ }
+}

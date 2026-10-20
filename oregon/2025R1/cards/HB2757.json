@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2757",
+ "measure_id": "HB2757",
+ "subject": "or_legislature/2025R1/HB2757",
+ "title": "Requires the Department of Human Services to study the workloads of case managers in the aging and disability services division of the department.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2757 did not pass",
+ "claims": [
+  {
+   "text": "HB 2757 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614721
+   ]
+  },
+  {
+   "text": "HB 2757 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661137
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614721,
+    616930,
+    661137
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614721
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614721
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2757&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2757",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2268,
+  "finding_hash": "e140a525516ce07dca3296d96b83e548034f4c849263553bc64e1498d8c15303",
+  "evidence_digest": "sha256:d26a73e563c883d44ebcd67c117ed5f702b71c6fdc09c0a842e737e00a6d5df5",
+  "gate_id": "986ed04a928a4028b2cfed87fd25e787",
+  "gate_seq": 2269
+ }
+}

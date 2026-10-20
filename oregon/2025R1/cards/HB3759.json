@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3759",
+ "measure_id": "HB3759",
+ "subject": "or_legislature/2025R1/HB3759",
+ "title": "Requires the Housing and Community Services Department to provide grants for the development of moderate income housing, paid to cover or offset permitting fees and charges.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3759 did not pass",
+ "claims": [
+  {
+   "text": "HB 3759 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624935
+   ]
+  },
+  {
+   "text": "HB 3759 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661332
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624935,
+    626344,
+    661332
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624935
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624935
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3759&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3759",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5274,
+  "finding_hash": "9ad3138a91566ef32cbbe86b7113caf9482b4ab1e8fc30929593d72ca2a17432",
+  "evidence_digest": "sha256:a5bea0e7c749aa493f1ba43762be744d312e435cd584648f37c448e7a8964050",
+  "gate_id": "1cb614e94b6f4a05a16ece9bc0dad9e4",
+  "gate_seq": 5275
+ }
+}

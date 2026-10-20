@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 425",
+ "measure_id": "SB425",
+ "subject": "or_legislature/2025R1/SB425",
+ "title": "Prohibits a merchant from charging or collecting a fee for a person's use of a credit card or debit card in payment for goods or services if the merchant does not accept payment for the goods or services in cash.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 425 did not pass",
+ "claims": [
+  {
+   "text": "SB 425 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615730
+   ]
+  },
+  {
+   "text": "SB 425 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659059
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615730,
+    617997,
+    619011,
+    659059
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615730
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615730
+   ]
+  },
+  {
+   "date": "2025-01-23",
+   "when": "January 23, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619011
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659059
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 425&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB425",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7383,
+  "finding_hash": "6c35e363014370e099832ff3ec6062760c5e820571e30c1c5b53d3d3028e657d",
+  "evidence_digest": "sha256:76f303ddeaa5f2265c8baf7aa0b305ab3ac7936a57ca41fcf9ad35493b56c839",
+  "gate_id": "c3eaeb5a9b5043b49a38608d7104f5bb",
+  "gate_seq": 7384
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3234",
+ "measure_id": "HB3234",
+ "subject": "or_legislature/2025R1/HB3234",
+ "title": "Authorizes the Attorney General, at the Attorney General's own initiative, but in consultation and cooperation with the Director of the Department of Consumer and Business Services, to investigate and bring an action against a health insurer or affiliate of a health insurer in a court of this state to enforce a violation of the antitrust laws of this state, to obtain damages, a civil penalty or restitution, and to enjoin an act or practice that constitutes a monopoly, a business combination in restraint of trade or commerce or a substantial reduction or elimination of competition or competitors within a region or market of this state, or that otherwise constitutes an unlawful trade practice.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3234 did not pass",
+ "claims": [
+  {
+   "text": "HB 3234 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615198
+   ]
+  },
+  {
+   "text": "HB 3234 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660184
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615198,
+    617407,
+    630263,
+    660184
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615198
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615198
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    630263
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660184
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3234&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3234",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3699,
+  "finding_hash": "bbf6a83e4ba2a792d7c0cebd24dac67b07c855997c90f9be398a45bd3cad1864",
+  "evidence_digest": "sha256:db7b7bac74b045ec613f26a28806f2948d2488c3f8fec582e936e1c4df0c7217",
+  "gate_id": "bc11e36513b34d0984f308d259cf5fa0",
+  "gate_seq": 3700
+ }
+}

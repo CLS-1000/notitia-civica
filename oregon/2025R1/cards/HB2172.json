@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2172",
+ "measure_id": "HB2172",
+ "subject": "or_legislature/2025R1/HB2172",
+ "title": "Directs the Department of State Police to create and maintain a list of states that recognize Oregon concealed handgun licenses and require a demonstration of handgun competency to obtain a license that is similar to the requirement in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2172 did not pass",
+ "claims": [
+  {
+   "text": "HB 2172 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614136
+   ]
+  },
+  {
+   "text": "HB 2172 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660219
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614136,
+    616345,
+    660219
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614136
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614136
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2172&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2172",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 513,
+  "finding_hash": "26a8f32cdbde6d29c528d9f0d5ac3e2e022f754979c6c3373213badf74f41d72",
+  "evidence_digest": "sha256:cb36dea2f1ee55b598e6d519ba5bf8d61793453e0ba500752b886088c6c012b1",
+  "gate_id": "8f5273a666714c0ca2fc37a74fb9ab5a",
+  "gate_seq": 514
+ }
+}

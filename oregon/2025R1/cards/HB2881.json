@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2881",
+ "measure_id": "HB2881",
+ "subject": "or_legislature/2025R1/HB2881",
+ "title": "Requires the Governor to interview at least one candidate from an underserved racial, ethnic or minority population when making an appointment to the Board of Commissioners of the Port of Portland.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2881 did not pass",
+ "claims": [
+  {
+   "text": "HB 2881 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614845
+   ]
+  },
+  {
+   "text": "HB 2881 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661190
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614845,
+    617054,
+    661190
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614845
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614845
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2881&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2881",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2640,
+  "finding_hash": "64db6bfd9397ca2fe87ed82dc50299c8e4cdaa8cce806f4f1d5d9e3d12da19e5",
+  "evidence_digest": "sha256:a8cb6cf4b7a27f28b9e7bc87887624d5b9c15cef1117c90fb2b4a38b4a276d63",
+  "gate_id": "3bb13bf692954faf97fe7e5fe323ad04",
+  "gate_seq": 2641
+ }
+}

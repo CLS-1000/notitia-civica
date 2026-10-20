@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 501",
+ "measure_id": "SB501",
+ "subject": "or_legislature/2025R1/SB501",
+ "title": "Limits standing in appeals of land use decisions or limited land use decisions to persons that reside or maintain a business in or within 25 miles of a boundary of local government or special district and appeared before a decision maker in person at a hearing, if available.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 501 did not pass",
+ "claims": [
+  {
+   "text": "SB 501 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615806
+   ]
+  },
+  {
+   "text": "SB 501 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659338
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615806,
+    618073,
+    659338
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615806
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615806
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 501&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB501",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7611,
+  "finding_hash": "471ab5b6339a4effd96298ecfdf62940eb802b346c72b5c766b741f9a21f620e",
+  "evidence_digest": "sha256:c82cdd657d99fdc8cfbb1ba18063b7f0792d12a022ebc3d77df14fa03bbcc00a",
+  "gate_id": "03836ddb3cb14e4eb41475bd715dd0b9",
+  "gate_seq": 7612
+ }
+}

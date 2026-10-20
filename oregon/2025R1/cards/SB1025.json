@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1025",
+ "measure_id": "SB1025",
+ "subject": "or_legislature/2025R1/SB1025",
+ "title": "Requires the Department of Land Conservation and Development to study lodging near waterways and submit findings to the interim committees of the Legislative Assembly related to land use no later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1025 did not pass",
+ "claims": [
+  {
+   "text": "SB 1025 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623035
+   ]
+  },
+  {
+   "text": "SB 1025 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658591
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623035,
+    623107,
+    658591
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623035
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623035
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1025&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1025",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9183,
+  "finding_hash": "71ab23d771b542d95da98862a189219d510d6eb88cdc97e15ece2adba1f345ec",
+  "evidence_digest": "sha256:197d93fa8acf0335d5041fa6a1268139cf04de9afc2a5305d5d8882d34aaba44",
+  "gate_id": "3ad047e3eb5c4649a7e265bed88a4bcf",
+  "gate_seq": 9184
+ }
+}

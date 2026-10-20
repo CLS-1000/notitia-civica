@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3285",
+ "measure_id": "HB3285",
+ "subject": "or_legislature/2025R1/HB3285",
+ "title": "Directs the Oregon Department of Emergency Management to identify long-term recovery groups operating in Oregon and to provide grants for their support.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3285 did not pass",
+ "claims": [
+  {
+   "text": "HB 3285 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618756
+   ]
+  },
+  {
+   "text": "HB 3285 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660992
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618756,
+    619154,
+    660992
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618756
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618756
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3285&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3285",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3852,
+  "finding_hash": "3a4524b4263f341a877fb0c364ace9b79857636f93270df51970a3d6ba177851",
+  "evidence_digest": "sha256:ad5fffe24b1ca5f0ddb227dd89bad6a43a8856a60f4f06b228eeb253473797a2",
+  "gate_id": "2fc66fe938d14f9fb209f2f6cd1951d2",
+  "gate_seq": 3853
+ }
+}

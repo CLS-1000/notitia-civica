@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SJM 5",
+ "measure_id": "SJM5",
+ "subject": "or_legislature/2025R1/SJM5",
+ "title": "Urges the President and Congress to pursue Oregon and California Railroad grant land management reforms.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJM 5 did not pass",
+ "claims": [
+  {
+   "text": "SJM 5 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615228
+   ]
+  },
+  {
+   "text": "SJM 5 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659084
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615228,
+    617495,
+    659084
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615228
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615228
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJM' and MeasureNumber eq 5&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJM5",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10134,
+  "finding_hash": "3cd458e86a99a760b488059c4822ac8e0d34ba2bb166fea4da61fb116cedc12a",
+  "evidence_digest": "sha256:8fd467a1847ecaf64dcaf22d6ed133b90bf2121f9b018693b8328fd956f3047c",
+  "gate_id": "1ac5aea0397e42649c1c12f4b5f5e3c6",
+  "gate_seq": 10135
+ }
+}

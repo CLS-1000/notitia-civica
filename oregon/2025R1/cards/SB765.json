@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 765",
+ "measure_id": "SB765",
+ "subject": "or_legislature/2025R1/SB765",
+ "title": "Allows a person taking certain nuisance game mammals to offer the meat to a charitable organization, retain the meat or make any disposition authorized by rule.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 765 did not pass",
+ "claims": [
+  {
+   "text": "SB 765 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616069
+   ]
+  },
+  {
+   "text": "SB 765 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659170
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616069,
+    618336,
+    659170
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616069
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616069
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 765&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB765",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8403,
+  "finding_hash": "bd6fb8532f19083a8845053f5dba92e19136d09f29ac6dc2e052457d2c2e54a6",
+  "evidence_digest": "sha256:45a3dba1d6895ef7a85b80e319405a3ff97906ea617a562e35b238a5727a9b23",
+  "gate_id": "19d2444d5ef143288e917cad05a0f5ec",
+  "gate_seq": 8404
+ }
+}

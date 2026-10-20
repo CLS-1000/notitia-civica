@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2319",
+ "measure_id": "HB2319",
+ "subject": "or_legislature/2025R1/HB2319",
+ "title": "Changes who can request veteran discharge papers from county clerks and exempts veterans' discharge papers from the 25-year statute of limitations for public record disclosure.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2319 did not pass",
+ "claims": [
+  {
+   "text": "HB 2319 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614283
+   ]
+  },
+  {
+   "text": "HB 2319 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659852
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614283,
+    616492,
+    659852
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614283
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614283
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2319&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2319",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 954,
+  "finding_hash": "827489e754e1b7c274e3f8bcca53b46f5a27bde6e825af5c62ed0a0c4b2bf435",
+  "evidence_digest": "sha256:7174dcc327e825ee1e296edd1e6742dd17d363bf7d45da9e7d8758c49681b19a",
+  "gate_id": "5023bd3bb2c04f258123637b0f983152",
+  "gate_seq": 955
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "SB 431",
+ "measure_id": "SB431",
+ "subject": "or_legislature/2025R1/SB431",
+ "title": "Requires the Secretary of State to study state offices and submit findings to the interim committees of the Legislative Assembly related to general government not later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 431 did not pass",
+ "claims": [
+  {
+   "text": "SB 431 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615736
+   ]
+  },
+  {
+   "text": "SB 431 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659063
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615736,
+    618003,
+    659063
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615736
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615736
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 431&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB431",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7401,
+  "finding_hash": "5774ea0026b97f1d242bb6811cb97001c69a9165f678192145a7df80edd3a778",
+  "evidence_digest": "sha256:d22b2e6214aa4d7d3394f5653a391bbf6c50d087b5e9114b58b326ee35889046",
+  "gate_id": "942230a28f5c49ec9c1bc747e83aba0d",
+  "gate_seq": 7402
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2899",
+ "measure_id": "HB2899",
+ "subject": "or_legislature/2025R1/HB2899",
+ "title": "Creates a credit against personal income tax for the cost of a criminal history record check required by state law for a transfer of a firearm.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2899 did not pass",
+ "claims": [
+  {
+   "text": "HB 2899 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614863
+   ]
+  },
+  {
+   "text": "HB 2899 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661208
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614863,
+    617072,
+    661208
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614863
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614863
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2899&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2899",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2694,
+  "finding_hash": "91a9165c0894d5aa4a8f098c96d51c87c6dc8ed6d8b51e1b12abf7a465404b7b",
+  "evidence_digest": "sha256:03c1c6b234925a207721d7a4614d7fac304b08bd2f656edfbf06f6513af867c2",
+  "gate_id": "7bdc6d73994240e59e65be3d08bfe0ce",
+  "gate_seq": 2695
+ }
+}

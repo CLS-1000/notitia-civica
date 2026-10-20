@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2499",
+ "measure_id": "HB2499",
+ "subject": "or_legislature/2025R1/HB2499",
+ "title": "Directs the Department of Transportation to study issues related to driving while under the influence of intoxicants and to report to an appropriate committee or interim committee of the Legislative Assembly on or before September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2499 did not pass",
+ "claims": [
+  {
+   "text": "HB 2499 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614463
+   ]
+  },
+  {
+   "text": "HB 2499 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661464
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614463,
+    616672,
+    661464
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614463
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614463
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2499&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2499",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1494,
+  "finding_hash": "4c2f6f3e9dc234c42e6eb370a151395535af0426224761ed6c1898e18795ab3e",
+  "evidence_digest": "sha256:9a5ac85ced9cfee32a15aeb50ed8315ba0b92871e18fef723692c9c298de9248",
+  "gate_id": "02dac8c2114d4d2fbd29e804f8616f32",
+  "gate_seq": 1495
+ }
+}

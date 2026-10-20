@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2190",
+ "measure_id": "HB2190",
+ "subject": "or_legislature/2025R1/HB2190",
+ "title": "Modifies the disposition of revenues received under the corporate activity tax.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2190 did not pass",
+ "claims": [
+  {
+   "text": "HB 2190 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614154
+   ]
+  },
+  {
+   "text": "HB 2190 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661037
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614154,
+    616363,
+    661037
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614154
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614154
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2190&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2190",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 567,
+  "finding_hash": "4898dd0fb73fad82a5d1728b965490792d35f27aa51181d7ba12a884aeea36b8",
+  "evidence_digest": "sha256:00b02e130476756f2a268ce218317de88fef4c3f42370ca109c4b4b09c35222d",
+  "gate_id": "803ad3dbc0b844e5b30df83124c7f833",
+  "gate_seq": 568
+ }
+}

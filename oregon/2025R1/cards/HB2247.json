@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2247",
+ "measure_id": "HB2247",
+ "subject": "or_legislature/2025R1/HB2247",
+ "title": "Requires the Employment Department to study issues related to employment standards.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2247 did not pass",
+ "claims": [
+  {
+   "text": "HB 2247 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614211
+   ]
+  },
+  {
+   "text": "HB 2247 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660252
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614211,
+    616420,
+    660252
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614211
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614211
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2247&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2247",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 738,
+  "finding_hash": "d70622a2202596f5f1149d0e1286e2d094f6a6c579a6ae8046f17eede04ea3f4",
+  "evidence_digest": "sha256:2d766bc9e7bd335c1ab6f990e144f89c0cb12a9ed97d92aaf5895c62a0a81392",
+  "gate_id": "4b7b380b489e4a548cda4b7044fc8065",
+  "gate_seq": 739
+ }
+}

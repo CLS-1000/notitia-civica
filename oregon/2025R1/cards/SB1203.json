@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1203",
+ "measure_id": "SB1203",
+ "subject": "or_legislature/2025R1/SB1203",
+ "title": "Allows the division of a portion of tracts used as golf courses on lands zoned for exclusive farm use for the purpose of siting single-unit or middle housing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1203 did not pass",
+ "claims": [
+  {
+   "text": "SB 1203 was introduced in the Senate on April 1, 2025.",
+   "row_ids": [
+    635347
+   ]
+  },
+  {
+   "text": "SB 1203 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659202
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    635347,
+    635673,
+    659202
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    635347
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    635347
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1203&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1203",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9717,
+  "finding_hash": "08c6a98d9e4cae82bdaea135ccc8728416979c57f983293705cb260a48293600",
+  "evidence_digest": "sha256:5dd5338872e46aa42e0ce728abf8d6d3bba6f25a22ed404334e4889b894a9775",
+  "gate_id": "f8fdb682663d43aebf1cc7533f5c78f1",
+  "gate_seq": 9718
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "SB 140",
+ "measure_id": "SB140",
+ "subject": "or_legislature/2025R1/SB140",
+ "title": "Requires the Oregon Health Authority and coordinated care organizations to increase reimbursement rates for inpatient psychiatric services provided by hospitals to medical assistance recipients.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 140 did not pass",
+ "claims": [
+  {
+   "text": "SB 140 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615445
+   ]
+  },
+  {
+   "text": "SB 140 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659480
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615445,
+    617712,
+    621968,
+    622330,
+    623227,
+    659480
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615445
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615445
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621968
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659480
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 140&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB140",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6528,
+  "finding_hash": "6e1a4024cd6a7d908f00a17aabb32171980ca5f44fcf324a268d5443fbb9e9b3",
+  "evidence_digest": "sha256:1b3230c3a89e375d898f322a0949be0a4f9a16fc6992e49c770304245b79fb1f",
+  "gate_id": "aed1c9af51244e049b14af5c5266a75c",
+  "gate_seq": 6529
+ }
+}

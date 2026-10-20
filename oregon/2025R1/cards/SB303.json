@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 303",
+ "measure_id": "SB303",
+ "subject": "or_legislature/2025R1/SB303",
+ "title": "Requires the Department of Education to study the adequacy of public education in this state for kindergarten through grade 12.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 303 did not pass",
+ "claims": [
+  {
+   "text": "SB 303 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615608
+   ]
+  },
+  {
+   "text": "SB 303 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658692
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615608,
+    617875,
+    658692
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615608
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615608
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 303&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB303",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7017,
+  "finding_hash": "f29de0c91d65ab35b2c54b2b681c949549e637386cdac218b2f1eac8c7566758",
+  "evidence_digest": "sha256:90b449ad342f85fb3f2cbb9ba3c27870ba461cfa5d3d80b1d09a248207282bba",
+  "gate_id": "7cd4b99d89674077ab2d168828f166a4",
+  "gate_seq": 7018
+ }
+}

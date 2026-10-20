@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 255",
+ "measure_id": "SB255",
+ "subject": "or_legislature/2025R1/SB255",
+ "title": "Directs the Oregon Criminal Justice Commission to study recidivism rates of persons granted a pardon and to provide the results of the study to the appropriate interim committees of the Legislative Assembly no later than December 31, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 255 did not pass",
+ "claims": [
+  {
+   "text": "SB 255 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615560
+   ]
+  },
+  {
+   "text": "SB 255 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658651
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615560,
+    617827,
+    658651
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615560
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615560
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 255&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB255",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6873,
+  "finding_hash": "891b6015a662b518c3c9478736e3a7dc456fbc29b6660c46c879378d3df60554",
+  "evidence_digest": "sha256:855ac9299b40787db6ca8bd37248d8e819c1ef75f02f62baef6b218356f195f6",
+  "gate_id": "d212ba9afc934171919d95a8c20294eb",
+  "gate_seq": 6874
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3422",
+ "measure_id": "HB3422",
+ "subject": "or_legislature/2025R1/HB3422",
+ "title": "Adds a criterion to the standards that the Energy Facility Siting Council must find for the council to take an exception to an applicable statewide planning goal for a proposed energy facility.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3422 did not pass",
+ "claims": [
+  {
+   "text": "HB 3422 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619473
+   ]
+  },
+  {
+   "text": "HB 3422 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659933
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619473,
+    619845,
+    632337,
+    659933
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619473
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619473
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632337
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659933
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3422&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3422",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4263,
+  "finding_hash": "ef5a306215dac8486b516a3fd7e14c93c6d73390a4e2e936e570c2cbd7115e89",
+  "evidence_digest": "sha256:efcc9bd240bbdf6cf9e957ed55f07eb26531b9eef722c58eb538b6998c62c2ab",
+  "gate_id": "b4174371c1d44934848452fa76741970",
+  "gate_seq": 4264
+ }
+}

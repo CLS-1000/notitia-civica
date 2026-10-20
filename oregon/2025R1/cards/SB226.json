@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 226",
+ "measure_id": "SB226",
+ "subject": "or_legislature/2025R1/SB226",
+ "title": "Removes provisions prohibiting a county court or board of county commissioners from establishing a justice of the peace district that includes the county seat or city in which a circuit court regularly holds court.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 226 did not pass",
+ "claims": [
+  {
+   "text": "SB 226 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615531
+   ]
+  },
+  {
+   "text": "SB 226 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658627
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615531,
+    617798,
+    658627
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615531
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615531
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 226&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB226",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6786,
+  "finding_hash": "c502e392f63d406867939f208c3f71c76f05dbe368f54cdcefc3ae72931e2e4d",
+  "evidence_digest": "sha256:0c761caafcc4891e2c0b7ee9a8f484c40e73af6f77246b31698700c1da0966c4",
+  "gate_id": "db460040f3d843d1bbaf6c5c61e862cc",
+  "gate_seq": 6787
+ }
+}

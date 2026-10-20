@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3839",
+ "measure_id": "HB3839",
+ "subject": "or_legislature/2025R1/HB3839",
+ "title": "Directs the Department of State Police to ensure that level one and level two sex offender information is available to school districts and entities providing school visitor management services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3839 did not pass",
+ "claims": [
+  {
+   "text": "HB 3839 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625015
+   ]
+  },
+  {
+   "text": "HB 3839 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660545
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625015,
+    626424,
+    638639,
+    660545
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625015
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625015
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    638639
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660545
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3839&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3839",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5514,
+  "finding_hash": "f1d68db1382808bbdf8da2c5366bfc20fc8cb4b70f1104869c5a6bdacfe00bf0",
+  "evidence_digest": "sha256:2d9ed89a0fa09cdd794881d428c74b841ebacdb70e274c59dac368fd79d27903",
+  "gate_id": "ef764ef246894264bb766b3ca13e3dcb",
+  "gate_seq": 5515
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3377",
+ "measure_id": "HB3377",
+ "subject": "or_legislature/2025R1/HB3377",
+ "title": "Authorizes lottery bonds for construction of the James Beard Public Market in Portland.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3377 did not pass",
+ "claims": [
+  {
+   "text": "HB 3377 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619428
+   ]
+  },
+  {
+   "text": "HB 3377 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660731
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619428,
+    619800,
+    621997,
+    625655,
+    626117,
+    626118,
+    660731
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619428
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619428
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621997
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    625655
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    626117
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3377&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3377",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4128,
+  "finding_hash": "981e7da0b76defaa316e5692c03db2398139d23fa6cfd055dae3ca44f4618d89",
+  "evidence_digest": "sha256:08313b430b2439bc82c77a8cd6f9218f2dce4366fe758a1eb1b50f29df8380a7",
+  "gate_id": "450b45b3e20942dd813e83858a9534a7",
+  "gate_seq": 4129
+ }
+}

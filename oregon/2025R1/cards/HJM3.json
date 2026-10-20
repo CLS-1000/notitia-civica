@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HJM 3",
+ "measure_id": "HJM3",
+ "subject": "or_legislature/2025R1/HJM3",
+ "title": "Requests the federal government to appoint a special master to ensure that any restructuring of federal environmental and natural resource laws and policies be undertaken in cooperation and collaboration with the states.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJM 3 did not pass",
+ "claims": [
+  {
+   "text": "HJM 3 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613906
+   ]
+  },
+  {
+   "text": "HJM 3 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660926
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613906,
+    618955,
+    660926
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613906
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613906
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJM' and MeasureNumber eq 3&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJM3",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10086,
+  "finding_hash": "e0ab2a0815222f05b37de200f6e2e10617f7f94a3fa67bac0f267c9b3c24465e",
+  "evidence_digest": "sha256:5da11941cce1da4439cc5a965eb76f984feaab86f9606386e32a6bf96a480d18",
+  "gate_id": "c32c45f77bba444fa1306e62986fcfdf",
+  "gate_seq": 10087
+ }
+}

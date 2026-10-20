@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 14",
+ "measure_id": "SB14",
+ "subject": "or_legislature/2025R1/SB14",
+ "title": "Creates the crime of indecent exposure.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 14 did not pass",
+ "claims": [
+  {
+   "text": "SB 14 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615319
+   ]
+  },
+  {
+   "text": "SB 14 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659311
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615319,
+    617586,
+    659311
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615319
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615319
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 14&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB14",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6150,
+  "finding_hash": "d2858c7b9e86bc648e5dddaff1b40fafbac4ad0bee03479b6d9bde758e6f93d4",
+  "evidence_digest": "sha256:7e7c1fbacd65cbcd60d7091ef4b342747f8d087a54031eb0551ae0f63a7981b9",
+  "gate_id": "14512e5908354506b245effa5ad8ebe2",
+  "gate_seq": 6151
+ }
+}

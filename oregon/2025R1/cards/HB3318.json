@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3318",
+ "measure_id": "HB3318",
+ "subject": "or_legislature/2025R1/HB3318",
+ "title": "Authorizes the Environmental Quality Commission to adopt by rule a schedule of enhanced civil penalties for violations of certain environmental laws involving cargo tank motor vehicles.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3318 did not pass",
+ "claims": [
+  {
+   "text": "HB 3318 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618789
+   ]
+  },
+  {
+   "text": "HB 3318 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661022
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618789,
+    619187,
+    661022
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618789
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618789
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3318&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3318",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3951,
+  "finding_hash": "975e4d26f9ce6a93e1fdc35cacc5bbab5601892bd51a344d5e4b1b4c05fe22c9",
+  "evidence_digest": "sha256:49658ce9982f5b634be0c71cb3e72716e4e84538e222fba3bd9e6c200757793c",
+  "gate_id": "db918c796d1745baba092cb2e75c7ef2",
+  "gate_seq": 3952
+ }
+}

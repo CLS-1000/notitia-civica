@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3246",
+ "measure_id": "HB3246",
+ "subject": "or_legislature/2025R1/HB3246",
+ "title": "Directs the Oregon Business Development Department to develop a roadmap for the purpose of promoting voluntary industrial symbiosis activities in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3246 did not pass",
+ "claims": [
+  {
+   "text": "HB 3246 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618717
+   ]
+  },
+  {
+   "text": "HB 3246 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659943
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618717,
+    619115,
+    627964,
+    632825,
+    635514,
+    635515,
+    659943
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618717
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618717
+   ]
+  },
+  {
+   "date": "2025-03-12",
+   "when": "March 12, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627964
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632825
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    635514
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3246&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3246",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3735,
+  "finding_hash": "e109466b63aa110f98ee31cba53d15e9cd205d835ac897b4501409952723a9c8",
+  "evidence_digest": "sha256:447b961cb97b243d6b79eb216c40298a8340639b9e81c5d61db8773451acf6fc",
+  "gate_id": "3824811bfede45fd953e1fb2d5894bb4",
+  "gate_seq": 3736
+ }
+}

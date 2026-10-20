@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2626",
+ "measure_id": "HB2626",
+ "subject": "or_legislature/2025R1/HB2626",
+ "title": "Requires the Oregon Criminal Justice Commission to study the effect of different types of sentences on rates of recidivism.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2626 did not pass",
+ "claims": [
+  {
+   "text": "HB 2626 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614590
+   ]
+  },
+  {
+   "text": "HB 2626 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660762
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614590,
+    616799,
+    660762
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614590
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614590
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2626&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2626",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1875,
+  "finding_hash": "823654373cf3e6ef6cb54ca15885b9d92746e48546f6ccf794d277ce97256bd3",
+  "evidence_digest": "sha256:2a21d5898b1d6a32907b25b36e2e8566a9af89072f028a24dbc2b4bfdc0f2f94",
+  "gate_id": "b62c9e175c1d4ed9b265bde6686eb125",
+  "gate_seq": 1876
+ }
+}

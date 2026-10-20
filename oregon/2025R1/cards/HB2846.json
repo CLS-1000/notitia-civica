@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2846",
+ "measure_id": "HB2846",
+ "subject": "or_legislature/2025R1/HB2846",
+ "title": "Directs the Department of Veterans' Affairs to develop a program under which the department, pursuant to contracts with financial institutions, provides loan or credit guarantees for qualified veterans for the purpose of refinancing existing home mortgages on veterans' primary residences.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2846 did not pass",
+ "claims": [
+  {
+   "text": "HB 2846 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614810
+   ]
+  },
+  {
+   "text": "HB 2846 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660681
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614810,
+    617019,
+    627537,
+    660681
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614810
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614810
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627537
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660681
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2846&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2846",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2535,
+  "finding_hash": "4f87e0d515ee079311d4ad3b849a1f767da2ed5c9dfc09d2eef5fb5ef1643a94",
+  "evidence_digest": "sha256:de89e4e7080bc27cb9a767199882012482603ec0fa82ff647c8fa4e8e177a9eb",
+  "gate_id": "7cc6ce1ac6ab48869067572da9e480af",
+  "gate_seq": 2536
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3411",
+ "measure_id": "HB3411",
+ "subject": "or_legislature/2025R1/HB3411",
+ "title": "Requires the Oregon Health Authority to study behavioral health.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3411 did not pass",
+ "claims": [
+  {
+   "text": "HB 3411 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619462
+   ]
+  },
+  {
+   "text": "HB 3411 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659922
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619462,
+    619834,
+    659922
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619462
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619462
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3411&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3411",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4230,
+  "finding_hash": "e827ec70e5395983047ce69f1c09cbc1f7c136b8bdebe62b31bb138df72a84d9",
+  "evidence_digest": "sha256:1ae702f99d3b2953d1a70d6bb6da7b3220d3366d41e25315ac2e2b6ee224e692",
+  "gate_id": "f2b118d689924dedb36952c9e3fe8701",
+  "gate_seq": 4231
+ }
+}

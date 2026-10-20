@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2604",
+ "measure_id": "HB2604",
+ "subject": "or_legislature/2025R1/HB2604",
+ "title": "Requires the Judicial Department to study options for simplifying family law proceedings in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2604 did not pass",
+ "claims": [
+  {
+   "text": "HB 2604 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614568
+   ]
+  },
+  {
+   "text": "HB 2604 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660742
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614568,
+    616777,
+    660742
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614568
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614568
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2604&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2604",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1809,
+  "finding_hash": "bab35f91b98184a7f00ee5013c35a033c20d4c0fe94d9f8dcb2ce10054db05b3",
+  "evidence_digest": "sha256:62d3a2610530d0e99730f133f9d48bd05a893a43689a3219e0c8750bf300ef26",
+  "gate_id": "b640518b2eec4dfcbf397bd73f15a76d",
+  "gate_seq": 1810
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2709",
+ "measure_id": "HB2709",
+ "subject": "or_legislature/2025R1/HB2709",
+ "title": "Prohibits a warrantor from accepting a fee from a resident for an extended warranty unless the warrantor knows that the resident's motor vehicle qualifies for coverage under the extended warranty.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2709 did not pass",
+ "claims": [
+  {
+   "text": "HB 2709 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614673
+   ]
+  },
+  {
+   "text": "HB 2709 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660105
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614673,
+    616882,
+    620554,
+    660105
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614673
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614673
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620554
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660105
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2709&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2709",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2124,
+  "finding_hash": "cf9fe8866ca0fbfc7affc8e8451ca13d3b309b314893eb6121b284aee4f87c4a",
+  "evidence_digest": "sha256:a12955632d527571366332fd3e9bf640b59b39ac040b622074d1614309a850f9",
+  "gate_id": "a886ae93aaa34392aa9857f989482f45",
+  "gate_seq": 2125
+ }
+}

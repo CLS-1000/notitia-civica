@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 86",
+ "measure_id": "SB86",
+ "subject": "or_legislature/2025R1/SB86",
+ "title": "Provides clarification regarding multiemployer exceptions from state laws governing sick leave.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 86 did not pass",
+ "claims": [
+  {
+   "text": "SB 86 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615391
+   ]
+  },
+  {
+   "text": "SB 86 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659148
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615391,
+    617658,
+    659148
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615391
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615391
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 86&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB86",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6366,
+  "finding_hash": "80bd3816d3f5a594345730979faf0b746198f5d7fe45c95f8e0b674ea27541db",
+  "evidence_digest": "sha256:6873ce39ea18176a8ae9564543c591d1ba2976a82252d0814a5dd4c6b0b638e4",
+  "gate_id": "9d74ea5eab204948aecd40fffdb925c0",
+  "gate_seq": 6367
+ }
+}

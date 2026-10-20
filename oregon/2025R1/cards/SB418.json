@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 418",
+ "measure_id": "SB418",
+ "subject": "or_legislature/2025R1/SB418",
+ "title": "Requires the mass transit district known as TriMet to adopt an ordinance to modify district boundaries to exclude a specified territory.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 418 did not pass",
+ "claims": [
+  {
+   "text": "SB 418 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615723
+   ]
+  },
+  {
+   "text": "SB 418 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659052
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615723,
+    617990,
+    659052
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615723
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615723
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 418&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB418",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7362,
+  "finding_hash": "2f22fb136f78670f305012eed4142ea33f58f5fd62d937f3bc7c0c254ffaa5e1",
+  "evidence_digest": "sha256:70426a5cd5c13c7df80790c2d875bbe03e0943881ccd68f38394a1d6ec77d3f5",
+  "gate_id": "23011a1c7d864fb48860fe69ab81657d",
+  "gate_seq": 7363
+ }
+}

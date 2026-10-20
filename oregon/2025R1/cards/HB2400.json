@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2400",
+ "measure_id": "HB2400",
+ "subject": "or_legislature/2025R1/HB2400",
+ "title": "Allows the owner of property outside an urban growth boundary to site an additional dwelling on the property for occupancy by a relative of the owner.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2400 did not pass",
+ "claims": [
+  {
+   "text": "HB 2400 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614364
+   ]
+  },
+  {
+   "text": "HB 2400 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659873
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614364,
+    616573,
+    621533,
+    659873
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614364
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614364
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "when": "February 10, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621533
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659873
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2400&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2400",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1197,
+  "finding_hash": "e393fd0432cc7590f53566d63e322b292fdd46975a86cc259fcaa1361bf4795b",
+  "evidence_digest": "sha256:3cecf3a599a4a73a1e81c9d4443cd9be290d1b0258b917beb9e0fd4b9883f646",
+  "gate_id": "a8280a7a79254a57830b7cbc14b3b689",
+  "gate_seq": 1198
+ }
+}

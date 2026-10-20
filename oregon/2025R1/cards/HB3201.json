@@ -1,0 +1,134 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3201",
+ "measure_id": "HB3201",
+ "subject": "or_legislature/2025R1/HB3201",
+ "title": "Directs the Department of Education to implement policies and procedures that increase access to healthy and culturally relevant food for children in child care.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3201 did not pass",
+ "claims": [
+  {
+   "text": "HB 3201 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615165
+   ]
+  },
+  {
+   "text": "HB 3201 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660037
+   ]
+  },
+  {
+   "text": "Each of the 10 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615165,
+    617374,
+    620759,
+    621476,
+    621477,
+    625922,
+    638760,
+    640860,
+    640861,
+    660037
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615165
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615165
+   ]
+  },
+  {
+   "date": "2025-02-05",
+   "when": "February 5, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    620759
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "when": "February 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    621476
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625922
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638760
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640860
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3201&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3201",
+ "row_count": 10,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3600,
+  "finding_hash": "b81fdc12f02d11c2325bca41eea17680726df69bda58f73066088b12f8c9c318",
+  "evidence_digest": "sha256:a0c50bb81b22e2e18ac5da78512b573e921a4de9bd38a73e135444c6091943e6",
+  "gate_id": "0cfec0a2a8c24d4a9f086aa5ff37019e",
+  "gate_seq": 3601
+ }
+}

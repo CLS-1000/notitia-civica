@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3937",
+ "measure_id": "HB3937",
+ "subject": "or_legislature/2025R1/HB3937",
+ "title": "Applies to cities that have a population of 50,000 or less.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3937 did not pass",
+ "claims": [
+  {
+   "text": "HB 3937 was introduced in the House on March 18, 2025.",
+   "row_ids": [
+    629399
+   ]
+  },
+  {
+   "text": "HB 3937 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660736
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    629399,
+    629547,
+    660736
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    629399
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    629399
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3937&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3937",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5808,
+  "finding_hash": "c94e8a62c4cdf63344bd44466cbaf9b42ceb86ba43ecba295d289cc86d104388",
+  "evidence_digest": "sha256:19025bf91b22da8544344b04584768c3afaa8d7368792eb188b8560fbccb881c",
+  "gate_id": "55c80ada05684c42a2884e84c8ba7270",
+  "gate_seq": 5809
+ }
+}

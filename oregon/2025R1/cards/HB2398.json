@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2398",
+ "measure_id": "HB2398",
+ "subject": "or_legislature/2025R1/HB2398",
+ "title": "Directs the Higher Education Coordinating Commission to establish a direct admissions program for community colleges and certain public universities in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2398 did not pass",
+ "claims": [
+  {
+   "text": "HB 2398 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614362
+   ]
+  },
+  {
+   "text": "HB 2398 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659871
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614362,
+    616571,
+    659871
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614362
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614362
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2398&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2398",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1191,
+  "finding_hash": "276b1275a92bfb8a2b65c6b6746be9da1b6ea6328568479cfffa6be716bac719",
+  "evidence_digest": "sha256:e9ce88123a2ba55f9f9d301026b7db172ee2376c32d3126ee057142e01a808c9",
+  "gate_id": "efce18e6ab3a446db27fa3eebecd3f63",
+  "gate_seq": 1192
+ }
+}

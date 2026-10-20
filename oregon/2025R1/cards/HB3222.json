@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3222",
+ "measure_id": "HB3222",
+ "subject": "or_legislature/2025R1/HB3222",
+ "title": "Directs the Department of Education to review and update information collected for a survey of the academic assessments administered to the students of this state by school districts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3222 did not pass",
+ "claims": [
+  {
+   "text": "HB 3222 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615186
+   ]
+  },
+  {
+   "text": "HB 3222 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660176
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615186,
+    617395,
+    660176
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615186
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615186
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3222&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3222",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3663,
+  "finding_hash": "f4d0d08bdcf88e0ae1a38c96a6b31d97aa39a176c114760a95f484a029057940",
+  "evidence_digest": "sha256:c3c3ef0e40c9de31b8fbc3bf19d3f5601b7b371c3a59b6881f139f919cb165fe",
+  "gate_id": "109349beefef4ce485204b9d4e530039",
+  "gate_seq": 3664
+ }
+}

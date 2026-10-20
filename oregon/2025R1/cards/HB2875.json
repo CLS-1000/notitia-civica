@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2875",
+ "measure_id": "HB2875",
+ "subject": "or_legislature/2025R1/HB2875",
+ "title": "Authorizes district school boards to take specified actions to facilitate the creation and use of maker spaces.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2875 did not pass",
+ "claims": [
+  {
+   "text": "HB 2875 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614839
+   ]
+  },
+  {
+   "text": "HB 2875 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661184
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614839,
+    617048,
+    661184
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614839
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614839
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2875&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2875",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2622,
+  "finding_hash": "9d2320847086b2bff5f3d0892a65bc81f527f8eba19817e90894b40cac549b65",
+  "evidence_digest": "sha256:237bf6e26ebc1a631d5a93cdf1461309f939c0f29a011f1caf504e6e1b9f6e6f",
+  "gate_id": "f6c1b78058b14d11ac5f0485941580d5",
+  "gate_seq": 2623
+ }
+}

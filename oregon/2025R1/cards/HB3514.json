@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3514",
+ "measure_id": "HB3514",
+ "subject": "or_legislature/2025R1/HB3514",
+ "title": "Requires the county clerk to publish a county voters' pamphlet for any primary and general election.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3514 did not pass",
+ "claims": [
+  {
+   "text": "HB 3514 was introduced in the House on February 6, 2025.",
+   "row_ids": [
+    620883
+   ]
+  },
+  {
+   "text": "HB 3514 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661304
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620883,
+    621262,
+    661304
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620883
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620883
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3514&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3514",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4539,
+  "finding_hash": "02202a2d431677ef1e1d9bab39ea3fa242befc4bb0f2a33217cc8def6262863d",
+  "evidence_digest": "sha256:12e12aaf8d834b8c779442275bce94e9b3b7d951704d28b96c411597b12c89f1",
+  "gate_id": "52abd38cb06c4ab69a01bcb79510047c",
+  "gate_seq": 4540
+ }
+}

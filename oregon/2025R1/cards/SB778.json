@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 778",
+ "measure_id": "SB778",
+ "subject": "or_legislature/2025R1/SB778",
+ "title": "Requires the Oregon Health Authority and coordinated care organizations to provide reimbursement for air ambulance services provided to medical assistance recipients at rates in accordance with the national Ambulance Inflation Factor.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 778 did not pass",
+ "claims": [
+  {
+   "text": "SB 778 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616082
+   ]
+  },
+  {
+   "text": "SB 778 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659182
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616082,
+    618349,
+    627897,
+    659182
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616082
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616082
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627897
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659182
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 778&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB778",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8442,
+  "finding_hash": "7897f004c98e126f739320a9c4fd34809158c38c2f2b0ffb045dbd56bdae636e",
+  "evidence_digest": "sha256:fcad5dba0ceecdedea14d38c6ac7f171c4cc27866a673dba63b7e464d0be306c",
+  "gate_id": "12e617b62871439da2bd6f337118ec2a",
+  "gate_seq": 8443
+ }
+}

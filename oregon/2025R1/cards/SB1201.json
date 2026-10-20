@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1201",
+ "measure_id": "SB1201",
+ "subject": "or_legislature/2025R1/SB1201",
+ "title": "Requires the Department of Transportation to study the feasibility and utility of constructing bridges across the Columbia River west of the Interstate 5 bridges.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1201 did not pass",
+ "claims": [
+  {
+   "text": "SB 1201 was introduced in the Senate on March 27, 2025.",
+   "row_ids": [
+    633618
+   ]
+  },
+  {
+   "text": "SB 1201 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659401
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    633618,
+    633670,
+    659401
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    633618
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    633618
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1201&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1201",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9711,
+  "finding_hash": "8337caaf7eeaa9a7695e1a3b9f967ab30826c7085f440c72bb25d8d615c7816a",
+  "evidence_digest": "sha256:b7cbf748c5010350983f2c7f36b13a219817251623ba66c609cf8ca0d36ae54d",
+  "gate_id": "f98a8cb23af04099a2bebef5d2c9e80b",
+  "gate_seq": 9712
+ }
+}

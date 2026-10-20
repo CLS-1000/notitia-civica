@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 324",
+ "measure_id": "SB324",
+ "subject": "or_legislature/2025R1/SB324",
+ "title": "Transfers from the Teacher Standards and Practices Commission to the Department of Education certain duties, functions and powers related to teaching, administrative and personnel licensure and investigation, school nurse certification and investigation and public charter school teacher and administrator registration and investigation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 324 did not pass",
+ "claims": [
+  {
+   "text": "SB 324 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615629
+   ]
+  },
+  {
+   "text": "SB 324 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658711
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615629,
+    617896,
+    623273,
+    629640,
+    633158,
+    633159,
+    658711
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615629
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615629
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "when": "February 19, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623273
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629640
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    633158
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 324&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB324",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7080,
+  "finding_hash": "00f91faed0b83f5e32f11787b4a208d0baeffdb4bca69f01b16d3934d5129376",
+  "evidence_digest": "sha256:6928dd8c3d65995e954123819319a6b2616fa7770dab7a1a120f4d15f6917ef8",
+  "gate_id": "38876c8300814efcb3fae34a84472f52",
+  "gate_seq": 7081
+ }
+}

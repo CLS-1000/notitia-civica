@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3245",
+ "measure_id": "HB3245",
+ "subject": "or_legislature/2025R1/HB3245",
+ "title": "Directs the Oregon Health Authority to study a methodology for calculating a coordinated care organization's global budget and report the authority's findings to the Legislative Assembly.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3245 did not pass",
+ "claims": [
+  {
+   "text": "HB 3245 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615209
+   ]
+  },
+  {
+   "text": "HB 3245 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660049
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615209,
+    617418,
+    626517,
+    639148,
+    641179,
+    641180,
+    660049
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615209
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615209
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626517
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639148
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641179
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3245&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3245",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3732,
+  "finding_hash": "af75a31db458c3af75787d7d53dfa52ea66874041de021d0ac2eb121267165a1",
+  "evidence_digest": "sha256:42ca834068cd3bcbb6deda3953d199cdcb88587d382e3f566ce20779385147d7",
+  "gate_id": "30f05f2295c94e1985e842a2610928e6",
+  "gate_seq": 3733
+ }
+}

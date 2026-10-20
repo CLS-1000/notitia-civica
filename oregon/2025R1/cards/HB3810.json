@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3810",
+ "measure_id": "HB3810",
+ "subject": "or_legislature/2025R1/HB3810",
+ "title": "Creates an income or corporate excise tax credit for a taxpayer that employs agricultural workers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3810 did not pass",
+ "claims": [
+  {
+   "text": "HB 3810 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624986
+   ]
+  },
+  {
+   "text": "HB 3810 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661375
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624986,
+    626395,
+    661375
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624986
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624986
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3810&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3810",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5427,
+  "finding_hash": "acea901f83fc3f06212f418980195938f032520b004f4896a2c13719d8f00f3c",
+  "evidence_digest": "sha256:b170da29fe404e8ca6aa4e609b396049f7cf20241f75b497e7108ead0c4c4176",
+  "gate_id": "e4c2fb30187b48f5abd455d020ad8420",
+  "gate_seq": 5428
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2428",
+ "measure_id": "HB2428",
+ "subject": "or_legislature/2025R1/HB2428",
+ "title": "Provides that a public body may not collect certain information about a person's views, associations or activities without consent.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2428 did not pass",
+ "claims": [
+  {
+   "text": "HB 2428 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614392
+   ]
+  },
+  {
+   "text": "HB 2428 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660074
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614392,
+    616601,
+    660074
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614392
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614392
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2428&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2428",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1281,
+  "finding_hash": "89ec13bd04a8570e14cc4c9200e8b24d7a4644c8a6ac37b2807ea3c8259195d5",
+  "evidence_digest": "sha256:c24877f37fed907e4f2c0799be6f176b5ae126720e6313ed388c8d268a7dec68",
+  "gate_id": "427db437eb3f4cf9b9e8a2ef63d66487",
+  "gate_seq": 1282
+ }
+}

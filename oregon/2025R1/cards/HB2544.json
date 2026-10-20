@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2544",
+ "measure_id": "HB2544",
+ "subject": "or_legislature/2025R1/HB2544",
+ "title": "Establishes the Agricultural Workforce Labor Standards Board.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2544 did not pass",
+ "claims": [
+  {
+   "text": "HB 2544 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614508
+   ]
+  },
+  {
+   "text": "HB 2544 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660282
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614508,
+    616717,
+    660282
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614508
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614508
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2544&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2544",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1629,
+  "finding_hash": "ffa0925953e5415c87b208f1cb18f6b088ca57a6c448a68322a6d215baf07fd9",
+  "evidence_digest": "sha256:1b70cc65577e2eafea3496a35752f56431d42b0c9cbc112025943c56b1bd0e57",
+  "gate_id": "b10f820ae2714d2ab914b5c7e4e7cb2c",
+  "gate_seq": 1630
+ }
+}

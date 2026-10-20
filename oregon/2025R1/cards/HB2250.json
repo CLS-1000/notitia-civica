@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2250",
+ "measure_id": "HB2250",
+ "subject": "or_legislature/2025R1/HB2250",
+ "title": "Directs the Department of Corrections to determine the last-known address of adults in custody, if the address is readily known or available to an adult in custody, and submit information to the Portland State University Population Research Center.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2250 did not pass",
+ "claims": [
+  {
+   "text": "HB 2250 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614214
+   ]
+  },
+  {
+   "text": "HB 2250 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660254
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614214,
+    616423,
+    629726,
+    660254
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614214
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614214
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629726
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660254
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2250&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2250",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 747,
+  "finding_hash": "3318c73346ef9f051198a5a20b78ba9ae8ff7ded5214051ad9ef9f832c1d4e36",
+  "evidence_digest": "sha256:eb4ac2c857efe00ee3149eb9ee353c12f5c22164d6f37f67b342d9b50990dccd",
+  "gate_id": "38ac77fd1f494597a644f92c2d1c84b5",
+  "gate_seq": 748
+ }
+}

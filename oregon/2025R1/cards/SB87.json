@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 87",
+ "measure_id": "SB87",
+ "subject": "or_legislature/2025R1/SB87",
+ "title": "Permits the Electrical and Elevator Board to enter into agreements with municipalities to share responsibility for enforcing the Electrical Safety Law.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 87 did not pass",
+ "claims": [
+  {
+   "text": "SB 87 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615392
+   ]
+  },
+  {
+   "text": "SB 87 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659149
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615392,
+    617659,
+    620397,
+    620836,
+    621453,
+    621454,
+    659149
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615392
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615392
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620397
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    620836
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "when": "February 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    621453
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 87&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB87",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6369,
+  "finding_hash": "9a4ad766ae73524daf4b4a47dabd792a4d7e6c738176277c9f4f382754a81c3a",
+  "evidence_digest": "sha256:14e9bbada9f328f9081211f4473e78bf844d0132d7fa15bf381ea66199dba127",
+  "gate_id": "3d0224fc68f64be0a525560aeaebccaf",
+  "gate_seq": 6370
+ }
+}

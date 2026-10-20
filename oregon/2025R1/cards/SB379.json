@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "SB 379",
+ "measure_id": "SB379",
+ "subject": "or_legislature/2025R1/SB379",
+ "title": "Removes the sunset on the exemption for receipts from the sale of prescription drugs by certain pharmacies.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 379 did not pass",
+ "claims": [
+  {
+   "text": "SB 379 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615684
+   ]
+  },
+  {
+   "text": "SB 379 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659006
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615684,
+    617951,
+    619995,
+    620755,
+    620756,
+    659006
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615684
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615684
+   ]
+  },
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    619995
+   ]
+  },
+  {
+   "date": "2025-02-05",
+   "when": "February 5, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    620755
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 379&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB379",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7245,
+  "finding_hash": "9e2c6ddd6c0cabc653fdf536c295300d99aa6f6b1f6b95d2f0a3c829eec5f04d",
+  "evidence_digest": "sha256:76a1906fbb10ac74886f060217480a048cf217ac110edbbf8789700ee6c690da",
+  "gate_id": "0809dfdb195a4095b54ddfae41f97f21",
+  "gate_seq": 7246
+ }
+}

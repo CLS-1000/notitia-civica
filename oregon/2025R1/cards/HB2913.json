@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2913",
+ "measure_id": "HB2913",
+ "subject": "or_legislature/2025R1/HB2913",
+ "title": "Creates an income tax credit for a member of a military organization that contributes financial resources to the Veterans' Educational Aid Account prior to the organization's dissolution.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2913 did not pass",
+ "claims": [
+  {
+   "text": "HB 2913 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614877
+   ]
+  },
+  {
+   "text": "HB 2913 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661220
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614877,
+    617086,
+    661220
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614877
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614877
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2913&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2913",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2736,
+  "finding_hash": "e2ce864d6ad7c1a6411a6e79903fec520850280fff9f2519a4bbec49a1204d8e",
+  "evidence_digest": "sha256:6e6ae8753a88c15e6edf89d430b457cd0b6d21e0cd4b03658c03fc53387dcbf9",
+  "gate_id": "5585dd04f4fd461a892d9fdf1293a0c1",
+  "gate_seq": 2737
+ }
+}

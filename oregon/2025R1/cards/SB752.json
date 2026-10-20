@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 752",
+ "measure_id": "SB752",
+ "subject": "or_legislature/2025R1/SB752",
+ "title": "Requires the Oregon Business Development Department to review statewide economic development plans and strategies implemented in the other states and submit a report to the Legislative Assembly that includes recommendations for the creation of a statewide economic development plan for Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 752 did not pass",
+ "claims": [
+  {
+   "text": "SB 752 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616057
+   ]
+  },
+  {
+   "text": "SB 752 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659160
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616057,
+    618324,
+    659160
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616057
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616057
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 752&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB752",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8364,
+  "finding_hash": "8a40d8307175b211d0ff58f38f295bf27fbae9edb61765bd4a1f88fb798b7ddb",
+  "evidence_digest": "sha256:23782be99d38080b1b61404495a83523d576b0626a8b57c27f357da57630e526",
+  "gate_id": "eed0c05892e64d5eb8013caf9bbb4fd8",
+  "gate_seq": 8365
+ }
+}

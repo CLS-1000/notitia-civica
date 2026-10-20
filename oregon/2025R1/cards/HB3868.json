@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3868",
+ "measure_id": "HB3868",
+ "subject": "or_legislature/2025R1/HB3868",
+ "title": "Requires the State Department of Energy to study avoided costs paid to qualifying facilities under the federal Public Utility Regulatory Policies Act compared with the costs incurred by investor-owned utilities to acquire or maintain renewable energy generation facilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3868 did not pass",
+ "claims": [
+  {
+   "text": "HB 3868 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625044
+   ]
+  },
+  {
+   "text": "HB 3868 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661074
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625044,
+    626453,
+    633424,
+    637048,
+    638806,
+    640448,
+    640449,
+    661074
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625044
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625044
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633424
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637048
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640448
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3868&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3868",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5601,
+  "finding_hash": "724f3ccd7da7fa8d57e530561c49b691939cf50bd2dde23221479825a9209a91",
+  "evidence_digest": "sha256:aab73998e54c55959fd561558afeeae4801e61b75d53796681104d5d00a4612d",
+  "gate_id": "4e3614c4b9804808bbeb594bc02cdce9",
+  "gate_seq": 5602
+ }
+}

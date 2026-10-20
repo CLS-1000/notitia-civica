@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 554",
+ "measure_id": "SB554",
+ "subject": "or_legislature/2025R1/SB554",
+ "title": "Requires the Department of Environmental Quality to study reusable packaging systems.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 554 did not pass",
+ "claims": [
+  {
+   "text": "SB 554 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615859
+   ]
+  },
+  {
+   "text": "SB 554 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659382
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615859,
+    618126,
+    659382
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615859
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615859
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 554&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB554",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7770,
+  "finding_hash": "e7970e91a0dba6047ab916e70f40e9a88bb6bde5734801d32c4ae352a7457991",
+  "evidence_digest": "sha256:7371f73f3fe2a64e070b423971d06f86a245d4049dc337de96e867d99c27d42d",
+  "gate_id": "f598c6c832fe4442b0bcdb16571be3f9",
+  "gate_seq": 7771
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 971",
+ "measure_id": "SB971",
+ "subject": "or_legislature/2025R1/SB971",
+ "title": "Directs the Department of Administrative Services to contract with a disability protection and advocacy agency to develop and administer a certification program for educational surrogates.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 971 did not pass",
+ "claims": [
+  {
+   "text": "SB 971 was introduced in the Senate on February 4, 2025.",
+   "row_ids": [
+    620433
+   ]
+  },
+  {
+   "text": "SB 971 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659587
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620433,
+    620458,
+    659587
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620433
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620433
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 971&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB971",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9021,
+  "finding_hash": "618545482016d11b68d029a25ac00f13bd0308ed6bb2363ff970183b85faa09a",
+  "evidence_digest": "sha256:5ed0b195bc1845aa98ef99a0623572b29f377e54ec937561d7b32459e29fa5b2",
+  "gate_id": "52392a5f86e94a12ab68ef7b3b4b3a8e",
+  "gate_seq": 9022
+ }
+}

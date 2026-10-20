@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 148",
+ "measure_id": "SB148",
+ "subject": "or_legislature/2025R1/SB148",
+ "title": "Requires the State Treasurer to study the operations of the office of the State Treasurer.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 148 did not pass",
+ "claims": [
+  {
+   "text": "SB 148 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615453
+   ]
+  },
+  {
+   "text": "SB 148 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659484
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615453,
+    617720,
+    659484
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615453
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615453
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 148&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB148",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6552,
+  "finding_hash": "59d216b54ce9d56d02f7a100e7f49d1e9df1bb7ef9568a996916307429f8f0a6",
+  "evidence_digest": "sha256:9c5180afd1c5e7cf534319cde00225bed148b9f366efa61cec9f04897ce15af6",
+  "gate_id": "2aa172147271412f935230181cf27b1f",
+  "gate_seq": 6553
+ }
+}

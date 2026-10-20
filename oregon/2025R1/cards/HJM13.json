@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HJM 13",
+ "measure_id": "HJM13",
+ "subject": "or_legislature/2025R1/HJM13",
+ "title": "Urges the President and Congress to deploy National Guard troops overseas only if the deployment is expressly authorized by the United States Constitution.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJM 13 did not pass",
+ "claims": [
+  {
+   "text": "HJM 13 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624917
+   ]
+  },
+  {
+   "text": "HJM 13 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660538
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624917,
+    626500,
+    639194,
+    660538
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624917
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624917
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    639194
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660538
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJM' and MeasureNumber eq 13&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJM13",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10116,
+  "finding_hash": "e5d78371bf0f4b309b09e3a67d5a361034f4d1f28dbc4b8be5632d28057cef31",
+  "evidence_digest": "sha256:8232aab27a1583456528ff778fffdc38ef45218a23fa01970fd15ad9fe6c6d74",
+  "gate_id": "7419dfabfc7443fcbbd287cb2cffa1c0",
+  "gate_seq": 10117
+ }
+}

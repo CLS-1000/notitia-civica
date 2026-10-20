@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3629",
+ "measure_id": "HB3629",
+ "subject": "or_legislature/2025R1/HB3629",
+ "title": "Establishes the Oregon Partnership for Resilience as a public corporation, the mission of which is to enhance the emergency preparedness of the state through innovation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3629 did not pass",
+ "claims": [
+  {
+   "text": "HB 3629 was introduced in the House on February 20, 2025.",
+   "row_ids": [
+    623564
+   ]
+  },
+  {
+   "text": "HB 3629 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659942
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623564,
+    623856,
+    659942
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    623564
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623564
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3629&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3629",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4884,
+  "finding_hash": "3c195bb0e5b74970ac8782cd29a19184ca96b58e186289d0b74046a3308477e9",
+  "evidence_digest": "sha256:429309216e53f0e28985dd5f2684779922e88ada95b7f6d83a6343368913f665",
+  "gate_id": "9633cc55ebb947dba8fabd24ab5d0059",
+  "gate_seq": 4885
+ }
+}

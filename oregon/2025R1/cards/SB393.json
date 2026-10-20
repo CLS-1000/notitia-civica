@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 393",
+ "measure_id": "SB393",
+ "subject": "or_legislature/2025R1/SB393",
+ "title": "Requires the Oregon Department of Emergency Management to study solar events.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 393 did not pass",
+ "claims": [
+  {
+   "text": "SB 393 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615698
+   ]
+  },
+  {
+   "text": "SB 393 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659020
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615698,
+    617965,
+    626096,
+    629453,
+    632191,
+    632192,
+    659020
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615698
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615698
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626096
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629453
+   ]
+  },
+  {
+   "date": "2025-03-21",
+   "when": "March 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    632191
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 393&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB393",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7287,
+  "finding_hash": "a3b9b72d78a5e68ab10302aa0bdbe9f40a96757307133a5b37c67b5d506eb108",
+  "evidence_digest": "sha256:44e67179abaa55bb3dc28c3e1bed201a4e01f2a25d8e1c42d65bbee8ea69bf6f",
+  "gate_id": "c3d628bffbd04ad8a7bdd87cdfb6cebe",
+  "gate_seq": 7288
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3930",
+ "measure_id": "HB3930",
+ "subject": "or_legislature/2025R1/HB3930",
+ "title": "Permits a public official to establish a specific purpose account for purposes of expending donations of funds to the account for specified emergency expenses.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3930 did not pass",
+ "claims": [
+  {
+   "text": "HB 3930 was introduced in the House on March 17, 2025.",
+   "row_ids": [
+    628970
+   ]
+  },
+  {
+   "text": "HB 3930 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661431
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    628970,
+    629540,
+    661431
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    628970
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    628970
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3930&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3930",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5787,
+  "finding_hash": "a29f5ac6d2d354c2639085a37e47f589884a22cea05e114aea5e618a27184f73",
+  "evidence_digest": "sha256:ec98cd81badd260f3dd643d070d56d5ccdd557e5055630b6464f9da850d2e217",
+  "gate_id": "d19a1ef1d32b4c6d929c414c2965a773",
+  "gate_seq": 5788
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "session": "2025R1",
+ "measure": "SB 556",
+ "measure_id": "SB556",
+ "subject": "or_legislature/2025R1/SB556",
+ "title": "Allows a marijuana producer, marijuana wholesaler, marijuana processor or marijuana retailer to use a motion detection camera system at a licensed premises.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 556 did not pass",
+ "claims": [
+  {
+   "text": "SB 556 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615861
+   ]
+  },
+  {
+   "text": "SB 556 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659384
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615861,
+    618128,
+    622772,
+    638563,
+    639544,
+    659384
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615861
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615861
+   ]
+  },
+  {
+   "date": "2025-02-17",
+   "when": "February 17, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622772
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638563
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659384
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 556&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB556",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7776,
+  "finding_hash": "b5f426ea196faf6810e971749d3bc39732fcf9b4375d5558c4438923e4d9c305",
+  "evidence_digest": "sha256:e84efdcac90be2075642cc5a673b1d2b72329859a831bbed92c24cd13b78e2dd",
+  "gate_id": "29ee1d959f454344891ecd386bcc0d5c",
+  "gate_seq": 7777
+ }
+}

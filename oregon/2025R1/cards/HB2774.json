@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2774",
+ "measure_id": "HB2774",
+ "subject": "or_legislature/2025R1/HB2774",
+ "title": "Directs the court to prohibit unsupervised parenting time with a parent who committed abuse if the abuse involved certain acts with a firearm.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2774 did not pass",
+ "claims": [
+  {
+   "text": "HB 2774 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614738
+   ]
+  },
+  {
+   "text": "HB 2774 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661154
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614738,
+    616947,
+    622749,
+    661154
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614738
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614738
+   ]
+  },
+  {
+   "date": "2025-02-17",
+   "when": "February 17, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622749
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661154
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2774&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2774",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2319,
+  "finding_hash": "d3f513b6eabf8713163f7945bbfd01fa30d2754343c18dba8095178d1f5b0a4f",
+  "evidence_digest": "sha256:fcf23659f3ec112e5a69e5ac22f85850cb008f1d2b6ed0630bdf726f7b33b349",
+  "gate_id": "74206c48cb4345a9859d9e6d5a117c97",
+  "gate_seq": 2320
+ }
+}

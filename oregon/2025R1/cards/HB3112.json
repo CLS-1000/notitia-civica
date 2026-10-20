@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3112",
+ "measure_id": "HB3112",
+ "subject": "or_legislature/2025R1/HB3112",
+ "title": "Directs the Water Resources Commission to establish a program for compensating ground water right holders for voluntarily relinquishing all or portions of ground water rights in basins designated as critical ground water areas.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3112 did not pass",
+ "claims": [
+  {
+   "text": "HB 3112 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615076
+   ]
+  },
+  {
+   "text": "HB 3112 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660003
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615076,
+    617285,
+    660003
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615076
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615076
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3112&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3112",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3333,
+  "finding_hash": "814f5753226d9fd4ed654b1dbf22ab2e694a5debcf4cb092f15eb0ed0863639e",
+  "evidence_digest": "sha256:2c7e225713fb176c5df6704952441e072cfb77754a2ecf231f2638f3d393bfd3",
+  "gate_id": "25d3d40792b44bee88a78779097f71d4",
+  "gate_seq": 3334
+ }
+}

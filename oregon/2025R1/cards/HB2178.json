@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2178",
+ "measure_id": "HB2178",
+ "subject": "or_legislature/2025R1/HB2178",
+ "title": "Limits standing in appeals made to the Land Use Board of Appeals to those who reside or maintain a business in or within 25 miles of the boundary of the local government or special district and who have appeared before the decision maker in person at a hearing if available.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2178 did not pass",
+ "claims": [
+  {
+   "text": "HB 2178 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614142
+   ]
+  },
+  {
+   "text": "HB 2178 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660226
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614142,
+    616351,
+    660226
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614142
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614142
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2178&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2178",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 531,
+  "finding_hash": "ba1ae0452029e45b16120cac2b8e8fbe75d29ac219fa66739a0dfca16a4afc52",
+  "evidence_digest": "sha256:c6bf186248358c81f2517c85b80610db48fb5eb05c705260100e4666e589083f",
+  "gate_id": "06618742d22240dca90791fc95bc8c23",
+  "gate_seq": 532
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1167",
+ "measure_id": "SB1167",
+ "subject": "or_legislature/2025R1/SB1167",
+ "title": "Appropriates moneys from the General Fund to the Department of Early Learning and Care for distribution to seven entities to support the development of successful children in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1167 did not pass",
+ "claims": [
+  {
+   "text": "SB 1167 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624877
+   ]
+  },
+  {
+   "text": "SB 1167 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659560
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624877,
+    625789,
+    629477,
+    635621,
+    638399,
+    638400,
+    659560
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624877
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624877
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629477
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    635621
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638399
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1167&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1167",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9609,
+  "finding_hash": "212e7fcdb61df3773abfc300e008a16fae14a696b933bf9a95521a891e6fa80d",
+  "evidence_digest": "sha256:cb7b90654f81c55bbbbd3aff3659d8361a9c49b1b2b39ddb3f6ee34af802cda5",
+  "gate_id": "84cc40b5a6e84013831ae0c685a52148",
+  "gate_seq": 9610
+ }
+}

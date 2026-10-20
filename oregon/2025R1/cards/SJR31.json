@@ -1,0 +1,81 @@
+{
+ "session": "2025R1",
+ "measure": "SJR 31",
+ "measure_id": "SJR31",
+ "subject": "or_legislature/2025R1/SJR31",
+ "title": "Proposes an amendment to the Oregon Constitution to prohibit the Governor or the executive branch from requiring a medical procedure or a vaccine or a type of vaccine to be administered to any individual or class of individuals, unless the Legislative Assembly has enacted a law that expressly identifies the medical procedure, vaccine or type of vaccine and the individuals or classes of individuals for which the medical procedure or vaccine administration is required. Refers the proposed amendment to voters for their approval or rejection at the next regular general election.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJR 31 did not pass",
+ "claims": [
+  {
+   "text": "SJR 31 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618648
+   ]
+  },
+  {
+   "text": "SJR 31 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659302
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618648,
+    618819,
+    659302
+   ]
+  },
+  {
+   "text": "SJR 31 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    659302
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618648
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618648
+   ]
+  }
+ ],
+ "topics": [
+  "ballot",
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJR' and MeasureNumber eq 31&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJR31",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10068,
+  "finding_hash": "e8a41c3cc34903cea3eb3e836fd123fd8cea5c559900d42d1b7cf14496112cc5",
+  "evidence_digest": "sha256:6dced2704521acc371f9c2103d1f3f7b95c09994d65110ec60e041436423beee",
+  "gate_id": "ca6c0a5ce5054f77bda6ae40c7ccdc02",
+  "gate_seq": 10069
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3458",
+ "measure_id": "HB3458",
+ "subject": "or_legislature/2025R1/HB3458",
+ "title": "Directs the Department of Education to develop model policies related to the use of student cellular telephones and other personal electronic devices.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3458 did not pass",
+ "claims": [
+  {
+   "text": "HB 3458 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620331
+   ]
+  },
+  {
+   "text": "HB 3458 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660836
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620331,
+    621004,
+    660836
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620331
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620331
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3458&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3458",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4371,
+  "finding_hash": "04bcccb534b1f604d19e0dcdb6b6c351a704b2542ff19dbc6ee4868ef7de78db",
+  "evidence_digest": "sha256:a631ab90331aab520ff8f02354200cbedda9ffe45e8b83cc4090c871c7d4e1bc",
+  "gate_id": "ca517f98f75b49518c039b363194de60",
+  "gate_seq": 4372
+ }
+}

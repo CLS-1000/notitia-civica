@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3848",
+ "measure_id": "HB3848",
+ "subject": "or_legislature/2025R1/HB3848",
+ "title": "Prohibits the use of assessed historic property as a vacation occupancy unless the property is the owner's primary residence.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3848 did not pass",
+ "claims": [
+  {
+   "text": "HB 3848 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625024
+   ]
+  },
+  {
+   "text": "HB 3848 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661281
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625024,
+    626433,
+    629857,
+    661281
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625024
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625024
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629857
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661281
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3848&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3848",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5541,
+  "finding_hash": "02108853d284ede70696f113e02bef3d6677adc1f0f7a4824d306bb8310f3146",
+  "evidence_digest": "sha256:dce85bbbdc6b663c95f40b93548abcba5017affc7437eb51c120df7698c141c4",
+  "gate_id": "46d758cd83ef47e48b33929cd92bb318",
+  "gate_seq": 5542
+ }
+}

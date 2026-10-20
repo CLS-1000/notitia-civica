@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2407",
+ "measure_id": "HB2407",
+ "subject": "or_legislature/2025R1/HB2407",
+ "title": "Prohibits regulatory agencies from enforcing rules or regulations relating to issues that were considered or addressed as part of a prior approval or permit for certain capital construction projects.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2407 did not pass",
+ "claims": [
+  {
+   "text": "HB 2407 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614371
+   ]
+  },
+  {
+   "text": "HB 2407 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659880
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614371,
+    616580,
+    659880
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614371
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614371
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2407&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2407",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1218,
+  "finding_hash": "e73daad1424dcd154dca8fb35f1fb040f586f1fada2f0438ad7cd3c1c2f3159e",
+  "evidence_digest": "sha256:c2fc385fef5a4cf71a858e483e27df24ef55227f66161a2b82252bc168e73fce",
+  "gate_id": "7bcfb99fe8884a74bed12353aeafc05b",
+  "gate_seq": 1219
+ }
+}

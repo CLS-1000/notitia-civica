@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3511",
+ "measure_id": "HB3511",
+ "subject": "or_legislature/2025R1/HB3511",
+ "title": "Directs the Oregon Health Authority to develop and implement a program to award grants to community-based organizations to conduct a public health campaign on the negative health effects of using betel nuts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3511 did not pass",
+ "claims": [
+  {
+   "text": "HB 3511 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620384
+   ]
+  },
+  {
+   "text": "HB 3511 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661298
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620384,
+    621057,
+    661298
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620384
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620384
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3511&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3511",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4530,
+  "finding_hash": "565b20f4335ea9090017c82c840c7c0cf6641eebb65fe49009a9c47928220a59",
+  "evidence_digest": "sha256:9754b39f4bad3336999c75899dddd8f7afad7f6ee741a2c861ba39732714ea6e",
+  "gate_id": "00a6ff1b26604ae39d2185ad1a4eb1bd",
+  "gate_seq": 4531
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2094",
+ "measure_id": "HB2094",
+ "subject": "or_legislature/2025R1/HB2094",
+ "title": "Requires the Legislative Revenue Officer to study the corporate activity tax.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2094 did not pass",
+ "claims": [
+  {
+   "text": "HB 2094 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614058
+   ]
+  },
+  {
+   "text": "HB 2094 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660629
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614058,
+    616267,
+    660629
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614058
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614058
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2094&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2094",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 279,
+  "finding_hash": "0185417d84f98ee6f863607ff80fec0b732690bc2e43652e20594ad5c2753e48",
+  "evidence_digest": "sha256:5ea1499216df6f7847f4ff9744bf377041463598fde8e2971e50869f38a5b5c2",
+  "gate_id": "67a0fbb331fd4528a38ec9b9077c5706",
+  "gate_seq": 280
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2056",
+ "measure_id": "HB2056",
+ "subject": "or_legislature/2025R1/HB2056",
+ "title": "Appropriates moneys from the General Fund to the Oregon Health Authority for distribution to community mental health programs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2056 did not pass",
+ "claims": [
+  {
+   "text": "HB 2056 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614020
+   ]
+  },
+  {
+   "text": "HB 2056 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660823
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614020,
+    616229,
+    629621,
+    637508,
+    639504,
+    639505,
+    660823
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614020
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614020
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629621
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637508
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639504
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2056&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2056",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 165,
+  "finding_hash": "374035de6ceeaf37d31b47d75b1d6b4f76bbc8ea2a610afcde149b17c379c8da",
+  "evidence_digest": "sha256:74bea757a1d14a955f2c07d8b1528f248e1f98291ed7a3d66ca1c3602162d8b9",
+  "gate_id": "b7464d09e90c4a7c87d14b3f2157f4fc",
+  "gate_seq": 166
+ }
+}

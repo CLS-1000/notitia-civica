@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3273",
+ "measure_id": "HB3273",
+ "subject": "or_legislature/2025R1/HB3273",
+ "title": "Appropriates moneys to the Department of the State Fire Marshal for personnel costs related to the Oregon Safety Assessment Program (OrSAP).",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3273 did not pass",
+ "claims": [
+  {
+   "text": "HB 3273 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618744
+   ]
+  },
+  {
+   "text": "HB 3273 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660980
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618744,
+    619142,
+    660980
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618744
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618744
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3273&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3273",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3816,
+  "finding_hash": "75782ccdf8c6c768186d43233613c55f9c27181b261860ebdd2f7f86b4a2d7b9",
+  "evidence_digest": "sha256:d29b4081c91e209bb6bb591764a82174e5cf6fd15b18f97986133342a5b5a477",
+  "gate_id": "4bc4c8a3d1a0459fa602d3ba02b0eec8",
+  "gate_seq": 3817
+ }
+}

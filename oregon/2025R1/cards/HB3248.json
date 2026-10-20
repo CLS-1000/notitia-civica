@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3248",
+ "measure_id": "HB3248",
+ "subject": "or_legislature/2025R1/HB3248",
+ "title": "Prohibits an abortion unless a health care provider first determines the probable gestational age of the unborn child, except in the case of a medical emergency.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3248 did not pass",
+ "claims": [
+  {
+   "text": "HB 3248 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618719
+   ]
+  },
+  {
+   "text": "HB 3248 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659945
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618719,
+    619117,
+    659945
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618719
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618719
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3248&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3248",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3741,
+  "finding_hash": "bc838259e93ed35b73da2ebb84f98f14d905183d033896a414c5141872a2fdcb",
+  "evidence_digest": "sha256:2a0a054d0eeba9572e1e0cc6f7d8711ccc18ffec1b1b3b6e571c6c53b6cdcf20",
+  "gate_id": "99438fee9dff41d28a7c7150f1c66d5d",
+  "gate_seq": 3742
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3457",
+ "measure_id": "HB3457",
+ "subject": "or_legislature/2025R1/HB3457",
+ "title": "Requires employers to use the federal E-Verify employment verification system to verify the employment eligibility of employees.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3457 did not pass",
+ "claims": [
+  {
+   "text": "HB 3457 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620330
+   ]
+  },
+  {
+   "text": "HB 3457 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660835
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620330,
+    621003,
+    660835
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620330
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620330
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3457&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3457",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4368,
+  "finding_hash": "02a8e227f8ba983c42a8d828310d831d26685901389e1e074e400272b424a89c",
+  "evidence_digest": "sha256:44d6b65116d7512030833a091779440b65cc951c3c5226f186c2714f92487b08",
+  "gate_id": "322ba3eece834a21b5fc0563810cd025",
+  "gate_seq": 4369
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3948",
+ "measure_id": "HB3948",
+ "subject": "or_legislature/2025R1/HB3948",
+ "title": "Increases the penalty for operating an unmanned aircraft system over a critical infrastructure facility that is a correctional facility or youth correction facility.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3948 did not pass",
+ "claims": [
+  {
+   "text": "HB 3948 was introduced in the House on March 20, 2025.",
+   "row_ids": [
+    630041
+   ]
+  },
+  {
+   "text": "HB 3948 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659938
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    630041,
+    630286,
+    638640,
+    659938
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    630041
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    630041
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    638640
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659938
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3948&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3948",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5841,
+  "finding_hash": "04daf45d1df6401881e751549f825c23583b55734e748001e6a74f202805d639",
+  "evidence_digest": "sha256:a42eba65c7a5f56fe09cfa4237a06e59265b3fb9e1894453b4ebb38b07f692c7",
+  "gate_id": "a9a9a63e4ba149848a979458091a917a",
+  "gate_seq": 5842
+ }
+}

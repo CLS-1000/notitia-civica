@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3498",
+ "measure_id": "HB3498",
+ "subject": "or_legislature/2025R1/HB3498",
+ "title": "Modifies the definition of \"abuse\" for purposes of child abuse to remove the use of certain restraints on and seclusion of students.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3498 did not pass",
+ "claims": [
+  {
+   "text": "HB 3498 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620371
+   ]
+  },
+  {
+   "text": "HB 3498 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660614
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620371,
+    621044,
+    660614
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620371
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620371
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3498&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3498",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4491,
+  "finding_hash": "cd0fd8adf24153f64de09d236e3a22918c42a3e8d39499ae3bc6f2b5e83e595a",
+  "evidence_digest": "sha256:bfe9b2be7fd5500168e97bc5511d2b591eb56b9a384f690fd469e333c6f89819",
+  "gate_id": "3cfab037cc6846c1ace19841b3d34942",
+  "gate_seq": 4492
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 156",
+ "measure_id": "SB156",
+ "subject": "or_legislature/2025R1/SB156",
+ "title": "Requires the Legislative Policy and Research Officer to study international affairs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 156 did not pass",
+ "claims": [
+  {
+   "text": "SB 156 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615461
+   ]
+  },
+  {
+   "text": "SB 156 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659491
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615461,
+    617728,
+    659491
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615461
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615461
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 156&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB156",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6576,
+  "finding_hash": "d20c9398ed12fc33d242eded567a744162ef2b91fe5df555c0aca523138b49dc",
+  "evidence_digest": "sha256:3c8dba629975236801d9e6e6af78fd3294b752a8b91754ccd3adc1fe30320d8b",
+  "gate_id": "68f5a6aaa3ec4877bf11e1a73b8edf4b",
+  "gate_seq": 6577
+ }
+}

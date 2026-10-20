@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 760",
+ "measure_id": "SB760",
+ "subject": "or_legislature/2025R1/SB760",
+ "title": "Requires the owner of a public building to periodically conduct inspections and testing of fire dampers, smoke dampers, combination fire and smoke dampers and smoke control systems in the public building.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 760 did not pass",
+ "claims": [
+  {
+   "text": "SB 760 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616064
+   ]
+  },
+  {
+   "text": "SB 760 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659166
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616064,
+    618331,
+    659166
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616064
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616064
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 760&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB760",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8388,
+  "finding_hash": "0ebb1b29ce7a43ff11237e152615b69385ae5deeb8ba80ef96fd9fcff9bda900",
+  "evidence_digest": "sha256:3360966e2b613472196403a22c1b89983ddf45e84c1b00dc23818864eb047b4f",
+  "gate_id": "0f23f57c1ee74613b2622d01883fcb24",
+  "gate_seq": 8389
+ }
+}

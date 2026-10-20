@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 962",
+ "measure_id": "SB962",
+ "subject": "or_legislature/2025R1/SB962",
+ "title": "Directs the Department of Early Learning and Care to administer a grant program to award moneys to tenants to update dwellings for use as a family child care home.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 962 did not pass",
+ "claims": [
+  {
+   "text": "SB 962 was introduced in the Senate on January 30, 2025.",
+   "row_ids": [
+    619884
+   ]
+  },
+  {
+   "text": "SB 962 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658593
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619884,
+    619906,
+    658593
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    619884
+   ]
+  },
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619884
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 962&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB962",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8994,
+  "finding_hash": "d44ed15e4d707aa8289402c4ea22a3f1c3a05449f48e41e585a5bdfdeb8ea4ef",
+  "evidence_digest": "sha256:544f8b06ccfcb00c7f9d4942d23d95c1ba4e1b5cebdcfd4f32d74ae992a8de05",
+  "gate_id": "8179cf3af9354bfab199c06342176ddb",
+  "gate_seq": 8995
+ }
+}

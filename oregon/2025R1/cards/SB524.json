@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 524",
+ "measure_id": "SB524",
+ "subject": "or_legislature/2025R1/SB524",
+ "title": "Excludes certain students from the requirements of an abbreviated school day program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 524 did not pass",
+ "claims": [
+  {
+   "text": "SB 524 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615829
+   ]
+  },
+  {
+   "text": "SB 524 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659361
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615829,
+    618096,
+    659361
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615829
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615829
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 524&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB524",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7680,
+  "finding_hash": "2ec3a316d96b088d96c76859982973dc6fd5a8959dad2db58017e4763f83b3c7",
+  "evidence_digest": "sha256:a4524134e735e669098f87522e0877b78d9ad537872af30b0d619dddc9e91b6e",
+  "gate_id": "e44c9f72685e4882ba693aac8e583bdb",
+  "gate_seq": 7681
+ }
+}

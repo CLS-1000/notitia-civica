@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2276",
+ "measure_id": "HB2276",
+ "subject": "or_legislature/2025R1/HB2276",
+ "title": "Requires the Oregon Liquor and Cannabis Commission to study the commission.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2276 did not pass",
+ "claims": [
+  {
+   "text": "HB 2276 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614240
+   ]
+  },
+  {
+   "text": "HB 2276 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659815
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614240,
+    616449,
+    639172,
+    640525,
+    640526,
+    659815
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614240
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614240
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639172
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    640525
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2276&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2276",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 825,
+  "finding_hash": "6d03c77ce4e8e2d6340cc8d50dfc833bcec6b3f02050f20ced7f69b2b5593cb9",
+  "evidence_digest": "sha256:bf0fcfec4a039fc93ac0ac8f934ed9c3127761fcbd61f73e59eda66b4d2eaaeb",
+  "gate_id": "77d48b6dd21842d7a80df8fe18d9a695",
+  "gate_seq": 826
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 20",
+ "measure_id": "SB20",
+ "subject": "or_legislature/2025R1/SB20",
+ "title": "Requires the Department of Human Services to administer a program to provide medical assistance to employed individuals with disabilities without regard to the individuals' income or resources.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 20 did not pass",
+ "claims": [
+  {
+   "text": "SB 20 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615325
+   ]
+  },
+  {
+   "text": "SB 20 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659406
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615325,
+    617592,
+    622846,
+    635241,
+    638410,
+    638411,
+    659406
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615325
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615325
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622846
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    635241
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638410
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 20&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB20",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6168,
+  "finding_hash": "c0baf09e9f0941cda170980d28808a933c760e29684d1de171988c748e1dc67d",
+  "evidence_digest": "sha256:713fa659d4855a5ba8c9c74ed2fc42bc42ffa1540ffedcced9873cd5ad16ee7f",
+  "gate_id": "3a5e6572c50b4401ad76f6d9751da05d",
+  "gate_seq": 6169
+ }
+}

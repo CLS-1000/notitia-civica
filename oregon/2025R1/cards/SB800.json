@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 800",
+ "measure_id": "SB800",
+ "subject": "or_legislature/2025R1/SB800",
+ "title": "Expands provisions requiring tax compliance as a condition of receiving a license to conduct a business, trade or profession or of entering into a contract with a state agency or political subdivision.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 800 did not pass",
+ "claims": [
+  {
+   "text": "SB 800 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616104
+   ]
+  },
+  {
+   "text": "SB 800 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658935
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616104,
+    618371,
+    619510,
+    658935
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616104
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616104
+   ]
+  },
+  {
+   "date": "2025-01-27",
+   "when": "January 27, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619510
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658935
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 800&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB800",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8508,
+  "finding_hash": "6da21a9800ee4f2b90b32d08452c9a40dff2445e01669f58f1410e1413945c72",
+  "evidence_digest": "sha256:4e808a5228f1c874dae8c1f500dd894a9feae06dfc36ff446eb17cae60b27347",
+  "gate_id": "8603033393a44677bb149382f5093d71",
+  "gate_seq": 8509
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2769",
+ "measure_id": "HB2769",
+ "subject": "or_legislature/2025R1/HB2769",
+ "title": "Directs the Oregon Business Development Department to develop a registry of small businesses interested in receiving communications relating to emergency management.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2769 did not pass",
+ "claims": [
+  {
+   "text": "HB 2769 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614733
+   ]
+  },
+  {
+   "text": "HB 2769 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661149
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614733,
+    616942,
+    661149
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614733
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614733
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2769&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2769",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2304,
+  "finding_hash": "6a695037e11a32e65c3faf23ba354a3b843c0c966db8ac95de7ca15f16587a7b",
+  "evidence_digest": "sha256:4c34985cfbb9d4bc34616136ce2747cd215e30f3878cd234a4b7f09f955a33fb",
+  "gate_id": "9e8766a8ec8d4a7db0ed42d7f99b4c5a",
+  "gate_seq": 2305
+ }
+}

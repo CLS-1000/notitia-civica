@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2863",
+ "measure_id": "HB2863",
+ "subject": "or_legislature/2025R1/HB2863",
+ "title": "Allows a subtraction from federal taxable income of the gain from the sale of opportunity zone property, defined as property in a low-income census tract developed for affordable housing and held for a stated period of time.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2863 did not pass",
+ "claims": [
+  {
+   "text": "HB 2863 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614827
+   ]
+  },
+  {
+   "text": "HB 2863 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661172
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614827,
+    617036,
+    661172
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614827
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614827
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2863&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2863",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2586,
+  "finding_hash": "a0fbf551c20489c2206c501d809f2fd1b9da5ea021e1ce3bb344c7cf7ce6be2a",
+  "evidence_digest": "sha256:4a50aa72ea07909d839ee670b117689651ae4350d67fbe1124797f98c63e5801",
+  "gate_id": "a02b2ecaaf894f66b36db533942ffae8",
+  "gate_seq": 2587
+ }
+}

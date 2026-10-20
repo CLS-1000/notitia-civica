@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 81",
+ "measure_id": "SB81",
+ "subject": "or_legislature/2025R1/SB81",
+ "title": "Requires the Oregon Climate Action Commission to study natural climate solutions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 81 did not pass",
+ "claims": [
+  {
+   "text": "SB 81 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615386
+   ]
+  },
+  {
+   "text": "SB 81 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658620
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615386,
+    617653,
+    658620
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615386
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615386
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 81&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB81",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6351,
+  "finding_hash": "bbd25ec5d1d4bc909a0d7a33274c3cc22cffbaa7482f2965e8b76fe6265bef74",
+  "evidence_digest": "sha256:0b772635580e0ffe275cc598db5fdba1368e683b035bc320f666ac7f8c706331",
+  "gate_id": "f6cb7e98a39140398616e75ea9f4c328",
+  "gate_seq": 6352
+ }
+}

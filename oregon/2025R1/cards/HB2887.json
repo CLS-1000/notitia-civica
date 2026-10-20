@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2887",
+ "measure_id": "HB2887",
+ "subject": "or_legislature/2025R1/HB2887",
+ "title": "Requires the State Forestry Department to establish the Western Oregon Regional Carbon Sink as a geographical area and take certain actions regarding the area on or before January 1, 2037.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2887 did not pass",
+ "claims": [
+  {
+   "text": "HB 2887 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614851
+   ]
+  },
+  {
+   "text": "HB 2887 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661196
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614851,
+    617060,
+    661196
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614851
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614851
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2887&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2887",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2658,
+  "finding_hash": "fcea4b3bc947c8c7f973283a58e3267c579f4fa3a7ee1f658072908ab7a35c80",
+  "evidence_digest": "sha256:ed14e7b38f91af5d8d20bcf85f2c7c25d946063d09a38f181d5a7b6c92ffb3d6",
+  "gate_id": "c6857d643dd44d69952017f771e8ff11",
+  "gate_seq": 2659
+ }
+}

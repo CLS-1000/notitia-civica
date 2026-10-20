@@ -1,0 +1,108 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1159",
+ "measure_id": "SB1159",
+ "subject": "or_legislature/2025R1/SB1159",
+ "title": "Transfers the office of Children's Advocate from the Department of Human Services to the office of the Long Term Care Ombudsman.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1159 did not pass",
+ "claims": [
+  {
+   "text": "SB 1159 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624869
+   ]
+  },
+  {
+   "text": "SB 1159 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659252
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624869,
+    625781,
+    630004,
+    636900,
+    639593,
+    659252
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624869
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624869
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    630004
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636900
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659252
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1159&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1159",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9585,
+  "finding_hash": "24ecefacfeb0fe7c2db223d89909b75398a974540f8ef3e447ccaa766eabfc80",
+  "evidence_digest": "sha256:915b9b6aa60dde876014a98e0d5bea2b71dda4d2f5cab38f7af5ebcccb0f6277",
+  "gate_id": "306d3ae09fe84526b5b270dbe4ca0930",
+  "gate_seq": 9586
+ }
+}

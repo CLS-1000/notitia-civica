@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3623",
+ "measure_id": "HB3623",
+ "subject": "or_legislature/2025R1/HB3623",
+ "title": "Requires that a person provide proof of lawful status in the United States before the Department of Transportation issues a noncommercial driver license, a noncommercial driver permit or an identification card.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3623 did not pass",
+ "claims": [
+  {
+   "text": "HB 3623 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622958
+   ]
+  },
+  {
+   "text": "HB 3623 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660559
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622958,
+    623513,
+    660559
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622958
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622958
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3623&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3623",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4866,
+  "finding_hash": "a9c0402bc0fdbeb8a9512202e9784745c87557b0bbbe91411a3c65d72d1de2fd",
+  "evidence_digest": "sha256:a609534971ac0b1bbfb858fbfa622348721d6101a6cbe59ef631b2d83a87b700",
+  "gate_id": "26f22ecd84ab40a2af7a272f4a673c46",
+  "gate_seq": 4867
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2816",
+ "measure_id": "HB2816",
+ "subject": "or_legislature/2025R1/HB2816",
+ "title": "Extends certain taxes on the privilege of harvesting merchantable forest products on forestlands.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2816 did not pass",
+ "claims": [
+  {
+   "text": "HB 2816 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614780
+   ]
+  },
+  {
+   "text": "HB 2816 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660497
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614780,
+    616989,
+    660497
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614780
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614780
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2816&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2816",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2445,
+  "finding_hash": "35e6e6ec13d132da0c3c510d42a2583c306a5a622a90a2ee76ca744cc0cbccf9",
+  "evidence_digest": "sha256:fa43bed9036b02600b2fec139e973f72618fda11c81b876421f13b514106745e",
+  "gate_id": "772e485e51a14c0eb34e3a8987031351",
+  "gate_seq": 2446
+ }
+}

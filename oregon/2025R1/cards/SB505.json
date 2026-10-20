@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "SB 505",
+ "measure_id": "SB505",
+ "subject": "or_legislature/2025R1/SB505",
+ "title": "Directs the Oregon Department of Emergency Management to develop and implement a grant program to distribute moneys to certain counties to fund emergency preparedness coordinators.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 505 did not pass",
+ "claims": [
+  {
+   "text": "SB 505 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615810
+   ]
+  },
+  {
+   "text": "SB 505 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659341
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615810,
+    618077,
+    620548,
+    622322,
+    623156,
+    623950,
+    623951,
+    659341
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615810
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615810
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620548
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    623156
+   ]
+  },
+  {
+   "date": "2025-02-21",
+   "when": "February 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    623950
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 505&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB505",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7623,
+  "finding_hash": "c61ef5fa4e9027abc0ed90b650f8d409ca6a755bd123240f523be5e4bfa9cfa0",
+  "evidence_digest": "sha256:f1b4dcdccdcbbf1a72d8b410e2e409cc1a8e309f1b89d7530f8260880e21aa10",
+  "gate_id": "2ddf3c445bc941b0a1fada0dc2742e0a",
+  "gate_seq": 7624
+ }
+}

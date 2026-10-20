@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 540",
+ "measure_id": "SB540",
+ "subject": "or_legislature/2025R1/SB540",
+ "title": "Requires a drug manufacturer or wholesaler to state on the label of an orally administered drug any ingredients derived from gluten-containing grains.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 540 did not pass",
+ "claims": [
+  {
+   "text": "SB 540 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615845
+   ]
+  },
+  {
+   "text": "SB 540 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659374
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615845,
+    618112,
+    659374
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615845
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615845
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 540&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB540",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7728,
+  "finding_hash": "2af54d056975404ba60d40a0b16b7664ef4cbc87eaac49070ad521bdb0a36abb",
+  "evidence_digest": "sha256:83530dcaefe47a8b51ec1fff6fd771aa5327cf652682afe40d7959975f656191",
+  "gate_id": "2da0757eef1748b595e5a87f804b3d8f",
+  "gate_seq": 7729
+ }
+}

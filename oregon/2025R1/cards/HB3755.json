@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3755",
+ "measure_id": "HB3755",
+ "subject": "or_legislature/2025R1/HB3755",
+ "title": "Creates a property tax exemption for the owner-occupied principal dwelling of seniors who are at least 65 years of age, have resided in the dwelling for at least 10 years and have a household income not greater than $150,000 per year.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3755 did not pass",
+ "claims": [
+  {
+   "text": "HB 3755 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624931
+   ]
+  },
+  {
+   "text": "HB 3755 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660468
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624931,
+    626340,
+    629571,
+    660468
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624931
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624931
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629571
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660468
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3755&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3755",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5262,
+  "finding_hash": "f5b72f7c948c76d89e73b32a95016653a057a56d105923daab6f8b395a69a5d9",
+  "evidence_digest": "sha256:d8b451330400de91fe8f22798598f6cef99c9e9891180285ab7582b3068d09ef",
+  "gate_id": "ed958862b74341be964aef779035831c",
+  "gate_seq": 5263
+ }
+}

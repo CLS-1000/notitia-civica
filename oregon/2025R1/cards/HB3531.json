@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3531",
+ "measure_id": "HB3531",
+ "subject": "or_legislature/2025R1/HB3531",
+ "title": "Directs the Commission on Indian Services to employ a natural resources management tribal liaison officer to facilitate opportunities for integrated natural resources management between Indian tribes and state agencies with natural resources management duties.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3531 did not pass",
+ "claims": [
+  {
+   "text": "HB 3531 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621737
+   ]
+  },
+  {
+   "text": "HB 3531 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660584
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621737,
+    622075,
+    660584
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621737
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621737
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3531&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3531",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4590,
+  "finding_hash": "68ade910914e9a592c21597fdfc8fa185a218dea47c19e1809ffcf597fa09411",
+  "evidence_digest": "sha256:af6d466aca0af597e4d56f9c0981192e8ba11114e0032cab9217f34f7939d387",
+  "gate_id": "451f0f3645f3454e89819edf50015103",
+  "gate_seq": 4591
+ }
+}

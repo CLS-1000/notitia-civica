@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2413",
+ "measure_id": "HB2413",
+ "subject": "or_legislature/2025R1/HB2413",
+ "title": "Requires the Oregon Business Development Department to study the outdoor gear and apparel industry in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2413 did not pass",
+ "claims": [
+  {
+   "text": "HB 2413 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614377
+   ]
+  },
+  {
+   "text": "HB 2413 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660061
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614377,
+    616586,
+    660061
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614377
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614377
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2413&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2413",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1236,
+  "finding_hash": "e90b718d72405100f01112cb17e89853dfcaaf1150053eac08ebfc7baf2988f7",
+  "evidence_digest": "sha256:a335d0f536a72cf1900a5f212c30b654409fab9375904d25449eb1256ec8f198",
+  "gate_id": "cc71b8b7a6734be192a60b4a6ce83ac2",
+  "gate_seq": 1237
+ }
+}

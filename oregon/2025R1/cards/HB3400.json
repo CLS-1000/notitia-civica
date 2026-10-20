@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3400",
+ "measure_id": "HB3400",
+ "subject": "or_legislature/2025R1/HB3400",
+ "title": "Requires the Oregon Department of Administrative Services to study state finance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3400 did not pass",
+ "claims": [
+  {
+   "text": "HB 3400 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619451
+   ]
+  },
+  {
+   "text": "HB 3400 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659914
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619451,
+    619823,
+    659914
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619451
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619451
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3400&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3400",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4197,
+  "finding_hash": "ad729c01d603767dd74cc96248a0dc60afbbedc4c3b20a36641f31cc10e07e8b",
+  "evidence_digest": "sha256:fa1d621e43f550751c122584d6abe3315311afb7bcb6557b60c641e87cfefde9",
+  "gate_id": "86718d6de9ab42c683da87fafabc25cc",
+  "gate_seq": 4198
+ }
+}

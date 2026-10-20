@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3905",
+ "measure_id": "HB3905",
+ "subject": "or_legislature/2025R1/HB3905",
+ "title": "Requires the Department of Education to study the adequacy of state funding for public education in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3905 did not pass",
+ "claims": [
+  {
+   "text": "HB 3905 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625081
+   ]
+  },
+  {
+   "text": "HB 3905 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661109
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625081,
+    626490,
+    661109
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625081
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625081
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3905&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3905",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5712,
+  "finding_hash": "099a53b2a61112ed3756e8097aa9ae2fa45a3e193a81db53e9d21e298f83bf54",
+  "evidence_digest": "sha256:d4708e31b42121dae4205149b2474fc7ff2ba15117461bc9124550128b2f8a1a",
+  "gate_id": "2cbd81c0b21d4b1aab02642aeaf6e579",
+  "gate_seq": 5713
+ }
+}

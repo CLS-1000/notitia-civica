@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2785",
+ "measure_id": "HB2785",
+ "subject": "or_legislature/2025R1/HB2785",
+ "title": "Modifies certain fees charged by the State Department of Geology and Mineral Industries.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2785 did not pass",
+ "claims": [
+  {
+   "text": "HB 2785 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614749
+   ]
+  },
+  {
+   "text": "HB 2785 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660479
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614749,
+    616958,
+    660479
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614749
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614749
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2785&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2785",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2352,
+  "finding_hash": "99e8f1e814420fb7acfaa7a8d8266d4043f0623df12dad9f53d18eee7b98aeb1",
+  "evidence_digest": "sha256:19f91033ec60dac486a1e1a55b4f32610feff34b19f464eb06a583c2a79c47b5",
+  "gate_id": "1f94f9b4e3814dc3b916f4f4440772f5",
+  "gate_seq": 2353
+ }
+}

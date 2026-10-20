@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3275",
+ "measure_id": "HB3275",
+ "subject": "or_legislature/2025R1/HB3275",
+ "title": "Requires public universities and community colleges to charge tuition and fees no greater than the resident rate for an active member of the Armed Forces of the United States and for a spouse or dependent child of an active member of the Armed Forces of the United States.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3275 did not pass",
+ "claims": [
+  {
+   "text": "HB 3275 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618746
+   ]
+  },
+  {
+   "text": "HB 3275 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660982
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618746,
+    619144,
+    660982
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618746
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618746
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3275&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3275",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3822,
+  "finding_hash": "234bb05142c151e275470f7a36f23d4f276e2fd4d9ba5566037ef88b37bbb595",
+  "evidence_digest": "sha256:e0cacea21d18af4f746fe450de64d733af29bfa93d017acafd23131faaa73356",
+  "gate_id": "0da5035856db4145b860eadb2aaa267a",
+  "gate_seq": 3823
+ }
+}

@@ -1,0 +1,120 @@
+{
+ "session": "2025R1",
+ "measure": "SB 923",
+ "measure_id": "SB923",
+ "subject": "or_legislature/2025R1/SB923",
+ "title": "Appropriates moneys for the purpose of seeding the capital campaign and expanding fundraising efforts for a multiuse recreational facility to serve the greater Roseburg and Douglas County communities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 923 did not pass",
+ "claims": [
+  {
+   "text": "SB 923 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618699
+   ]
+  },
+  {
+   "text": "SB 923 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659315
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618699,
+    618870,
+    619588,
+    620213,
+    620214,
+    622190,
+    659315
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618699
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618699
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    619588
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "when": "February 3, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    620213
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622190
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659315
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 923&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB923",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8877,
+  "finding_hash": "86795b3f4837a4bf246c8040b3c41d58f76318e0ea6c6fde3ebf038dbcc5e202",
+  "evidence_digest": "sha256:f5698acd1f2e6fc4bd5b8f8bffa52092fe8f7c6feba4b24738cbcf7cb3e1f481",
+  "gate_id": "7707e28d7d7548bb9697423fa5e187cb",
+  "gate_seq": 8878
+ }
+}

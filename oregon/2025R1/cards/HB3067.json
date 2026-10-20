@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3067",
+ "measure_id": "HB3067",
+ "subject": "or_legislature/2025R1/HB3067",
+ "title": "Directs the Oregon Criminal Justice Commission to study repealing the sunset of the Justice Reinvestment Program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3067 did not pass",
+ "claims": [
+  {
+   "text": "HB 3067 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615031
+   ]
+  },
+  {
+   "text": "HB 3067 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660947
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615031,
+    617240,
+    660947
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615031
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615031
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3067&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3067",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3198,
+  "finding_hash": "7145e40c1cfa21ecd66818943069d2b8be8ea4b91e2240f880d175867a8b2ee1",
+  "evidence_digest": "sha256:0f89d50fa8ad07ed122918b6a78f67ffca73c63d9e2300fb5142c148d73384f3",
+  "gate_id": "7311c0d130da480c8b06748a3a129cd3",
+  "gate_seq": 3199
+ }
+}

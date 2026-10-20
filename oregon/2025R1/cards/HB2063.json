@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2063",
+ "measure_id": "HB2063",
+ "subject": "or_legislature/2025R1/HB2063",
+ "title": "Creates the Agrivoltaics Task Force staffed by the Department of Land Conservation and Development.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2063 did not pass",
+ "claims": [
+  {
+   "text": "HB 2063 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614027
+   ]
+  },
+  {
+   "text": "HB 2063 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661403
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614027,
+    616236,
+    629305,
+    633423,
+    635796,
+    635797,
+    661403
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614027
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614027
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629305
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    633423
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    635796
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2063&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2063",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 186,
+  "finding_hash": "505555e8936470d72a6a2aaf3110047ca377f0ce5c7016afc7fa3edbd0a03938",
+  "evidence_digest": "sha256:333780121a5a6f446da38e8f718665ce7edfed850ccc50a6a4cc3e7c59ce9ef7",
+  "gate_id": "eaaec54c1a274f94a19360a600d8a855",
+  "gate_seq": 187
+ }
+}

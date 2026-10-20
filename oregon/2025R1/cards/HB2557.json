@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2557",
+ "measure_id": "HB2557",
+ "subject": "or_legislature/2025R1/HB2557",
+ "title": "Prohibits a person from raising octopus for the purpose of human consumption or participating in the sale or offer for sale of octopus that was raised for human consumption.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2557 did not pass",
+ "claims": [
+  {
+   "text": "HB 2557 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614521
+   ]
+  },
+  {
+   "text": "HB 2557 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660895
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614521,
+    616730,
+    620173,
+    660895
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614521
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614521
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "when": "February 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620173
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660895
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2557&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2557",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1668,
+  "finding_hash": "ec1ad06e190ae4a31b5faa14def8493edd0a1e109bd74d092007e8b2c20047cb",
+  "evidence_digest": "sha256:a644bfd488a20510d2bf6e6b0b26d12004b7020be0b3101437f3319ac6c1ddd9",
+  "gate_id": "f1d182b5f29745cfa2717ca879062684",
+  "gate_seq": 1669
+ }
+}

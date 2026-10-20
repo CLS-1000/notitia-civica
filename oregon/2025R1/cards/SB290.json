@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 290",
+ "measure_id": "SB290",
+ "subject": "or_legislature/2025R1/SB290",
+ "title": "Requires the Oregon Health Authority to study public health.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 290 did not pass",
+ "claims": [
+  {
+   "text": "SB 290 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615595
+   ]
+  },
+  {
+   "text": "SB 290 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658683
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615595,
+    617862,
+    658683
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615595
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615595
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 290&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB290",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6978,
+  "finding_hash": "8f541cb6a242d73063ec487b13cd2b73f22bbd8efb757a937139cb8463a336d6",
+  "evidence_digest": "sha256:7d7b4cd3f618eced5cb12d7093e14298c53780fc9b1a5d003d81d5994fbb7f20",
+  "gate_id": "77b569be144a4f31a71221a32a3450da",
+  "gate_seq": 6979
+ }
+}

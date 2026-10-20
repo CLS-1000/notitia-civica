@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 77",
+ "measure_id": "SB77",
+ "subject": "or_legislature/2025R1/SB77",
+ "title": "Describes allowable home occupations on lands zoned for forest or farm use.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 77 did not pass",
+ "claims": [
+  {
+   "text": "SB 77 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615382
+   ]
+  },
+  {
+   "text": "SB 77 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658616
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615382,
+    617649,
+    626947,
+    658616
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615382
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615382
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626947
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658616
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 77&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB77",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6339,
+  "finding_hash": "81a3c18cbb5a83c4d974e3a434b4ca697b229aa15d9e47ff3aeca7f309a9f674",
+  "evidence_digest": "sha256:29bd5dabd49a60e59634217cbf42fb9cccb7dc4c9f190144f7908a68c4125308",
+  "gate_id": "7abdba8b98d44c909be220d3f4905f09",
+  "gate_seq": 6340
+ }
+}

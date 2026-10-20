@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3252",
+ "measure_id": "HB3252",
+ "subject": "or_legislature/2025R1/HB3252",
+ "title": "Limits the applicability of certain administrative rules relating to the siting, permitting or location of agricultural labor housing in connection with a livestock operation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3252 did not pass",
+ "claims": [
+  {
+   "text": "HB 3252 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618723
+   ]
+  },
+  {
+   "text": "HB 3252 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661414
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618723,
+    619121,
+    661414
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618723
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618723
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3252&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3252",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3753,
+  "finding_hash": "2ca532567652a74e0ea35156f4343d53bc10344b352355e7c0deba6a724e1694",
+  "evidence_digest": "sha256:d028030df22eceba55b29a8045a42ba4f8ec14d35a9ebb173a92f6d7fc847a79",
+  "gate_id": "0d6bd13afaa842a5846730af56c20587",
+  "gate_seq": 3754
+ }
+}

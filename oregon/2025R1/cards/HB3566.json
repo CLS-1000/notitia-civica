@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3566",
+ "measure_id": "HB3566",
+ "subject": "or_legislature/2025R1/HB3566",
+ "title": "Modifies laws related to towing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3566 did not pass",
+ "claims": [
+  {
+   "text": "HB 3566 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622901
+   ]
+  },
+  {
+   "text": "HB 3566 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661313
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622901,
+    623456,
+    661313
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622901
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622901
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3566&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3566",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4695,
+  "finding_hash": "318892bf3e46936427f3c26988fbc4524789a84eb0aa851ec2ab2bd1576aeaa7",
+  "evidence_digest": "sha256:6a1d72f07dd9cbaf8b7ab68b2088e03fe3deed4a2cbe8532fd1c9c4669aeba9c",
+  "gate_id": "f39442c2eb0c42aa9c041fbe9c838c8b",
+  "gate_seq": 4696
+ }
+}

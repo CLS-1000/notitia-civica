@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2518",
+ "measure_id": "HB2518",
+ "subject": "or_legislature/2025R1/HB2518",
+ "title": "Requires a person who is a member of an education governing body to comply with training standards established and maintained by the State Board of Education.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2518 did not pass",
+ "claims": [
+  {
+   "text": "HB 2518 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614482
+   ]
+  },
+  {
+   "text": "HB 2518 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659801
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614482,
+    616691,
+    659801
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614482
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614482
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2518&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2518",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1551,
+  "finding_hash": "61ec35ae9ebc7dd3e8dc0107c93d6b32657a5889f5470b7bbb8faa1862de1b58",
+  "evidence_digest": "sha256:a8a6780a20afd490cfc868ad8658c9d88b6c04b793a33b9474a5a1d8a7f5f36f",
+  "gate_id": "0a5ed3bc4e2343818558d3edd1e8e736",
+  "gate_seq": 1552
+ }
+}

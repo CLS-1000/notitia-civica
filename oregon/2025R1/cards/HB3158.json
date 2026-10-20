@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3158",
+ "measure_id": "HB3158",
+ "subject": "or_legislature/2025R1/HB3158",
+ "title": "Allows certain photovoltaic solar power generation facilities on lands zoned for exclusive farm use to operate alongside farm or allowed nonfarm uses on a tract.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3158 did not pass",
+ "claims": [
+  {
+   "text": "HB 3158 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615122
+   ]
+  },
+  {
+   "text": "HB 3158 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660792
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615122,
+    617331,
+    660792
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615122
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615122
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3158&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3158",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3471,
+  "finding_hash": "81bdc38503c831df7978951d7bd607ed41656ec857868f1e1501cdcc084f7294",
+  "evidence_digest": "sha256:c2a4d1008ea347d49db5d6c6a173d5e7eeee57b3b20e639dc3a99ed0a2ff0f99",
+  "gate_id": "0ea0a4c62707457ebeeee97d66e36d25",
+  "gate_seq": 3472
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 678",
+ "measure_id": "SB678",
+ "subject": "or_legislature/2025R1/SB678",
+ "title": "Undoes wildfire protection provisions adopted in Senate Bill 762 (2021).",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 678 did not pass",
+ "claims": [
+  {
+   "text": "SB 678 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615983
+   ]
+  },
+  {
+   "text": "SB 678 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658872
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615983,
+    618250,
+    658872
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615983
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615983
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 678&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB678",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8142,
+  "finding_hash": "04639c1a1a4b2b85a2283d3e75abbe08d7633d71f4446dd0da1740ef6ff5be23",
+  "evidence_digest": "sha256:4028c8c74ea924c0fc91e58a764763ef8fa618deea97a4f9528193397213ecab",
+  "gate_id": "4ef8d14351924fd7b3dfc4dcc1b0b963",
+  "gate_seq": 8143
+ }
+}

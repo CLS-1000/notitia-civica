@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3939",
+ "measure_id": "HB3939",
+ "subject": "or_legislature/2025R1/HB3939",
+ "title": "Extends the temporary Oregon Business Development Department residential infrastructure grant program by two years.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3939 did not pass",
+ "claims": [
+  {
+   "text": "HB 3939 was introduced in the House on March 18, 2025.",
+   "row_ids": [
+    629401
+   ]
+  },
+  {
+   "text": "HB 3939 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661111
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    629401,
+    629549,
+    638401,
+    639411,
+    641076,
+    641077,
+    661111
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    629401
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    629401
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    638401
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639411
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641076
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3939&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3939",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5814,
+  "finding_hash": "a6590d11bb7d1ba935b6219389580b3f2f4ccd6ac0143f90144650ba2346013b",
+  "evidence_digest": "sha256:373c68b44bc0ee3e703098d090b89f67ebe39a177b079a5d826725073646e220",
+  "gate_id": "c0bf1167b447472480f85d99ccf208e8",
+  "gate_seq": 5815
+ }
+}

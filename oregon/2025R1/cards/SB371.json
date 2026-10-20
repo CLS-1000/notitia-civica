@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 371",
+ "measure_id": "SB371",
+ "subject": "or_legislature/2025R1/SB371",
+ "title": "Requires the Department of State Lands to petition the United States Congress for the transfer of certain public lands.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 371 did not pass",
+ "claims": [
+  {
+   "text": "SB 371 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615676
+   ]
+  },
+  {
+   "text": "SB 371 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658756
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615676,
+    617943,
+    658756
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615676
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615676
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 371&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB371",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7221,
+  "finding_hash": "b2e836d3eedfe974f3d49a9b32a97b3cb9d4b6a8afc9c484a0f3961fe609fb92",
+  "evidence_digest": "sha256:758423cb1ec63e9ea75fb9d6bbd1e6d72ef02c7c2c19fa3e06c214cfadbf3b94",
+  "gate_id": "7e30151ff4bd4e02887ec71d5a457a17",
+  "gate_seq": 7222
+ }
+}

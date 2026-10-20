@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3885",
+ "measure_id": "HB3885",
+ "subject": "or_legislature/2025R1/HB3885",
+ "title": "Directs the Department of Transportation to study issues related to highways and present the results of the study to the Joint Committee on Transportation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3885 did not pass",
+ "claims": [
+  {
+   "text": "HB 3885 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625061
+   ]
+  },
+  {
+   "text": "HB 3885 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661089
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625061,
+    626470,
+    661089
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625061
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625061
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3885&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3885",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5652,
+  "finding_hash": "45fec890d7b22db8cd1835566d97acf89d9f337f64dbf7c8dd76fec703c11f48",
+  "evidence_digest": "sha256:1f9f021aba4fbbe61a576adf3af1d93d874cb049ad37eb26bed6e59e5e69e86a",
+  "gate_id": "48addded6dd449b3b8b8ef09311acf94",
+  "gate_seq": 5653
+ }
+}

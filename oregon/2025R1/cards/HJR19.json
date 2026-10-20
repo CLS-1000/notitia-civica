@@ -1,0 +1,80 @@
+{
+ "session": "2025R1",
+ "measure": "HJR 19",
+ "measure_id": "HJR19",
+ "subject": "or_legislature/2025R1/HJR19",
+ "title": "Proposes an amendment to the Oregon Constitution to vest the power of impeachment of certain judges in the House of Representatives and the power to try impeachments in the Senate. Requires a two-thirds majority vote of the House of Representatives to deliver an impeachment resolution to the Senate and a two-thirds majority vote of the Senate for conviction.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJR 19 did not pass",
+ "claims": [
+  {
+   "text": "HJR 19 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622881
+   ]
+  },
+  {
+   "text": "HJR 19 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661401
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622881,
+    623520,
+    661401
+   ]
+  },
+  {
+   "text": "HJR 19 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    661401
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622881
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622881
+   ]
+  }
+ ],
+ "topics": [
+  "ballot"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJR' and MeasureNumber eq 19&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJR19",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9966,
+  "finding_hash": "4c5e40483664aa81aa60cd7f8182f8cdbafb1b77f23c83d2e46b0f070483a9e7",
+  "evidence_digest": "sha256:dcbe88d818cb867eadfbf27050c4bcc42d71cd14ac72a9f97f13472435d52275",
+  "gate_id": "998c700c07b74139ad6927d164ad6f97",
+  "gate_seq": 9967
+ }
+}

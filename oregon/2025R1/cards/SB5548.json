@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 5548",
+ "measure_id": "SB5548",
+ "subject": "or_legislature/2025R1/SB5548",
+ "title": "Appropriates moneys from the General Fund to _____ for biennial expenses.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 5548 did not pass",
+ "claims": [
+  {
+   "text": "SB 5548 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615310
+   ]
+  },
+  {
+   "text": "SB 5548 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659193
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615310,
+    617577,
+    659193
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615310
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615310
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 5548&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB5548",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9894,
+  "finding_hash": "3dee43068bdc8e2e82ee9a29b52f4eb59a8174bb07e56bcf83f2ee454b7d12f8",
+  "evidence_digest": "sha256:e661355d583f82c4531ee1fcda5912956a4e9e2f12668ccb199d0b645a5ed5df",
+  "gate_id": "14ef1c331326454799965595fa36ee9c",
+  "gate_seq": 9895
+ }
+}

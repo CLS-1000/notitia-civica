@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3164",
+ "measure_id": "HB3164",
+ "subject": "or_legislature/2025R1/HB3164",
+ "title": "Increases the allowable size of temporary signs on private property.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3164 did not pass",
+ "claims": [
+  {
+   "text": "HB 3164 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615128
+   ]
+  },
+  {
+   "text": "HB 3164 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660798
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615128,
+    617337,
+    660798
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615128
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615128
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3164&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3164",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3489,
+  "finding_hash": "5a3666c5de15dd2b383ca0a0855cf12bd343cfd4a8e9a2b861d9cf6ba5b8658a",
+  "evidence_digest": "sha256:3edbac4edd3af2b3accdaccc4dd607deb65c90918ed4f52eb8ee1aad25451929",
+  "gate_id": "8c6e6832bbdd4b64a0e142daffc6ea9d",
+  "gate_seq": 3490
+ }
+}

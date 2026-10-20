@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 217",
+ "measure_id": "SB217",
+ "subject": "or_legislature/2025R1/SB217",
+ "title": "Requires an electric utility to pay a net metering customer-generator for the excess kilowatt-hours generated during a billing period.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 217 did not pass",
+ "claims": [
+  {
+   "text": "SB 217 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615522
+   ]
+  },
+  {
+   "text": "SB 217 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659426
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615522,
+    617789,
+    659426
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615522
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615522
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 217&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB217",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6759,
+  "finding_hash": "9cb67c52a35f4242d998bb2f4761bc842e51b4a2a6b7557811f892b71382de21",
+  "evidence_digest": "sha256:ebdabb3cf68137f9f3763f5dcf3bcfc0b2fc68b3e82d11238e7786649f592201",
+  "gate_id": "613e34d4ac504aa5bfa59894ed6b6062",
+  "gate_seq": 6760
+ }
+}

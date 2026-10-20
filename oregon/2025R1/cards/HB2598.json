@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2598",
+ "measure_id": "HB2598",
+ "subject": "or_legislature/2025R1/HB2598",
+ "title": "Clarifies that a rail fixed guideway system is not a commercial motor vehicle for the purposes of the Oregon Vehicle Code.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2598 did not pass",
+ "claims": [
+  {
+   "text": "HB 2598 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614562
+   ]
+  },
+  {
+   "text": "HB 2598 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660923
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614562,
+    616771,
+    660923
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614562
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614562
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2598&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2598",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1791,
+  "finding_hash": "f37171fc9fc404ec484a89ca2e6fb66872060747019225099986dd6a70d6501c",
+  "evidence_digest": "sha256:7bdaa1dc59ec9c8df91c9596f9f716faa79816b0200154553fd4640910e40e3d",
+  "gate_id": "eb3443f647cc42c8963fb376896afb89",
+  "gate_seq": 1792
+ }
+}

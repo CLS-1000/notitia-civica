@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 38",
+ "measure_id": "SB38",
+ "subject": "or_legislature/2025R1/SB38",
+ "title": "Requires the State Board of Pharmacy to study prescription drugs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 38 did not pass",
+ "claims": [
+  {
+   "text": "SB 38 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615343
+   ]
+  },
+  {
+   "text": "SB 38 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658978
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615343,
+    617610,
+    658978
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615343
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615343
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 38&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB38",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6222,
+  "finding_hash": "03bcb8c9190984cf18771d9318b8439169410db7fab773fedc9193d155bea3f0",
+  "evidence_digest": "sha256:fd39a07169978fbb37c3283e4f8afd75a672348ce49ac94be81b7fc6731b3152",
+  "gate_id": "9138fa7e30684166b0952d0c0f225c93",
+  "gate_seq": 6223
+ }
+}

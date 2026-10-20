@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "SB 200",
+ "measure_id": "SB200",
+ "subject": "or_legislature/2025R1/SB200",
+ "title": "Abolishes the State Court Technology Fund.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 200 did not pass",
+ "claims": [
+  {
+   "text": "SB 200 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615505
+   ]
+  },
+  {
+   "text": "SB 200 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659524
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615505,
+    617772,
+    636690,
+    638380,
+    638381,
+    659524
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615505
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615505
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    636690
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638380
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 200&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB200",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6708,
+  "finding_hash": "fcf52a542ddd259b914f97366e18dd7289623cf94ade4ceac46e40c5b9a53742",
+  "evidence_digest": "sha256:3be0109af2b80bcadb978ec1a206afbc6f80f4d3adf75d1e38650229c182c254",
+  "gate_id": "b49ace14a1ad46758a45caf14c3590fb",
+  "gate_seq": 6709
+ }
+}

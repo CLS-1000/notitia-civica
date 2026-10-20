@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 297",
+ "measure_id": "SB297",
+ "subject": "or_legislature/2025R1/SB297",
+ "title": "Appropriates moneys from the General Fund to the Department of Transportation for right of way health and safety.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 297 did not pass",
+ "claims": [
+  {
+   "text": "SB 297 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615602
+   ]
+  },
+  {
+   "text": "SB 297 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658688
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615602,
+    617869,
+    658688
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615602
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615602
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 297&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB297",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6999,
+  "finding_hash": "762f0d41ab170d0e5f24226108c8f2b8db7cd38ad92535a5c7a5bea895687047",
+  "evidence_digest": "sha256:f311253c0dc1ae4903f6156ac81203d46eb7e31c8e1205cd922b1d0e63049b67",
+  "gate_id": "46a8429f43f549d29629d427f4dcb40f",
+  "gate_seq": 7000
+ }
+}

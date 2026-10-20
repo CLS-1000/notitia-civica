@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 374",
+ "measure_id": "SB374",
+ "subject": "or_legislature/2025R1/SB374",
+ "title": "Establishes certain limitation on projects under the Good Neighbor Authority Agreement.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 374 did not pass",
+ "claims": [
+  {
+   "text": "SB 374 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615679
+   ]
+  },
+  {
+   "text": "SB 374 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658759
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615679,
+    617946,
+    658759
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615679
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615679
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 374&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB374",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7230,
+  "finding_hash": "50d61dc181d9163e4d0010ce24a9577ff436e78aee4648708fc518fbf520a739",
+  "evidence_digest": "sha256:3515a02fb6f0feab6cb689c589b89110a27e1bba9e31abe336cbdd959084cc4f",
+  "gate_id": "dd0ea13d7c9640d880f6958687b998ed",
+  "gate_seq": 7231
+ }
+}

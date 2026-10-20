@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3445",
+ "measure_id": "HB3445",
+ "subject": "or_legislature/2025R1/HB3445",
+ "title": "Creates a violation for failure to comply with compulsory school attendance requirements.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3445 did not pass",
+ "claims": [
+  {
+   "text": "HB 3445 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619496
+   ]
+  },
+  {
+   "text": "HB 3445 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660805
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619496,
+    619868,
+    660805
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619496
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619496
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3445&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3445",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4332,
+  "finding_hash": "4445e209070f6561dd2fe2c0414275354d7b98f36bc8b80bcb4c18dd3515cd91",
+  "evidence_digest": "sha256:c7fadd1d7bcd9dbca8c43744ab925dc4714f3c2846659935df7e133e070e6dcf",
+  "gate_id": "eb5799cc3e854574b75266d1166481a3",
+  "gate_seq": 4333
+ }
+}

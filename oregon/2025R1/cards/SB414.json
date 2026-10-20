@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 414",
+ "measure_id": "SB414",
+ "subject": "or_legislature/2025R1/SB414",
+ "title": "Modifies the crime of unlawful dissemination of an intimate image to include the disclosure of a computer-generated explicit likeness.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 414 did not pass",
+ "claims": [
+  {
+   "text": "SB 414 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615719
+   ]
+  },
+  {
+   "text": "SB 414 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659049
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615719,
+    617986,
+    659049
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615719
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615719
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 414&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB414",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7350,
+  "finding_hash": "43b4f60fb68b73242fc1435664911f299b10c18ec18d9d8311665f7b9cb05de0",
+  "evidence_digest": "sha256:82280e1ca80a783662d302a0001f2b32bd684a3186772111243e811cb3f95b04",
+  "gate_id": "5bf62930fd1e40049b1e2d74d8147a57",
+  "gate_seq": 7351
+ }
+}

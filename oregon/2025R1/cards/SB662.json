@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 662",
+ "measure_id": "SB662",
+ "subject": "or_legislature/2025R1/SB662",
+ "title": "Increases the maximum allowable amount of political contribution personal income tax credit.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 662 did not pass",
+ "claims": [
+  {
+   "text": "SB 662 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615967
+   ]
+  },
+  {
+   "text": "SB 662 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658856
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615967,
+    618234,
+    658856
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615967
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615967
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 662&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB662",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8094,
+  "finding_hash": "3edb964da87b5760ba401511b10fb827afaa89fad3ee1ff513188f4773390c33",
+  "evidence_digest": "sha256:59f910560b2a953e4901a2048c37de235684724eeecafb31770298fe0b870006",
+  "gate_id": "6cd4fd83b2484b06957cc1e517e40aaa",
+  "gate_seq": 8095
+ }
+}

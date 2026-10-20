@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3388",
+ "measure_id": "HB3388",
+ "subject": "or_legislature/2025R1/HB3388",
+ "title": "Requires the Secretary of State to study recalls of public officials.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3388 did not pass",
+ "claims": [
+  {
+   "text": "HB 3388 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619439
+   ]
+  },
+  {
+   "text": "HB 3388 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659903
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619439,
+    619811,
+    659903
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619439
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619439
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3388&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3388",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4161,
+  "finding_hash": "920af2a8a318e5c70804c41b4e1f08cc8e1a83ce3b94da1a2124cc81397f7b26",
+  "evidence_digest": "sha256:8d3742cf31cc73a82a9644d643adcea7815132e8150044c4543f63a369552f37",
+  "gate_id": "ee063d38b1eb45c881bb909e43160367",
+  "gate_seq": 4162
+ }
+}

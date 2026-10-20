@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3475",
+ "measure_id": "HB3475",
+ "subject": "or_legislature/2025R1/HB3475",
+ "title": "Requires the Teacher Standards and Practices Commission to study the requirements to obtain a teaching license to determine whether a reasonable nexus exists between the requirements and the qualifications necessary for a teacher to deliver educational instruction in accordance with academic content standards.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3475 did not pass",
+ "claims": [
+  {
+   "text": "HB 3475 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620348
+   ]
+  },
+  {
+   "text": "HB 3475 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660852
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620348,
+    621021,
+    660852
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620348
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620348
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3475&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3475",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4422,
+  "finding_hash": "69d9386b82cceb7259ebad3d8b6f1942928c267e0dc97d1b9d4d8dbe601a2dc7",
+  "evidence_digest": "sha256:7e3bd9ee42dd1335e661e612fdbf43de41ac64df2a1e869ad89baf3799b83688",
+  "gate_id": "b7a4139f1495464090dd8b87ad08b68e",
+  "gate_seq": 4423
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 461",
+ "measure_id": "SB461",
+ "subject": "or_legislature/2025R1/SB461",
+ "title": "Directs the State Fish and Wildlife Commission to require license agents to issue paper copies of licenses, tags and permits under the wildlife laws upon request.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 461 did not pass",
+ "claims": [
+  {
+   "text": "SB 461 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615766
+   ]
+  },
+  {
+   "text": "SB 461 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659091
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615766,
+    618033,
+    659091
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615766
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615766
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 461&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB461",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7491,
+  "finding_hash": "0b35f08ceb744840a189c8db3f0e522ceb275a775c5eb07b04bff28b262b9721",
+  "evidence_digest": "sha256:d923b64c4be8efc26821557b3e9015862b91970470611d1073d86d2ee8285f28",
+  "gate_id": "d0df3390369d46f1a65d10d73f8b8856",
+  "gate_seq": 7492
+ }
+}

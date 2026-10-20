@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3504",
+ "measure_id": "HB3504",
+ "subject": "or_legislature/2025R1/HB3504",
+ "title": "Appropriates moneys to the Teacher Standards and Practices Commission to fund nine additional full-time staff positions to support student safety and adult accountability in the education system.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3504 did not pass",
+ "claims": [
+  {
+   "text": "HB 3504 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620377
+   ]
+  },
+  {
+   "text": "HB 3504 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660517
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620377,
+    621050,
+    625863,
+    629230,
+    630296,
+    630297,
+    660517
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620377
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620377
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625863
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629230
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    630296
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3504&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3504",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4509,
+  "finding_hash": "9952a1b56361993c3af7b2dad28995f23d8abfbdc2ae8cdbf69aab20f53225f0",
+  "evidence_digest": "sha256:842c96f75ee0bde514268d1b6d270561c0e9f4f70b5f5946e962a6cf269cf3e2",
+  "gate_id": "0101c8be3e4545c29d55393b87a1c584",
+  "gate_seq": 4510
+ }
+}

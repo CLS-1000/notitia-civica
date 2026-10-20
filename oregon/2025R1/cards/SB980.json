@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "SB 980",
+ "measure_id": "SB980",
+ "subject": "or_legislature/2025R1/SB980",
+ "title": "Directs the Oregon Department of Administrative Services to study and develop a list of standardized job profiles for unlicensed school jobs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 980 did not pass",
+ "claims": [
+  {
+   "text": "SB 980 was introduced in the Senate on February 4, 2025.",
+   "row_ids": [
+    620442
+   ]
+  },
+  {
+   "text": "SB 980 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658996
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620442,
+    620467,
+    629627,
+    636221,
+    638156,
+    639825,
+    639826,
+    658996
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620442
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620442
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629627
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636221
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639825
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 980&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB980",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9048,
+  "finding_hash": "aa14244b6b2e876d420200ba18c57811e3fff82fb8e93063f01fa7835fa79169",
+  "evidence_digest": "sha256:3b670de59c2251e3bc436e6666fa09ffad9e5155a80d972f777101e2c37a8f19",
+  "gate_id": "0c3197072af240d39311cf686875b823",
+  "gate_seq": 9049
+ }
+}

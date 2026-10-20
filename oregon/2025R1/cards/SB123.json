@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "SB 123",
+ "measure_id": "SB123",
+ "subject": "or_legislature/2025R1/SB123",
+ "title": "Modifies the provision that exempts receipts from the sale by certain pharmacies of prescription drugs to allow use of the exemption by critical access pharmacies and to require pharmacies allowed the exemption based on the number of locations to have at least one location in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 123 did not pass",
+ "claims": [
+  {
+   "text": "SB 123 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615428
+   ]
+  },
+  {
+   "text": "SB 123 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659463
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615428,
+    617695,
+    652693,
+    654163,
+    654164,
+    659463
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615428
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615428
+   ]
+  },
+  {
+   "date": "2025-06-09",
+   "when": "June 9, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    652693
+   ]
+  },
+  {
+   "date": "2025-06-12",
+   "when": "June 12, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    654163
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 123&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB123",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6477,
+  "finding_hash": "f6a175c951a6bcd23cbfd1865debc09c82096bb20e3ab6bbc50ed83413381ffd",
+  "evidence_digest": "sha256:17f11792b1bf534824166885a7c5f65766af6e77bd1efe2e3b9fd02eefffbb0d",
+  "gate_id": "0382e0177d4a417993c2664d0086e28b",
+  "gate_seq": 6478
+ }
+}

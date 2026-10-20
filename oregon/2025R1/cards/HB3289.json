@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3289",
+ "measure_id": "HB3289",
+ "subject": "or_legislature/2025R1/HB3289",
+ "title": "Requires the Department of Corrections to study issues related to post-custodial workforce development in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3289 did not pass",
+ "claims": [
+  {
+   "text": "HB 3289 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618760
+   ]
+  },
+  {
+   "text": "HB 3289 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660996
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618760,
+    619158,
+    660996
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618760
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618760
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3289&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3289",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3864,
+  "finding_hash": "59d1dc235d4e57c2a9af99054e476632175e6e748c8fd4b001ce87dfa6b569c7",
+  "evidence_digest": "sha256:c9a4a768b6cae1ca4879ebf9fffac2893a88c7d108b2380e1fac719d2dd05a0d",
+  "gate_id": "07531045b50b426b9a6f68b560466f30",
+  "gate_seq": 3865
+ }
+}

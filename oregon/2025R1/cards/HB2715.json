@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2715",
+ "measure_id": "HB2715",
+ "subject": "or_legislature/2025R1/HB2715",
+ "title": "Authorizes all public universities in Oregon to offer doctoral degrees, subject to approval by the Higher Education Coordinating Commission.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2715 did not pass",
+ "claims": [
+  {
+   "text": "HB 2715 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614679
+   ]
+  },
+  {
+   "text": "HB 2715 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660110
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614679,
+    616888,
+    626768,
+    660110
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614679
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614679
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626768
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660110
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2715&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2715",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2142,
+  "finding_hash": "b96768261c16fa65f3c67b8540eee33eda476858ba387673ef90833d75cf362a",
+  "evidence_digest": "sha256:35f30c8cf0b8dfb9f5cb263c3a7c727e4280e235bb73851d0058a26d5a278cd8",
+  "gate_id": "c668cfc835d34edfbf6d518b12a316bf",
+  "gate_seq": 2143
+ }
+}

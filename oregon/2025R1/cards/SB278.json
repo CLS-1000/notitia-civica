@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 278",
+ "measure_id": "SB278",
+ "subject": "or_legislature/2025R1/SB278",
+ "title": "Requires the Department of Justice to study victims and submit findings to the interim committees of the Legislative Assembly related to the judiciary not later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 278 did not pass",
+ "claims": [
+  {
+   "text": "SB 278 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615583
+   ]
+  },
+  {
+   "text": "SB 278 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658672
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615583,
+    617850,
+    658672
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615583
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615583
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 278&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB278",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6942,
+  "finding_hash": "aade3f842e793a7c530a52dc65b981361ad7aca4d3b0e9e3c57ea9ad1c86992a",
+  "evidence_digest": "sha256:3388ac22caaeeb0bde77165573b412df1205a6640054b173ccc273718bd4cebe",
+  "gate_id": "f152acd247a64bf69d7872baf0182d9d",
+  "gate_seq": 6943
+ }
+}

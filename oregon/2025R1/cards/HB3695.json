@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3695",
+ "measure_id": "HB3695",
+ "subject": "or_legislature/2025R1/HB3695",
+ "title": "Requires school districts to excuse a student for a released time course.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3695 did not pass",
+ "claims": [
+  {
+   "text": "HB 3695 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624379
+   ]
+  },
+  {
+   "text": "HB 3695 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660303
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624379,
+    625240,
+    660303
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624379
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624379
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3695&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3695",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5082,
+  "finding_hash": "aeaf140ed26509d87b73490cd5041ad177b44da97f69337eedcdeedba5840e65",
+  "evidence_digest": "sha256:c96f7bf0d2c908a4bc639c891067d5448908092d44e720504f8ba3e121302f2b",
+  "gate_id": "292ffa2fe67344fa86504328b0df36f5",
+  "gate_seq": 5083
+ }
+}

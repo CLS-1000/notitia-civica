@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1164",
+ "measure_id": "SB1164",
+ "subject": "or_legislature/2025R1/SB1164",
+ "title": "Provides that a person may request that the Department of Transportation include on the person's driver license, driver permit or identification card the fact that the person has a disability that interferes with the person's ability to effectively communicate with a police officer.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1164 did not pass",
+ "claims": [
+  {
+   "text": "SB 1164 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624874
+   ]
+  },
+  {
+   "text": "SB 1164 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659256
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624874,
+    625786,
+    659256
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624874
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624874
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1164&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1164",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9600,
+  "finding_hash": "5e01e5b7fb0c4dc334813a8fbcb9c96c20d25ffc32ff8f34fac21bc31c4517dc",
+  "evidence_digest": "sha256:e68ed85447b8f994b5b92d9a32a2a6a498bdb5ce3da98edd3371b61ebe7d7b02",
+  "gate_id": "b7906b2eae7145bcb045cebab7efe55c",
+  "gate_seq": 9601
+ }
+}

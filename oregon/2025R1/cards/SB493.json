@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 493",
+ "measure_id": "SB493",
+ "subject": "or_legislature/2025R1/SB493",
+ "title": "Allows an emergency medical responder and an emergency medical technician to draw up and administer one or more doses of a short-acting opioid antagonist from a container that contains multiple doses of the short-acting opioid antagonist.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 493 did not pass",
+ "claims": [
+  {
+   "text": "SB 493 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615798
+   ]
+  },
+  {
+   "text": "SB 493 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659331
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615798,
+    618065,
+    619940,
+    659331
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615798
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615798
+   ]
+  },
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619940
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659331
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 493&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB493",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7587,
+  "finding_hash": "49027bfa39c16d3707efd8337402b5b877369904955c60b795f75d3f579a265b",
+  "evidence_digest": "sha256:5b0665fe4fedd278fd463cb51bcc8eff6f6be568091a925a655f23e79662017d",
+  "gate_id": "fdfe7c28e714406996d68d477ab97345",
+  "gate_seq": 7588
+ }
+}

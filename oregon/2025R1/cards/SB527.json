@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "SB 527",
+ "measure_id": "SB527",
+ "subject": "or_legislature/2025R1/SB527",
+ "title": "Directs the Oregon Health Authority toaward grants to local workforce development boards to partner with certain entities toestablish and implement behavioral health education and training programs for high school students.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 527 did not pass",
+ "claims": [
+  {
+   "text": "SB 527 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615832
+   ]
+  },
+  {
+   "text": "SB 527 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659364
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615832,
+    618099,
+    628356,
+    632544,
+    637358,
+    639807,
+    639808,
+    659364
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615832
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615832
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628356
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632544
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639807
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 527&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB527",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7689,
+  "finding_hash": "c697d674c86300ad3f88c2918f82c176bb8e482085c6b9e39d80037e52bc0f8a",
+  "evidence_digest": "sha256:02375442e26981a2b873eef3745c4ecc13cd442c1bb01ad8ef77143eb66fd674",
+  "gate_id": "f89bd86548d2469996fb821fc1054c44",
+  "gate_seq": 7690
+ }
+}

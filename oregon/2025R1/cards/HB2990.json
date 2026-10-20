@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2990",
+ "measure_id": "HB2990",
+ "subject": "or_legislature/2025R1/HB2990",
+ "title": "Requires the Department of Transportation to provide a report on the progress of revising the written test for Class C driver licenses.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2990 did not pass",
+ "claims": [
+  {
+   "text": "HB 2990 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614954
+   ]
+  },
+  {
+   "text": "HB 2990 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660343
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614954,
+    617163,
+    640539,
+    660343
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614954
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614954
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    640539
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660343
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2990&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2990",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2967,
+  "finding_hash": "b8c1843ac3ad2326ec6ffe95025d07abb1711608b80f0cf5a79f5df4bb04bf57",
+  "evidence_digest": "sha256:c94c229abb91a095122939531e3a382e15c646705d50ae2c786f74a19b42e3f1",
+  "gate_id": "41a9647317c749c8b1ded449300fad45",
+  "gate_seq": 2968
+ }
+}

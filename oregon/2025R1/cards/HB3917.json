@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3917",
+ "measure_id": "HB3917",
+ "subject": "or_legislature/2025R1/HB3917",
+ "title": "Creates the Catastrophic Wildfire Fund to pay for property damage claims arising from catastrophic wildfires that are ignited by the facilities of a public utility.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3917 did not pass",
+ "claims": [
+  {
+   "text": "HB 3917 was introduced in the House on March 11, 2025.",
+   "row_ids": [
+    627749
+   ]
+  },
+  {
+   "text": "HB 3917 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661425
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    627749,
+    627865,
+    661425
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    627749
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    627749
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3917&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3917",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5748,
+  "finding_hash": "cfc76b6f9c86a6e77cde8a084bbaeb559ce518578a60361ed7e1c413db190658",
+  "evidence_digest": "sha256:ca4efa6e3e815b0b4d9d63dd9a79710042944011c2a08547a1be13843aa7e6f6",
+  "gate_id": "0528a76d26044265949fc5cf4d2b3bba",
+  "gate_seq": 5749
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3374",
+ "measure_id": "HB3374",
+ "subject": "or_legislature/2025R1/HB3374",
+ "title": "Authorizes the State Accident Insurance Fund Corporation to form or acquire subsidiaries to perform any function the corporation may delegate under law.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3374 did not pass",
+ "claims": [
+  {
+   "text": "HB 3374 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619425
+   ]
+  },
+  {
+   "text": "HB 3374 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660728
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619425,
+    619797,
+    660728
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619425
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619425
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3374&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3374",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4119,
+  "finding_hash": "c86ffe334ac32f5c0ef960b2bfc57e19bd34070e3c641a3c8f43df22acb9410e",
+  "evidence_digest": "sha256:04dcdc4cd244683bf0a3f29bee7bdd852f67e427ef44f4d780a1c6a742589334",
+  "gate_id": "d85c9c55f1ec4ba68a6dc27965bf3d22",
+  "gate_seq": 4120
+ }
+}

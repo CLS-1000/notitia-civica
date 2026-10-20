@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2980",
+ "measure_id": "HB2980",
+ "subject": "or_legislature/2025R1/HB2980",
+ "title": "Directs the State Department of Fish and Wildlife to establish a Wildlife Stewardship Program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2980 did not pass",
+ "claims": [
+  {
+   "text": "HB 2980 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614944
+   ]
+  },
+  {
+   "text": "HB 2980 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661237
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614944,
+    617153,
+    620390,
+    622835,
+    623402,
+    623403,
+    661237
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614944
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614944
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620390
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    622835
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "when": "February 19, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    623402
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2980&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2980",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2937,
+  "finding_hash": "5e220baee82f843e3f522bac842cb1b99131ced34afd6dced958f3489fd9f1bf",
+  "evidence_digest": "sha256:618a14c3799ce792ad6c9fc8fa6106091ad097eac2565c1b43fe0aa528544a9e",
+  "gate_id": "5c73eb68b8c74c3eb83a4815e69f07c9",
+  "gate_seq": 2938
+ }
+}

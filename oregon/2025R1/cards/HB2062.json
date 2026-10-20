@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2062",
+ "measure_id": "HB2062",
+ "subject": "or_legislature/2025R1/HB2062",
+ "title": "Requires producers of batteries or battery-containing products to join a battery producer responsibility organization and implement a battery producer responsibility program for the collection and recycling of batteries.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2062 did not pass",
+ "claims": [
+  {
+   "text": "HB 2062 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614026
+   ]
+  },
+  {
+   "text": "HB 2062 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661402
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614026,
+    616235,
+    622837,
+    637047,
+    638805,
+    640814,
+    640815,
+    661402
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614026
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614026
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622837
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637047
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640814
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2062&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2062",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 183,
+  "finding_hash": "8037a9abc6fec1d084bd49cd8e96fb8443505392a68c67be097f1f2defc67600",
+  "evidence_digest": "sha256:080976d5659c1544ab45742f4135605c5a6418a147f60221af7c8e9b00fe8c97",
+  "gate_id": "e4406162335c45bfa8284c79e05cef7d",
+  "gate_seq": 184
+ }
+}

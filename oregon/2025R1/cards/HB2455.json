@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2455",
+ "measure_id": "HB2455",
+ "subject": "or_legislature/2025R1/HB2455",
+ "title": "Allows home occupations on lands zoned for resource use to be operated by a property owner who is not a resident of the property.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2455 did not pass",
+ "claims": [
+  {
+   "text": "HB 2455 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614419
+   ]
+  },
+  {
+   "text": "HB 2455 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661488
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614419,
+    616628,
+    661488
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614419
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614419
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2455&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2455",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1362,
+  "finding_hash": "dc954b3888e351d4eba128c03243441b68d8cceb8757606c37fd37b3c500d91f",
+  "evidence_digest": "sha256:3cc9d286ee0803f8bfdcc6e59261fcbdcd237d388ecb79f8da98027f70397290",
+  "gate_id": "1c90b2ae150c469abd288c750a76341f",
+  "gate_seq": 1363
+ }
+}

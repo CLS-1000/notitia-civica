@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2888",
+ "measure_id": "HB2888",
+ "subject": "or_legislature/2025R1/HB2888",
+ "title": "Requires the State Department of Fish and Wildlife to seek prior legislative approval before taking any action to close a fish hatchery engaged in the propagation of an exploitation rate indicator stock.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2888 did not pass",
+ "claims": [
+  {
+   "text": "HB 2888 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614852
+   ]
+  },
+  {
+   "text": "HB 2888 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661197
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614852,
+    617061,
+    661197
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614852
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614852
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2888&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2888",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2661,
+  "finding_hash": "56160e3397534a4badd764c8b21ba7ae685ac732412e2f0414d14ce8db51d49a",
+  "evidence_digest": "sha256:3e9c77a5a2e35285ebb806430291e2415028faf3dd60fc2c6caf99df55905887",
+  "gate_id": "755b553f4bf2497b9e8d25ede240d265",
+  "gate_seq": 2662
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2635",
+ "measure_id": "HB2635",
+ "subject": "or_legislature/2025R1/HB2635",
+ "title": "Requires the Commission on Indian Services to study tribes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2635 did not pass",
+ "claims": [
+  {
+   "text": "HB 2635 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614599
+   ]
+  },
+  {
+   "text": "HB 2635 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660770
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614599,
+    616808,
+    660770
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614599
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614599
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2635&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2635",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1902,
+  "finding_hash": "4cff64b4b2917d935490cf0e25d120fc0b1e4506c682a259389aa2dea5690c0d",
+  "evidence_digest": "sha256:c1494b0dab8426134b2abed3fb65202a85cdd0ad71507af370e29c76cd01f617",
+  "gate_id": "b8889c83ed874afb810d72b76ef1dc06",
+  "gate_seq": 1903
+ }
+}

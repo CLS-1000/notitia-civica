@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2249",
+ "measure_id": "HB2249",
+ "subject": "or_legislature/2025R1/HB2249",
+ "title": "Establishes the Task Force on Health Care Apprenticeships and Career Pathways.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2249 did not pass",
+ "claims": [
+  {
+   "text": "HB 2249 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614213
+   ]
+  },
+  {
+   "text": "HB 2249 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660253
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614213,
+    616422,
+    624711,
+    633350,
+    638534,
+    639718,
+    639719,
+    660253
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614213
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614213
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624711
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    633350
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639718
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2249&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2249",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 744,
+  "finding_hash": "f1a5e3b21d9135385357dac9084bcae2057b42281a2cdd2dfe68536c72eab3ac",
+  "evidence_digest": "sha256:3b589da53ac5d344b79ec53a72284c91d63c55ce5e9241814c9801e4c8b5a9d4",
+  "gate_id": "4af33d30f00544db8a99427f5be55c48",
+  "gate_seq": 745
+ }
+}

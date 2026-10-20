@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3139",
+ "measure_id": "HB3139",
+ "subject": "or_legislature/2025R1/HB3139",
+ "title": "Authorizes a county to allow a homestead rebuilt by the same owner on the same lot to replace the homestead destroyed by wildfire to have a specially assessed value equal to the destroyed homestead's real market value for the property tax year during which the homestead is destroyed, to the extent of the square footage of the destroyed homestead.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3139 did not pass",
+ "claims": [
+  {
+   "text": "HB 3139 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615103
+   ]
+  },
+  {
+   "text": "HB 3139 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660026
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615103,
+    617312,
+    660026
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615103
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615103
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3139&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3139",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3414,
+  "finding_hash": "e09851ca25ef77d6ff6241606ea56a9528f21b3e79ef85c617a17d8bf9467f53",
+  "evidence_digest": "sha256:46ff414b7bc714df7cd73906056c042cbf574e1a0e25078a57848525f3dbe816",
+  "gate_id": "1c10393325c24507a0b1c738ec7040e2",
+  "gate_seq": 3415
+ }
+}

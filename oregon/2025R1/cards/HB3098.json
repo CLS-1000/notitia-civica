@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3098",
+ "measure_id": "HB3098",
+ "subject": "or_legislature/2025R1/HB3098",
+ "title": "Requires certain recipients of grant or loan moneys distributed by state agencies to submit annual reports to committees of the Legislative Assembly.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3098 did not pass",
+ "claims": [
+  {
+   "text": "HB 3098 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615062
+   ]
+  },
+  {
+   "text": "HB 3098 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659989
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615062,
+    617271,
+    659989
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615062
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615062
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3098&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3098",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3291,
+  "finding_hash": "ec8ba3fa69c4f398a3a9cf64f13bd074628bb0f1542be6741be59f3a64cce5eb",
+  "evidence_digest": "sha256:0063d9d719d5c5a0399bba5badf606e865eb6570434ba9f7fb31427f5df54a6b",
+  "gate_id": "1da1c776fde54914a3f57b029fb19498",
+  "gate_seq": 3292
+ }
+}

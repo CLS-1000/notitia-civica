@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 126",
+ "measure_id": "SB126",
+ "subject": "or_legislature/2025R1/SB126",
+ "title": "Requires the Legislative Revenue Officer to study the corporate excise and income tax system.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 126 did not pass",
+ "claims": [
+  {
+   "text": "SB 126 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615431
+   ]
+  },
+  {
+   "text": "SB 126 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659466
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615431,
+    617698,
+    659466
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615431
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615431
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 126&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB126",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6486,
+  "finding_hash": "5fdd52447c112a08fd17dfb4b53ee1c021f82ec606c0561bd7c7bca8bbb03cb7",
+  "evidence_digest": "sha256:d33c1a2fc01746e69b8ae71103a0c88b17d67d7779327d977d0bf2a3a3afa0dc",
+  "gate_id": "7c0a7f581ad049998d26691ed85a0608",
+  "gate_seq": 6487
+ }
+}

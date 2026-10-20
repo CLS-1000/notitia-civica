@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2847",
+ "measure_id": "HB2847",
+ "subject": "or_legislature/2025R1/HB2847",
+ "title": "Creates a subtraction from taxable income for start-up expenditures.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2847 did not pass",
+ "claims": [
+  {
+   "text": "HB 2847 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614811
+   ]
+  },
+  {
+   "text": "HB 2847 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660682
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614811,
+    617020,
+    660682
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614811
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614811
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2847&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2847",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2538,
+  "finding_hash": "00466ec67ca6781ab5868bb89674f70e294b0d0c9a8150601a0634ae6a467892",
+  "evidence_digest": "sha256:1fedd63597dc1f3be48065e335a8a55ab9be1d6d46901921f101471dfb94962f",
+  "gate_id": "91ef5141f0b24bebb06e43b0ff62b9c5",
+  "gate_seq": 2539
+ }
+}

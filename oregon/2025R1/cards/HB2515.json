@@ -1,0 +1,120 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2515",
+ "measure_id": "HB2515",
+ "subject": "or_legislature/2025R1/HB2515",
+ "title": "Authorizes public bodies to enter into an intergovernmental agreement to pool bond proceeds or other funds into commonly managed investments without the oversight of the State Treasurer and the Oregon Investment Council.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2515 did not pass",
+ "claims": [
+  {
+   "text": "HB 2515 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614479
+   ]
+  },
+  {
+   "text": "HB 2515 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659798
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614479,
+    616688,
+    621094,
+    621474,
+    621475,
+    633194,
+    659798
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614479
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614479
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    621094
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "when": "February 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    621474
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633194
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659798
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2515&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2515",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1542,
+  "finding_hash": "38a9539eccef5ef1024d4b3dda53cc13f12546e626ff9481b2d37a4451abf83b",
+  "evidence_digest": "sha256:003988ad56095092d3748309a3745af88f35a4189fe9392e2e6777a6178c564a",
+  "gate_id": "9de85d1956a04bce882fb3a1af2317e3",
+  "gate_seq": 1543
+ }
+}

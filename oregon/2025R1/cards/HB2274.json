@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2274",
+ "measure_id": "HB2274",
+ "subject": "or_legislature/2025R1/HB2274",
+ "title": "Directs the Oregon Business Development Department to discontinue doing business under the name \"Business Oregon.\"",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2274 did not pass",
+ "claims": [
+  {
+   "text": "HB 2274 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614238
+   ]
+  },
+  {
+   "text": "HB 2274 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659813
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614238,
+    616447,
+    628824,
+    639166,
+    640832,
+    640833,
+    659813
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614238
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614238
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628824
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639166
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640832
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2274&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2274",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 819,
+  "finding_hash": "9d6bf1000a60b03823a3fbf869483c5fc3fa3a7b28aa2b46a6ff7dadbc71c190",
+  "evidence_digest": "sha256:8e7be87927e252be1879003b46d6a80ecd2abb29fe8be391cb8cb7134461b831",
+  "gate_id": "438f134026984369ab99fb95e2da2257",
+  "gate_seq": 820
+ }
+}

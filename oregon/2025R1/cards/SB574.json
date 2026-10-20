@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 574",
+ "measure_id": "SB574",
+ "subject": "or_legislature/2025R1/SB574",
+ "title": "Removes statutory provisions relating to the death penalty.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 574 did not pass",
+ "claims": [
+  {
+   "text": "SB 574 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615879
+   ]
+  },
+  {
+   "text": "SB 574 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658767
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615879,
+    618146,
+    658767
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615879
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615879
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 574&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB574",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7830,
+  "finding_hash": "0294ce2a971fea8b389b4019fa0960a30e48aad817aedf5d722a2c46e82e8a7f",
+  "evidence_digest": "sha256:f2d09a8f7cec0fd2f8a76594cd25f69a2710b04d49cfc0c4e9cca3e50e6c118f",
+  "gate_id": "c32afebb36ef4c93bec7fff1ad649083",
+  "gate_seq": 7831
+ }
+}

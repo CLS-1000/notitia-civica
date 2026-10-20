@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 187",
+ "measure_id": "SB187",
+ "subject": "or_legislature/2025R1/SB187",
+ "title": "Directs the Oregon Criminal Justice Commission to study ways to improve the efficiency of procedures for setting aside convictions, and to provide the results of the study to the appropriate interim committees of the Legislative Assembly no later than December 31, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 187 did not pass",
+ "claims": [
+  {
+   "text": "SB 187 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615492
+   ]
+  },
+  {
+   "text": "SB 187 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659511
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615492,
+    617759,
+    659511
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615492
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615492
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 187&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB187",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6669,
+  "finding_hash": "1db91970a684e5f6bc5ee262a6c6977107ae1acefe872d24685e182d2c74c6cb",
+  "evidence_digest": "sha256:43b151f55fdee059fac2007d4872d47e5097de229f1791dc607f0877ce4d9e88",
+  "gate_id": "22207c70bcca4760bb6235318a018b25",
+  "gate_seq": 6670
+ }
+}

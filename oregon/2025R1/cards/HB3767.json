@@ -1,0 +1,73 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3767",
+ "measure_id": "HB3767",
+ "subject": "or_legislature/2025R1/HB3767",
+ "title": "Repeals the prohibition on local rent control.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3767 did not pass",
+ "claims": [
+  {
+   "text": "HB 3767 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624943
+   ]
+  },
+  {
+   "text": "HB 3767 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661338
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624943,
+    626352,
+    642079,
+    661338
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624943
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624943
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3767&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3767",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5298,
+  "finding_hash": "3e09e1550e10e37be174e601c64196ec4326f661043c256d81ead1a540470ff3",
+  "evidence_digest": "sha256:56035244420e9d99f2a38219b5727455ab3c13ec21d85c0c4444ed2bd3310fb2",
+  "gate_id": "c0883ee6926f43ac9682a7af44be1601",
+  "gate_seq": 5299
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 895",
+ "measure_id": "SB895",
+ "subject": "or_legislature/2025R1/SB895",
+ "title": "Requires an agency, upon the written request of 10 members of the Legislative Assembly objecting to a rule, to appear before an appropriate committee or interim committee of the Legislative Assembly for a hearing on the rule.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 895 did not pass",
+ "claims": [
+  {
+   "text": "SB 895 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618671
+   ]
+  },
+  {
+   "text": "SB 895 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659122
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618671,
+    618842,
+    659122
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618671
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618671
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 895&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB895",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8793,
+  "finding_hash": "2dfcbfa0414bd4a73452426b6902b1999b68cbe233ba48a2013af69d2128b845",
+  "evidence_digest": "sha256:3f31934c72492b74657abb4a84f71b03214980759315960005c7baa7ea08c0c0",
+  "gate_id": "1ca21db018fb401b9d9536b1d6769f85",
+  "gate_seq": 8794
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 419",
+ "measure_id": "SB419",
+ "subject": "or_legislature/2025R1/SB419",
+ "title": "Includes, for purposes of corporate excise tax, a corporation incorporated in the United States or a foreign country in the determination of unitary relationship among corporations.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 419 did not pass",
+ "claims": [
+  {
+   "text": "SB 419 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615724
+   ]
+  },
+  {
+   "text": "SB 419 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659053
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615724,
+    617991,
+    659053
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615724
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615724
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 419&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB419",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7365,
+  "finding_hash": "3c02ba964e7c824b900b5df35e5213a0333dcb5a0c800fd96e0302cb131cc61a",
+  "evidence_digest": "sha256:f23871b6ea91f6d23c6f6129d0d4f355ee5348b2d900a1bb5aad189fa4969127",
+  "gate_id": "2eedd55bfc364f35bc27a1e02f7f69bb",
+  "gate_seq": 7366
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HCR 26",
+ "measure_id": "HCR26",
+ "subject": "or_legislature/2025R1/HCR26",
+ "title": "Recognizes and honors Jim Card for his service and contributions to the people of Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HCR 26 did not pass",
+ "claims": [
+  {
+   "text": "HCR 26 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624913
+   ]
+  },
+  {
+   "text": "HCR 26 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660529
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624913,
+    626496,
+    660529
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624913
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624913
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 26&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HCR26",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10227,
+  "finding_hash": "7318607b4c3c45b46e4985b1ab37e866f341ae96782b48401b420339784a07f2",
+  "evidence_digest": "sha256:885e71ae8b8c31054afece79f10c6e436382bf54bf7f962848c3292aa63277e2",
+  "gate_id": "006d988eec3d4bfc84f99215c9d99401",
+  "gate_seq": 10228
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3567",
+ "measure_id": "HB3567",
+ "subject": "or_legislature/2025R1/HB3567",
+ "title": "Appropriates moneys to the Housing and Community Services Department to continue providing down payment assistance through culturally responsive organizations.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3567 did not pass",
+ "claims": [
+  {
+   "text": "HB 3567 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622902
+   ]
+  },
+  {
+   "text": "HB 3567 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661314
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622902,
+    623457,
+    661314
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622902
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622902
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3567&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3567",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4698,
+  "finding_hash": "88442f4ad41010a40e9173262053fed2491ef7bae7e4627440ac09028f0e167a",
+  "evidence_digest": "sha256:f236f13e6b4d34d6a2d1137eb56c3d749acbf869323ffa75afb46733fca07d53",
+  "gate_id": "7dc428fd347f4c77b3272ea690c578d4",
+  "gate_seq": 4699
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2595",
+ "measure_id": "HB2595",
+ "subject": "or_legislature/2025R1/HB2595",
+ "title": "Establishes Parkinson's disease registry.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2595 did not pass",
+ "claims": [
+  {
+   "text": "HB 2595 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614559
+   ]
+  },
+  {
+   "text": "HB 2595 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660921
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614559,
+    616768,
+    660921
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614559
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614559
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2595&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2595",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1782,
+  "finding_hash": "74cd8e38e6f6189552fb86a260ab161eae1e085f387c901230f8323a82a3c46b",
+  "evidence_digest": "sha256:b9ee56ee864197dea1d450a916b89f6718e0eea0036855f41678eeb785a57dde",
+  "gate_id": "d5e409f11899485c91e00f8fc254e387",
+  "gate_seq": 1783
+ }
+}

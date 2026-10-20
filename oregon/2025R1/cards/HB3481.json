@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3481",
+ "measure_id": "HB3481",
+ "subject": "or_legislature/2025R1/HB3481",
+ "title": "Requires the Department of Transportation to study the development of uniform standards for speed bump height and markings.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3481 did not pass",
+ "claims": [
+  {
+   "text": "HB 3481 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620354
+   ]
+  },
+  {
+   "text": "HB 3481 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660641
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620354,
+    621027,
+    660641
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620354
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620354
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3481&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3481",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4440,
+  "finding_hash": "5882f8a106a7f939ce18a70c53a6084ab94b9d81084c47773f3dba8add4667d2",
+  "evidence_digest": "sha256:e3fe53c25b23a7211a2538a4b5c8db56561e6bc81db5fb474dcb1b330cfd702c",
+  "gate_id": "410d624e02ba40878cfffc53edebe365",
+  "gate_seq": 4441
+ }
+}

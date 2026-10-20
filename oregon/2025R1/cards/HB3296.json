@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3296",
+ "measure_id": "HB3296",
+ "subject": "or_legislature/2025R1/HB3296",
+ "title": "Directs the Department of Transportation to study issues related to improving transportation infrastructure resilience and to report to the appropriate committee or interim committee of the Legislative Assembly on or before September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3296 did not pass",
+ "claims": [
+  {
+   "text": "HB 3296 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618767
+   ]
+  },
+  {
+   "text": "HB 3296 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661002
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618767,
+    619165,
+    661002
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618767
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618767
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3296&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3296",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3885,
+  "finding_hash": "6db1ea572826313cccc11bd14adaeb23d37f912882fc5c469648559f4c60d3f8",
+  "evidence_digest": "sha256:3d79b22176ab1b2fcb46f156264aefb931d9f6df65209e05286600bc5ca259b1",
+  "gate_id": "a0c5a10d33934bb29fa3703dc0e711e6",
+  "gate_seq": 3886
+ }
+}

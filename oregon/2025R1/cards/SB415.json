@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 415",
+ "measure_id": "SB415",
+ "subject": "or_legislature/2025R1/SB415",
+ "title": "Requires the Department of Environmental Quality to study zero-emission vehicle incentives.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 415 did not pass",
+ "claims": [
+  {
+   "text": "SB 415 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615720
+   ]
+  },
+  {
+   "text": "SB 415 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659050
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615720,
+    617987,
+    659050
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615720
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615720
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 415&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB415",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7353,
+  "finding_hash": "0b78c329b3134568135130bfa76a2a23209a8d93a7cf7221089c98cd9def1199",
+  "evidence_digest": "sha256:c143868b3c390b069bed8d93c0e4da3de02e1e8601340130212b04e22bf15387",
+  "gate_id": "82b2e82bba8440778c8f022ebd52b15f",
+  "gate_seq": 7354
+ }
+}

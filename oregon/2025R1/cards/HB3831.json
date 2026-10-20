@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3831",
+ "measure_id": "HB3831",
+ "subject": "or_legislature/2025R1/HB3831",
+ "title": "Requires the Department of Land Conservation and Development to study public health impacts of land use and submit findings to the interim committees of the Legislative Assembly related to land use no later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3831 did not pass",
+ "claims": [
+  {
+   "text": "HB 3831 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625007
+   ]
+  },
+  {
+   "text": "HB 3831 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660535
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625007,
+    626416,
+    660535
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625007
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625007
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3831&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3831",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5490,
+  "finding_hash": "115a6220ffde2f25e8ed28d94088b82dfe8784f2b69c9f88110933b7394e5a68",
+  "evidence_digest": "sha256:4891370770c1312fab98d10297b4f9f5f1bf9bafaca0ba6b6b5627deb5853af7",
+  "gate_id": "c25aa1aba4984ba89d3c01cf425b98f7",
+  "gate_seq": 5491
+ }
+}

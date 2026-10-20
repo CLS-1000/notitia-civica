@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3264",
+ "measure_id": "HB3264",
+ "subject": "or_legislature/2025R1/HB3264",
+ "title": "Requires the Department of Public Safety Standards and Training to study fire service professional training standards.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3264 did not pass",
+ "claims": [
+  {
+   "text": "HB 3264 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618735
+   ]
+  },
+  {
+   "text": "HB 3264 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660971
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618735,
+    619133,
+    660971
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618735
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618735
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3264&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3264",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3789,
+  "finding_hash": "aa5bf0b1b7d41214d1555128e4a5d3a0390fddf028baf064c40bb455c4db2cdb",
+  "evidence_digest": "sha256:9d2b12bb925c0619cdefdabab69496d9c20f592852cfd9ecda929b19ee7b0d27",
+  "gate_id": "b464fd2b4ef84f9b9840cb92294396df",
+  "gate_seq": 3790
+ }
+}

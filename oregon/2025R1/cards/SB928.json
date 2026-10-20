@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 928",
+ "measure_id": "SB928",
+ "subject": "or_legislature/2025R1/SB928",
+ "title": "Requires public bodies that procure electric vehicles and solar photovoltaic energy systems to receive before entering a contract for the electric vehicle or solar photovoltaic energy system a certification from the manufacturer, distributor, vendor or supplier that the production, assembly, transportation or sale of the electric vehicle or solar photovoltaic energy system did not use or involve forced labor or oppressive child labor.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 928 did not pass",
+ "claims": [
+  {
+   "text": "SB 928 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618704
+   ]
+  },
+  {
+   "text": "SB 928 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659274
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618704,
+    618875,
+    659274
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618704
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618704
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 928&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB928",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8892,
+  "finding_hash": "e77c3af8b29a799411a722e61b3f2c9a59ad7e74edcfa09fba740e01d5f40a76",
+  "evidence_digest": "sha256:7f26c687f4ea2999f6636843d784cad704b8a04839a0f01f00256ec309e3b123",
+  "gate_id": "fe20525c6627438ea74c2f4270cb9667",
+  "gate_seq": 8893
+ }
+}

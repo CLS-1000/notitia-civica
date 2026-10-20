@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 919",
+ "measure_id": "SB919",
+ "subject": "or_legislature/2025R1/SB919",
+ "title": "Requires a student to demonstrate proficiency in specified Essential Learning Skills prior to the student being awarded a high school diploma or a modified diploma.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 919 did not pass",
+ "claims": [
+  {
+   "text": "SB 919 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618695
+   ]
+  },
+  {
+   "text": "SB 919 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659111
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618695,
+    618866,
+    659111
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618695
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618695
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 919&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB919",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8865,
+  "finding_hash": "7f864696650574577464acd6c2cd979405ecb97aa859a9e904686bd5b745310b",
+  "evidence_digest": "sha256:2b8e0977a4f9baa21baa5fc9d32ed1e7bbbe9a858fed51b9ebaf44f96326a4ce",
+  "gate_id": "13555c43ad8a47669fb8caae79b47aa7",
+  "gate_seq": 8866
+ }
+}

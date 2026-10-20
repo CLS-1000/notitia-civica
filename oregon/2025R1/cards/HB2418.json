@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2418",
+ "measure_id": "HB2418",
+ "subject": "or_legislature/2025R1/HB2418",
+ "title": "Appropriates moneys to the Oregon Business Development Department for grants awarded in conjunction with the federal Small Business Innovation Research program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2418 did not pass",
+ "claims": [
+  {
+   "text": "HB 2418 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614382
+   ]
+  },
+  {
+   "text": "HB 2418 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660065
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614382,
+    616591,
+    632829,
+    638014,
+    639728,
+    639729,
+    660065
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614382
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614382
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632829
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638014
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639728
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2418&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2418",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1251,
+  "finding_hash": "96e58b3c487d3a8dcc2af01497a49e7c0aded999c96bfec51afd19440fbafbdb",
+  "evidence_digest": "sha256:53ea1ef6fcd5b167e2095145e5bdf5d4e92482fbad404fc6871bc950ce55c010",
+  "gate_id": "46e7dda0707c4cbea4c2dfdbdeeb0343",
+  "gate_seq": 1252
+ }
+}

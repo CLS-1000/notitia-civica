@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 665",
+ "measure_id": "SB665",
+ "subject": "or_legislature/2025R1/SB665",
+ "title": "Requires public bodies to transfer moneys deriving from certain fines and civil penalties to the General Fund for general governmental purposes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 665 did not pass",
+ "claims": [
+  {
+   "text": "SB 665 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615970
+   ]
+  },
+  {
+   "text": "SB 665 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658859
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615970,
+    618237,
+    622197,
+    658859
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615970
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615970
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622197
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658859
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 665&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB665",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8103,
+  "finding_hash": "b55a4c4296c06e46a332a022d1790e7baf4e0e40dc2763423cf0d45706c401c1",
+  "evidence_digest": "sha256:ee759014785e6b00473dd344b1975c0235dc12c04c790ac362a6f535881a7555",
+  "gate_id": "530078c11c6d401e817c8261d9905f7c",
+  "gate_seq": 8104
+ }
+}

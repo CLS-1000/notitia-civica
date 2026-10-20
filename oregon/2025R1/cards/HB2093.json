@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2093",
+ "measure_id": "HB2093",
+ "subject": "or_legislature/2025R1/HB2093",
+ "title": "Requires the Legislative Revenue Officer to study the estate tax.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2093 did not pass",
+ "claims": [
+  {
+   "text": "HB 2093 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614057
+   ]
+  },
+  {
+   "text": "HB 2093 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660628
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614057,
+    616266,
+    621136,
+    654385,
+    660628
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614057
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614057
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621136
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660628
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2093&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2093",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 276,
+  "finding_hash": "a02d245926cde76af29ecc1b0557d8eb0e0c0b05bce0582dbad076e36c2eb7d5",
+  "evidence_digest": "sha256:ae5b9627644df9b9506ac67ccdb311cd13251a7609af38b9a35e331e9c9cf7a6",
+  "gate_id": "c8462886d816432b995f708a4278feaf",
+  "gate_seq": 277
+ }
+}

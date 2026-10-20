@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3832",
+ "measure_id": "HB3832",
+ "subject": "or_legislature/2025R1/HB3832",
+ "title": "Directs the Oregon Department of Administrative Services to provide a grant to a nonprofit organization to establish a collaborative center in Harney County.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3832 did not pass",
+ "claims": [
+  {
+   "text": "HB 3832 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625008
+   ]
+  },
+  {
+   "text": "HB 3832 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660536
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625008,
+    626417,
+    660536
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625008
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625008
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3832&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3832",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5493,
+  "finding_hash": "bcee99b5293850711bf610163c6e0fc27e5de926171a9db71f2a9a0562f40c3f",
+  "evidence_digest": "sha256:018311a3ada9519e449fdc3a131cec01f136f1c8d2e68e222729c3dfec0a9241",
+  "gate_id": "a23fb674fd55454086beb61270df147f",
+  "gate_seq": 5494
+ }
+}

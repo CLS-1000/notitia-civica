@@ -1,0 +1,81 @@
+{
+ "session": "2025R1",
+ "measure": "SJR 9",
+ "measure_id": "SJR9",
+ "subject": "or_legislature/2025R1/SJR9",
+ "title": "Proposes an amendment to the Oregon Constitution to prohibit members of the Legislative Assembly from voting on legislative measures when faced with a conflict of interest. Permits a vote to occur if the legislative entity is otherwise unable to muster sufficient votes to pass or defeat the measure.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJR 9 did not pass",
+ "claims": [
+  {
+   "text": "SJR 9 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615240
+   ]
+  },
+  {
+   "text": "SJR 9 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659045
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615240,
+    617507,
+    659045
+   ]
+  },
+  {
+   "text": "SJR 9 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    659045
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615240
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615240
+   ]
+  }
+ ],
+ "topics": [
+  "ballot",
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJR' and MeasureNumber eq 9&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJR9",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10002,
+  "finding_hash": "6815a6d0f2a01c0e20fa173b7bbc72546861037df187f693132cae70c736bf54",
+  "evidence_digest": "sha256:dc8d0dfda554f46ae3f4f86b88cb61a4819df39ee04c31896b7a2d1ff0b1bc1b",
+  "gate_id": "336378c2996c4ddd9f75e8b7dda95f12",
+  "gate_seq": 10003
+ }
+}

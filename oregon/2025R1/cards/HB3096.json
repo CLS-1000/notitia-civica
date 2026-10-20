@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3096",
+ "measure_id": "HB3096",
+ "subject": "or_legislature/2025R1/HB3096",
+ "title": "Creates income tax credit for taxpayers that provide apprenticeship opportunities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3096 did not pass",
+ "claims": [
+  {
+   "text": "HB 3096 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615060
+   ]
+  },
+  {
+   "text": "HB 3096 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659980
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615060,
+    617269,
+    659980
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615060
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615060
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3096&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3096",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3285,
+  "finding_hash": "aea1487f7e0e6d13460bd14cd0b7dd264c57dbd70db2459ec50b9eb5daf650b6",
+  "evidence_digest": "sha256:7dd2e9095471f1a9aca9a77f0a6fc7f8656f6c931b35a2d974156174e4b8af9b",
+  "gate_id": "755b493d608a41d99f13711ffa8a1043",
+  "gate_seq": 3286
+ }
+}

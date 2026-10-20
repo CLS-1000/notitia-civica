@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2553",
+ "measure_id": "HB2553",
+ "subject": "or_legislature/2025R1/HB2553",
+ "title": "Allows a person to continue to qualify for the Oregon Promise program if, after being awarded a grant, the person enters into service with any career and technical student organization approved by the Department of Education before attending community college.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2553 did not pass",
+ "claims": [
+  {
+   "text": "HB 2553 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614517
+   ]
+  },
+  {
+   "text": "HB 2553 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660289
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614517,
+    616726,
+    660289
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614517
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614517
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2553&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2553",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1656,
+  "finding_hash": "d5b3a823ab9ff7931782544beb508252c23cafd59355a6fdbea6230d35f219ac",
+  "evidence_digest": "sha256:7a5a8e4caccf5a881fba10cd2d1b905a984d73a6875d4ed1162c2f2d39200bfc",
+  "gate_id": "9bbe0e24c14d4f19a3b5c5e2dc676ccd",
+  "gate_seq": 1657
+ }
+}

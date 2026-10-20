@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3846",
+ "measure_id": "HB3846",
+ "subject": "or_legislature/2025R1/HB3846",
+ "title": "Allows the State Forestry Department to enter into a lease agreement for management authority and responsibility for the Ochoco National Forest for no less than 15 years.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3846 did not pass",
+ "claims": [
+  {
+   "text": "HB 3846 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625022
+   ]
+  },
+  {
+   "text": "HB 3846 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660602
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625022,
+    626431,
+    637050,
+    660602
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625022
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625022
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    637050
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660602
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3846&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3846",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5535,
+  "finding_hash": "9931e11913a0127ce218cd9c80f360c2e431a8818de0a04b73d5f1a5124ea588",
+  "evidence_digest": "sha256:80a26b2e37d4fc104b16d28ecfad10d6d95851c99de20df1bc6348163d7d67e2",
+  "gate_id": "78773db49f844937b2e5841d28fdcbc7",
+  "gate_seq": 5536
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 291",
+ "measure_id": "SB291",
+ "subject": "or_legislature/2025R1/SB291",
+ "title": "Requires the Oregon Health Authority to study oral health.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 291 did not pass",
+ "claims": [
+  {
+   "text": "SB 291 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615596
+   ]
+  },
+  {
+   "text": "SB 291 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658684
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615596,
+    617863,
+    658684
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615596
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615596
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 291&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB291",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6981,
+  "finding_hash": "61a45ac537d642afef40aec49320ea91468dc9faf57cef8b22f8e64649864cc2",
+  "evidence_digest": "sha256:80045748bf5317c7634b3c58e974a15cff6338be0968531296a2e9dbb326a09e",
+  "gate_id": "e30d60b4c2d34e6b9faa8ed5f32a7704",
+  "gate_seq": 6982
+ }
+}

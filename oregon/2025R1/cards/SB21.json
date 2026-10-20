@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 21",
+ "measure_id": "SB21",
+ "subject": "or_legislature/2025R1/SB21",
+ "title": "Creates an income or corporate excise tax credit allowed to a taxpayer that employs a foster child or a former foster child.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 21 did not pass",
+ "claims": [
+  {
+   "text": "SB 21 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615326
+   ]
+  },
+  {
+   "text": "SB 21 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658962
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615326,
+    617593,
+    632831,
+    658962
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615326
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615326
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632831
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658962
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 21&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB21",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6171,
+  "finding_hash": "87cb5c476808d35c4885400c55b912c2844d46077d4c0e361d4dcbb73183fb73",
+  "evidence_digest": "sha256:e91ca01a7666d63b4efdf0bfda29235d9183917050e00d26446b16ba8f97ed31",
+  "gate_id": "79d4adf00437451caf2032f58afd1910",
+  "gate_seq": 6172
+ }
+}

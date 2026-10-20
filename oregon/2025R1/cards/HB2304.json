@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2304",
+ "measure_id": "HB2304",
+ "subject": "or_legislature/2025R1/HB2304",
+ "title": "Removes the requirement that the amount of net proceeds from the Oregon State Lottery allocated to the County Fair Account not exceed $1.53 million annually and adjusts the percentage of net lottery proceeds allocated to the County Fair Account.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2304 did not pass",
+ "claims": [
+  {
+   "text": "HB 2304 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614268
+   ]
+  },
+  {
+   "text": "HB 2304 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659840
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614268,
+    616477,
+    626545,
+    636171,
+    638128,
+    638129,
+    659840
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614268
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614268
+   ]
+  },
+  {
+   "date": "2025-03-05",
+   "when": "March 5, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626545
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636171
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638128
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2304&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2304",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 909,
+  "finding_hash": "a2189a0a291507942385b527888e54d837fcb8761bf7e1a74b9b807ddf0c9d75",
+  "evidence_digest": "sha256:248ad86917c0c0a2cd4c71ce1d08b1a2ec5e8f205f2fb9a0cde6e32c0b1ef2aa",
+  "gate_id": "27ff46da47fb4719ad559fa1ef9ebccc",
+  "gate_seq": 910
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2021",
+ "measure_id": "HB2021",
+ "subject": "or_legislature/2025R1/HB2021",
+ "title": "Modifies the certificate of need process to allow only applicants to challenge proposed decisions of the Oregon Health Authority.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2021 did not pass",
+ "claims": [
+  {
+   "text": "HB 2021 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613986
+   ]
+  },
+  {
+   "text": "HB 2021 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661502
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613986,
+    616195,
+    661502
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613986
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613986
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2021&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2021",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 60,
+  "finding_hash": "5e93c7fceabe020e603ed4131a8fc5f496fa6b60cfd6329ceeb5d255a30560a8",
+  "evidence_digest": "sha256:0f29f56f3dff80c96b63d1a46d04a9d49b42ae92af7ee6dfc4d9b19b52a9bfbe",
+  "gate_id": "f7bd46eaf2be41889df3d6dfc2a17601",
+  "gate_seq": 61
+ }
+}

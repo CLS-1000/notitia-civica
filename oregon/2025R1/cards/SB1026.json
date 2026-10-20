@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1026",
+ "measure_id": "SB1026",
+ "subject": "or_legislature/2025R1/SB1026",
+ "title": "Prohibits the provision of abortion services to a nonresident, unmarried person under 18 years of age without parental consent.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1026 did not pass",
+ "claims": [
+  {
+   "text": "SB 1026 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623036
+   ]
+  },
+  {
+   "text": "SB 1026 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659001
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623036,
+    623108,
+    659001
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623036
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623036
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1026&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1026",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9186,
+  "finding_hash": "80501c621c6867cf34aa518464690b241978d231bc999c8a881fcba72a31a18c",
+  "evidence_digest": "sha256:c6c39aa30393c43c535062b30b8400e84ce748b037d1361278b61449d3fcfa0b",
+  "gate_id": "0f81c0a0b1aa4e51969f2ec4154f0c66",
+  "gate_seq": 9187
+ }
+}

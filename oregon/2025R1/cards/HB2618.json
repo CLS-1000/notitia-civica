@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2618",
+ "measure_id": "HB2618",
+ "subject": "or_legislature/2025R1/HB2618",
+ "title": "Directs the Oregon Criminal Justice Commission to study the use of technology in improving the efficiency of pretrial proceedings, and to provide the results of the study to the appropriate interim committees of the Legislative Assembly no later than December 31, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2618 did not pass",
+ "claims": [
+  {
+   "text": "HB 2618 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614582
+   ]
+  },
+  {
+   "text": "HB 2618 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660754
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614582,
+    616791,
+    660754
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614582
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614582
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2618&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2618",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1851,
+  "finding_hash": "54899275c9968bce5e2e320c1e9a11c52554fa2c3249cbdba47ecdf81bdd0325",
+  "evidence_digest": "sha256:68d10e6b7a73665fb16447c45997697fbb34d589203c3258f25ad41247f3c251",
+  "gate_id": "e2a6fe4c25364ae5849fd134ea96305f",
+  "gate_seq": 1852
+ }
+}

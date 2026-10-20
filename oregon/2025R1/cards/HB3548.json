@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3548",
+ "measure_id": "HB3548",
+ "subject": "or_legislature/2025R1/HB3548",
+ "title": "Repeals the requirement that there be a licensed repository for the disposal of high-level radioactive waste before a site certificate for a nuclear-fueled thermal power plant may be issued.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3548 did not pass",
+ "claims": [
+  {
+   "text": "HB 3548 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621754
+   ]
+  },
+  {
+   "text": "HB 3548 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659961
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621754,
+    622091,
+    659961
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621754
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621754
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3548&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3548",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4641,
+  "finding_hash": "63c0d85c30447219d4390ac0a8fc4ee5a9cef8d96a1f7775d310ae836de51234",
+  "evidence_digest": "sha256:dce696e8c19ea5dd10335c2ff4736cfc74f24051f4117ba78ef2eb2bdc8b74fd",
+  "gate_id": "87859c9457f1451693d617ee3ee6c9a2",
+  "gate_seq": 4642
+ }
+}

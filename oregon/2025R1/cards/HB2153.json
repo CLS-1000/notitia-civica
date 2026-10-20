@@ -1,0 +1,107 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2153",
+ "measure_id": "HB2153",
+ "subject": "or_legislature/2025R1/HB2153",
+ "title": "Increases the tax on aircraft fuel usable in aircraft operated by turbine engines and adjusts the rate biennially according to any increase in the Consumer Price Index.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2153 did not pass",
+ "claims": [
+  {
+   "text": "HB 2153 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614117
+   ]
+  },
+  {
+   "text": "HB 2153 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660205
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614117,
+    616326,
+    632269,
+    644653,
+    660205
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614117
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614117
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632269
+   ]
+  },
+  {
+   "date": "2025-05-05",
+   "when": "May 5, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    644653
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660205
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2153&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2153",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 456,
+  "finding_hash": "2d1e07045af74c3700d52b9aa9f87bf04e0029da96f452e0ccbc30d65f9b91a1",
+  "evidence_digest": "sha256:34e5cd15879306c5cfb46c7e60ea092bd153b739d13e78b5c6d5d129ff20244b",
+  "gate_id": "34289cb1092747e4944937f7a8faa51f",
+  "gate_seq": 457
+ }
+}

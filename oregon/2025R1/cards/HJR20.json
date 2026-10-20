@@ -1,0 +1,81 @@
+{
+ "session": "2025R1",
+ "measure": "HJR 20",
+ "measure_id": "HJR20",
+ "subject": "or_legislature/2025R1/HJR20",
+ "title": "Proposes an amendment to the Oregon Constitution to provide parents with the fundamental right to direct the upbringing, education and care of their children. Refers the proposed amendment to the people for their approval or rejection at the next regular general election.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJR 20 did not pass",
+ "claims": [
+  {
+   "text": "HJR 20 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622882
+   ]
+  },
+  {
+   "text": "HJR 20 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660558
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622882,
+    623521,
+    660558
+   ]
+  },
+  {
+   "text": "HJR 20 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    660558
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622882
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622882
+   ]
+  }
+ ],
+ "topics": [
+  "ballot",
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJR' and MeasureNumber eq 20&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJR20",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9969,
+  "finding_hash": "da88db3055615415f58cb19f6b859ec1770fd0960e800d0b55036b34de3fb20a",
+  "evidence_digest": "sha256:4e44e957ffabc986c66372390778111beadf4c18f1516d83bc3efc6e7eed1690",
+  "gate_id": "0f54a02b819b4db290d08aaacbde4920",
+  "gate_seq": 9970
+ }
+}

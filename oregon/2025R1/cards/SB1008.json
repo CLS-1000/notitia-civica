@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1008",
+ "measure_id": "SB1008",
+ "subject": "or_legislature/2025R1/SB1008",
+ "title": "Requires that the sex offender risk assessment methodology take into consideration specified information.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1008 did not pass",
+ "claims": [
+  {
+   "text": "SB 1008 was introduced in the Senate on February 11, 2025.",
+   "row_ids": [
+    621778
+   ]
+  },
+  {
+   "text": "SB 1008 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658579
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621778,
+    621883,
+    658579
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    621778
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621778
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1008&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1008",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9132,
+  "finding_hash": "cf039d62b0dd4d2ad4b1abe6222f6f0d008c3be4779483c001c7413ff7e6ee4e",
+  "evidence_digest": "sha256:e29ce965a555000f53cbd97da6b599a4023c854d433dfde9f0c8cfafd340e3cc",
+  "gate_id": "c40f804bee8f45e78bdbf3008241b29f",
+  "gate_seq": 9133
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3964",
+ "measure_id": "HB3964",
+ "subject": "or_legislature/2025R1/HB3964",
+ "title": "Establishes a voluntary mediation and arbitration process that certain health insurers and providers may participate in if the insurer and provider are unable to reach an agreement during a contract renewal negotiation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3964 did not pass",
+ "claims": [
+  {
+   "text": "HB 3964 was introduced in the House on April 16, 2025.",
+   "row_ids": [
+    641217
+   ]
+  },
+  {
+   "text": "HB 3964 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660326
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    641217,
+    642231,
+    660326
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    641217
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    641217
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3964&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3964",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5889,
+  "finding_hash": "741f1465e2b7a7f320f5dc26a36ee24fbdecda85a57776d0ef6e9aabb4c65b6a",
+  "evidence_digest": "sha256:1108b92afdaf9a989e232fbcffa623882636851cf42c9e729762ff5fd52f530f",
+  "gate_id": "358bdf3ab3ba49de8d159e85710247e3",
+  "gate_seq": 5890
+ }
+}

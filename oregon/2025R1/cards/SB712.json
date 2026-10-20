@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 712",
+ "measure_id": "SB712",
+ "subject": "or_legislature/2025R1/SB712",
+ "title": "Provides for an annual increase of three percent in the maximum assessed value of property.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 712 did not pass",
+ "claims": [
+  {
+   "text": "SB 712 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616017
+   ]
+  },
+  {
+   "text": "SB 712 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658906
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616017,
+    618284,
+    632830,
+    658906
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616017
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616017
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632830
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658906
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 712&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB712",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8244,
+  "finding_hash": "a6935183a3c78cfa912f6bbdc623cfd88a0eceae5afd48c5d8f6dafa837f3940",
+  "evidence_digest": "sha256:660e7b37f8bce52b1a7d5e6fd7f4c615af531730fa53fb6ecbc67df1b682be80",
+  "gate_id": "3c274962ca0849eba70ab9a1c7e7a5c6",
+  "gate_seq": 8245
+ }
+}

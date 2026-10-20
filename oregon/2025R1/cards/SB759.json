@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 759",
+ "measure_id": "SB759",
+ "subject": "or_legislature/2025R1/SB759",
+ "title": "Requires the Oregon Business Development Department to study the use of a loan loss reserve fund to support infrastructure improvement projects by underserved communities in Oregon and submit a report to the legislature by September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 759 did not pass",
+ "claims": [
+  {
+   "text": "SB 759 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616063
+   ]
+  },
+  {
+   "text": "SB 759 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659165
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616063,
+    618330,
+    632313,
+    659165
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616063
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616063
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632313
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659165
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 759&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB759",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8385,
+  "finding_hash": "f8f7eab21d12bf583ff05bb85c337599315a226845b7ba377dbbed821fcad633",
+  "evidence_digest": "sha256:e9ec7d21dfb6da0d565a0d1ff917a77484f42e03daad625bd899d4f533258b2b",
+  "gate_id": "30bda6c51aaa46afbfb4cf498808150f",
+  "gate_seq": 8386
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 160",
+ "measure_id": "SB160",
+ "subject": "or_legislature/2025R1/SB160",
+ "title": "Repeals the state payroll tax on wages imposed to finance transportation investments and improvements and maintain existing public transportation services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 160 did not pass",
+ "claims": [
+  {
+   "text": "SB 160 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615465
+   ]
+  },
+  {
+   "text": "SB 160 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659495
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615465,
+    617732,
+    659495
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615465
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615465
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 160&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB160",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6588,
+  "finding_hash": "54edae55c51bde09da9f8c131cefe3da080bfc04539ea1be87c596733ec2a863",
+  "evidence_digest": "sha256:be3099c22abfca773e74de699861037e82fcaa21cae1341503d821fb89948a6d",
+  "gate_id": "623327f4286c4c30b6a43d96b3154dea",
+  "gate_seq": 6589
+ }
+}

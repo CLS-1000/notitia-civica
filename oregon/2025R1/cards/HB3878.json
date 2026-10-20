@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3878",
+ "measure_id": "HB3878",
+ "subject": "or_legislature/2025R1/HB3878",
+ "title": "Prohibits a research facility from using public funds to directly fund medically unnecessary laboratory research on dogs or cats that is classified under certain pain and distress categories.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3878 did not pass",
+ "claims": [
+  {
+   "text": "HB 3878 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625054
+   ]
+  },
+  {
+   "text": "HB 3878 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661082
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625054,
+    626463,
+    661082
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625054
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625054
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3878&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3878",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5631,
+  "finding_hash": "fc9090212210c546072d098cc2cbf12f3b57de8fa5fb1a553dd3aef503ef1317",
+  "evidence_digest": "sha256:d2869f30f9f4eb95022da2d2548557bf260a727657043e99cc868abfa7d4ea31",
+  "gate_id": "648dee0c01c34740b9a148eb3ff21636",
+  "gate_seq": 5632
+ }
+}

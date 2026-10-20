@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3519",
+ "measure_id": "HB3519",
+ "subject": "or_legislature/2025R1/HB3519",
+ "title": "Directs the Department of Education to provide oversight of a program that coordinates an in-state and a national cultural exchange for students of this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3519 did not pass",
+ "claims": [
+  {
+   "text": "HB 3519 was introduced in the House on February 6, 2025.",
+   "row_ids": [
+    620888
+   ]
+  },
+  {
+   "text": "HB 3519 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660140
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620888,
+    621267,
+    660140
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620888
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620888
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3519&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3519",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4554,
+  "finding_hash": "abd5d00bd5702e63afc7b98552182d198e3b5dd95ea1acbfc400f72ca415cb03",
+  "evidence_digest": "sha256:6f0beceb8c30ccb0d9ef630563c12f684ee1b6b3a0fc7c63968065999265e19e",
+  "gate_id": "e98aeb62eb6b49f08221b351f2327a58",
+  "gate_seq": 4555
+ }
+}

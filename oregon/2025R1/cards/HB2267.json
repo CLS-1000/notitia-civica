@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2267",
+ "measure_id": "HB2267",
+ "subject": "or_legislature/2025R1/HB2267",
+ "title": "Requires the Housing and Community Services Department to study housing development and submit findings to the interim committees of the Legislative Assembly related to housing no later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2267 did not pass",
+ "claims": [
+  {
+   "text": "HB 2267 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614231
+   ]
+  },
+  {
+   "text": "HB 2267 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660268
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614231,
+    616440,
+    660268
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614231
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614231
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2267&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2267",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 798,
+  "finding_hash": "90be17bc3df993e1356e0d8a73de0d6dee5956feb7c643e949208374ba233caa",
+  "evidence_digest": "sha256:45c6d447c037a69966c8dc9fa53bab25cf6d5723035282f594e9dd11a7550072",
+  "gate_id": "3a78a68df79048ccb427490a22eb8448",
+  "gate_seq": 799
+ }
+}

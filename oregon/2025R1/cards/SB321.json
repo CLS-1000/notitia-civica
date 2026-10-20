@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 321",
+ "measure_id": "SB321",
+ "subject": "or_legislature/2025R1/SB321",
+ "title": "Directs the Teacher Standards and Practices Commission to establish by rule a substitute teaching license and a restricted substitute teaching license.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 321 did not pass",
+ "claims": [
+  {
+   "text": "SB 321 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615626
+   ]
+  },
+  {
+   "text": "SB 321 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658708
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615626,
+    617893,
+    658708
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615626
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615626
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 321&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB321",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7071,
+  "finding_hash": "cd4e4a5c9ce0b5961d6394e135151cfa7349360270e30aca18d13d34fabeab4a",
+  "evidence_digest": "sha256:4a63647a2f3bfb950362c17d18a8b5b954b0441094cc7582d404ae3e044af190",
+  "gate_id": "fc9644696fa74664bceead24917d4d5b",
+  "gate_seq": 7072
+ }
+}

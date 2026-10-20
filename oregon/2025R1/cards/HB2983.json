@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2983",
+ "measure_id": "HB2983",
+ "subject": "or_legislature/2025R1/HB2983",
+ "title": "Requires the Department of Human Services to study the transition of individuals with intellectual or developmental disabilities from youth residential settings to adult residential settings.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2983 did not pass",
+ "claims": [
+  {
+   "text": "HB 2983 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614947
+   ]
+  },
+  {
+   "text": "HB 2983 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661239
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614947,
+    617156,
+    661239
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614947
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614947
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2983&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2983",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2946,
+  "finding_hash": "8d0a1baa276d23294ff962ccd353208c9c5edc375aeb6cf51cb6e1b3f9ba0a9c",
+  "evidence_digest": "sha256:e8f316b5d1f65539b0f86680ad18e0542374934d6a78517420d52838a3af85e8",
+  "gate_id": "a2537d30bbd6493586027d03061476a8",
+  "gate_seq": 2947
+ }
+}

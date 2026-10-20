@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3710",
+ "measure_id": "HB3710",
+ "subject": "or_legislature/2025R1/HB3710",
+ "title": "Directs the State Parks and Recreation Department to place a monument within the State Capitol State Park commemorating the Ten Commandments.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3710 did not pass",
+ "claims": [
+  {
+   "text": "HB 3710 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624394
+   ]
+  },
+  {
+   "text": "HB 3710 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660444
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624394,
+    625255,
+    660444
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624394
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624394
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3710&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3710",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5127,
+  "finding_hash": "b1bd7bae69879ae567a890cfdfe58440c5d87b891eb416916b48c59c74c9102b",
+  "evidence_digest": "sha256:37b35539031e2539d8e7c129f1f3a309ad80435ea1ee7fa3921a97ff77c82524",
+  "gate_id": "bbaf62fd28a44a7ab2bef7c51734bdce",
+  "gate_seq": 5128
+ }
+}

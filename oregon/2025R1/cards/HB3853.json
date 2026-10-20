@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3853",
+ "measure_id": "HB3853",
+ "subject": "or_legislature/2025R1/HB3853",
+ "title": "Requires the Employment Department to study issues related to the job market in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3853 did not pass",
+ "claims": [
+  {
+   "text": "HB 3853 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625029
+   ]
+  },
+  {
+   "text": "HB 3853 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661286
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625029,
+    626438,
+    661286
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625029
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625029
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3853&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3853",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5556,
+  "finding_hash": "0f623ad1f80eafd35d545a20885a624f2d8975a5d9f590428c14a4b2ee03db46",
+  "evidence_digest": "sha256:666437a0ca1c2595fdd2fef6713bcfa3cee5c7ebdb1d1f92fdeb11c171ab0f21",
+  "gate_id": "bed2261ab2a0414497b1d8d8514b1650",
+  "gate_seq": 5557
+ }
+}

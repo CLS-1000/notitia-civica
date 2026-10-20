@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 11",
+ "measure_id": "SB11",
+ "subject": "or_legislature/2025R1/SB11",
+ "title": "Directs an arresting officer to inquire about citizenship when the officer arrests a person for a crime and the person is in possession of a firearm.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 11 did not pass",
+ "claims": [
+  {
+   "text": "SB 11 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615316
+   ]
+  },
+  {
+   "text": "SB 11 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659308
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615316,
+    617583,
+    659308
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615316
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615316
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 11&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB11",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6141,
+  "finding_hash": "8852497ae7c1c7141fdd9eedacb1278bd3d4f683575c4e318aebbf50731e1ffc",
+  "evidence_digest": "sha256:24096f5c289198985224e261f245d0299f22521414a901f33f66f9fbe3d8919b",
+  "gate_id": "09573e3e0ce14fc3bcca2f69a0aea8ea",
+  "gate_seq": 6142
+ }
+}

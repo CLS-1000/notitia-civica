@@ -1,0 +1,148 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2735",
+ "measure_id": "HB2735",
+ "subject": "or_legislature/2025R1/HB2735",
+ "title": "Increases the aggregate amount of tax credits allowed to taxpayers in a tax year for donations for individual development accounts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2735 did not pass",
+ "claims": [
+  {
+   "text": "HB 2735 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614699
+   ]
+  },
+  {
+   "text": "HB 2735 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660151
+   ]
+  },
+  {
+   "text": "Each of the 13 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614699,
+    616908,
+    633148,
+    636574,
+    638994,
+    638995,
+    638996,
+    642876,
+    643514,
+    649387,
+    650428,
+    650429,
+    660151
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614699
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614699
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633148
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636574
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638994
+   ]
+  },
+  {
+   "date": "2025-04-22",
+   "when": "April 22, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    642876
+   ]
+  },
+  {
+   "date": "2025-05-22",
+   "when": "May 22, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    649387
+   ]
+  },
+  {
+   "date": "2025-05-29",
+   "when": "May 29, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    650428
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2735&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2735",
+ "row_count": 13,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2202,
+  "finding_hash": "af517c2d539fbb75be389f8fc50bdc7abacdfafad9a4baf68eda40834f5f3068",
+  "evidence_digest": "sha256:92e5f2baa62c343b8adb052f306f094e1c63912daf376cdeccf44a01f17ec9a5",
+  "gate_id": "aa45aed91b6246fbb5814846ef511b2a",
+  "gate_seq": 2203
+ }
+}

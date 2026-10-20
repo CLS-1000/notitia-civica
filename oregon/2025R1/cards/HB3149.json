@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3149",
+ "measure_id": "HB3149",
+ "subject": "or_legislature/2025R1/HB3149",
+ "title": "Allows for additional distributions of state moneys to wildfire-impacted school districts for an additional school year.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3149 did not pass",
+ "claims": [
+  {
+   "text": "HB 3149 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615113
+   ]
+  },
+  {
+   "text": "HB 3149 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660032
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615113,
+    617322,
+    633226,
+    636845,
+    638997,
+    638998,
+    660032
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615113
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615113
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633226
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636845
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638997
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3149&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3149",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3444,
+  "finding_hash": "e96dadd1a9396bc28e4f024f5a8b4886ecec5fad28c31b8fbe75f423eced7700",
+  "evidence_digest": "sha256:684ceb7d90a73e645b9efeb29ed1ccb1bbd23327299579ccf010e98f5a691cca",
+  "gate_id": "6c6cac6c6ca849a5a0844750275a874c",
+  "gate_seq": 3445
+ }
+}

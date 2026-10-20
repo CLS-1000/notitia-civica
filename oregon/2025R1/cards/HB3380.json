@@ -1,0 +1,146 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3380",
+ "measure_id": "HB3380",
+ "subject": "or_legislature/2025R1/HB3380",
+ "title": "Increases the tax credit allowed to rural volunteer emergency medical services providers from $250 per tax year to $1,000 per tax year.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3380 did not pass",
+ "claims": [
+  {
+   "text": "HB 3380 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619431
+   ]
+  },
+  {
+   "text": "HB 3380 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660733
+   ]
+  },
+  {
+   "text": "Each of the 11 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619431,
+    619803,
+    630523,
+    639150,
+    640862,
+    640863,
+    645003,
+    649409,
+    650328,
+    650329,
+    660733
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619431
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619431
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    630523
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639150
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640862
+   ]
+  },
+  {
+   "date": "2025-05-06",
+   "when": "May 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    645003
+   ]
+  },
+  {
+   "date": "2025-05-22",
+   "when": "May 22, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    649409
+   ]
+  },
+  {
+   "date": "2025-05-28",
+   "when": "May 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    650328
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3380&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3380",
+ "row_count": 11,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4137,
+  "finding_hash": "c3f438d131529b2b9793b84e2f34912895dcab924b48c286448380a947488bae",
+  "evidence_digest": "sha256:cf48e367ade7efc408b71e04489e2d5d66c3ebdf9a434bd6607d037095851f75",
+  "gate_id": "a9f3be5229d54a8aa9b074aad9acb163",
+  "gate_seq": 4138
+ }
+}

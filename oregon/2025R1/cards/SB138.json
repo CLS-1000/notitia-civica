@@ -1,0 +1,132 @@
+{
+ "session": "2025R1",
+ "measure": "SB 138",
+ "measure_id": "SB138",
+ "subject": "or_legislature/2025R1/SB138",
+ "title": "Modifies the centralized child abuse reporting system requirements to allow, but not require, the Department of Human Services to include a website for electronic reports of suspected child abuse.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 138 did not pass",
+ "claims": [
+  {
+   "text": "SB 138 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615443
+   ]
+  },
+  {
+   "text": "SB 138 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659479
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615443,
+    617710,
+    619006,
+    620405,
+    621383,
+    621796,
+    623099,
+    659479
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615443
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615443
+   ]
+  },
+  {
+   "date": "2025-01-23",
+   "when": "January 23, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619006
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    620405
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "when": "February 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    621383
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    621796
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "motion_carried_refer",
+   "row_ids": [
+    623099
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 138&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB138",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6522,
+  "finding_hash": "f55d19c0bf77aaced16beb7507d7f317e95140f88363bf521b5d941ccb80c015",
+  "evidence_digest": "sha256:9fcf361483700cc76db8c35749c93df01da1a420f662e6c3192aefbadc812a48",
+  "gate_id": "c89b213af6594a308c286837965c9412",
+  "gate_seq": 6523
+ }
+}

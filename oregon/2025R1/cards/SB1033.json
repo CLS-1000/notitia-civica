@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1033",
+ "measure_id": "SB1033",
+ "subject": "or_legislature/2025R1/SB1033",
+ "title": "Exempts a county or other entity that operates a nurse-family partnership program from paying the nonfederal share of the costs of targeted case management services provided by the program to medical assistance recipients.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1033 did not pass",
+ "claims": [
+  {
+   "text": "SB 1033 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623043
+   ]
+  },
+  {
+   "text": "SB 1033 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658960
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623043,
+    623115,
+    625374,
+    630249,
+    631992,
+    631993,
+    658960
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623043
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623043
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625374
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    630249
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    631992
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1033&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1033",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9207,
+  "finding_hash": "e3ab3099da7de2b4887ac6cc5d36a9471484b0920b79ceb9ad6eef89e0941767",
+  "evidence_digest": "sha256:9a566347caf0162daa246197d854befa64e5d16db9ebbd372a69b91b32bb64f3",
+  "gate_id": "9cd5a8aec4454f37b7fdb79b0c6362aa",
+  "gate_seq": 9208
+ }
+}

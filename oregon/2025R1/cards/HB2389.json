@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2389",
+ "measure_id": "HB2389",
+ "subject": "or_legislature/2025R1/HB2389",
+ "title": "Prohibits public universities in this state from increasing enrollment by more than five percent over the preceding academic year.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2389 did not pass",
+ "claims": [
+  {
+   "text": "HB 2389 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614353
+   ]
+  },
+  {
+   "text": "HB 2389 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660056
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614353,
+    616562,
+    626766,
+    660056
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614353
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614353
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626766
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660056
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2389&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2389",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1164,
+  "finding_hash": "ab60c531059fb02de9a48c68ba51b972a10e036726455176913874586994b0cb",
+  "evidence_digest": "sha256:b8fcebb87b3fcbb0bde02051c3a89fe6d73858c948829447dd7bf04959ee0941",
+  "gate_id": "47fc936c1e3a46dda99af2dcd489d6cf",
+  "gate_seq": 1165
+ }
+}

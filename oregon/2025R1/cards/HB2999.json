@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2999",
+ "measure_id": "HB2999",
+ "subject": "or_legislature/2025R1/HB2999",
+ "title": "Requires that the Department of Human Services provide a person suspected of abusing a child with a notice of rights before interviewing or searching the person in a child abuse investigation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2999 did not pass",
+ "claims": [
+  {
+   "text": "HB 2999 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614963
+   ]
+  },
+  {
+   "text": "HB 2999 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660352
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614963,
+    617172,
+    660352
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614963
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614963
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2999&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2999",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2994,
+  "finding_hash": "bdff1a4cacff1ca54c739a0d8355f2809602cbbf223727093baa10aa8391154b",
+  "evidence_digest": "sha256:ea1a2442a1b9e3b195fcc04e0d7aab13c50f5493145788b13c28e55568d95f76",
+  "gate_id": "64c83952721b4497be3d5341b19f3f72",
+  "gate_seq": 2995
+ }
+}

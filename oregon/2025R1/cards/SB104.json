@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 104",
+ "measure_id": "SB104",
+ "subject": "or_legislature/2025R1/SB104",
+ "title": "Extends the sunset date for the property tax exemption for nonprofit corporation low income housing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 104 did not pass",
+ "claims": [
+  {
+   "text": "SB 104 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615409
+   ]
+  },
+  {
+   "text": "SB 104 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659446
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615409,
+    617676,
+    620625,
+    659446
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615409
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615409
+   ]
+  },
+  {
+   "date": "2025-02-05",
+   "when": "February 5, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620625
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659446
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 104&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB104",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6420,
+  "finding_hash": "fd0f3a9ae7d1e61aff23491fa7a6c00dc87366f63166c90fc4d549ccecefd113",
+  "evidence_digest": "sha256:bb9372b20f02f71565fd4d0cd12b94b96f9983dea48fc63ce1138e6743a81c85",
+  "gate_id": "8db3d3150d1b467f8619802500db8d83",
+  "gate_seq": 6421
+ }
+}

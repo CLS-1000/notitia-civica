@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 885",
+ "measure_id": "SB885",
+ "subject": "or_legislature/2025R1/SB885",
+ "title": "Directs the State Accident Insurance Fund Corporation to establish a division or subsidiary for the purpose of issuing policies of fire insurance and property insurance against the peril of wildfire.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 885 did not pass",
+ "claims": [
+  {
+   "text": "SB 885 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618661
+   ]
+  },
+  {
+   "text": "SB 885 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659301
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618661,
+    618832,
+    659301
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618661
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618661
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 885&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB885",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8763,
+  "finding_hash": "6fd04d4941df3704cf694d8cf18df1d9224153ec93a5dc20c1c8cdbd25bc4015",
+  "evidence_digest": "sha256:425ae2d52a4e71b64a4bde3389a2bfb31b5dbf5020cc7097bf70b26a08dae820",
+  "gate_id": "da9452845dbf4f99b969ae34233f949d",
+  "gate_seq": 8764
+ }
+}

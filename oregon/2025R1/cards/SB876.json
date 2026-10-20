@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 876",
+ "measure_id": "SB876",
+ "subject": "or_legislature/2025R1/SB876",
+ "title": "Directs the State Board of Forestry, on behalf of the State of Oregon, to offer to convey certain real property to Coos County under specific terms and conditions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 876 did not pass",
+ "claims": [
+  {
+   "text": "SB 876 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618652
+   ]
+  },
+  {
+   "text": "SB 876 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659292
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618652,
+    618823,
+    659292
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618652
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618652
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 876&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB876",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8736,
+  "finding_hash": "d21d76251c975d03c39a04b7d33f189fddf3d1f2cb865125a12877ede21d35b7",
+  "evidence_digest": "sha256:6f5b4228e52431053f46637d61dfc23d731c6af0d989c2a72afc4002cf8045b4",
+  "gate_id": "63e15bf99a264e279ea481dd2df6ef80",
+  "gate_seq": 8737
+ }
+}

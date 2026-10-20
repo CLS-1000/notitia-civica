@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 753",
+ "measure_id": "SB753",
+ "subject": "or_legislature/2025R1/SB753",
+ "title": "Directs the Department of Transportation to work with the Washington State Department of Transportation and the British Columbia Ministry of Transportation and Infrastructure to develop plans to operate and fund rail transportation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 753 did not pass",
+ "claims": [
+  {
+   "text": "SB 753 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618650
+   ]
+  },
+  {
+   "text": "SB 753 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659581
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618650,
+    618821,
+    659581
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618650
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618650
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 753&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB753",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8367,
+  "finding_hash": "779bcab569ce0c6e070916adf53d7b321792ffb952292d5b130c39d4b43997e0",
+  "evidence_digest": "sha256:7dda76b22e5a6166886584df1ed37c536790003d4e647531d2520455865d2747",
+  "gate_id": "9d976243cdfd4519b2a02ba3e511bb0a",
+  "gate_seq": 8368
+ }
+}

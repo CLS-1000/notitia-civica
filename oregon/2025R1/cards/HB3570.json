@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3570",
+ "measure_id": "HB3570",
+ "subject": "or_legislature/2025R1/HB3570",
+ "title": "Appropriates moneys to the Oregon Business Development Department to update the inventory of community infrastructure project needs related to the production of new housing and prepare reports on the inventory update and the processes and programs for maintaining inventories of, and providing funding for, drinking water, wastewater and stormwater infrastructure projects.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3570 did not pass",
+ "claims": [
+  {
+   "text": "HB 3570 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622905
+   ]
+  },
+  {
+   "text": "HB 3570 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661316
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622905,
+    623460,
+    632128,
+    661316
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622905
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622905
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632128
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661316
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3570&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3570",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4707,
+  "finding_hash": "fbb999d0792bcd594697f764f98077cf795bdde41019d4c557368a8249148ac5",
+  "evidence_digest": "sha256:3c937b6619de3db69f6f7536a1022a53385a7926001d738af70c285cea2a22da",
+  "gate_id": "8cc9c2a0b8d346488928b3e2847b135f",
+  "gate_seq": 4708
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3906",
+ "measure_id": "HB3906",
+ "subject": "or_legislature/2025R1/HB3906",
+ "title": "Allows a condemner to apply for a land use approval for lands subject to its power of condemnation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3906 did not pass",
+ "claims": [
+  {
+   "text": "HB 3906 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625082
+   ]
+  },
+  {
+   "text": "HB 3906 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661110
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625082,
+    626491,
+    661110
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625082
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625082
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3906&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3906",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5715,
+  "finding_hash": "7ad47e052cc963cefb60a1af4afa7fe0d3b0399dba4df4a9d07d442fbd2af579",
+  "evidence_digest": "sha256:f9aafd289dfbadfa4f7c8f5bf8a56b0d5591678ad7456b88dbe76b8ecf8f307f",
+  "gate_id": "ce096089c64246e8aa88e8007126989b",
+  "gate_seq": 5716
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3138",
+ "measure_id": "HB3138",
+ "subject": "or_legislature/2025R1/HB3138",
+ "title": "Instructs the Director of Agriculture to employ an organic policy special assistant to the director.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3138 did not pass",
+ "claims": [
+  {
+   "text": "HB 3138 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615102
+   ]
+  },
+  {
+   "text": "HB 3138 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660025
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615102,
+    617311,
+    660025
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615102
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615102
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3138&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3138",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3411,
+  "finding_hash": "237ae04d7817bdba2221eb495859f8cc728f99b2ac161b61a5f6179bb74c8199",
+  "evidence_digest": "sha256:1dc0a7ddaf7fbd5e2b4039a8ba64fb034bb86e913ece2773e187990b66984016",
+  "gate_id": "84da743eb7dc4a56a29077400d2a2fed",
+  "gate_seq": 3412
+ }
+}

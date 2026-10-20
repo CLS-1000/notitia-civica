@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2254",
+ "measure_id": "HB2254",
+ "subject": "or_legislature/2025R1/HB2254",
+ "title": "Makes an owner and a direct contractor jointly and severally liable in a civil action for any unpaid wages owed to the unrepresented employees of the direct contractor and subcontractors at any tier.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2254 did not pass",
+ "claims": [
+  {
+   "text": "HB 2254 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614218
+   ]
+  },
+  {
+   "text": "HB 2254 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660257
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614218,
+    616427,
+    660257
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614218
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614218
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2254&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2254",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 759,
+  "finding_hash": "5a0de2dc6d353eed53094cb67f5cd000b45bfb587979a92653e24eb4aa66d017",
+  "evidence_digest": "sha256:a48f50a61374d2213697a2f090602af8ee656d9c2b709f8160453ba28e6036dd",
+  "gate_id": "8dd8d4c8f5be487099173c0b30261d0a",
+  "gate_seq": 760
+ }
+}

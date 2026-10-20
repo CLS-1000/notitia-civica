@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 518",
+ "measure_id": "SB518",
+ "subject": "or_legislature/2025R1/SB518",
+ "title": "Authorizes a county tax collector to withhold from property tax distributions to taxing districts within the county an amount equal to three percent of the distributions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 518 did not pass",
+ "claims": [
+  {
+   "text": "SB 518 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615823
+   ]
+  },
+  {
+   "text": "SB 518 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659355
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615823,
+    618090,
+    659355
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615823
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615823
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 518&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB518",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7662,
+  "finding_hash": "bec597a341a6913a2ad33e0ec07ed9e3391a9a49f33481c1077f1c1c9f422d13",
+  "evidence_digest": "sha256:3ab5f87f4c3ea5d93be349ef59079ca5f093f2893f9f2f9554e67bcd6d4b4925",
+  "gate_id": "041983217c6d46239c3fe60f4b6088cf",
+  "gate_seq": 7663
+ }
+}

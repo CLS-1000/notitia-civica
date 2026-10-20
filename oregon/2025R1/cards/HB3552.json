@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3552",
+ "measure_id": "HB3552",
+ "subject": "or_legislature/2025R1/HB3552",
+ "title": "Allows education service districts to establish regional career centers to provide career and technical education.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3552 did not pass",
+ "claims": [
+  {
+   "text": "HB 3552 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621758
+   ]
+  },
+  {
+   "text": "HB 3552 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660550
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621758,
+    622095,
+    622831,
+    636883,
+    638741,
+    641191,
+    641192,
+    660550
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621758
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621758
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622831
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638741
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641191
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3552&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3552",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4653,
+  "finding_hash": "44a826814f1ecc6525b7eb8bf0215424e583c45eb777a9d5c12c7507ec8e5be6",
+  "evidence_digest": "sha256:bbf6da48207fbe35b3f638a621a48408d1e05c9f1cee07bfd958cf1209ca958b",
+  "gate_id": "078781fb2ca14387baa9fd5766afdba1",
+  "gate_seq": 4654
+ }
+}

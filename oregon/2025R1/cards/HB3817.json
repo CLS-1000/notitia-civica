@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3817",
+ "measure_id": "HB3817",
+ "subject": "or_legislature/2025R1/HB3817",
+ "title": "Directs the Oregon Health Authority and the Department of Veterans' Affairs to study the consumption of ibogaine by certain individuals for the purpose of treating specified disorders.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3817 did not pass",
+ "claims": [
+  {
+   "text": "HB 3817 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624993
+   ]
+  },
+  {
+   "text": "HB 3817 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660523
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624993,
+    626402,
+    628677,
+    639151,
+    641194,
+    641195,
+    660523
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624993
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624993
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628677
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639151
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641194
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3817&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3817",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5448,
+  "finding_hash": "18fefdf916dc5e36179c4d4d584ff230b194dc20ee281964484abf2b89f8ea02",
+  "evidence_digest": "sha256:540ed9150250327fefaeded1ba456a83ed40797ce18fd1a54803bb1fb253440e",
+  "gate_id": "ecdfd32cbb714f01b0383c8b395d7d6e",
+  "gate_seq": 5449
+ }
+}

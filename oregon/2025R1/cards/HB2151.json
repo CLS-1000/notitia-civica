@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2151",
+ "measure_id": "HB2151",
+ "subject": "or_legislature/2025R1/HB2151",
+ "title": "Adds additional purposes for which moneys in the Seismic Risk Mitigation Fund may be expended.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2151 did not pass",
+ "claims": [
+  {
+   "text": "HB 2151 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614115
+   ]
+  },
+  {
+   "text": "HB 2151 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660203
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614115,
+    616324,
+    625385,
+    626926,
+    660203
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614115
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614115
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625385
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660203
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2151&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2151",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 450,
+  "finding_hash": "6f7b59fb99d71fd6ec214aec2dc9a1707cfbad2b29338aaea208befc04cc6ba0",
+  "evidence_digest": "sha256:750833ef04532b69ccc55cc08bde883fc44249efc2c3c5c963452d099fb4288f",
+  "gate_id": "f1849a9a6c7e4caca76fb0ee4997f831",
+  "gate_seq": 451
+ }
+}

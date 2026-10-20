@@ -1,0 +1,108 @@
+{
+ "session": "2025R1",
+ "measure": "SB 92",
+ "measure_id": "SB92",
+ "subject": "or_legislature/2025R1/SB92",
+ "title": "Allows a community solar project with a nameplate capacity of five megawatts or less to participate in the community solar program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 92 did not pass",
+ "claims": [
+  {
+   "text": "SB 92 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615397
+   ]
+  },
+  {
+   "text": "SB 92 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659153
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615397,
+    617664,
+    624698,
+    638543,
+    639549,
+    659153
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615397
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615397
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624698
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638543
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659153
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 92&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB92",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6384,
+  "finding_hash": "9ee01eb34bd921441f850a1deb70490e5aed5e7bb39189f426321546e291751c",
+  "evidence_digest": "sha256:e0afde323637f1c18d8c53d9c7b5ba4f7eb2a9763200f64a25a1bc6168762f57",
+  "gate_id": "dc5315c3a4de4fa8ac69e63c2e792daa",
+  "gate_seq": 6385
+ }
+}

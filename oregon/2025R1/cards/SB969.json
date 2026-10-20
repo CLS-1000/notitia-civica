@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 969",
+ "measure_id": "SB969",
+ "subject": "or_legislature/2025R1/SB969",
+ "title": "Prohibits the Energy Facility Siting Council from exercising jurisdiction over an energy facility that is a renewable energy facility or transmission line, is sited wholly within federal lands and is subject to review under the National Environmental Policy Act.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 969 did not pass",
+ "claims": [
+  {
+   "text": "SB 969 was introduced in the Senate on February 4, 2025.",
+   "row_ids": [
+    620431
+   ]
+  },
+  {
+   "text": "SB 969 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659585
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620431,
+    620456,
+    624700,
+    659585
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620431
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620431
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624700
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659585
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 969&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB969",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9015,
+  "finding_hash": "e23faccba0a69f909ce291869f0d606c0ed35587971cd5e0312005dfc9b70c07",
+  "evidence_digest": "sha256:9072670d6f596d8b29776673b166385c92e9c1eaf936ea22f4c1eac58a9c2324",
+  "gate_id": "dc45112646a34909a802522fb8b619d7",
+  "gate_seq": 9016
+ }
+}

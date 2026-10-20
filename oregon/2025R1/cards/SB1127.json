@@ -1,0 +1,107 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1127",
+ "measure_id": "SB1127",
+ "subject": "or_legislature/2025R1/SB1127",
+ "title": "Authorizes the Department of Education to expend moneys from the Statewide Education Initiatives Account for the purpose of awarding grants to develop and provide educational activities during recess, lunch or after school for Title I elementary schools.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1127 did not pass",
+ "claims": [
+  {
+   "text": "SB 1127 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624837
+   ]
+  },
+  {
+   "text": "SB 1127 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659224
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624837,
+    625749,
+    632810,
+    636223,
+    659224
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624837
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624837
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632810
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636223
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659224
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1127&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1127",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9489,
+  "finding_hash": "8527019f786332a3d57297a57d331aa820ca4667eb36cf65abee4537b755eda9",
+  "evidence_digest": "sha256:1b27f8433c85c8d1e4662ca90114670e9b5aee00236238ec159e38f5472cdfb9",
+  "gate_id": "1ebbdb63dfe14a84a36eff4a129cae8f",
+  "gate_seq": 9490
+ }
+}

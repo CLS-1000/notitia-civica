@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 511",
+ "measure_id": "SB511",
+ "subject": "or_legislature/2025R1/SB511",
+ "title": "Directs the Department of State Lands, in consultation with the State Department of Fish and Wildlife, to develop a salmon credit pilot program to encourage the voluntary restoration of salmonid habitat in the Coquille and Coos watershed basins.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 511 did not pass",
+ "claims": [
+  {
+   "text": "SB 511 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615816
+   ]
+  },
+  {
+   "text": "SB 511 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659347
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615816,
+    618083,
+    621079,
+    659347
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615816
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615816
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621079
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659347
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 511&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB511",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7641,
+  "finding_hash": "13a668326ddc0a5e0fa300ed8a11a1165e8d1970f13c5c57690364df712725ec",
+  "evidence_digest": "sha256:7b3f9f0da04829ad227cdb66761be59ff1843a139531d9c20e4d06cd6c40d7a7",
+  "gate_id": "8ce4a7ab58a64300815ff0d20f738f9f",
+  "gate_seq": 7642
+ }
+}

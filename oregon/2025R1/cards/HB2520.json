@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2520",
+ "measure_id": "HB2520",
+ "subject": "or_legislature/2025R1/HB2520",
+ "title": "Allows a credit against income taxes for up to three years for employment of qualified military veterans if the wage requirement is met.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2520 did not pass",
+ "claims": [
+  {
+   "text": "HB 2520 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614484
+   ]
+  },
+  {
+   "text": "HB 2520 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661493
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614484,
+    616693,
+    661493
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614484
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614484
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2520&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2520",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1557,
+  "finding_hash": "d7c145fbbb83c469aae997758d61027e02af3771d46c4f38e5709198d3dbabef",
+  "evidence_digest": "sha256:ff6211415a0e18911497a9cacebe7faae99985931b6d1c6cd17fcb274b0f767a",
+  "gate_id": "d48e4132ee094ceeadab5cb7f4262a23",
+  "gate_seq": 1558
+ }
+}

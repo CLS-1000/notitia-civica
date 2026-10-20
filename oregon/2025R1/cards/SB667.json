@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 667",
+ "measure_id": "SB667",
+ "subject": "or_legislature/2025R1/SB667",
+ "title": "Prohibits the Governor from ordering out for service the militia of the state for participation in or support of an armed conflict or the conduct of war unless the United States Congress passes a declaration of war or calls forth the militia of the state to execute the laws of the United States, suppress an insurrection or repel an invasion.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 667 did not pass",
+ "claims": [
+  {
+   "text": "SB 667 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615972
+   ]
+  },
+  {
+   "text": "SB 667 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658861
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615972,
+    618239,
+    625413,
+    658861
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615972
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615972
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625413
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658861
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 667&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB667",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8109,
+  "finding_hash": "17b52c0aed05a95ddc960cce313ee22d8234f77bc0a93573276ced03a4a7884e",
+  "evidence_digest": "sha256:ce9e1a010e8498b2526e5c3a8d48bd0459e2c409390e65e7936d2ba9ae441fa0",
+  "gate_id": "225342906ff54ecf91def1b8f08d4748",
+  "gate_seq": 8110
+ }
+}

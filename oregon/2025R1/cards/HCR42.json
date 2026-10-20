@@ -1,0 +1,143 @@
+{
+ "session": "2025R1",
+ "measure": "HCR 42",
+ "measure_id": "HCR42",
+ "subject": "or_legislature/2025R1/HCR42",
+ "title": "Expresses the intent of the Legislative Assembly to reduce or phase out taxes enacted in chapter ___, Oregon Laws 2025 (Enrolled House Bill 2025), when alternative funding sources are enacted and operative.",
+ "outcome": "adopted",
+ "outcome_label": "Adopted",
+ "headline": "HCR 42 was adopted",
+ "claims": [
+  {
+   "text": "HCR 42 was introduced in the House on June 23, 2025.",
+   "row_ids": [
+    656673
+   ]
+  },
+  {
+   "text": "HCR 42 was adopted; the last recorded step was on June 27, 2025.",
+   "row_ids": [
+    659436
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    656673,
+    656753,
+    657520,
+    657753,
+    658049,
+    658085,
+    658110,
+    659436
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    656673
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    656673
+   ]
+  },
+  {
+   "date": "2025-06-24",
+   "when": "June 24, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    657520
+   ]
+  },
+  {
+   "date": "2025-06-25",
+   "when": "June 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it be adopted",
+   "rule_id": "rec_be_adopted",
+   "row_ids": [
+    657753
+   ]
+  },
+  {
+   "date": "2025-06-26",
+   "when": "June 26, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "read",
+   "row_ids": [
+    658049
+   ]
+  },
+  {
+   "date": "2025-06-26",
+   "when": "June 26, 2025",
+   "chamber": "H",
+   "state": "adopted",
+   "text": "Adopted by the House",
+   "rule_id": "adopted",
+   "row_ids": [
+    658049
+   ]
+  },
+  {
+   "date": "2025-06-26",
+   "when": "June 26, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Arrived in the Senate",
+   "rule_id": "first_reading",
+   "row_ids": [
+    658085
+   ]
+  },
+  {
+   "date": "2025-06-26",
+   "when": "June 26, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    658085
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 42&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HCR42",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10275,
+  "finding_hash": "628f015f59e0a16350bca32aa80a40b0eec262a5f0b965d02a8d9328e56cc446",
+  "evidence_digest": "sha256:363ffd9bc18d159f9f1d080c6fb5fd2afe338e5c15b37c270261598a37999977",
+  "gate_id": "d4c925076d6c4daf82dcde48d829dc98",
+  "gate_seq": 10276
+ }
+}

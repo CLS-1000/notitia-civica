@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 127",
+ "measure_id": "SB127",
+ "subject": "or_legislature/2025R1/SB127",
+ "title": "Directs the State Forestry Department to study funding for wildfire-related programs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 127 did not pass",
+ "claims": [
+  {
+   "text": "SB 127 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615432
+   ]
+  },
+  {
+   "text": "SB 127 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659470
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615432,
+    617699,
+    659470
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615432
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615432
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 127&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB127",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6489,
+  "finding_hash": "9cdb65e28271cc8422e738f06b76c265fc50ab171107d23dd3b34961a960c27c",
+  "evidence_digest": "sha256:0336ec1cac2cab5351ec4160e93e7ccfa389cb44e93e3897fbc2b0606fe3fc49",
+  "gate_id": "bec765ff71804f188a13dd92c134ce40",
+  "gate_seq": 6490
+ }
+}

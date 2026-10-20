@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3223",
+ "measure_id": "HB3223",
+ "subject": "or_legislature/2025R1/HB3223",
+ "title": "Prohibits a mail-order, specialty or online pharmacy from transferring prescription drugs intended for dispensation to a patient to a pharmacy located in this state unless the pharmacy has agreed to receive the prescription drugs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3223 did not pass",
+ "claims": [
+  {
+   "text": "HB 3223 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615187
+   ]
+  },
+  {
+   "text": "HB 3223 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660177
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615187,
+    617396,
+    660177
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615187
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615187
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3223&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3223",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3666,
+  "finding_hash": "185702042368aa7f4e9e3111e033d447ab7854f979065219679bcba2207aa1d2",
+  "evidence_digest": "sha256:5c3a624ec2700bf9474ee02358a948f9b8777ac9e7380935eccdcd0cb9f4118e",
+  "gate_id": "53ee0f522b884f85ac3b25887802b441",
+  "gate_seq": 3667
+ }
+}

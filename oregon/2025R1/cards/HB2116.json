@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2116",
+ "measure_id": "HB2116",
+ "subject": "or_legislature/2025R1/HB2116",
+ "title": "Provides that the threshold of the highest personal income tax bracket and the corporate excise tax bracket threshold are adjusted for inflation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2116 did not pass",
+ "claims": [
+  {
+   "text": "HB 2116 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614080
+   ]
+  },
+  {
+   "text": "HB 2116 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661271
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614080,
+    616289,
+    661271
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614080
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614080
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2116&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2116",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 345,
+  "finding_hash": "ac5240e3d59d44b27028e097489c80a49476c115222f1b393a66b21292593b8c",
+  "evidence_digest": "sha256:e98ac7a27d9b821dba7da0ab4c462d89db73e6c1ccfece9855bbf85bc6658e0e",
+  "gate_id": "212841aee0d844fa9510fc3135b2ec86",
+  "gate_seq": 346
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1117",
+ "measure_id": "SB1117",
+ "subject": "or_legislature/2025R1/SB1117",
+ "title": "Directs the Division of Audits to conduct a performance audit of the Department of Transportation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1117 did not pass",
+ "claims": [
+  {
+   "text": "SB 1117 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624827
+   ]
+  },
+  {
+   "text": "SB 1117 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659218
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624827,
+    625739,
+    659218
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624827
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624827
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1117&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1117",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9459,
+  "finding_hash": "a86c1d0013668b512f48ad85e4cdba4a3b2c43dce0ea97d0280d05ca752094fa",
+  "evidence_digest": "sha256:7488d28eb9ed4f5f6281e51d4af9f507de12ba4d68d6bbf9f241de0a29bd6673",
+  "gate_id": "7a204974b1644c57bee819d4c2486e63",
+  "gate_seq": 9460
+ }
+}

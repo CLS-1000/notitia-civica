@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3395",
+ "measure_id": "HB3395",
+ "subject": "or_legislature/2025R1/HB3395",
+ "title": "Requires the Oregon Government Ethics Commission to study government ethics.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3395 did not pass",
+ "claims": [
+  {
+   "text": "HB 3395 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619446
+   ]
+  },
+  {
+   "text": "HB 3395 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659909
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619446,
+    619818,
+    659909
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619446
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619446
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3395&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3395",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4182,
+  "finding_hash": "90a6847847e4258a23e13b65dd7e01acf4fefd3e7a89176bc7d8874f2e1e01f4",
+  "evidence_digest": "sha256:4e14edc640fb963450e53bfa1ae4e028df2eea6e0c3ad22d42dc4324cd3a2c01",
+  "gate_id": "c4b638dbc9064872937796b9e9bd2608",
+  "gate_seq": 4183
+ }
+}

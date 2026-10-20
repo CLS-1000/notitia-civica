@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3928",
+ "measure_id": "HB3928",
+ "subject": "or_legislature/2025R1/HB3928",
+ "title": "Allows counties to designate certain rural lands for rural housing development that are not subject to statewide land use planning laws.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3928 did not pass",
+ "claims": [
+  {
+   "text": "HB 3928 was introduced in the House on March 17, 2025.",
+   "row_ids": [
+    628968
+   ]
+  },
+  {
+   "text": "HB 3928 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661292
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    628968,
+    629538,
+    634934,
+    639405,
+    661292
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    628968
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    628968
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    634934
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661292
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3928&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3928",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5781,
+  "finding_hash": "0b2e1525182f0e9856cfc77f5e66f7ea0355a221d3c65121f1da0786e97c6e8b",
+  "evidence_digest": "sha256:2753b53af60029f94da364c352827f63251e3f1620f10f0c5b62fe983e073a6b",
+  "gate_id": "ecef66998d6848efad93d074bf3ca723",
+  "gate_seq": 5782
+ }
+}

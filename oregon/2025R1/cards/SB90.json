@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 90",
+ "measure_id": "SB90",
+ "subject": "or_legislature/2025R1/SB90",
+ "title": "Creates an income tax credit for owners of aircraft that incur qualifying expenses to enable an aircraft that is powered by leaded aviation gasoline to be certified to instead be powered by unleaded aviation gasoline.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 90 did not pass",
+ "claims": [
+  {
+   "text": "SB 90 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615395
+   ]
+  },
+  {
+   "text": "SB 90 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659152
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615395,
+    617662,
+    659152
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615395
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615395
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 90&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB90",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6378,
+  "finding_hash": "f43228f39e9a2cd5e4a9ca082e4fa6468304dfd277fa0ec30796fccb8b12dd04",
+  "evidence_digest": "sha256:80524ca068df9675c87817d81918b6dff171628c653703a69838e11d96d67e74",
+  "gate_id": "2a5ffe79a20f48a499382c8aac900ef5",
+  "gate_seq": 6379
+ }
+}

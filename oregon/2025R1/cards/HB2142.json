@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2142",
+ "measure_id": "HB2142",
+ "subject": "or_legislature/2025R1/HB2142",
+ "title": "Requires a prison sentence for the unlawful delivery or manufacture of a controlled substance when the person has certain prior convictions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2142 did not pass",
+ "claims": [
+  {
+   "text": "HB 2142 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614106
+   ]
+  },
+  {
+   "text": "HB 2142 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659806
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614106,
+    616315,
+    659806
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614106
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614106
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2142&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2142",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 423,
+  "finding_hash": "ecdbbd23220c8a6bbebc289cd278b013deb1c565bb01b244b9581bf94cc33693",
+  "evidence_digest": "sha256:c21bcfbb68be44d2de7280a86b0dc60ad185e5191e1f31929b6e100efe88b012",
+  "gate_id": "9550852d0cf7491d963b8f2b0bab14d6",
+  "gate_seq": 424
+ }
+}

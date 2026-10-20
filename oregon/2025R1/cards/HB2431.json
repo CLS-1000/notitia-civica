@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2431",
+ "measure_id": "HB2431",
+ "subject": "or_legislature/2025R1/HB2431",
+ "title": "Repeals the transfer of certain electronic records from the Oregon Health Authority to the Secretary of State for purposes of voter registration.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2431 did not pass",
+ "claims": [
+  {
+   "text": "HB 2431 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614395
+   ]
+  },
+  {
+   "text": "HB 2431 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660077
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614395,
+    616604,
+    660077
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614395
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614395
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2431&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2431",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1290,
+  "finding_hash": "58ae6ecc342d872c856665387ac0ee732e758e179ab1cff7c545c981ae4b9a5d",
+  "evidence_digest": "sha256:a549b2e874f89f298487a4b177df73705340cda0ff3d91fa77d1237cfed7ffe1",
+  "gate_id": "7229bd863be64ffeb521390f1675b160",
+  "gate_seq": 1291
+ }
+}

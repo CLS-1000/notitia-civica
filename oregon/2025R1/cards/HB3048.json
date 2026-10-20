@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3048",
+ "measure_id": "HB3048",
+ "subject": "or_legislature/2025R1/HB3048",
+ "title": "Abolishes the Oregon Arts Commission and the Trust for Cultural Development Board on July 1, 2027.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3048 did not pass",
+ "claims": [
+  {
+   "text": "HB 3048 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615012
+   ]
+  },
+  {
+   "text": "HB 3048 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659895
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615012,
+    617221,
+    622659,
+    629670,
+    631856,
+    631857,
+    659895
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615012
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615012
+   ]
+  },
+  {
+   "date": "2025-02-17",
+   "when": "February 17, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622659
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629670
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    631856
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3048&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3048",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3141,
+  "finding_hash": "a50271d8fbc245722960c9e81ceeda2876e277494f96a84211dc441d8c9b2096",
+  "evidence_digest": "sha256:43fc480468f264d5998459899b491823399d930f8ab7b0a7290b01f98da7f747",
+  "gate_id": "9fe75e53b62b4e8583591a24978a1125",
+  "gate_seq": 3142
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3419",
+ "measure_id": "HB3419",
+ "subject": "or_legislature/2025R1/HB3419",
+ "title": "Directs the Water Resources Department to study rules related to water.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3419 did not pass",
+ "claims": [
+  {
+   "text": "HB 3419 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619470
+   ]
+  },
+  {
+   "text": "HB 3419 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659930
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619470,
+    619842,
+    623312,
+    659930
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619470
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619470
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "when": "February 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623312
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659930
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3419&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3419",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4254,
+  "finding_hash": "8001be2a8622c1139be71a30561991b51e07d23388ab5a193945f692304db363",
+  "evidence_digest": "sha256:92ed7051dbba72cf7da27657476c3a49e05a5802b35f93a40189dffdd590ea35",
+  "gate_id": "519d04f88f074728b561886edc31d4bb",
+  "gate_seq": 4255
+ }
+}

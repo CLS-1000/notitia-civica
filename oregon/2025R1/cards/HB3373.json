@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3373",
+ "measure_id": "HB3373",
+ "subject": "or_legislature/2025R1/HB3373",
+ "title": "Directs the Department of Education to prepare and distribute a report that compiles the audit findings for school districts, education service districts and public charter schools.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3373 did not pass",
+ "claims": [
+  {
+   "text": "HB 3373 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619424
+   ]
+  },
+  {
+   "text": "HB 3373 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660727
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619424,
+    619796,
+    633227,
+    660727
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619424
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619424
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633227
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660727
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3373&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3373",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4116,
+  "finding_hash": "5284f1a4226d623ec54c8fa348f8df5770447a8b1f47aa8eadaee51468bbb903",
+  "evidence_digest": "sha256:d89775464b43356af246c5e984cc0ce0351693dbbdf56da2043db608ba22f538",
+  "gate_id": "7160db457c9e407b99b4efb151b30af9",
+  "gate_seq": 4117
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2221",
+ "measure_id": "HB2221",
+ "subject": "or_legislature/2025R1/HB2221",
+ "title": "Requires the Department of Consumer and Business Services to study health insurance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2221 did not pass",
+ "claims": [
+  {
+   "text": "HB 2221 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614185
+   ]
+  },
+  {
+   "text": "HB 2221 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661065
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614185,
+    616394,
+    661065
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614185
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614185
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2221&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2221",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 660,
+  "finding_hash": "d3ebc7ec484bf753ddcd4d571661c8ef2c3fd61b4acaa044b8a316b5f8146abc",
+  "evidence_digest": "sha256:d4b0efd76c61d2ac1e5e4dee1292e768ebd9f7ca46b12412e9001f548fc2ceb5",
+  "gate_id": "1986138f774c4ef081f31a141f3c02e6",
+  "gate_seq": 661
+ }
+}

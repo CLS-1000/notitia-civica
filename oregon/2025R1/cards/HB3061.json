@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3061",
+ "measure_id": "HB3061",
+ "subject": "or_legislature/2025R1/HB3061",
+ "title": "Requires the Teacher Standards and Practices Commission to study opportunities to modernize the background check process and criminal history standards that apply to people seeking employment in public schools.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3061 did not pass",
+ "claims": [
+  {
+   "text": "HB 3061 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615025
+   ]
+  },
+  {
+   "text": "HB 3061 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660943
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615025,
+    617234,
+    660943
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615025
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615025
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3061&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3061",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3180,
+  "finding_hash": "61fe9ca77bd78a8d84e7b6bd88a2003056afcca8f6a5f75b4cf86fa9f0a48a8d",
+  "evidence_digest": "sha256:e2298f34043a818ba0843bce8391e8e6600ac17bdcbcf0672d4687aa0e00d2b7",
+  "gate_id": "fb98dfddaba14ae3b957d0ff031ca2b1",
+  "gate_seq": 3181
+ }
+}

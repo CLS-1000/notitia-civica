@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2662",
+ "measure_id": "HB2662",
+ "subject": "or_legislature/2025R1/HB2662",
+ "title": "Directs a municipal law enforcement agency with jurisdiction over a population of at least 350,000 to staff patrol vehicles with a minimum of two officers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2662 did not pass",
+ "claims": [
+  {
+   "text": "HB 2662 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614626
+   ]
+  },
+  {
+   "text": "HB 2662 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660091
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614626,
+    616835,
+    660091
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614626
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614626
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2662&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2662",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1983,
+  "finding_hash": "5a2c9a851b1b0e9fcf5a84a7287ccee818cbcf567800e2b13e81b5a220ce4fb9",
+  "evidence_digest": "sha256:2aaa3543d38dce4c953bc440456be67a26c458c3ceb4474ffac54ebfb0b9af09",
+  "gate_id": "e7a3ac2999b54a54844113c49215c10e",
+  "gate_seq": 1984
+ }
+}

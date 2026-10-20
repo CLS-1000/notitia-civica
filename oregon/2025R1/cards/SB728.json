@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 728",
+ "measure_id": "SB728",
+ "subject": "or_legislature/2025R1/SB728",
+ "title": "Modifies the definition of \"vulnerable person\" for purposes of civil action for abuse of a vulnerable person to include individuals under 18 years of age.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 728 did not pass",
+ "claims": [
+  {
+   "text": "SB 728 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616033
+   ]
+  },
+  {
+   "text": "SB 728 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658922
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616033,
+    618300,
+    658922
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616033
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616033
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 728&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB728",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8292,
+  "finding_hash": "111e08345ed85c1c5a2e568ff352e4efebbc509b91fbe545f49454b370382fe9",
+  "evidence_digest": "sha256:bdafb5cb826e006b70ed8d6cd3be6a6f0accb137d8cb485520bbf1603b71d0fc",
+  "gate_id": "5ce99451bcde44c6a2140a360da9ae09",
+  "gate_seq": 8293
+ }
+}

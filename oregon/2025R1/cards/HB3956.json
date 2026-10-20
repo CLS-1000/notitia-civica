@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3956",
+ "measure_id": "HB3956",
+ "subject": "or_legislature/2025R1/HB3956",
+ "title": "Requires a syringe service program to register with the local public health authority responsible for the jurisdiction in which the syringe service program operates.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3956 did not pass",
+ "claims": [
+  {
+   "text": "HB 3956 was introduced in the House on April 8, 2025.",
+   "row_ids": [
+    638800
+   ]
+  },
+  {
+   "text": "HB 3956 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661116
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    638800,
+    640209,
+    661116
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    638800
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    638800
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3956&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3956",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5865,
+  "finding_hash": "cfba4827d44ddd082609e73590a2260a8d34955015d49d54ac2691ba5d73508c",
+  "evidence_digest": "sha256:2d9e9746ccaceea0864e31cee31caef72f22a1abaefebe7e3ab0a1ea629b4a19",
+  "gate_id": "29a5aca5fbc7407185a6bb2a7f110562",
+  "gate_seq": 5866
+ }
+}

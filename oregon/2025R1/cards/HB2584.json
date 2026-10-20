@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2584",
+ "measure_id": "HB2584",
+ "subject": "or_legislature/2025R1/HB2584",
+ "title": "Prohibits a franchisor from imposing upon or collecting from a franchisee a fee that the franchisor did not disclose in the agreement under which the franchisor and franchisee established the franchise or in the disclosure document a franchisor must provide to the franchisee under federal law.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2584 did not pass",
+ "claims": [
+  {
+   "text": "HB 2584 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614548
+   ]
+  },
+  {
+   "text": "HB 2584 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660912
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614548,
+    616757,
+    660912
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614548
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614548
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2584&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2584",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1749,
+  "finding_hash": "88b96debff9db5c7bf7ec7173950a7697f0257883546f08477c847c6c8d639ed",
+  "evidence_digest": "sha256:6ab30bc005ba200f8b321474a7738f6f3b8d9c57af5baca3d727fef8ed21605f",
+  "gate_id": "a584c381a858430188f3dfd4cc929aec",
+  "gate_seq": 1750
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3444",
+ "measure_id": "HB3444",
+ "subject": "or_legislature/2025R1/HB3444",
+ "title": "Modifies the percentage of amounts that school districts must pay from the State School Fund to public charter schools that are not virtual public charter schools.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3444 did not pass",
+ "claims": [
+  {
+   "text": "HB 3444 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619495
+   ]
+  },
+  {
+   "text": "HB 3444 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660804
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619495,
+    619867,
+    628119,
+    660804
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619495
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619495
+   ]
+  },
+  {
+   "date": "2025-03-12",
+   "when": "March 12, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628119
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660804
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3444&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3444",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4329,
+  "finding_hash": "5936e1901c4d6d7258cdc3ce82d274a8a66ff2d77a6f5c42966dde436f08f02a",
+  "evidence_digest": "sha256:954eb6327f678b12817408afaae298b091698a382a1e5b0a16881f3f343aca60",
+  "gate_id": "5886d35e29ca4b19a223f01ed7566c5b",
+  "gate_seq": 4330
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 109",
+ "measure_id": "SB109",
+ "subject": "or_legislature/2025R1/SB109",
+ "title": "Updates the connection date to the federal Internal Revenue Code and other provisions of federal tax law.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 109 did not pass",
+ "claims": [
+  {
+   "text": "SB 109 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615414
+   ]
+  },
+  {
+   "text": "SB 109 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659451
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615414,
+    617681,
+    659451
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615414
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615414
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 109&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB109",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6435,
+  "finding_hash": "a6918e5766c3a46e92d9e7ff087b87aa897b33677f62339c9125744213221686",
+  "evidence_digest": "sha256:617291975958f63a08edd871b6290901c56de917f81c5bfe5a32d7b1efb4de9f",
+  "gate_id": "c3479dae7ba041319c7fd7d7a331d6a0",
+  "gate_seq": 6436
+ }
+}

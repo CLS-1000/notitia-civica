@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3530",
+ "measure_id": "HB3530",
+ "subject": "or_legislature/2025R1/HB3530",
+ "title": "Directs public bodies to change the name of highways that use the term \"squaw\" in the name.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3530 did not pass",
+ "claims": [
+  {
+   "text": "HB 3530 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621736
+   ]
+  },
+  {
+   "text": "HB 3530 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660583
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621736,
+    622074,
+    660583
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621736
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621736
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3530&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3530",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4587,
+  "finding_hash": "772b4bece723a37c716e8eee35f44b94948d33b0f7aa5e816b0f8b69651c6470",
+  "evidence_digest": "sha256:5dab482b69c5a35f9fa721c78c860b47bb04cb5ce112e014d071791b53c9fa1a",
+  "gate_id": "f8abd86c45a04c7ebcfb32a3dc62c466",
+  "gate_seq": 4588
+ }
+}

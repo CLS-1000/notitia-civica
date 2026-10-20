@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3036",
+ "measure_id": "HB3036",
+ "subject": "or_legislature/2025R1/HB3036",
+ "title": "Expands purposes, for corporate excise tax credit allowed for affordable housing lending, for which a qualified borrower may use savings from a reduced interest rate to include provision of resident services or supportive services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3036 did not pass",
+ "claims": [
+  {
+   "text": "HB 3036 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615000
+   ]
+  },
+  {
+   "text": "HB 3036 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659891
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615000,
+    617209,
+    659891
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615000
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615000
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3036&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3036",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3105,
+  "finding_hash": "c9adfce63efd34fd75068b26408bea7292a11a72b945a77d0c75f982618f2330",
+  "evidence_digest": "sha256:b2cce190bf39718e9a5a4d2df043d2fc8029100f00315c3b3467702b46071ade",
+  "gate_id": "7500c204338d4395b68a07fc9d420a17",
+  "gate_seq": 3106
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3538",
+ "measure_id": "HB3538",
+ "subject": "or_legislature/2025R1/HB3538",
+ "title": "Establishes the Secretary of State as the chief civics officer of this state and establishes the Division of Civic Engagement within the Secretary of State office.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3538 did not pass",
+ "claims": [
+  {
+   "text": "HB 3538 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621744
+   ]
+  },
+  {
+   "text": "HB 3538 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660590
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621744,
+    622081,
+    660590
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621744
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621744
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3538&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3538",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4611,
+  "finding_hash": "141c3c1d38c060be85d5211504b19db941726030f20b990b797d60c091698fdb",
+  "evidence_digest": "sha256:6012989a2f66052ba77575a7207a18e1d29e7d50ee2af5dc0c4cb6f6bb3c1eb6",
+  "gate_id": "4c822ded85cd4a7cba5c3025dbb54142",
+  "gate_seq": 4612
+ }
+}

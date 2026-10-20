@@ -1,0 +1,121 @@
+{
+ "session": "2025R1",
+ "measure": "SB 120",
+ "measure_id": "SB120",
+ "subject": "or_legislature/2025R1/SB120",
+ "title": "Requires the Legislative Revenue Officer to study tax expenditures.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 120 did not pass",
+ "claims": [
+  {
+   "text": "SB 120 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615425
+   ]
+  },
+  {
+   "text": "SB 120 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659460
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615425,
+    617692,
+    640197,
+    641199,
+    641200,
+    652000,
+    653287,
+    659460
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615425
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615425
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    640197
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    641199
+   ]
+  },
+  {
+   "date": "2025-06-10",
+   "when": "June 10, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    653287
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659460
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 120&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB120",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6468,
+  "finding_hash": "a6986afb8fab895fa4834a678cf1f8bc3a296d7029ed1bfa918a14d239d4a823",
+  "evidence_digest": "sha256:cda72556ae8577dfd63549f52df5a312a3b5f558842efd2fe82aacf1a1ecda26",
+  "gate_id": "804d07131500452bb9eeb7bdf120c23c",
+  "gate_seq": 6469
+ }
+}

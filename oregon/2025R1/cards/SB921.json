@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 921",
+ "measure_id": "SB921",
+ "subject": "or_legislature/2025R1/SB921",
+ "title": "Authorizes the Oregon Infrastructure Finance Authority to approve a loan to the Oregon International Port of Coos Bay for shipyard repairs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 921 did not pass",
+ "claims": [
+  {
+   "text": "SB 921 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618697
+   ]
+  },
+  {
+   "text": "SB 921 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659568
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618697,
+    618868,
+    627694,
+    629291,
+    631990,
+    631991,
+    659568
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618697
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618697
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627694
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629291
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    631990
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 921&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB921",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8871,
+  "finding_hash": "eb985bbc554960fa969b9525391c8eaabfb8baec8efc71f737d8acc791794c4f",
+  "evidence_digest": "sha256:2790476a88a9205f2e770e118c8d3b90d064b3aa250900d4dc20ec5b4e15ba9c",
+  "gate_id": "e5971493c0ce49448d4222f534efaa9b",
+  "gate_seq": 8872
+ }
+}

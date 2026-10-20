@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3472",
+ "measure_id": "HB3472",
+ "subject": "or_legislature/2025R1/HB3472",
+ "title": "Directs the Department of Transportation to study issues related to electric assisted bicycles and motor assisted scooters and present the results of the study to the Joint Committee on Transportation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3472 did not pass",
+ "claims": [
+  {
+   "text": "HB 3472 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620345
+   ]
+  },
+  {
+   "text": "HB 3472 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660850
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620345,
+    621018,
+    660850
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620345
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620345
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3472&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3472",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4413,
+  "finding_hash": "b3cc6bf8a1f986073384917c7e2888aaf9114e5593febb314e5e2d003707f985",
+  "evidence_digest": "sha256:74ae4b84458c98e77c3e0c238be223fe606bea30d65c0838835df8b46158f608",
+  "gate_id": "b951de1e379d49349d677f60ce5efc04",
+  "gate_seq": 4414
+ }
+}

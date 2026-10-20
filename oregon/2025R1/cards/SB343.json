@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 343",
+ "measure_id": "SB343",
+ "subject": "or_legislature/2025R1/SB343",
+ "title": "Directs the State Forestry Department to study and make recommendations to an interim committee of the Legislative Assembly regarding efficacy of forest management.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 343 did not pass",
+ "claims": [
+  {
+   "text": "SB 343 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615648
+   ]
+  },
+  {
+   "text": "SB 343 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658730
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615648,
+    617915,
+    658730
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615648
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615648
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 343&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB343",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7137,
+  "finding_hash": "4d1000dd6ceb29a6431ae2a1c2317b92f41901eac0ba395bc899266d1460f4b6",
+  "evidence_digest": "sha256:f68ed05138a25ad904cf916dcad471eee7f07ee157df4e6cc97c68ae7f2fb44f",
+  "gate_id": "478a8aa8b4f1446ca889c741a7408aba",
+  "gate_seq": 7138
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 607",
+ "measure_id": "SB607",
+ "subject": "or_legislature/2025R1/SB607",
+ "title": "Directs the Oregon Health Authority to study alternative payment methodologies to improve access to behavioral health care in federally qualified health centers in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 607 did not pass",
+ "claims": [
+  {
+   "text": "SB 607 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615912
+   ]
+  },
+  {
+   "text": "SB 607 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658795
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615912,
+    618179,
+    658795
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615912
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615912
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 607&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB607",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7929,
+  "finding_hash": "96f617746f382906108c0619ce490e3bd1bbce6025c57f046ce149b474c7f082",
+  "evidence_digest": "sha256:55f1f76f3b66cca530f23edac90d888b6544e355858dd225670b044fee32ef2c",
+  "gate_id": "06dadb9b995e4f80a2a3842b11d9255d",
+  "gate_seq": 7930
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3951",
+ "measure_id": "HB3951",
+ "subject": "or_legislature/2025R1/HB3951",
+ "title": "Provides that veterinary facilities do not qualify as animal rescue entities for purposes of regulating animal rescue entities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3951 did not pass",
+ "claims": [
+  {
+   "text": "HB 3951 was introduced in the House on March 27, 2025.",
+   "row_ids": [
+    633556
+   ]
+  },
+  {
+   "text": "HB 3951 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660862
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    633556,
+    635849,
+    660862
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    633556
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    633556
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3951&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3951",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5850,
+  "finding_hash": "c653d05f8e0d0e872b00d689671ab618d1a8d5bc661b0d99b0e0c74117541ee1",
+  "evidence_digest": "sha256:ea46d549237f09b4baf4b8d4bfbcbebab7c84f3693b1f3b76ec32568f5e2e7bf",
+  "gate_id": "e3fa9cd7c0e44039874598d8bf6cc123",
+  "gate_seq": 5851
+ }
+}

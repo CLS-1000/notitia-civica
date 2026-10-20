@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2878",
+ "measure_id": "HB2878",
+ "subject": "or_legislature/2025R1/HB2878",
+ "title": "Authorizes the State Treasurer to issue general obligation bonds under Article XI-E of the Oregon Constitution in an amount that produces $500 million in net proceeds for a Strategic Carbon Sequestration and Forestry Sustainability Program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2878 did not pass",
+ "claims": [
+  {
+   "text": "HB 2878 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614842
+   ]
+  },
+  {
+   "text": "HB 2878 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661187
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614842,
+    617051,
+    661187
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614842
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614842
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2878&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2878",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2631,
+  "finding_hash": "c5f145a7f74ccac8627cd69cbe623365c68c3e8b7ab0258fba98c74eea8fb73a",
+  "evidence_digest": "sha256:0728836155b0afc021e35a6139aa5f20819588e9dd53ed247fdb0a929ab7c397",
+  "gate_id": "610c8a5b215b451192d5940be85f3aa0",
+  "gate_seq": 2632
+ }
+}

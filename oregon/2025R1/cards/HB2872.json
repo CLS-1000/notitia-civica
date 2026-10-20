@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2872",
+ "measure_id": "HB2872",
+ "subject": "or_legislature/2025R1/HB2872",
+ "title": "Requires that a building permit must show a contractor's Construction Contractors Board license number if the contractor is known.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2872 did not pass",
+ "claims": [
+  {
+   "text": "HB 2872 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614836
+   ]
+  },
+  {
+   "text": "HB 2872 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661181
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614836,
+    617045,
+    661181
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614836
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614836
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2872&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2872",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2613,
+  "finding_hash": "389338175fa4e0c54783444e0c7667656d30eb4c313863661e39656b535e607b",
+  "evidence_digest": "sha256:8f75dacb858ba9e545f8bb5a103149d2c554732c86e363309e4686c3030acc0a",
+  "gate_id": "ae90cfb04c04421e9ebf0c5af9f1284e",
+  "gate_seq": 2614
+ }
+}

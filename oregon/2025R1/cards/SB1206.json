@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1206",
+ "measure_id": "SB1206",
+ "subject": "or_legislature/2025R1/SB1206",
+ "title": "Requires the Department of Consumer and Business Services to study funding to improve access to health care.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1206 did not pass",
+ "claims": [
+  {
+   "text": "SB 1206 was introduced in the Senate on April 9, 2025.",
+   "row_ids": [
+    639277
+   ]
+  },
+  {
+   "text": "SB 1206 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659130
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    639277,
+    639371,
+    643379,
+    645137,
+    659130
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    639277
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    639277
+   ]
+  },
+  {
+   "date": "2025-05-07",
+   "when": "May 7, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    645137
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659130
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1206&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1206",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9726,
+  "finding_hash": "cda9ac471ce070a57b58116f068c9b675394a7d7e54143cb14d07f59592a2ba3",
+  "evidence_digest": "sha256:df8f510fc7564aef418a62f062873b306141e982bda5f7829c6383f20e26d383",
+  "gate_id": "468fe1cd65044ec0820c0adfc71a1df3",
+  "gate_seq": 9727
+ }
+}

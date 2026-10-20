@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 891",
+ "measure_id": "SB891",
+ "subject": "or_legislature/2025R1/SB891",
+ "title": "Establishes the Oregon Empowerment Scholarship Program for the purpose of providing options in education to students of this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 891 did not pass",
+ "claims": [
+  {
+   "text": "SB 891 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618667
+   ]
+  },
+  {
+   "text": "SB 891 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659538
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618667,
+    618838,
+    659538
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618667
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618667
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 891&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB891",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8781,
+  "finding_hash": "0aa8a0cc1114a0ca728ddfbd005bbd8f2c38c8ba6dc400dbda9c7b45406b0c3e",
+  "evidence_digest": "sha256:9dfc47cbec1f93d036862e80a3f000a5267aeba3c487c2950fb9074fd34bbbfb",
+  "gate_id": "e5550679ddce4296927a3c3d6bdf6d1d",
+  "gate_seq": 8782
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2198",
+ "measure_id": "HB2198",
+ "subject": "or_legislature/2025R1/HB2198",
+ "title": "Restores former provisions restricting the payment of unemployment insurance benefits to certain nonprofessional educational workers that were repealed by enrolled Senate Bill 489 (2023).",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2198 did not pass",
+ "claims": [
+  {
+   "text": "HB 2198 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614162
+   ]
+  },
+  {
+   "text": "HB 2198 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661045
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614162,
+    616371,
+    661045
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614162
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614162
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2198&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2198",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 591,
+  "finding_hash": "9c445ef44e48d1ea772f47aca4076c99f011a62f0d9e787c6cdd173e547a496d",
+  "evidence_digest": "sha256:b2c81e1b4ac172770f3869628ffc730b975f0cd91e68b910b2072193e3c1ba7e",
+  "gate_id": "9a1e849c86204c03940fe8f384a6e8c7",
+  "gate_seq": 592
+ }
+}

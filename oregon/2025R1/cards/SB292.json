@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 292",
+ "measure_id": "SB292",
+ "subject": "or_legislature/2025R1/SB292",
+ "title": "Requires the Department of Human Services to study long term care facilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 292 did not pass",
+ "claims": [
+  {
+   "text": "SB 292 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615597
+   ]
+  },
+  {
+   "text": "SB 292 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658685
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615597,
+    617864,
+    658685
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615597
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615597
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 292&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB292",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6984,
+  "finding_hash": "ddb6900d31e61234bd2733f0c5531d4d3f3038d193b837a8b9522eb12746acd5",
+  "evidence_digest": "sha256:a9072710a9b3dea01f7a1cbb606d07be260c52071237bbac126827c9e0792810",
+  "gate_id": "baa836561eca404ea1e972875b48009d",
+  "gate_seq": 6985
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2408",
+ "measure_id": "HB2408",
+ "subject": "or_legislature/2025R1/HB2408",
+ "title": "Appropriates moneys from the General Fund to the Higher Education Coordinating Commission for allocation to Oregon State University to fund the agricultural experiment station and branch stations, the Oregon State University Extension Service and the Forest Research Laboratory.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2408 did not pass",
+ "claims": [
+  {
+   "text": "HB 2408 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614372
+   ]
+  },
+  {
+   "text": "HB 2408 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659881
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614372,
+    616581,
+    627327,
+    631867,
+    633462,
+    633463,
+    659881
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614372
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614372
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627327
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    631867
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    633462
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2408&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2408",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1221,
+  "finding_hash": "bdbaab5aaf1ce71975472f29dbaeb124caaa85d09d5882e057aaee96552f31f5",
+  "evidence_digest": "sha256:9a9567e68b34ce08a5540bd1193b9e85f06549bc221a8aa4b6b3e255513fc942",
+  "gate_id": "41b815616c0748af96361ef06c5903d4",
+  "gate_seq": 1222
+ }
+}

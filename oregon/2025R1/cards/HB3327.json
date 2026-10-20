@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3327",
+ "measure_id": "HB3327",
+ "subject": "or_legislature/2025R1/HB3327",
+ "title": "Requires the Legislative Policy and Research Director to study legislation affecting local governments.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3327 did not pass",
+ "claims": [
+  {
+   "text": "HB 3327 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618798
+   ]
+  },
+  {
+   "text": "HB 3327 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660404
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618798,
+    619196,
+    660404
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618798
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618798
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3327&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3327",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3978,
+  "finding_hash": "c60195e51be8d06398589b2e17edc03b50e04c37ce81ba2e8ea37854876ce038",
+  "evidence_digest": "sha256:c5551b43072a9e57514abd4e1a3c58177ece98a4eaa6f050aabc5ebac924c3e5",
+  "gate_id": "15e20992082a414599bc1cc9e66eca5e",
+  "gate_seq": 3979
+ }
+}

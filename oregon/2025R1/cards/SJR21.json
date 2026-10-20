@@ -1,0 +1,81 @@
+{
+ "session": "2025R1",
+ "measure": "SJR 21",
+ "measure_id": "SJR21",
+ "subject": "or_legislature/2025R1/SJR21",
+ "title": "Proposes an amendment to the Oregon Constitution establishing a Citizens Redistricting Commission to adopt redistricting maps for the Senate, House of Representatives and United States House of Representatives. Refers the proposed amendment to the people for their approval or rejection at the next regular general election.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJR 21 did not pass",
+ "claims": [
+  {
+   "text": "SJR 21 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615252
+   ]
+  },
+  {
+   "text": "SJR 21 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658817
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615252,
+    617519,
+    658817
+   ]
+  },
+  {
+   "text": "SJR 21 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    658817
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615252
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615252
+   ]
+  }
+ ],
+ "topics": [
+  "ballot",
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJR' and MeasureNumber eq 21&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJR21",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10038,
+  "finding_hash": "cf395149b1fbaf548b65e958fc9d0f24efe50a844e598c92bb967f318d7580d5",
+  "evidence_digest": "sha256:422accb7084d3ef50e0de3b521dba6bd8f3cd07a04676e7f9cdfd66d6c3f1333",
+  "gate_id": "83b9a9b8db8c4f21b5473fca0d1a928d",
+  "gate_seq": 10039
+ }
+}

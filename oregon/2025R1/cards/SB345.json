@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 345",
+ "measure_id": "SB345",
+ "subject": "or_legislature/2025R1/SB345",
+ "title": "Requires a court to award damages for the cost of replanting to a plaintiff prevailing against the federal government or a contractor in an action for injury to private land arising from a fire originating on federal forestland.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 345 did not pass",
+ "claims": [
+  {
+   "text": "SB 345 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615650
+   ]
+  },
+  {
+   "text": "SB 345 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658732
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615650,
+    617917,
+    658732
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615650
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615650
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 345&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB345",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7143,
+  "finding_hash": "8e278b07f9ec40947bfbe5927a69e07111ea2fb5515e65751a449ef26f313336",
+  "evidence_digest": "sha256:42cb8c5f94111458bdaf5babaaba76ce6fc7f1cccb02db30451f578d7329e6f8",
+  "gate_id": "c4b3e8b11ec2497d8eb275f5a0ba06d8",
+  "gate_seq": 7144
+ }
+}

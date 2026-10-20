@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 193",
+ "measure_id": "SB193",
+ "subject": "or_legislature/2025R1/SB193",
+ "title": "Directs the Oregon Criminal Justice Commission to study the use of technology to improve accuracy when measuring recidivism rates of persons convicted of felonies, and to provide the results of the study to the appropriate interim committees of the Legislative Assembly no later than December 31, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 193 did not pass",
+ "claims": [
+  {
+   "text": "SB 193 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615498
+   ]
+  },
+  {
+   "text": "SB 193 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659517
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615498,
+    617765,
+    659517
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615498
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615498
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 193&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB193",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6687,
+  "finding_hash": "e3ea6727fff1b9daa30a439eaf8fec7f430e05e494ed5ebcc337bdba194712bd",
+  "evidence_digest": "sha256:8fd555ca317bf9a3e27b2777916b641f1e7e34fbb8ab3c6aa7fa965afafa2a76",
+  "gate_id": "31f7f7509cec4f05bd6b76d5a9dc01e9",
+  "gate_seq": 6688
+ }
+}

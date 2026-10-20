@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 966",
+ "measure_id": "SB966",
+ "subject": "or_legislature/2025R1/SB966",
+ "title": "Enacts the interstate Nurse Licensure Compact.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 966 did not pass",
+ "claims": [
+  {
+   "text": "SB 966 was introduced in the Senate on January 30, 2025.",
+   "row_ids": [
+    619888
+   ]
+  },
+  {
+   "text": "SB 966 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659307
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619888,
+    619910,
+    659307
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    619888
+   ]
+  },
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619888
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 966&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB966",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9006,
+  "finding_hash": "e34889d3488d1e8d704aa9ad591e5a1596d2615c3d77dc2ccd91b710ba7931ac",
+  "evidence_digest": "sha256:53f816e7c8e55da4d39da1fe0c9616962bcb42e203f3117aef036b1525233324",
+  "gate_id": "8d0548c933424752be17f9e716ae183c",
+  "gate_seq": 9007
+ }
+}

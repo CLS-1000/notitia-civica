@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3256",
+ "measure_id": "HB3256",
+ "subject": "or_legislature/2025R1/HB3256",
+ "title": "Exempts motor vehicles with model years that predate by eight years or less the date of registration or renewal of registration from the requirement to be equipped with a certified pollution control system.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3256 did not pass",
+ "claims": [
+  {
+   "text": "HB 3256 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618727
+   ]
+  },
+  {
+   "text": "HB 3256 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660963
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618727,
+    619125,
+    660963
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618727
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618727
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3256&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3256",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3765,
+  "finding_hash": "b37ff4e06fc8e92c49aa9bc0f2be1d06ccd1c9506b1dbda6569c6a21f71438f4",
+  "evidence_digest": "sha256:b9d66e9600f366fb81f0c01a9c7f94ca1c561e563a5fbb8dbc752f309a294a7b",
+  "gate_id": "9c67132938694643a441971b35139f18",
+  "gate_seq": 3766
+ }
+}

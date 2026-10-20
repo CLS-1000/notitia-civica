@@ -1,0 +1,80 @@
+{
+ "session": "2025R1",
+ "measure": "SJR 10",
+ "measure_id": "SJR10",
+ "subject": "or_legislature/2025R1/SJR10",
+ "title": "Proposes an amendment to the Oregon Constitution to limit the increase in state governmental appropriations for general governmental purposes in a biennium to the least of the percentage increase in projected personal income, the percentage increase in projected population growth plus inflation or the percentage increase in projected gross domestic product of Oregon. Transfers any excess revenues to a reserve fund.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJR 10 did not pass",
+ "claims": [
+  {
+   "text": "SJR 10 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615241
+   ]
+  },
+  {
+   "text": "SJR 10 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659046
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615241,
+    617508,
+    659046
+   ]
+  },
+  {
+   "text": "SJR 10 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    659046
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615241
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615241
+   ]
+  }
+ ],
+ "topics": [
+  "ballot"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJR' and MeasureNumber eq 10&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJR10",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10005,
+  "finding_hash": "90b00a5d8f200e577245b7c17968a99a211bb99c87fba0ec2a18dc7207e287f5",
+  "evidence_digest": "sha256:2837cd4d2da4d169188c93a8d3eed93b7b1351ede7f76616b7cb9d24a5dc24bf",
+  "gate_id": "27f69c9535cc4161858f80065ccf3693",
+  "gate_seq": 10006
+ }
+}

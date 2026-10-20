@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3830",
+ "measure_id": "HB3830",
+ "subject": "or_legislature/2025R1/HB3830",
+ "title": "Prohibits a professional licensing board from denying issuance of an authorization issued by the professional licensing board to an individual based solely on the individual's immigration or citizenship status.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3830 did not pass",
+ "claims": [
+  {
+   "text": "HB 3830 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625006
+   ]
+  },
+  {
+   "text": "HB 3830 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660534
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625006,
+    626415,
+    633807,
+    660534
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625006
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625006
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633807
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660534
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3830&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3830",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5487,
+  "finding_hash": "f3235d87eefd0b613233f5ec6de0835302c532d48aee02df81d31034ddf7971d",
+  "evidence_digest": "sha256:80e5c3dbe905300ae743494c79895aa60ecdcb02cf8d5b9f927c26269e9ca85e",
+  "gate_id": "6c811c7b7df6474d9c14e085cecc973f",
+  "gate_seq": 5488
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 402",
+ "measure_id": "SB402",
+ "subject": "or_legislature/2025R1/SB402",
+ "title": "Directs the Department of State Police to maintain a staffing level of at least 20 patrol troopers per 100,000 residents of this state, beginning on January 1, 2036.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 402 did not pass",
+ "claims": [
+  {
+   "text": "SB 402 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615707
+   ]
+  },
+  {
+   "text": "SB 402 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659029
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615707,
+    617974,
+    659029
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615707
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615707
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 402&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB402",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7314,
+  "finding_hash": "d3673527780a85003c7586ec32c511c5d470e240f3fff2fbac2e3e4842b915d5",
+  "evidence_digest": "sha256:c47cd52d7b403e9abfb9dc3a5a5e73dc00ad777eef50bd55d90156fb6c7add66",
+  "gate_id": "c7b874de7be541b9adbd0c00650200c0",
+  "gate_seq": 7315
+ }
+}

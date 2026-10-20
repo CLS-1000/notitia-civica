@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 299",
+ "measure_id": "SB299",
+ "subject": "or_legislature/2025R1/SB299",
+ "title": "Directs the Department of Transportation to create a corridor plan to reduce traffic on Interstate 5 and Interstate 205 between Portland and Vancouver, Washington.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 299 did not pass",
+ "claims": [
+  {
+   "text": "SB 299 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615604
+   ]
+  },
+  {
+   "text": "SB 299 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658690
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615604,
+    617871,
+    658690
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615604
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615604
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 299&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB299",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7005,
+  "finding_hash": "a7d5757439351a12d160fcaadccd4370110cb0016f4c70cd952867ea2c0dbed7",
+  "evidence_digest": "sha256:7fa65f3fb48e3909e568bea90379cd74ac989df0b164a959ddfd588aff7600ee",
+  "gate_id": "3bd4f515958a4b3f967aa182c88fd204",
+  "gate_seq": 7006
+ }
+}

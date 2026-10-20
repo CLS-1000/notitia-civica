@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3249",
+ "measure_id": "HB3249",
+ "subject": "or_legislature/2025R1/HB3249",
+ "title": "Allows a partial exemption of ad valorem property taxes due on the owner-occupied principal dwelling of an individual who is at least 65 years of age and the individual's surviving spouse regardless of age.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3249 did not pass",
+ "claims": [
+  {
+   "text": "HB 3249 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618720
+   ]
+  },
+  {
+   "text": "HB 3249 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659946
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618720,
+    619118,
+    623735,
+    659946
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618720
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618720
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623735
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659946
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3249&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3249",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3744,
+  "finding_hash": "3e2d18868345a9b494e7ecb4adfce74e497fa85a92661922fc99968d7e9b18ac",
+  "evidence_digest": "sha256:041410e8598cb67ecf976bfca11ae6a462714e74a844211f3db4cadd6a99c1b3",
+  "gate_id": "dd454a21ff21417285f72a523307c0b8",
+  "gate_seq": 3745
+ }
+}

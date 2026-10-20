@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2098",
+ "measure_id": "HB2098",
+ "subject": "or_legislature/2025R1/HB2098",
+ "title": "Extends the sunset for the tax credit for pension income.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2098 did not pass",
+ "claims": [
+  {
+   "text": "HB 2098 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614062
+   ]
+  },
+  {
+   "text": "HB 2098 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660632
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614062,
+    616271,
+    622016,
+    649369,
+    650322,
+    650323,
+    660632
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614062
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614062
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622016
+   ]
+  },
+  {
+   "date": "2025-05-22",
+   "when": "May 22, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    649369
+   ]
+  },
+  {
+   "date": "2025-05-28",
+   "when": "May 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    650322
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2098&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2098",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 291,
+  "finding_hash": "49d116b89b1ae7268911fd7646e3b6ff4cbe82604d130a7532c9381ef843cd49",
+  "evidence_digest": "sha256:8a1ed7a45ab892a5c52e162a4097979b5a079c430c5c43dc3ff08c070cdd8808",
+  "gate_id": "97830e59a58e4af3a5378499b7944315",
+  "gate_seq": 292
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 145",
+ "measure_id": "SB145",
+ "subject": "or_legislature/2025R1/SB145",
+ "title": "Requires the State Treasurer to study State Treasury savings programs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 145 did not pass",
+ "claims": [
+  {
+   "text": "SB 145 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615450
+   ]
+  },
+  {
+   "text": "SB 145 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659483
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615450,
+    617717,
+    659483
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615450
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615450
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 145&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB145",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6543,
+  "finding_hash": "8219872d9989b2826b6611e5426f23990e56a596bcb0016b836fd59e804b433f",
+  "evidence_digest": "sha256:9a52cec66b84ad7210f4306a7e6d94ef252e4e01633fe57cf2ac37a38f09120c",
+  "gate_id": "2148b844af044a95a398ef461503a203",
+  "gate_seq": 6544
+ }
+}

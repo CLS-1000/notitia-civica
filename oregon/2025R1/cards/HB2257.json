@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2257",
+ "measure_id": "HB2257",
+ "subject": "or_legislature/2025R1/HB2257",
+ "title": "Appropriates moneys to the Oregon Business Development Department to provide grants to specified cities to build infrastructure that will contribute to the development of housing under the program established by a 2024 Act.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2257 did not pass",
+ "claims": [
+  {
+   "text": "HB 2257 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614221
+   ]
+  },
+  {
+   "text": "HB 2257 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660259
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614221,
+    616430,
+    660259
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614221
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614221
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2257&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2257",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 768,
+  "finding_hash": "6628fe40a28899944369a10d8c3a462f3e943a309d53aa8ed62e839898aa2b42",
+  "evidence_digest": "sha256:33cbcf551f5b36a9cc6f031974728d550946c79a77527b483d9cc0932c13a056",
+  "gate_id": "2c85dfbb2e9843e68c02e388ae358f3f",
+  "gate_seq": 769
+ }
+}

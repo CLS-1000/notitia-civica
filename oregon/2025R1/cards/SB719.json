@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 719",
+ "measure_id": "SB719",
+ "subject": "or_legislature/2025R1/SB719",
+ "title": "Requires the Department of Justice to study graffiti courts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 719 did not pass",
+ "claims": [
+  {
+   "text": "SB 719 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616024
+   ]
+  },
+  {
+   "text": "SB 719 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658913
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616024,
+    618291,
+    658913
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616024
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616024
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 719&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB719",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8265,
+  "finding_hash": "632965428458bba20363a79caafc55f0b392db987aee13b61c2bc0294f0b7b3d",
+  "evidence_digest": "sha256:8c4ff879b7a241555d7237e1162acf66f42b100e97e0820580cf044543569bca",
+  "gate_id": "909daf4c0aa24063870e730f0e08ca05",
+  "gate_seq": 8266
+ }
+}

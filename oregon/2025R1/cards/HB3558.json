@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3558",
+ "measure_id": "HB3558",
+ "subject": "or_legislature/2025R1/HB3558",
+ "title": "Modifies the definition of \"recovery\" in the Drug Addiction Treatment and Recovery Act.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3558 did not pass",
+ "claims": [
+  {
+   "text": "HB 3558 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622893
+   ]
+  },
+  {
+   "text": "HB 3558 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660651
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622893,
+    623448,
+    660651
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622893
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622893
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3558&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3558",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4671,
+  "finding_hash": "42fb700aed214d548b0014ab23e2073cd2bee4197f52e648d8d5e60ca8d62b35",
+  "evidence_digest": "sha256:50d20adff210ee5bf342c1c60218b6f144e9b40ba051b64a5aed48118a665b86",
+  "gate_id": "04333c6e91b1421db6c8bed9ff13b061",
+  "gate_seq": 4672
+ }
+}

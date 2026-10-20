@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2228",
+ "measure_id": "HB2228",
+ "subject": "or_legislature/2025R1/HB2228",
+ "title": "Repeals provisions limiting brassica production in the Willamette Valley Protected District.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2228 did not pass",
+ "claims": [
+  {
+   "text": "HB 2228 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614192
+   ]
+  },
+  {
+   "text": "HB 2228 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660234
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614192,
+    616401,
+    660234
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614192
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614192
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2228&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2228",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 681,
+  "finding_hash": "36b0c6888b0e285bb961c28d41b0e0b9b82923c5bc1ebf3a428ccde25e077636",
+  "evidence_digest": "sha256:2ecfeeb0e3397f42415c64aec7a76c683a04e7e58fe2b1bef6ed4923784bfc28",
+  "gate_id": "caa19b615a5848789427426935f48317",
+  "gate_seq": 682
+ }
+}

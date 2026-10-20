@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3750",
+ "measure_id": "HB3750",
+ "subject": "or_legislature/2025R1/HB3750",
+ "title": "Authorizes the payment out of the Workers' Benefit Fund of the expenses of the Commissioner of the Bureau of Labor and Industries in carrying out the commissioner's statutory duties.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3750 did not pass",
+ "claims": [
+  {
+   "text": "HB 3750 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624926
+   ]
+  },
+  {
+   "text": "HB 3750 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660463
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624926,
+    626335,
+    660463
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624926
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624926
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3750&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3750",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5247,
+  "finding_hash": "635e97c5768bd393c2df5d0b7f425eab9c38ce7f46be8f2775701c0aa94b4e29",
+  "evidence_digest": "sha256:b15f21f09a4700fface9ee8343f34ea031453faa3008d22fc52038d1c430bde6",
+  "gate_id": "9266282eace946498c72659885743505",
+  "gate_seq": 5248
+ }
+}

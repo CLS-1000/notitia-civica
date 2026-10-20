@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3366",
+ "measure_id": "HB3366",
+ "subject": "or_legislature/2025R1/HB3366",
+ "title": "Appropriates moneys from the General Fund to the Oregon Department of Administrative Services for distribution to the Rogue Siskiyou Regional Training Center.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3366 did not pass",
+ "claims": [
+  {
+   "text": "HB 3366 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619417
+   ]
+  },
+  {
+   "text": "HB 3366 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660722
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619417,
+    619789,
+    632575,
+    635727,
+    637839,
+    637840,
+    660722
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619417
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619417
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632575
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    635727
+   ]
+  },
+  {
+   "date": "2025-04-04",
+   "when": "April 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    637839
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3366&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3366",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4095,
+  "finding_hash": "5393d94788aa3548b3313299948418cb2b1b915c8a66090869cee05a62bf8919",
+  "evidence_digest": "sha256:75e8e10eb3758189230874f623b0599fdcb2357970b973223ec9912fd759c67d",
+  "gate_id": "36d5119b33544110b050ab98fc7fe69d",
+  "gate_seq": 4096
+ }
+}

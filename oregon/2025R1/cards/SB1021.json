@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1021",
+ "measure_id": "SB1021",
+ "subject": "or_legislature/2025R1/SB1021",
+ "title": "Prohibits a continuing care retirement community from eliminating or reducing a resident's services or programs that were included in the resident's initial residency agreement without the consent of the resident.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1021 did not pass",
+ "claims": [
+  {
+   "text": "SB 1021 was introduced in the Senate on February 11, 2025.",
+   "row_ids": [
+    621791
+   ]
+  },
+  {
+   "text": "SB 1021 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658950
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621791,
+    621896,
+    625963,
+    658950
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    621791
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621791
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625963
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658950
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1021&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1021",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9171,
+  "finding_hash": "110db98382599d35ea6106f042493f522faaa0b1b4e41fe731391f4faf17cecd",
+  "evidence_digest": "sha256:b9ed8b87c366ae86eed3ce700fece3641f0b1e84f440212135cea0bd91993a24",
+  "gate_id": "c4038c961d504f60877cc4df8db2dc19",
+  "gate_seq": 9172
+ }
+}

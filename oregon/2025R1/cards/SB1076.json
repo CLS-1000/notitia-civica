@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1076",
+ "measure_id": "SB1076",
+ "subject": "or_legislature/2025R1/SB1076",
+ "title": "Directs the State Department of Agriculture to impose certain fees for licenses and license renewals for animal rescue entities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1076 did not pass",
+ "claims": [
+  {
+   "text": "SB 1076 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624275
+   ]
+  },
+  {
+   "text": "SB 1076 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659583
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624275,
+    624451,
+    629470,
+    639136,
+    641449,
+    641450,
+    659583
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624275
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624275
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629470
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639136
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641449
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1076&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1076",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9336,
+  "finding_hash": "259dfab41e35521643ce0c36f7e439089ae8db0b116cc134b6979ef59e5f8806",
+  "evidence_digest": "sha256:5439111d94226078f7c527a088bfa2bf24e737ee39e60b5be8a1ae625d6b093d",
+  "gate_id": "37fef5306b1e46c4a656c049de3b4b39",
+  "gate_seq": 9337
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "SB 500",
+ "measure_id": "SB500",
+ "subject": "or_legislature/2025R1/SB500",
+ "title": "Allows a new income or corporate excise tax credit for a portion of the eligible costs of a newly constructed single-family dwelling that sells for a price that is affordable to a household with an annual income at or below 120 percent of the area median income.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 500 did not pass",
+ "claims": [
+  {
+   "text": "SB 500 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615805
+   ]
+  },
+  {
+   "text": "SB 500 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659337
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615805,
+    618072,
+    620627,
+    646079,
+    659337
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615805
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615805
+   ]
+  },
+  {
+   "date": "2025-02-05",
+   "when": "February 5, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620627
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659337
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 500&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB500",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7608,
+  "finding_hash": "07dfb948ee46f903f9590315cdd8d54e799311b49652d1ac896e794bdb9f1824",
+  "evidence_digest": "sha256:b7675f5b2879d1df849565238408d7ab70b29ce905eb7c8462f046f8dd9b5c4a",
+  "gate_id": "8076f2a9343e451498ec1ec3077c7f5d",
+  "gate_seq": 7609
+ }
+}

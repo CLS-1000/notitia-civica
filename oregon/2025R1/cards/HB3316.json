@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3316",
+ "measure_id": "HB3316",
+ "subject": "or_legislature/2025R1/HB3316",
+ "title": "Requires video recordings of labor negotiations conducted by or on behalf of certain public bodies.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3316 did not pass",
+ "claims": [
+  {
+   "text": "HB 3316 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618787
+   ]
+  },
+  {
+   "text": "HB 3316 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660612
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618787,
+    619185,
+    660612
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618787
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618787
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3316&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3316",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3945,
+  "finding_hash": "77595f4d3bcd483401506d998f56059f9d69be6f3152d22d57fe580e7c238f97",
+  "evidence_digest": "sha256:e4bb52da322aa3faf180c28dc02d578ecd04122caca98e61ff566cce85d52770",
+  "gate_id": "22117e6488ec4766a485cbb485ea6bf1",
+  "gate_seq": 3946
+ }
+}

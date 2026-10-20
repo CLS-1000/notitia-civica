@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3708",
+ "measure_id": "HB3708",
+ "subject": "or_legislature/2025R1/HB3708",
+ "title": "Allows a city with a population of 20,000 or fewer to bring lands into its urban growth boundary, under a temporary program, under lower requirements for the percentage of affordable housing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3708 did not pass",
+ "claims": [
+  {
+   "text": "HB 3708 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624392
+   ]
+  },
+  {
+   "text": "HB 3708 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660442
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624392,
+    625253,
+    660442
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624392
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624392
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3708&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3708",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5121,
+  "finding_hash": "1750215d359ec2e23708e3ee053ac8d5419a126478b138b3c7dd85f74dcf28de",
+  "evidence_digest": "sha256:9e8dcb5b97a3da1985d3bd3b04ffd1aeaa3c3da825ffbacca6e801d5d147ad11",
+  "gate_id": "8621093608e94dac9d69cbc25deec84a",
+  "gate_seq": 5122
+ }
+}

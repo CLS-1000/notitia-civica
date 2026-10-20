@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 985",
+ "measure_id": "SB985",
+ "subject": "or_legislature/2025R1/SB985",
+ "title": "Appropriates moneys from the General Fund to the State Department of Agriculture for deposit in the Wolf Management Compensation and Proactive Trust Fund.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 985 did not pass",
+ "claims": [
+  {
+   "text": "SB 985 was introduced in the Senate on February 6, 2025.",
+   "row_ids": [
+    620891
+   ]
+  },
+  {
+   "text": "SB 985 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659577
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620891,
+    621391,
+    625382,
+    629472,
+    630939,
+    630940,
+    659577
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620891
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620891
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625382
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629472
+   ]
+  },
+  {
+   "date": "2025-03-21",
+   "when": "March 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    630939
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 985&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB985",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9063,
+  "finding_hash": "56c4e594a0da5dacb00889030bcfa959832535705481105a728881ab011f4036",
+  "evidence_digest": "sha256:775de9a0c257bf62280fb0736983db461de5ac9549872edd88ddcb05ed621d26",
+  "gate_id": "3e382451d19c41cc87167c1c117afb66",
+  "gate_seq": 9064
+ }
+}

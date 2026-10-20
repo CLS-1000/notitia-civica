@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 353",
+ "measure_id": "SB353",
+ "subject": "or_legislature/2025R1/SB353",
+ "title": "Appropriates moneys from the General Fund to the State Department of Agriculture for deposit in the Wolf Management Compensation and Proactive Trust Fund.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 353 did not pass",
+ "claims": [
+  {
+   "text": "SB 353 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615658
+   ]
+  },
+  {
+   "text": "SB 353 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658739
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615658,
+    617925,
+    658739
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615658
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615658
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 353&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB353",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7167,
+  "finding_hash": "6d503bac0a6a6d0e26cb13b44fad8bae7d7688497a1b71f132ff75e2fdb2969f",
+  "evidence_digest": "sha256:1be24e4da16e74a8d8cb2bf78b7f596e14456a12fcab6a4d5afd411682d6fd70",
+  "gate_id": "0bd710fa11ff4c1499b2689826aaeef0",
+  "gate_seq": 7168
+ }
+}

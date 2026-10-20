@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2206",
+ "measure_id": "HB2206",
+ "subject": "or_legislature/2025R1/HB2206",
+ "title": "Requires the Oregon Health Authority to convene a work group to study adult residential mental health services provided by facilities to medical assistance recipients enrolled in coordinated care organizations and the feasibility of transferring the financial risk and administration of those services from the authority to coordinated care organizations.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2206 did not pass",
+ "claims": [
+  {
+   "text": "HB 2206 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614170
+   ]
+  },
+  {
+   "text": "HB 2206 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661052
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614170,
+    616379,
+    626512,
+    639139,
+    640826,
+    640827,
+    661052
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614170
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614170
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626512
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639139
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640826
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2206&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2206",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 615,
+  "finding_hash": "8c3ca70e5870036928e0df6982017688899cf3dcba19dd0081be9cf5b5d84c53",
+  "evidence_digest": "sha256:c7387427d0d0575ca30b67ef9e398d745be456077d633890fb52ef5585e571cb",
+  "gate_id": "4d1f248fc61f454893514b2d129947dd",
+  "gate_seq": 616
+ }
+}

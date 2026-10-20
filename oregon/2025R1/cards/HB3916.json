@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3916",
+ "measure_id": "HB3916",
+ "subject": "or_legislature/2025R1/HB3916",
+ "title": "Directs the Oregon Health Authority to award grants to certain recipients for certain workforce development activities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3916 did not pass",
+ "claims": [
+  {
+   "text": "HB 3916 was introduced in the House on March 11, 2025.",
+   "row_ids": [
+    627748
+   ]
+  },
+  {
+   "text": "HB 3916 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661424
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    627748,
+    627864,
+    632916,
+    639154,
+    640870,
+    640871,
+    661424
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    627748
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    627748
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632916
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639154
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640870
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3916&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3916",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5745,
+  "finding_hash": "cb4964955b1394b91cfbc0f66b5fa817d290a8342f2904ac245feec489f6944c",
+  "evidence_digest": "sha256:c8453a40ab81c702c4ed52298367325eee3104c9914557053cf699a1b8106a96",
+  "gate_id": "bba4d097abd2403c92203e37d90cea95",
+  "gate_seq": 5746
+ }
+}

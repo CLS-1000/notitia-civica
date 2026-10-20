@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3266",
+ "measure_id": "HB3266",
+ "subject": "or_legislature/2025R1/HB3266",
+ "title": "Requires the Oregon Department of Administrative Services to study community water systems.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3266 did not pass",
+ "claims": [
+  {
+   "text": "HB 3266 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618737
+   ]
+  },
+  {
+   "text": "HB 3266 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660973
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618737,
+    619135,
+    660973
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618737
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618737
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3266&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3266",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3795,
+  "finding_hash": "98df2ce1b385b1295fe1c0e6425747b2beea120b43e038888e7f006608a8c230",
+  "evidence_digest": "sha256:15028aa890406cc91afe74df529fed8373eccb96073c116ce50bb5d9062cd9c4",
+  "gate_id": "aca42a524744426994bbde0eb554bf7f",
+  "gate_seq": 3796
+ }
+}

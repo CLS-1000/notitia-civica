@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3602",
+ "measure_id": "HB3602",
+ "subject": "or_legislature/2025R1/HB3602",
+ "title": "Requires the Department of Land Conservation and Development to study Oregon's land use system and submit findings to the interim committees of the Legislative Assembly related to land use no later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3602 did not pass",
+ "claims": [
+  {
+   "text": "HB 3602 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622937
+   ]
+  },
+  {
+   "text": "HB 3602 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661384
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622937,
+    623492,
+    661384
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622937
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622937
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3602&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3602",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4803,
+  "finding_hash": "957f9937a400cbf1adbccf00514e0a0bd078a607aca617eb1150df6fd98f33ca",
+  "evidence_digest": "sha256:5b6a48270c87f26050f5885980632bc043d8670270777edd527c557135fc081d",
+  "gate_id": "a8ab45d76e3542fb90ecae6269abb802",
+  "gate_seq": 4804
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 664",
+ "measure_id": "SB664",
+ "subject": "or_legislature/2025R1/SB664",
+ "title": "Provides that mines solely using gravity separation shall be deemed gravity separation mines.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 664 did not pass",
+ "claims": [
+  {
+   "text": "SB 664 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615969
+   ]
+  },
+  {
+   "text": "SB 664 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658858
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615969,
+    618236,
+    658858
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615969
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615969
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 664&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB664",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8100,
+  "finding_hash": "ca2c420e8af75f1dbbddb5177aafbff77aa1154d752a97d0ab44a113f716181b",
+  "evidence_digest": "sha256:c8bd0aa5af7da79e1c4517c1fe3c8df7a4d4ca31e05c5c612d0a232e7b37ca41",
+  "gate_id": "82d0c35ec534471abec34ff7eb3e25a5",
+  "gate_seq": 8101
+ }
+}

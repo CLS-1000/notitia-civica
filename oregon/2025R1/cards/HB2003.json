@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2003",
+ "measure_id": "HB2003",
+ "subject": "or_legislature/2025R1/HB2003",
+ "title": "Requires the Department of Education to study education.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2003 did not pass",
+ "claims": [
+  {
+   "text": "HB 2003 was introduced in the House on June 23, 2025.",
+   "row_ids": [
+    656746
+   ]
+  },
+  {
+   "text": "HB 2003 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660689
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    656746,
+    656786,
+    660689
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    656746
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    656746
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2003&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2003",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6,
+  "finding_hash": "e9a079ac735c3e776d3cfa9781022fd5668d5cf5157c2bcb285ed0c34f6a7d61",
+  "evidence_digest": "sha256:b8eeea9ec0f3bfd6d2baaabc098bc65b8956482d1400389f77427a0683219626",
+  "gate_id": "7b6c5f5b9c1a4d7ebd0d2e8efcbe77f3",
+  "gate_seq": 7
+ }
+}

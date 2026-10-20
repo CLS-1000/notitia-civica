@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 383",
+ "measure_id": "SB383",
+ "subject": "or_legislature/2025R1/SB383",
+ "title": "Prohibits public bodies and private entities from requiring a person to receive an experimental medical intervention or vaccination or to possess an immunity passport, immunity pass or other evidence certifying a vaccination or immunity status.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 383 did not pass",
+ "claims": [
+  {
+   "text": "SB 383 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615688
+   ]
+  },
+  {
+   "text": "SB 383 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659010
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615688,
+    617955,
+    659010
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615688
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615688
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 383&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB383",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7257,
+  "finding_hash": "990b9538fea342a10a8a591d3172cb52161d07f37fcfbd9056c68339fea9fc72",
+  "evidence_digest": "sha256:0b3c2e9128cd7f9b40d5af53c44658d00d4919929886b7ce4c907c75d24b9441",
+  "gate_id": "bbd6f5a5437f41958c3809d44b76ee80",
+  "gate_seq": 7258
+ }
+}

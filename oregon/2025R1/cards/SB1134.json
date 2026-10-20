@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1134",
+ "measure_id": "SB1134",
+ "subject": "or_legislature/2025R1/SB1134",
+ "title": "Creates an Oregon personal income tax subtraction for premiums paid for medical, dental or vision insurance coverage for a child dependent of the taxpayer.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1134 did not pass",
+ "claims": [
+  {
+   "text": "SB 1134 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624844
+   ]
+  },
+  {
+   "text": "SB 1134 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659230
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624844,
+    625756,
+    640184,
+    659230
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624844
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624844
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    640184
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659230
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1134&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1134",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9510,
+  "finding_hash": "d4fa4016e5852c743008ae7be6fbfc526735a49c2cc37b5f2525a57fa73fc4b6",
+  "evidence_digest": "sha256:54db2d192830ef6f336f7d5d08c42818d0dba4aebedb7c2286d18d756991e541",
+  "gate_id": "ebfb5824e3114e4e93153f068cb00463",
+  "gate_seq": 9511
+ }
+}

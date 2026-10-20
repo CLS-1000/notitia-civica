@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 203",
+ "measure_id": "SB203",
+ "subject": "or_legislature/2025R1/SB203",
+ "title": "Requires the Judicial Department to study the number of extreme risk protection petitions filed and orders issued each year.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 203 did not pass",
+ "claims": [
+  {
+   "text": "SB 203 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615508
+   ]
+  },
+  {
+   "text": "SB 203 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659413
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615508,
+    617775,
+    659413
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615508
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615508
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 203&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB203",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6717,
+  "finding_hash": "8ec7a00949b855f602f39dff7dbd890aeb976bb0ded904272b1773e38b0ab167",
+  "evidence_digest": "sha256:8b6dedbefc48442003a4e5b0ae32a7f946ae29eaa9eeec2475bf2e7e75d0490f",
+  "gate_id": "70a524c451f64980907bca2538bd936f",
+  "gate_seq": 6718
+ }
+}

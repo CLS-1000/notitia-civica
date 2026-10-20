@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3748",
+ "measure_id": "HB3748",
+ "subject": "or_legislature/2025R1/HB3748",
+ "title": "Requires the Oregon Health Authority to establish a program for the purpose of providing to credentialing organizations access to information that is necessary to credential or recredential health care practitioners.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3748 did not pass",
+ "claims": [
+  {
+   "text": "HB 3748 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624924
+   ]
+  },
+  {
+   "text": "HB 3748 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660461
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624924,
+    626333,
+    660461
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624924
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624924
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3748&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3748",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5241,
+  "finding_hash": "d82b1952453f87a22259b6086abe103cec884538a8f0ee3d31a3e4022a927318",
+  "evidence_digest": "sha256:92ecfe2002fecd62c39f557355d908d3aaa3574e97c987634f0d59c1df2dfa46",
+  "gate_id": "ce9b2f321ecf48cb952cf5e2d641b75f",
+  "gate_seq": 5242
+ }
+}

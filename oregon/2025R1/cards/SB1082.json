@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1082",
+ "measure_id": "SB1082",
+ "subject": "or_legislature/2025R1/SB1082",
+ "title": "Directs the Department of State Police to release information about level two sex offenders on the website maintained by the department.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1082 did not pass",
+ "claims": [
+  {
+   "text": "SB 1082 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624281
+   ]
+  },
+  {
+   "text": "SB 1082 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659140
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624281,
+    624457,
+    659140
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624281
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624281
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1082&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1082",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9354,
+  "finding_hash": "e8ead4a000b62a6ec83672b708cca514a5b8c71695768923e050937e7cc4cac0",
+  "evidence_digest": "sha256:b288105e4ea8a1d96e6db39d2b62b8a5b622022768857d61927278306a6bba03",
+  "gate_id": "dcbb4d5d448f4a0dbb161a25f02e6f2d",
+  "gate_seq": 9355
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3405",
+ "measure_id": "HB3405",
+ "subject": "or_legislature/2025R1/HB3405",
+ "title": "Requires the Department of Early Learning and Care to study child care.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3405 did not pass",
+ "claims": [
+  {
+   "text": "HB 3405 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619456
+   ]
+  },
+  {
+   "text": "HB 3405 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659918
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619456,
+    619828,
+    659918
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619456
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619456
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3405&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3405",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4212,
+  "finding_hash": "3967827076986c261e9f3a698b60acafb19d9bf2647244b3e81fce9b4339dad5",
+  "evidence_digest": "sha256:169652a63007c08137bd347b1a13870ece5e58d49aafc56d7a09976c84cc079f",
+  "gate_id": "8ee15f83919647c78b621dce97f964e8",
+  "gate_seq": 4213
+ }
+}

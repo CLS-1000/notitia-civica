@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3103",
+ "measure_id": "HB3103",
+ "subject": "or_legislature/2025R1/HB3103",
+ "title": "Directs the State Forester to determine the available state forestland, establish sustainable harvest levels for harvesting timber on state forestland and manage available state forestland.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3103 did not pass",
+ "claims": [
+  {
+   "text": "HB 3103 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615067
+   ]
+  },
+  {
+   "text": "HB 3103 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659994
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615067,
+    617276,
+    625668,
+    634602,
+    636953,
+    636954,
+    659994
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615067
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615067
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625668
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    634602
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    636953
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3103&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3103",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3306,
+  "finding_hash": "c93460deeca6ce9288bfd3adab4996682cc64b5389f0caef1c1863ff0b815714",
+  "evidence_digest": "sha256:89df51207f8efea4a08c78c1e837b11451a4896d38187faaa96c14f9d874c663",
+  "gate_id": "3be1b81d00364cbbbb3e79316d4bf954",
+  "gate_seq": 3307
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3529",
+ "measure_id": "HB3529",
+ "subject": "or_legislature/2025R1/HB3529",
+ "title": "Directs the Executive Officer of the Commission on Indian Services to provide training on tribes and tribal relations at least once per calendar quarter.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3529 did not pass",
+ "claims": [
+  {
+   "text": "HB 3529 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621735
+   ]
+  },
+  {
+   "text": "HB 3529 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660582
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621735,
+    622073,
+    629728,
+    660582
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621735
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621735
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629728
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660582
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3529&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3529",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4584,
+  "finding_hash": "4e15a558854bccb33eb68a8a37aabf0f8d5179d10d16e3a28c0a1435f3696da0",
+  "evidence_digest": "sha256:f63a447619c0ad3409cd1c5b3b3e58b84ef77abe14c38f61e21b18475e02ec6a",
+  "gate_id": "7f64b8714426492da08b6313e86344b7",
+  "gate_seq": 4585
+ }
+}

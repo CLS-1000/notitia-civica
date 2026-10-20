@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 477",
+ "measure_id": "SB477",
+ "subject": "or_legislature/2025R1/SB477",
+ "title": "Appropriates moneys to the Oregon Criminal Justice Commission for the Justice Reinvestment Equity Program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 477 did not pass",
+ "claims": [
+  {
+   "text": "SB 477 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615782
+   ]
+  },
+  {
+   "text": "SB 477 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659104
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615782,
+    618049,
+    659104
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615782
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615782
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 477&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB477",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7539,
+  "finding_hash": "494e2db3e1538c28759f59304407a58c305ee2562c7568d263808a679ed2587b",
+  "evidence_digest": "sha256:0663f7b57941c0891dfc5551c355710842ac142e0d76856739883f5e6741ba59",
+  "gate_id": "efb259474ceb4276bc28552f6ea81965",
+  "gate_seq": 7540
+ }
+}

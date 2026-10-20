@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 600",
+ "measure_id": "SB600",
+ "subject": "or_legislature/2025R1/SB600",
+ "title": "Requires the Housing and Community Services Department to study affordable housing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 600 did not pass",
+ "claims": [
+  {
+   "text": "SB 600 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615905
+   ]
+  },
+  {
+   "text": "SB 600 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658789
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615905,
+    618172,
+    658789
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615905
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615905
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 600&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB600",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7908,
+  "finding_hash": "add621e5dcff44d056333b4c84d5efdb9ffa597a6d9b7479673bbbb5697f8912",
+  "evidence_digest": "sha256:b5356ce503768286a877478f2cfadde3d267a04bf7fedee6a700dbfb9b9f6405",
+  "gate_id": "f21ab4ab6d314b0bb02969351efd6a73",
+  "gate_seq": 7909
+ }
+}

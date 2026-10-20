@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 535",
+ "measure_id": "SB535",
+ "subject": "or_legislature/2025R1/SB535",
+ "title": "Requires health insurance coverage of specified fertility services and treatments with exemption for certain insurers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 535 did not pass",
+ "claims": [
+  {
+   "text": "SB 535 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615840
+   ]
+  },
+  {
+   "text": "SB 535 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659371
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615840,
+    618107,
+    637777,
+    639068,
+    641442,
+    641443,
+    659371
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615840
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615840
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    637777
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639068
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641442
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 535&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB535",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7713,
+  "finding_hash": "30cabe7dd5b2f2106c1510eca64f21726b88411d7971c4a278949c33dbd80a05",
+  "evidence_digest": "sha256:5f893f38ee5893963b204402550f89e521ce7191f4e264719242e8de3c98970a",
+  "gate_id": "ea8cc09c11da4895921d60bb99216ac9",
+  "gate_seq": 7714
+ }
+}

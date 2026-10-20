@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2779",
+ "measure_id": "HB2779",
+ "subject": "or_legislature/2025R1/HB2779",
+ "title": "Provides that members of the Legislative Assembly may not serve on juries.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2779 did not pass",
+ "claims": [
+  {
+   "text": "HB 2779 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614743
+   ]
+  },
+  {
+   "text": "HB 2779 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660473
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614743,
+    616952,
+    660473
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614743
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614743
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2779&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2779",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2334,
+  "finding_hash": "0309ef8e22f36c5cdc86d582fa6e8ff8cf8c467ce8edede1a3c1e1e7caaaa609",
+  "evidence_digest": "sha256:5c6c8ba2ddfeede89f538d962ddeee71a126b6c300479c4e2c98338035c0fe76",
+  "gate_id": "02d5943b216e4aca9f8c3a1b6a6a6df6",
+  "gate_seq": 2335
+ }
+}

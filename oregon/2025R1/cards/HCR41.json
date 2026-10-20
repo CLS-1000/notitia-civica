@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HCR 41",
+ "measure_id": "HCR41",
+ "subject": "or_legislature/2025R1/HCR41",
+ "title": "Adjourns sine die the 2025 regular session of the Eighty-third Legislative Assembly.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HCR 41 did not pass",
+ "claims": [
+  {
+   "text": "HCR 41 was introduced in the House on June 23, 2025.",
+   "row_ids": [
+    656672
+   ]
+  },
+  {
+   "text": "HCR 41 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658559
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    656672,
+    656752,
+    657519,
+    658232,
+    658559
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    656672
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    656672
+   ]
+  },
+  {
+   "date": "2025-06-24",
+   "when": "June 24, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    657519
+   ]
+  },
+  {
+   "date": "2025-06-26",
+   "when": "June 26, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it be adopted",
+   "rule_id": "rec_be_adopted",
+   "row_ids": [
+    658232
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 41&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HCR41",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10272,
+  "finding_hash": "e4d48051becc7e52137c704bea5f9300fef1910afaa8b96dcb84c5428d54863c",
+  "evidence_digest": "sha256:311ba06ecfce669b29cec3549d45546785a8a3b17a46d5fa8c094b47fc791a94",
+  "gate_id": "e21fc6bfc851440696c1e4c414402df2",
+  "gate_seq": 10273
+ }
+}

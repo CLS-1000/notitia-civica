@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 395",
+ "measure_id": "SB395",
+ "subject": "or_legislature/2025R1/SB395",
+ "title": "Directs the Oregon Business Development Department to prepare and submit a report on promoting hydrogen fuels in this state to the interim committees of the Legislative Assembly related to energy not later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 395 did not pass",
+ "claims": [
+  {
+   "text": "SB 395 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615700
+   ]
+  },
+  {
+   "text": "SB 395 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659022
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615700,
+    617967,
+    659022
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615700
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615700
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 395&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB395",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7293,
+  "finding_hash": "906d665277727e3a01806bde0b3332ad1dfe8cb7f052969ab568437b9a0531b4",
+  "evidence_digest": "sha256:dfb5b66c8b56ca2cd560564eadf1f40cbd65869e3db42a8a310d65e35a993705",
+  "gate_id": "f6a36d5ab43c4e6dadcb3e1a3d0b6b60",
+  "gate_seq": 7294
+ }
+}

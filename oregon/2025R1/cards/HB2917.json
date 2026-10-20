@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2917",
+ "measure_id": "HB2917",
+ "subject": "or_legislature/2025R1/HB2917",
+ "title": "Requires the Oregon Health Authority to study potential changes to the prioritized list of health services compiled by the Health Evidence Review Commission under ORS 414.690.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2917 did not pass",
+ "claims": [
+  {
+   "text": "HB 2917 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614881
+   ]
+  },
+  {
+   "text": "HB 2917 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660507
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614881,
+    617090,
+    633981,
+    660507
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614881
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614881
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633981
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660507
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2917&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2917",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2748,
+  "finding_hash": "a956d5c3baee9a8c16c9b2c5d5202fc11cd4330ccbc27d59968e93696117b0a1",
+  "evidence_digest": "sha256:6794a94bc01607ac9c4b0aaae04e4b543229305b3ca0cba37a9ab6fc823fe35b",
+  "gate_id": "96de46a2ecac4d6f9a533f996c0de93f",
+  "gate_seq": 2749
+ }
+}

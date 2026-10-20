@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3310",
+ "measure_id": "HB3310",
+ "subject": "or_legislature/2025R1/HB3310",
+ "title": "Establishes the Oregon Strategic Resilience Sustainability Commission.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3310 did not pass",
+ "claims": [
+  {
+   "text": "HB 3310 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618781
+   ]
+  },
+  {
+   "text": "HB 3310 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661016
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618781,
+    619179,
+    661016
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618781
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618781
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3310&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3310",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3927,
+  "finding_hash": "375f6c3e0935831b63a59f9602ab6200c82ad9b4db25cfae247d335c44f5da6c",
+  "evidence_digest": "sha256:1f83a3af9f7a8f1c399d62d0d95795e3c3c7f77874792f18177fd867ec3beed8",
+  "gate_id": "63c941a1267846ec9d8b037e63389a81",
+  "gate_seq": 3928
+ }
+}

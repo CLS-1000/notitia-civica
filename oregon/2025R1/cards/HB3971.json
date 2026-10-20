@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3971",
+ "measure_id": "HB3971",
+ "subject": "or_legislature/2025R1/HB3971",
+ "title": "Requires counties to approve a land use application to develop a mixed-waste facility on certain lands in the Willamette Valley.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3971 did not pass",
+ "claims": [
+  {
+   "text": "HB 3971 was introduced in the House on May 8, 2025.",
+   "row_ids": [
+    645601
+   ]
+  },
+  {
+   "text": "HB 3971 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661323
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    645601,
+    645986,
+    648698,
+    661323
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-05-08",
+   "when": "May 8, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    645601
+   ]
+  },
+  {
+   "date": "2025-05-08",
+   "when": "May 8, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    645601
+   ]
+  },
+  {
+   "date": "2025-05-21",
+   "when": "May 21, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    648698
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661323
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3971&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3971",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5910,
+  "finding_hash": "17a8dc40a7635b0b46d03d6346e67372a03376249026c026e24a0e0d3f80b79e",
+  "evidence_digest": "sha256:b224b5ec748f5ef199650d9d83635de4dd457129bb8f57570051038a7e7c223f",
+  "gate_id": "bb0e63009bad4fdb8b31b91bccc41b71",
+  "gate_seq": 5911
+ }
+}

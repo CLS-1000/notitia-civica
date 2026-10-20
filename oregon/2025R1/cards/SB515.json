@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 515",
+ "measure_id": "SB515",
+ "subject": "or_legislature/2025R1/SB515",
+ "title": "Appropriates moneys from the General Fund to the Oregon Department of Administrative Services for distribution to the Umpqua Fishery Enhancement Derby to facilitate salmonid habitat restoration projects.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 515 did not pass",
+ "claims": [
+  {
+   "text": "SB 515 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615820
+   ]
+  },
+  {
+   "text": "SB 515 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659352
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615820,
+    618087,
+    659352
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615820
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615820
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 515&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB515",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7653,
+  "finding_hash": "a0911a258bbff84df717b8585901c6d6286ef048f0b1563ad517aedf0b89a001",
+  "evidence_digest": "sha256:415cb4afdd659aacaa800bb00bf163142708a4ddedb830bc5e905a227bd5bbf5",
+  "gate_id": "e0275264ecba4c44ac9d978b92cb4477",
+  "gate_seq": 7654
+ }
+}

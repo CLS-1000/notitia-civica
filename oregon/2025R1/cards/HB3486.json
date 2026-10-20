@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3486",
+ "measure_id": "HB3486",
+ "subject": "or_legislature/2025R1/HB3486",
+ "title": "Requires at least one member of the Research Vessel Council to be a trained scientist from the University of Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3486 did not pass",
+ "claims": [
+  {
+   "text": "HB 3486 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620359
+   ]
+  },
+  {
+   "text": "HB 3486 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660646
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620359,
+    621032,
+    625667,
+    631870,
+    633474,
+    633475,
+    660646
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620359
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620359
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625667
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    631870
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    633474
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3486&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3486",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4455,
+  "finding_hash": "7f2c76717012d87e387c1102a7dc043419b8e42ae3f5afa41c79a1c0cd67edea",
+  "evidence_digest": "sha256:7c1129839b265f48615bdb2f08eb30b1290de750d2061704210230c84e33b487",
+  "gate_id": "e2bf1bd01dfe4470acfee173cac783ef",
+  "gate_seq": 4456
+ }
+}

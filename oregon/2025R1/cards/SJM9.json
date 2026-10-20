@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SJM 9",
+ "measure_id": "SJM9",
+ "subject": "or_legislature/2025R1/SJM9",
+ "title": "Urges the President, the United States Secretary of the Interior and the United States Secretary of Agriculture to direct federal agencies to be as aggressive as possible in preventing, mitigating and suppressing wildfires on federal lands.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SJM 9 did not pass",
+ "claims": [
+  {
+   "text": "SJM 9 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618647
+   ]
+  },
+  {
+   "text": "SJM 9 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659272
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618647,
+    618818,
+    659272
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618647
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618647
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SJM' and MeasureNumber eq 9&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SJM9",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10146,
+  "finding_hash": "85df9c12f89dc21faa7d05f83aa59d64c86ec46dfbbbce486d2ea0e998b00d8f",
+  "evidence_digest": "sha256:d77bc836339759739034ec42988568c1ae9b3793239e49b4fe25b43c60a9a69d",
+  "gate_id": "e1490936a6114f9382c81748f18e9316",
+  "gate_seq": 10147
+ }
+}

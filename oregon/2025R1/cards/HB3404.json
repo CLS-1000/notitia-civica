@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3404",
+ "measure_id": "HB3404",
+ "subject": "or_legislature/2025R1/HB3404",
+ "title": "Requires the Department of Education to study the adequacy of education in the public schools of this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3404 did not pass",
+ "claims": [
+  {
+   "text": "HB 3404 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619455
+   ]
+  },
+  {
+   "text": "HB 3404 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659917
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619455,
+    619827,
+    659917
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619455
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619455
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3404&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3404",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4209,
+  "finding_hash": "5151b9b09cd28094e9640dca99ef3911f6a226f727d7a70929ebbeb894010972",
+  "evidence_digest": "sha256:e6cfa92ec3c6ea50c64c6b8b7b38bc5767d06cf402b7d450d6c4dfe718f5e5ae",
+  "gate_id": "c3c4c54df40347fa8d1b2e23451e1a42",
+  "gate_seq": 4210
+ }
+}

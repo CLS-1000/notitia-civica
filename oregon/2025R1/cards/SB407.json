@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 407",
+ "measure_id": "SB407",
+ "subject": "or_legislature/2025R1/SB407",
+ "title": "Reduces the rate of tax on capital gains of personal income and corporate income and excise taxpayers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 407 did not pass",
+ "claims": [
+  {
+   "text": "SB 407 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615712
+   ]
+  },
+  {
+   "text": "SB 407 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659034
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615712,
+    617979,
+    659034
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615712
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615712
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 407&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB407",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7329,
+  "finding_hash": "283814c249b8f07f59e50b1d79e02512c7577f563a1b062cbb620e61a9996a83",
+  "evidence_digest": "sha256:9aeca0b8e2df9f483a4a3b7a2ead690ff3e13c0dc6499b1c3b5d13132b83f6ed",
+  "gate_id": "dfcde6ae7dc14ec791266efd560645fa",
+  "gate_seq": 7330
+ }
+}

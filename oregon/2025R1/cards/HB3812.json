@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3812",
+ "measure_id": "HB3812",
+ "subject": "or_legislature/2025R1/HB3812",
+ "title": "Requires school districts to develop, implement and annually update a health services plan for the students of the school district.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3812 did not pass",
+ "claims": [
+  {
+   "text": "HB 3812 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624988
+   ]
+  },
+  {
+   "text": "HB 3812 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660520
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624988,
+    626397,
+    660520
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624988
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624988
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3812&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3812",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5433,
+  "finding_hash": "233ca93b079510842596f251adcc554601baa2938666fe0453faf5b605a5f97a",
+  "evidence_digest": "sha256:3a38ca1c0a44f284566dc5665a0cbecae908e097eb4839372c00697b623da1e7",
+  "gate_id": "fa0830fe96d7409bbbe91cada31e6c4b",
+  "gate_seq": 5434
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3446",
+ "measure_id": "HB3446",
+ "subject": "or_legislature/2025R1/HB3446",
+ "title": "Reallocates how moneys from the Connecting Education to Careers Account for activities related to career and technical education are distributed to schools.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3446 did not pass",
+ "claims": [
+  {
+   "text": "HB 3446 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619497
+   ]
+  },
+  {
+   "text": "HB 3446 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660806
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619497,
+    619869,
+    622830,
+    660806
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619497
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619497
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622830
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660806
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3446&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3446",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4335,
+  "finding_hash": "e9c20e2536b1c2d8b9534211535f87af05b9f9077462f8436c40589024b6c289",
+  "evidence_digest": "sha256:faec6576f9f088016cc0eb137a22df11efa2b24c1611eb6aab7da4794ab51398",
+  "gate_id": "8baf6a1e342a4778bbc06c980162eccd",
+  "gate_seq": 4336
+ }
+}

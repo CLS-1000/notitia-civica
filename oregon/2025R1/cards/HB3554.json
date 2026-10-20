@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3554",
+ "measure_id": "HB3554",
+ "subject": "or_legislature/2025R1/HB3554",
+ "title": "Directs the Oregon Health Authority to establish a primary care provider loan repayment program to provide loan repayment subsidies to specified primary care providers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3554 did not pass",
+ "claims": [
+  {
+   "text": "HB 3554 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621760
+   ]
+  },
+  {
+   "text": "HB 3554 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659785
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621760,
+    622097,
+    627932,
+    637513,
+    639525,
+    639526,
+    659785
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621760
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621760
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627932
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    637513
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    639525
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3554&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3554",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4659,
+  "finding_hash": "62e67436f6918ff7e266c61e58a6aa39658c3ce8c800d6eaea3c78cb9ac80661",
+  "evidence_digest": "sha256:c07f40c487a4aef4f91ff58679c4ad133f97a2c7a3ada72435d82c7a06e3466e",
+  "gate_id": "a3dd0fe97481444ebeb0323af07e2833",
+  "gate_seq": 4660
+ }
+}

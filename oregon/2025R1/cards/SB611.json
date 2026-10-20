@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 611",
+ "measure_id": "SB611",
+ "subject": "or_legislature/2025R1/SB611",
+ "title": "Establishes the Food for All Oregonians Program in the Department of Human Services to provide nutrition assistance to children residing in this state who are six years of age or under and who would qualify for the federal Supplemental Nutrition Assistance Program but for their immigration status.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 611 did not pass",
+ "claims": [
+  {
+   "text": "SB 611 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615916
+   ]
+  },
+  {
+   "text": "SB 611 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658798
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615916,
+    618183,
+    632374,
+    639597,
+    641817,
+    641818,
+    658798
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615916
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615916
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632374
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639597
+   ]
+  },
+  {
+   "date": "2025-04-18",
+   "when": "April 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641817
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 611&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB611",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7941,
+  "finding_hash": "d68bc2b48a80f0fd42d2b1348f5996e98b8282b86acae5b4decc491fe026d7e1",
+  "evidence_digest": "sha256:d7a14e9d5742b0ea53302974ac75c081038993ce44b8bdb9f73f973a05617846",
+  "gate_id": "503411c0266f44c18b8fdba6a5c285d0",
+  "gate_seq": 7942
+ }
+}

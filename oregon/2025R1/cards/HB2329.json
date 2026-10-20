@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2329",
+ "measure_id": "HB2329",
+ "subject": "or_legislature/2025R1/HB2329",
+ "title": "Requires the Oregon Business Development Department to study manufacturing in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2329 did not pass",
+ "claims": [
+  {
+   "text": "HB 2329 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614293
+   ]
+  },
+  {
+   "text": "HB 2329 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659860
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614293,
+    616502,
+    659860
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614293
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614293
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2329&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2329",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 984,
+  "finding_hash": "519b8c530d24e3bb8dc96a4b3100421db68e5f8557bb49ee37a7f0206be9df8a",
+  "evidence_digest": "sha256:1f33de7b7463f22c81a38a3d56a2df5227a63947dbf84bc8ed827bfaafdb77ec",
+  "gate_id": "cc570eb1cf8e4e9fbfb17a6db1d59e4c",
+  "gate_seq": 985
+ }
+}

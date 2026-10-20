@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 766",
+ "measure_id": "SB766",
+ "subject": "or_legislature/2025R1/SB766",
+ "title": "Imposes a cap on the percentage increase that the minimum wage rate may be adjusted for inflation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 766 did not pass",
+ "claims": [
+  {
+   "text": "SB 766 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616070
+   ]
+  },
+  {
+   "text": "SB 766 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659171
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616070,
+    618337,
+    659171
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616070
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616070
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 766&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB766",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8406,
+  "finding_hash": "688261273a6e07d8cfa4bba3bd6a00ca75f089ceb9ead00931bb7fa51fe7b704",
+  "evidence_digest": "sha256:82f5a044ca1fb76becbbf41e54132a62cb484799059a6ebee6f9f3a0d5591770",
+  "gate_id": "834d7ad492244f01a0da059cf09b33b2",
+  "gate_seq": 8407
+ }
+}

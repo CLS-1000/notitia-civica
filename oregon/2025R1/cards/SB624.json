@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 624",
+ "measure_id": "SB624",
+ "subject": "or_legislature/2025R1/SB624",
+ "title": "Requires certain recipients of grant or loan moneys distributed by state agencies to submit annual reports to committees of the Legislative Assembly.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 624 did not pass",
+ "claims": [
+  {
+   "text": "SB 624 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615929
+   ]
+  },
+  {
+   "text": "SB 624 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658811
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615929,
+    618196,
+    658811
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615929
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615929
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 624&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB624",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7980,
+  "finding_hash": "6253992778e418a645adc1940f5a9ee6578c2d5de1b7ba3f8a76738d9a1c3ed8",
+  "evidence_digest": "sha256:c5d301a96d5bfcc46bd42c746f5b1ff3f802b586780bfce84877f8045ba8d2fa",
+  "gate_id": "e533500681a74aa99cb7e2c628aba19b",
+  "gate_seq": 7981
+ }
+}

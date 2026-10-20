@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3381",
+ "measure_id": "HB3381",
+ "subject": "or_legislature/2025R1/HB3381",
+ "title": "Requires the Department of Public Safety Standards and Training to study public safety.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3381 did not pass",
+ "claims": [
+  {
+   "text": "HB 3381 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619432
+   ]
+  },
+  {
+   "text": "HB 3381 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660734
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619432,
+    619804,
+    660734
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619432
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619432
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3381&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3381",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4140,
+  "finding_hash": "8fde6ebaceaf38dc57a8b4cad81057aa6206f1d9f62ecd126e0ff6f6e8efe955",
+  "evidence_digest": "sha256:f4f8a9371f3b44bea584d29f41e2a4b108669a8cefab7d7b24dfb411eee452f0",
+  "gate_id": "60b72fc910184a0086ed7b35720269cf",
+  "gate_seq": 4141
+ }
+}

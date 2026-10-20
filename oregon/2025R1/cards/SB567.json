@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 567",
+ "measure_id": "SB567",
+ "subject": "or_legislature/2025R1/SB567",
+ "title": "Directs the Department of Early Learning and Care to establish and implement a child care provider incentive program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 567 did not pass",
+ "claims": [
+  {
+   "text": "SB 567 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615872
+   ]
+  },
+  {
+   "text": "SB 567 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659394
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615872,
+    618139,
+    627828,
+    633693,
+    636211,
+    636212,
+    659394
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615872
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615872
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627828
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    633693
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    636211
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 567&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB567",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7809,
+  "finding_hash": "41a44cc41f3c439766e9b94a244a489a2a39bb8937b14c5cd5a4d2881f5ac226",
+  "evidence_digest": "sha256:37c8db02a2944cbe2acaece547221a24f59d7b188b4829790ab39408bf945522",
+  "gate_id": "f786f4ab9ac24210af398b2f28eb9280",
+  "gate_seq": 7810
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "session": "2025R1",
+ "measure": "HCR 39",
+ "measure_id": "HCR39",
+ "subject": "or_legislature/2025R1/HCR39",
+ "title": "Recognizes and honors Lieutenant Colonel Herb Doby, Second Lieutenant Dale Allen Perkins, First Lieutenant Patrick Leonard Woods, Staff Sergeant Donald Dean Brubaker, Lance Corporal Gary Kyle Kestler, Corporal Joel Lynn Gabriel, Private First Class Terry Allan Sundeen, Private First Class Charles Leroy Roberts, Private First Class Lewis Ray Dietz, Sergeant Dwight Hayes, Specialist Four Robert Dean Neasham, Staff Sergeant Warren Emery Newton, Private First Class Curtis Neil Evans, Lance Corporal Walter David Freeman, Airman Brian Lee Bushnell, Private First Class Robert Wayne Clarke, Warrant Officer Allen Dean Perkins, Lance Corporal Steven Adrian Smith and Private First Class Dale William Tolbert for their service to their country.",
+ "outcome": "adopted",
+ "outcome_label": "Adopted",
+ "headline": "HCR 39 was adopted",
+ "claims": [
+  {
+   "text": "HCR 39 was introduced in the House on May 29, 2025.",
+   "row_ids": [
+    650490
+   ]
+  },
+  {
+   "text": "HCR 39 was adopted; the last recorded step was on June 20, 2025.",
+   "row_ids": [
+    656327
+   ]
+  },
+  {
+   "text": "Each of the 15 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    650490,
+    650867,
+    651694,
+    652401,
+    652699,
+    652700,
+    653103,
+    653247,
+    654188,
+    655040,
+    655224,
+    655696,
+    656056,
+    656279,
+    656327
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-05-29",
+   "when": "May 29, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    650490
+   ]
+  },
+  {
+   "date": "2025-05-29",
+   "when": "May 29, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    650490
+   ]
+  },
+  {
+   "date": "2025-06-04",
+   "when": "June 4, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    651694
+   ]
+  },
+  {
+   "date": "2025-06-06",
+   "when": "June 6, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it be adopted",
+   "rule_id": "rec_be_adopted",
+   "row_ids": [
+    652401
+   ]
+  },
+  {
+   "date": "2025-06-09",
+   "when": "June 9, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "read_special_order",
+   "row_ids": [
+    652700
+   ]
+  },
+  {
+   "date": "2025-06-09",
+   "when": "June 9, 2025",
+   "chamber": "H",
+   "state": "adopted",
+   "text": "Adopted by the House",
+   "rule_id": "adopted",
+   "row_ids": [
+    652700
+   ]
+  },
+  {
+   "date": "2025-06-10",
+   "when": "June 10, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Arrived in the Senate",
+   "rule_id": "first_reading",
+   "row_ids": [
+    653103
+   ]
+  },
+  {
+   "date": "2025-06-10",
+   "when": "June 10, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    653103
+   ]
+  },
+  {
+   "date": "2025-06-12",
+   "when": "June 12, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    654188
+   ]
+  },
+  {
+   "date": "2025-06-17",
+   "when": "June 17, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it be adopted",
+   "rule_id": "rec_do_adopt",
+   "row_ids": [
+    655040
+   ]
+  },
+  {
+   "date": "2025-06-17",
+   "when": "June 17, 2025",
+   "chamber": "S",
+   "state": "second_reading",
+   "text": "Second reading on the Senate floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    655224
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "when": "June 18, 2025",
+   "chamber": "S",
+   "state": "third_reading",
+   "text": "Final reading on the Senate floor",
+   "rule_id": "final_reading",
+   "row_ids": [
+    655696
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "when": "June 18, 2025",
+   "chamber": "S",
+   "state": "adopted",
+   "text": "Adopted by the Senate",
+   "rule_id": "adopted",
+   "row_ids": [
+    655696
+   ]
+  },
+  {
+   "date": "2025-06-19",
+   "when": "June 19, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    656056
+   ]
+  },
+  {
+   "date": "2025-06-20",
+   "when": "June 20, 2025",
+   "chamber": "S",
+   "state": "signed_by_presiding",
+   "text": "Signed by the Senate President",
+   "rule_id": "president_signed",
+   "row_ids": [
+    656279
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-20",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 39&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HCR39",
+ "row_count": 15,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10266,
+  "finding_hash": "5944a3089f3fbfb114b8b837ca2f6e92f7266ddbc5a46f49b0fceb13aa8f82ab",
+  "evidence_digest": "sha256:990d58eec139370bcfe7b3f44ed5c052fed082dd7280d28b75f061777c7e8bf5",
+  "gate_id": "55e8cb5b1b814f0a851087a93075b742",
+  "gate_seq": 10267
+ }
+}

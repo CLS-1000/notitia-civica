@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2220",
+ "measure_id": "HB2220",
+ "subject": "or_legislature/2025R1/HB2220",
+ "title": "Requires the Oregon Health Authority to study hospitals.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2220 did not pass",
+ "claims": [
+  {
+   "text": "HB 2220 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614184
+   ]
+  },
+  {
+   "text": "HB 2220 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661064
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614184,
+    616393,
+    661064
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614184
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614184
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2220&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2220",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 657,
+  "finding_hash": "8454911041e7de037600a16fe7c33e243b5de5b445f0c3e3b68ee7be05b1d2b8",
+  "evidence_digest": "sha256:660469e65673aa894546fab847d64d5b027f384484a9f324e1c6e6324edd7ae3",
+  "gate_id": "13f3e0b8ef1043d6a790ca3f569a025c",
+  "gate_seq": 658
+ }
+}

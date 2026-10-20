@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3754",
+ "measure_id": "HB3754",
+ "subject": "or_legislature/2025R1/HB3754",
+ "title": "Directs the Oregon Department of Emergency Management to create and maintain a registry of persons who are able and willing to provide emergency volunteer services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3754 did not pass",
+ "claims": [
+  {
+   "text": "HB 3754 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624930
+   ]
+  },
+  {
+   "text": "HB 3754 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660467
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624930,
+    626339,
+    635731,
+    660467
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624930
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624930
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    635731
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660467
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3754&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3754",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5259,
+  "finding_hash": "36ca75205944c17b052f7a7450cee4f75d882f82f629a2de6ec54e3c1ac613a3",
+  "evidence_digest": "sha256:9c5800a6cd0979437c767895dbacdc9cf84624067cb9f4421c19bd40752ee718",
+  "gate_id": "49d8740e648f433092a41548a0356922",
+  "gate_seq": 5260
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 471",
+ "measure_id": "SB471",
+ "subject": "or_legislature/2025R1/SB471",
+ "title": "Prohibits operating a Class 3 electric assisted bicycle on a sidewalk, bicycle lane or bicycle path.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 471 did not pass",
+ "claims": [
+  {
+   "text": "SB 471 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615776
+   ]
+  },
+  {
+   "text": "SB 471 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659100
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615776,
+    618043,
+    659100
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615776
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615776
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 471&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB471",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7521,
+  "finding_hash": "8552c4201de58adad9663ad4797ecb44d41313f78b8b582d34bec792aee9a79e",
+  "evidence_digest": "sha256:fb8bca13ae0a6daa078e13ab1735d11188d9edcd2d1390e6752bb4823f704373",
+  "gate_id": "dab244814d984850b7bd9879a4ec8725",
+  "gate_seq": 7522
+ }
+}

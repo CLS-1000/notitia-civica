@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 882",
+ "measure_id": "SB882",
+ "subject": "or_legislature/2025R1/SB882",
+ "title": "Requires course instruction provided as part of a health education curriculum to include information about human development from conception to birth.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 882 did not pass",
+ "claims": [
+  {
+   "text": "SB 882 was introduced in the Senate on January 21, 2025.",
+   "row_ids": [
+    618658
+   ]
+  },
+  {
+   "text": "SB 882 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659298
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618658,
+    618829,
+    659298
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    618658
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618658
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 882&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB882",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8754,
+  "finding_hash": "297e8e9d67cfec739aada74ad4e8736dc446afc959b640fdd18695aed808a881",
+  "evidence_digest": "sha256:43d316d408415781cc86bbc77cfe5e92879075cd379be0bc8a1b03f37ad11eb9",
+  "gate_id": "7c310c4fe6f54e2d83d7d0de0cd1552e",
+  "gate_seq": 8755
+ }
+}

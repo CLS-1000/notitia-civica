@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3698",
+ "measure_id": "HB3698",
+ "subject": "or_legislature/2025R1/HB3698",
+ "title": "Directs data centers to report water and electricity used to the Water Resources Department and the State Department of Energy.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3698 did not pass",
+ "claims": [
+  {
+   "text": "HB 3698 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624382
+   ]
+  },
+  {
+   "text": "HB 3698 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660808
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624382,
+    625243,
+    660808
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624382
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624382
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3698&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3698",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5091,
+  "finding_hash": "f340a851b142cf4876075ccffd0ab4b8110cf9459b8d19179b23b809a1ac4cc9",
+  "evidence_digest": "sha256:04e89e96ba9aa1314d1403c56fdc09736d5468f4139361217dee6d243475a8f8",
+  "gate_id": "da86f0102b484e31821c173483b3a2b0",
+  "gate_seq": 5092
+ }
+}

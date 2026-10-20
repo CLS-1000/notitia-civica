@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3568",
+ "measure_id": "HB3568",
+ "subject": "or_legislature/2025R1/HB3568",
+ "title": "Appropriates moneys to the Department of Education for distribution to the Oregon Coast Visitors Association for the purpose of promoting seafood in the public schools of this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3568 did not pass",
+ "claims": [
+  {
+   "text": "HB 3568 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622903
+   ]
+  },
+  {
+   "text": "HB 3568 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661315
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622903,
+    623458,
+    629227,
+    639579,
+    641063,
+    641064,
+    661315
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622903
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622903
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629227
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639579
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641063
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3568&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3568",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4701,
+  "finding_hash": "1f240dc8251c67d22203576e061d8d0f65ef8b4c29221f491a858622382bd460",
+  "evidence_digest": "sha256:594a82616be0e278367871e2d69943c6189171d1c0255d460f73738c798dab4d",
+  "gate_id": "e3ba214fc04e48949878a44d1fe6273a",
+  "gate_seq": 4702
+ }
+}

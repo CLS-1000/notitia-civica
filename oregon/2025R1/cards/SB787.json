@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 787",
+ "measure_id": "SB787",
+ "subject": "or_legislature/2025R1/SB787",
+ "title": "Requires school districts to designate athletic competitions and extracurricular sports according to biological sex.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 787 did not pass",
+ "claims": [
+  {
+   "text": "SB 787 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616091
+   ]
+  },
+  {
+   "text": "SB 787 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659191
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616091,
+    618358,
+    659191
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616091
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616091
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 787&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB787",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8469,
+  "finding_hash": "f4982d6e2ea5733ef0c903ae9c43c013a48e7e4dfe8b71fe4380a0f240cbeb49",
+  "evidence_digest": "sha256:772ee7ee24ae408634ef5315b3be34a7b547793b5827b64eeaa2630f8424d0b4",
+  "gate_id": "4789543351654d74834147fa336abe4c",
+  "gate_seq": 8470
+ }
+}

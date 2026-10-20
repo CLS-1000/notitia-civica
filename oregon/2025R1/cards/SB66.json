@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 66",
+ "measure_id": "SB66",
+ "subject": "or_legislature/2025R1/SB66",
+ "title": "Authorizes the Oregon Business Development Department to survey state loan and grant programs for economic development.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 66 did not pass",
+ "claims": [
+  {
+   "text": "SB 66 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615371
+   ]
+  },
+  {
+   "text": "SB 66 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658608
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615371,
+    617638,
+    658608
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615371
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615371
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 66&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB66",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6306,
+  "finding_hash": "ddc34503fa5d9a588fd5632943c32b31a3de5ebb21ed0000f20ff62e28e37768",
+  "evidence_digest": "sha256:119f860aaf9e6f0d350de6d7dd85ec8cf49600b7ac32ad2dc43b1d4a04a35de0",
+  "gate_id": "2a3bdced369a40859e4e4fea9ec74201",
+  "gate_seq": 6307
+ }
+}

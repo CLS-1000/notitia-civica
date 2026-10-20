@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3170",
+ "measure_id": "HB3170",
+ "subject": "or_legislature/2025R1/HB3170",
+ "title": "Modifies the definitions of and grant requirements for Resilience Hubs and Resilience Networks.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3170 did not pass",
+ "claims": [
+  {
+   "text": "HB 3170 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615134
+   ]
+  },
+  {
+   "text": "HB 3170 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660871
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615134,
+    617343,
+    620388,
+    625952,
+    627006,
+    627007,
+    660871
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615134
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615134
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620388
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    625952
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    627006
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3170&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3170",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3507,
+  "finding_hash": "8db6aa1b69547a7d356063777d7fe3f4853ce1d92043855b742186d390e45e29",
+  "evidence_digest": "sha256:fa252d2f84a086b21b1f1b21792569896d0148774af343b339d0c309a7a06e29",
+  "gate_id": "fce01caf196f49e8bf57510e96e57981",
+  "gate_seq": 3508
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "SB 565",
+ "measure_id": "SB565",
+ "subject": "or_legislature/2025R1/SB565",
+ "title": "Transfers the management and control of the grounds in the capitol area from the State Parks and Recreation Department to the Oregon Department of Administrative Services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 565 did not pass",
+ "claims": [
+  {
+   "text": "SB 565 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615870
+   ]
+  },
+  {
+   "text": "SB 565 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659392
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615870,
+    618137,
+    629469,
+    633834,
+    635737,
+    638384,
+    638385,
+    659392
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615870
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615870
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629469
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    633834
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638384
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 565&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB565",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7803,
+  "finding_hash": "3cff791d3c822b29b3d30dbf6bb16559d145b5ed48c4857bd8ddcc9adfbc0788",
+  "evidence_digest": "sha256:998b13bda687896632656b84bea069cb0ee4cbf523293d41d8702c2efe76ba56",
+  "gate_id": "c26eacd602ca41eea48d0a81c61556a5",
+  "gate_seq": 7804
+ }
+}

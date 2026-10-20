@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 462",
+ "measure_id": "SB462",
+ "subject": "or_legislature/2025R1/SB462",
+ "title": "Requires the Oregon Business Development Department to establish an education course for land use planners for local governments, special districts and state agencies.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 462 did not pass",
+ "claims": [
+  {
+   "text": "SB 462 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615767
+   ]
+  },
+  {
+   "text": "SB 462 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659092
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615767,
+    618034,
+    623381,
+    659092
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615767
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615767
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "when": "February 19, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623381
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659092
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 462&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB462",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7494,
+  "finding_hash": "d9c2f90c2013600c8b1d639eb92d6b0f056473ea61b3cb81f7bb7eb2679052a2",
+  "evidence_digest": "sha256:be92fbe3e2ab896192f1e5c14c3ad1f2cd11b8e14ced434a0c4ab37a9e527f79",
+  "gate_id": "81a643a30c8f4266b9f17b1fd3ab9d56",
+  "gate_seq": 7495
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2646",
+ "measure_id": "HB2646",
+ "subject": "or_legislature/2025R1/HB2646",
+ "title": "Creates the crime of unlawful disclosure of private information.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2646 did not pass",
+ "claims": [
+  {
+   "text": "HB 2646 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614610
+   ]
+  },
+  {
+   "text": "HB 2646 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660781
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614610,
+    616819,
+    660781
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614610
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614610
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2646&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2646",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1935,
+  "finding_hash": "692507f6ccc8745e12279ffa00477e39faf7b6f254edf5a1a45e9e36bc91430e",
+  "evidence_digest": "sha256:db5680e3546f8e2446aece3d4fceedbdeddf47600a7d76ec062108ee2336677f",
+  "gate_id": "ab80e6c4a13f4cc6884a2eece381aa25",
+  "gate_seq": 1936
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3082",
+ "measure_id": "HB3082",
+ "subject": "or_legislature/2025R1/HB3082",
+ "title": "Requires prescription drug manufacturers to report to the Department of Consumer and Business Services the total number of consumers to which the manufacturer offered a patient assistance program who participated in the program, notwithstanding any increase in the price of the prescription drug for which the manufacturer offered the program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3082 did not pass",
+ "claims": [
+  {
+   "text": "HB 3082 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615046
+   ]
+  },
+  {
+   "text": "HB 3082 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659967
+   ]
+  },
+  {
+   "text": "Each of the 9 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615046,
+    617255,
+    624624,
+    636012,
+    638143,
+    638187,
+    638893,
+    639269,
+    659967
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615046
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615046
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624624
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636012
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638143
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "second_reading",
+   "text": "Second reading on the House floor",
+   "rule_id": "second_reading",
+   "row_ids": [
+    638187
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "motion_carried_refer",
+   "row_ids": [
+    639269
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3082&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3082",
+ "row_count": 9,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3243,
+  "finding_hash": "2b1764440efb6c62ea435da9f581aca50ac102f1aba89262cd3850c325e3116f",
+  "evidence_digest": "sha256:84b728dc1aa71571423696b3c9fc98cf2e0607667193658ee6419e8a4407d733",
+  "gate_id": "321b7ecb677449f1b391020b33ff59f3",
+  "gate_seq": 3244
+ }
+}

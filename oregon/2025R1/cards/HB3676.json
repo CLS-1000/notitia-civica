@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3676",
+ "measure_id": "HB3676",
+ "subject": "or_legislature/2025R1/HB3676",
+ "title": "Directs the Oregon Health Authority, in coordination with the Department of Environmental Quality, to establish a program to provide grants to repair or replace certain community drinking water and wastewater facilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3676 did not pass",
+ "claims": [
+  {
+   "text": "HB 3676 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624360
+   ]
+  },
+  {
+   "text": "HB 3676 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660426
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624360,
+    625221,
+    660426
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624360
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624360
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3676&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3676",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5025,
+  "finding_hash": "147a48951900bf0b78bf7fb00ab54c9ec5a0b23a1b8222e30a978f98ac207ef9",
+  "evidence_digest": "sha256:b621e7fe5b0379512606b2d7783d536603fd5a0ac3b72af302f8c12bd70b81ea",
+  "gate_id": "1a2404d8c8db4e8fb644545e4103270d",
+  "gate_seq": 5026
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2746",
+ "measure_id": "HB2746",
+ "subject": "or_legislature/2025R1/HB2746",
+ "title": "Requires employers and employment agencies to include certain wage and benefit information in job postings for job, promotion and transfer opportunities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2746 did not pass",
+ "claims": [
+  {
+   "text": "HB 2746 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614710
+   ]
+  },
+  {
+   "text": "HB 2746 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660161
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614710,
+    616919,
+    625866,
+    626677,
+    633351,
+    636862,
+    636863,
+    660161
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614710
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614710
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625866
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    633351
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    636862
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2746&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2746",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2235,
+  "finding_hash": "a7ee923b948f87054dbf76a0e9b6f6cf1a04db31900f87094836075f38daa049",
+  "evidence_digest": "sha256:04389a29e2096c82b13c56c3ae48c45ab4f8d746e56c3a2e2b7254af1e7fc357",
+  "gate_id": "0b387928ae1842cc9b54b432a7af0701",
+  "gate_seq": 2236
+ }
+}

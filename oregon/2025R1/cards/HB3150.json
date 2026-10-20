@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3150",
+ "measure_id": "HB3150",
+ "subject": "or_legislature/2025R1/HB3150",
+ "title": "Establishes an income tax credit for volunteer firefighters.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3150 did not pass",
+ "claims": [
+  {
+   "text": "HB 3150 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615114
+   ]
+  },
+  {
+   "text": "HB 3150 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660785
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615114,
+    617323,
+    620544,
+    622303,
+    623655,
+    624080,
+    624081,
+    660785
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615114
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615114
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620544
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    623655
+   ]
+  },
+  {
+   "date": "2025-02-24",
+   "when": "February 24, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    624080
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3150&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3150",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3447,
+  "finding_hash": "b84c6c89d1243de5b5dab42cb8c7431238c86d859e593d867def8cca564ba776",
+  "evidence_digest": "sha256:1d2b6441573d7bf70118c9541833ac7e524e2ea9f48d44ca4c9142d73674d00a",
+  "gate_id": "deef1be36b194cc88ed9c58a3867692a",
+  "gate_seq": 3448
+ }
+}

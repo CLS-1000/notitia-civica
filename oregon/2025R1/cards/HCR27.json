@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HCR 27",
+ "measure_id": "HCR27",
+ "subject": "or_legislature/2025R1/HCR27",
+ "title": "In memoriam: Ron Hudson, 1951-2024.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HCR 27 did not pass",
+ "claims": [
+  {
+   "text": "HCR 27 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624914
+   ]
+  },
+  {
+   "text": "HCR 27 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660543
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624914,
+    626497,
+    660543
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624914
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624914
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 27&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HCR27",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10230,
+  "finding_hash": "f5253c8ab3bf9d2ccd04fa4b53157655c64b6d094c281df7b2fc961ec7d6a93c",
+  "evidence_digest": "sha256:c237dbf884064caef878a692caebfa2edbf0dd4a8444a85882bc041797ac0406",
+  "gate_id": "93e70fa0f9894455804a4d82b1b55015",
+  "gate_seq": 10231
+ }
+}

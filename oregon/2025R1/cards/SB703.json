@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 703",
+ "measure_id": "SB703",
+ "subject": "or_legislature/2025R1/SB703",
+ "title": "Directs the Department of Human Services to provide grants to nonprofit service providers to assist individuals who are noncitizens to change their immigration status or obtain lawful permanent resident status.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 703 did not pass",
+ "claims": [
+  {
+   "text": "SB 703 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616008
+   ]
+  },
+  {
+   "text": "SB 703 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658897
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616008,
+    618275,
+    629932,
+    633212,
+    635791,
+    635792,
+    658897
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616008
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616008
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629932
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    633212
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    635791
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 703&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB703",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8217,
+  "finding_hash": "b7fe3643d45c778145425bdd3b523d64972b76ef83109a697b1b539a5b3a73aa",
+  "evidence_digest": "sha256:25ba582c06e6fa88b7b4cb051934e1066a1c566b34809f12827464afc82e5032",
+  "gate_id": "bc807b5ae8d04222b6dc5aef987d504c",
+  "gate_seq": 8218
+ }
+}

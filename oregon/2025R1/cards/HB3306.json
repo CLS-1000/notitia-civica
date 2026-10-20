@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3306",
+ "measure_id": "HB3306",
+ "subject": "or_legislature/2025R1/HB3306",
+ "title": "Exempts from state income tax up to $17,500 in retirement pay or pension received for service in the Armed Forces of the United States for a taxpayer who is receiving retirement pay or pension for service in the Armed Forces of the United States and who has not attained 63 years of age before the close of the taxable year for which a return is filed.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3306 did not pass",
+ "claims": [
+  {
+   "text": "HB 3306 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618777
+   ]
+  },
+  {
+   "text": "HB 3306 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661012
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618777,
+    619175,
+    661012
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618777
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618777
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3306&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3306",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3915,
+  "finding_hash": "0dc98b576e154f1a785a65310cc2fd37fa70c2611380c90d6a81d1c984f2d1fc",
+  "evidence_digest": "sha256:9444504ff7bf16c03ea5aa6daad253618d802e7eb64fd8b7ad8a0f398be89b43",
+  "gate_id": "8a3562e59ddf4fa4a350152da91f2e0b",
+  "gate_seq": 3916
+ }
+}

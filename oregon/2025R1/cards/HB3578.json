@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3578",
+ "measure_id": "HB3578",
+ "subject": "or_legislature/2025R1/HB3578",
+ "title": "Establishes the Department of Wildfire.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3578 did not pass",
+ "claims": [
+  {
+   "text": "HB 3578 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622913
+   ]
+  },
+  {
+   "text": "HB 3578 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660597
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622913,
+    623468,
+    660597
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622913
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622913
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3578&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3578",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4731,
+  "finding_hash": "2c588f3eccef2afc72390179a14c49c4d5508d900769319f49b89c6615105ed8",
+  "evidence_digest": "sha256:fc9a1ed5b78c3bf41dc261eb0be4e0982b166267be4bac22386b4dac49e76f61",
+  "gate_id": "d46d8deae115418da1e03a346b72de22",
+  "gate_seq": 4732
+ }
+}

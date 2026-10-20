@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2146",
+ "measure_id": "HB2146",
+ "subject": "or_legislature/2025R1/HB2146",
+ "title": "Requires the Department of Human Services to study certain adult foster homes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2146 did not pass",
+ "claims": [
+  {
+   "text": "HB 2146 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614110
+   ]
+  },
+  {
+   "text": "HB 2146 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660198
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614110,
+    616319,
+    660198
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614110
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614110
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2146&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2146",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 435,
+  "finding_hash": "4c67671edb89ab81174005d85b2dc318c950f6d23b17f4b8ccfc09a02cb30653",
+  "evidence_digest": "sha256:af3a1abe9743524307bfe9206df16b9f3ae5c0a3e907b66111966beb1caf3fd1",
+  "gate_id": "b9a21f2db5c84d56927fc861ad317752",
+  "gate_seq": 436
+ }
+}

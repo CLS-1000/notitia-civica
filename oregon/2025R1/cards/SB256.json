@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 256",
+ "measure_id": "SB256",
+ "subject": "or_legislature/2025R1/SB256",
+ "title": "Requires the State Board of Parole and Post-Prison Supervision to study issues related to parole.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 256 did not pass",
+ "claims": [
+  {
+   "text": "SB 256 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615561
+   ]
+  },
+  {
+   "text": "SB 256 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658652
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615561,
+    617828,
+    658652
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615561
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615561
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 256&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB256",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6876,
+  "finding_hash": "c93336b81d4ba6a2f0a0199b8468c478f8bffb90c2f900140a328bd17a424ea6",
+  "evidence_digest": "sha256:95fca4e81ab9cd2c17982c7efe1fe12a5ae692af43aa24371e55e7f376a53915",
+  "gate_id": "231dc0a673bd455c803038a40a5ad8a3",
+  "gate_seq": 6877
+ }
+}

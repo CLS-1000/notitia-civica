@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3340",
+ "measure_id": "HB3340",
+ "subject": "or_legislature/2025R1/HB3340",
+ "title": "Requires the Attorney General to adopt and maintain a list of foreign adversaries who are ineligible to receive conveyances of farm or forest lands.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3340 did not pass",
+ "claims": [
+  {
+   "text": "HB 3340 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619391
+   ]
+  },
+  {
+   "text": "HB 3340 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660320
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619391,
+    619763,
+    660320
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619391
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619391
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3340&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3340",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4017,
+  "finding_hash": "67b434a410c3658601dc1e285e4084a1f15e844625ca1d2cf413e1de52031309",
+  "evidence_digest": "sha256:48fb3f83d29331f198c1b1ab6036c06d147db98f3d51520ef71b60ea35dbe75c",
+  "gate_id": "103e194605664228a758e2006ad6d6a0",
+  "gate_seq": 4018
+ }
+}

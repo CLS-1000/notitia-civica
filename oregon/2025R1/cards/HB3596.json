@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3596",
+ "measure_id": "HB3596",
+ "subject": "or_legislature/2025R1/HB3596",
+ "title": "Directs the State Department of Fish and Wildlife to study mule deer in the Steens Mountain herd range area.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3596 did not pass",
+ "claims": [
+  {
+   "text": "HB 3596 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622931
+   ]
+  },
+  {
+   "text": "HB 3596 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661378
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622931,
+    623486,
+    631875,
+    639183,
+    641065,
+    641066,
+    661378
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622931
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622931
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    631875
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639183
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641065
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3596&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3596",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4785,
+  "finding_hash": "68275470a191eef260c9753049e84dbd4deacf13aa258ca98837c0d5ed149f62",
+  "evidence_digest": "sha256:6653780a9d0b90cce64323cc509bf1fd825ef35db1eb3dbf45ea87c86a469888",
+  "gate_id": "0a1d1093e38045f6bba89d950bfa7f4b",
+  "gate_seq": 4786
+ }
+}

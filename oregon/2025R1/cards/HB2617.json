@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2617",
+ "measure_id": "HB2617",
+ "subject": "or_legislature/2025R1/HB2617",
+ "title": "Directs the Department of Justice to study possible modifications to post-conviction relief proceeding procedures to increase efficiency, and provide the results of the study to the interim committees of the Legislative Assembly no later than December 31, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2617 did not pass",
+ "claims": [
+  {
+   "text": "HB 2617 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614581
+   ]
+  },
+  {
+   "text": "HB 2617 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660753
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614581,
+    616790,
+    660753
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614581
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614581
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2617&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2617",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1848,
+  "finding_hash": "24bfac0d75a1989e6afa478e139eab7499c350b8823ddb5e3db879a78c1d1516",
+  "evidence_digest": "sha256:95397a6e270840ee126650f371e641bde6cf011fc0a497cd1e1d321bdea10c81",
+  "gate_id": "9751c55cbc3f492587a3a50bd7708561",
+  "gate_seq": 1849
+ }
+}

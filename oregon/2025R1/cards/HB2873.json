@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2873",
+ "measure_id": "HB2873",
+ "subject": "or_legislature/2025R1/HB2873",
+ "title": "Directs the Higher Education Coordinating Commission to establish an Oregon work study pilot program to assist post-secondary students.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2873 did not pass",
+ "claims": [
+  {
+   "text": "HB 2873 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614837
+   ]
+  },
+  {
+   "text": "HB 2873 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661182
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614837,
+    617046,
+    661182
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614837
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614837
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2873&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2873",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2616,
+  "finding_hash": "b2ddd8c32dc7b40733e7f628d2821f0a5bb32e172c6ad32e6e7ef53aca7fcba4",
+  "evidence_digest": "sha256:fa29ce911c4ef49c80b9b981b2cd1b2fad81dab21b4fda8fee1366cbd6dfb1ef",
+  "gate_id": "475f803cac2f4a418b420e5fe50ee0aa",
+  "gate_seq": 2617
+ }
+}

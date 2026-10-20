@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3520",
+ "measure_id": "HB3520",
+ "subject": "or_legislature/2025R1/HB3520",
+ "title": "Requires a person that proposes to construct a building or structure located within 1,000 feet of an interstate pipeline to notify the Oregon Utility Notification Center.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3520 did not pass",
+ "claims": [
+  {
+   "text": "HB 3520 was introduced in the House on February 6, 2025.",
+   "row_ids": [
+    620889
+   ]
+  },
+  {
+   "text": "HB 3520 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660865
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620889,
+    621268,
+    660865
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620889
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620889
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3520&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3520",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4557,
+  "finding_hash": "5eee53e67e040518baf5ce390ebf639ad125e8c5e23516f46908336e33f83c5d",
+  "evidence_digest": "sha256:56fba016dc5a50481195771f0aa19cf41e04a7af2001f5400912d29625648e5b",
+  "gate_id": "91efce706979444f8d462973893c6471",
+  "gate_seq": 4558
+ }
+}

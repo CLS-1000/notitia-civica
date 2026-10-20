@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3509",
+ "measure_id": "HB3509",
+ "subject": "or_legislature/2025R1/HB3509",
+ "title": "Creates the Community Escrow Fund in the State Treasury to hold coordinated care organization restricted reserves.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3509 did not pass",
+ "claims": [
+  {
+   "text": "HB 3509 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620382
+   ]
+  },
+  {
+   "text": "HB 3509 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661296
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620382,
+    621055,
+    661296
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620382
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620382
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3509&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3509",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4524,
+  "finding_hash": "cf00b18cc27faff516da0e0dc11f3f308259d69bbfa93ff7e352c03a76700359",
+  "evidence_digest": "sha256:22fce43ca4639a922948c97304e27f8e49b3dfe79e0322e8c327c03daa83d375",
+  "gate_id": "58a8b65642b242c0a5259277257c3fc9",
+  "gate_seq": 4525
+ }
+}

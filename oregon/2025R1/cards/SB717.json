@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 717",
+ "measure_id": "SB717",
+ "subject": "or_legislature/2025R1/SB717",
+ "title": "Directs the Higher Education Coordinating Commission to establish a pilot program to provide stipends for student teachers and the educators who mentor student teachers for licensure.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 717 did not pass",
+ "claims": [
+  {
+   "text": "SB 717 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616022
+   ]
+  },
+  {
+   "text": "SB 717 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658911
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616022,
+    618289,
+    625645,
+    636205,
+    638418,
+    638419,
+    658911
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616022
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616022
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625645
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "when": "April 2, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    636205
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638418
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 717&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB717",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8259,
+  "finding_hash": "ba9f4641368a6f6877bba973293063aefe3a021e9fe23eea531962ee4d913e33",
+  "evidence_digest": "sha256:e7cfbbbb1f875b19bd576b5a94f7262d8bba074720bb7153ca24ce5bd49db7b1",
+  "gate_id": "7f90bce6a7d14fb2a9ce5c401a911432",
+  "gate_seq": 8260
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3765",
+ "measure_id": "HB3765",
+ "subject": "or_legislature/2025R1/HB3765",
+ "title": "Requires the State Treasurer and Oregon Investment Council to implement a system to perform ESG analyses of current and proposed investments, assign personnel to oversee the system and issue an annual report on actions taken pursuant to the system.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3765 did not pass",
+ "claims": [
+  {
+   "text": "HB 3765 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624941
+   ]
+  },
+  {
+   "text": "HB 3765 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661337
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624941,
+    626350,
+    661337
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624941
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624941
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3765&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3765",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5292,
+  "finding_hash": "09546f62c7a4bc40b91896396693346c26c8362de46f17fa304da7ba93e082e3",
+  "evidence_digest": "sha256:93c78b99c9df5d30bd4d70c8321f2d2a1dd0b97f5f39da510ee1e7060bb1b824",
+  "gate_id": "50b34eccce4e43f8a44946ecc7deb3e4",
+  "gate_seq": 5293
+ }
+}

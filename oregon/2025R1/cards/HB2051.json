@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2051",
+ "measure_id": "HB2051",
+ "subject": "or_legislature/2025R1/HB2051",
+ "title": "Requires a student to demonstrate proficiency in specified Essential Learning Skills prior to the student being awarded a high school diploma or a modified diploma.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2051 did not pass",
+ "claims": [
+  {
+   "text": "HB 2051 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614015
+   ]
+  },
+  {
+   "text": "HB 2051 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660818
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614015,
+    616224,
+    660818
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614015
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614015
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2051&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2051",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 150,
+  "finding_hash": "d01b581930cd14707b844acfc148d3aace6f2ee0d0f819f99a53b3db5255e351",
+  "evidence_digest": "sha256:17163da3cc9c9558c50c664f8785d36369cb022ba27748140ba21a2e807e0ee7",
+  "gate_id": "d1815cfcaccb486eb7859ed0a36dbbca",
+  "gate_seq": 151
+ }
+}

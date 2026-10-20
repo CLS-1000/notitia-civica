@@ -1,0 +1,107 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3526",
+ "measure_id": "HB3526",
+ "subject": "or_legislature/2025R1/HB3526",
+ "title": "Establishes a cause of action for a buyer in a real estate transaction if the seller fails to provide the results of required well tests.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3526 did not pass",
+ "claims": [
+  {
+   "text": "HB 3526 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621732
+   ]
+  },
+  {
+   "text": "HB 3526 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660579
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621732,
+    622070,
+    622680,
+    638040,
+    660579
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621732
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621732
+   ]
+  },
+  {
+   "date": "2025-02-17",
+   "when": "February 17, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622680
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638040
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660579
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3526&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3526",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4575,
+  "finding_hash": "e7f032f92146cb7ac3e814fc7d25a76b6d6554a9e7c142d9acf43ae95ad1d944",
+  "evidence_digest": "sha256:0e40f3b51a1d491ea88af26c3951264d88c6b97573a3d175ba56cf6f9bab02e4",
+  "gate_id": "aa07eae858c242faa99d0418d1942355",
+  "gate_seq": 4576
+ }
+}

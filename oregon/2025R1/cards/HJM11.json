@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HJM 11",
+ "measure_id": "HJM11",
+ "subject": "or_legislature/2025R1/HJM11",
+ "title": "Urges Congress and federal agencies to adopt land management reforms that will improve the prevention and mitigation of wildfires on federal lands.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJM 11 did not pass",
+ "claims": [
+  {
+   "text": "HJM 11 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619506
+   ]
+  },
+  {
+   "text": "HJM 11 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660128
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619506,
+    619878,
+    660128
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619506
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619506
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJM' and MeasureNumber eq 11&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJM11",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10110,
+  "finding_hash": "b96cfc3ebbbe82fb71eb9228bc49bbde68419eac00302ae1053471716e5a9998",
+  "evidence_digest": "sha256:1848da175ae94b4fe206b344097b518b655bfe66c50ea358fbdcb9b8c10bc415",
+  "gate_id": "ba6fbec5732c425290c86169934b4a8f",
+  "gate_seq": 10111
+ }
+}

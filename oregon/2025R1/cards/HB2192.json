@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2192",
+ "measure_id": "HB2192",
+ "subject": "or_legislature/2025R1/HB2192",
+ "title": "Requires each public body that collects and maintains personal information about individuals to collect and maintain information on each individual's immigration or citizenship status.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2192 did not pass",
+ "claims": [
+  {
+   "text": "HB 2192 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614156
+   ]
+  },
+  {
+   "text": "HB 2192 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661039
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614156,
+    616365,
+    661039
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614156
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614156
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2192&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2192",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 573,
+  "finding_hash": "9eb7b94e10139b8e80c7a076ff1983fda91c278f0b3c8dc630b3141e1259e417",
+  "evidence_digest": "sha256:25ce3286fc0d443aab6383109b02f9239f3f6cd2bb7166de0cfc6d776460f953",
+  "gate_id": "9b88dca060dd40058ff104711765cff7",
+  "gate_seq": 574
+ }
+}

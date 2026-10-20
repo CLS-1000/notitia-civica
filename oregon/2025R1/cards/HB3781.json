@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3781",
+ "measure_id": "HB3781",
+ "subject": "or_legislature/2025R1/HB3781",
+ "title": "Creates a rebuttable presumption against negligence and liability for property damage, injuries or death that results from criminal activity in or around multifamily residential property if the owner or operator of the multifamily residential property implements certain security measures and completes certain training and assessments.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3781 did not pass",
+ "claims": [
+  {
+   "text": "HB 3781 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624957
+   ]
+  },
+  {
+   "text": "HB 3781 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661351
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624957,
+    626366,
+    661351
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624957
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624957
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3781&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3781",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5340,
+  "finding_hash": "9f12f7479c9042918a6af75545eae771e8b0921a62383abdf98524808b7c2bc9",
+  "evidence_digest": "sha256:4208b76929dda373adc5dd23b400e93301012326b4178d5a85fbe45169713fcb",
+  "gate_id": "87915cfc11ce49a090fde6cabd19c542",
+  "gate_seq": 5341
+ }
+}

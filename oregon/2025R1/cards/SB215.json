@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "SB 215",
+ "measure_id": "SB215",
+ "subject": "or_legislature/2025R1/SB215",
+ "title": "Repeals the requirement that there be a licensed repository for the disposal of high-level radioactive waste before a site certificate for a nuclear-fueled thermal power plant may be issued.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 215 did not pass",
+ "claims": [
+  {
+   "text": "SB 215 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615520
+   ]
+  },
+  {
+   "text": "SB 215 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659424
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615520,
+    617787,
+    626698,
+    627558,
+    659424
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615520
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615520
+   ]
+  },
+  {
+   "date": "2025-03-05",
+   "when": "March 5, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626698
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659424
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 215&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB215",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6753,
+  "finding_hash": "1ac3575c5710c3f0ba36b4d6c5a1cf7d4ad3a6c01cf263867f748243dc563074",
+  "evidence_digest": "sha256:3ee0493ea50b8201faad87d9fcb8ec9d8bc65b5dd5278adc74f59a80206e73c0",
+  "gate_id": "e56b49d0dd964b259ef78b34cd4330e0",
+  "gate_seq": 6754
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 479",
+ "measure_id": "SB479",
+ "subject": "or_legislature/2025R1/SB479",
+ "title": "Prohibits the Department of Environmental Quality from determining, for purposes of issuing a sewage disposal construction permit, that a community or area-wide sewerage system is available unless the sewerage system is within 200 feet of the property to be served.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 479 did not pass",
+ "claims": [
+  {
+   "text": "SB 479 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615784
+   ]
+  },
+  {
+   "text": "SB 479 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659318
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615784,
+    618051,
+    659318
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615784
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615784
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 479&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB479",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7545,
+  "finding_hash": "03e89c66265b7883e40c7978b921fcb8fcb2cdbcb685f62036434b95a3dd223a",
+  "evidence_digest": "sha256:b9fb03683953c088826ad3d3af280d3937f222bdb65838a18feaeb80c56b528c",
+  "gate_id": "0dbb95365575455ab32b8e07912ae41c",
+  "gate_seq": 7546
+ }
+}

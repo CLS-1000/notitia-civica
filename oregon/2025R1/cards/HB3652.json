@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3652",
+ "measure_id": "HB3652",
+ "subject": "or_legislature/2025R1/HB3652",
+ "title": "Expands the requirement to discuss class size and caseload as mandatory subjects of bargaining for purposes of school district collective bargaining.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3652 did not pass",
+ "claims": [
+  {
+   "text": "HB 3652 was introduced in the House on February 20, 2025.",
+   "row_ids": [
+    623587
+   ]
+  },
+  {
+   "text": "HB 3652 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660553
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623587,
+    623879,
+    626691,
+    639581,
+    640110,
+    640111,
+    660553
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    623587
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623587
+   ]
+  },
+  {
+   "date": "2025-03-05",
+   "when": "March 5, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626691
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639581
+   ]
+  },
+  {
+   "date": "2025-04-11",
+   "when": "April 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    640110
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3652&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3652",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4953,
+  "finding_hash": "a58fc157ace7f86be8491c7533cc23fcb332152054236f5bc10137181524a821",
+  "evidence_digest": "sha256:ea3c37b5b492a50beb9b37f1c2bce9d98513f56a6bbe43ae3088847161f6cf4e",
+  "gate_id": "665e9280495f466f94c23c7e9482ad67",
+  "gate_seq": 4954
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HJM 1",
+ "measure_id": "HJM1",
+ "subject": "or_legislature/2025R1/HJM1",
+ "title": "Urges Congress to fulfill its commitment to fully fund the Individuals with Disabilities Education Act.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJM 1 did not pass",
+ "claims": [
+  {
+   "text": "HJM 1 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613904
+   ]
+  },
+  {
+   "text": "HJM 1 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661473
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613904,
+    618953,
+    661473
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613904
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613904
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJM' and MeasureNumber eq 1&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJM1",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10080,
+  "finding_hash": "3376784e74dd92860538212e15d4233fb7fe530eb300e2065cbf9c39d759a8a4",
+  "evidence_digest": "sha256:6d5d95a9578b73da1a011e004b3531d22402b6ace1dbb8cb43851bef2b1793f4",
+  "gate_id": "1a5d0fbfadc94ae6b456e6d1334265e5",
+  "gate_seq": 10081
+ }
+}

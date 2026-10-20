@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2968",
+ "measure_id": "HB2968",
+ "subject": "or_legislature/2025R1/HB2968",
+ "title": "Requires the Housing and Community Services Department to guarantee a housing developer's payment of system development charges that the local government has agreed to defer until after occupancy.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2968 did not pass",
+ "claims": [
+  {
+   "text": "HB 2968 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614932
+   ]
+  },
+  {
+   "text": "HB 2968 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661229
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614932,
+    617141,
+    628033,
+    632132,
+    634118,
+    634119,
+    661229
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614932
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614932
+   ]
+  },
+  {
+   "date": "2025-03-12",
+   "when": "March 12, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628033
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "when": "March 24, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632132
+   ]
+  },
+  {
+   "date": "2025-03-28",
+   "when": "March 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    634118
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2968&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2968",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2901,
+  "finding_hash": "f43bf86190326c4b73c37268834289b63a87d1a144d72af64f602f846817057d",
+  "evidence_digest": "sha256:f9dcd0419fb74be086620792c3083e416e4211b437c8297af33760ad745f7197",
+  "gate_id": "21c8819cdad2488286be9cbec6bd0b8f",
+  "gate_seq": 2902
+ }
+}

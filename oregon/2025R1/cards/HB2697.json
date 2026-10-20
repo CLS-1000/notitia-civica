@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2697",
+ "measure_id": "HB2697",
+ "subject": "or_legislature/2025R1/HB2697",
+ "title": "Repeals the limitation on police officers initiating traffic stops for certain offenses related to vehicle lighting.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2697 did not pass",
+ "claims": [
+  {
+   "text": "HB 2697 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614661
+   ]
+  },
+  {
+   "text": "HB 2697 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660301
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614661,
+    616870,
+    660301
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614661
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614661
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2697&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2697",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2088,
+  "finding_hash": "d8a80beb0f89fa0f1fe79bfc78608dbb23da73bfeda0eff9187578d8171be542",
+  "evidence_digest": "sha256:09c1ecbc1269bf10d4584a5414e44c728905cd76ded46e811a335eef91b47ad2",
+  "gate_id": "c54749d7b3c145cda7b119080e9376cf",
+  "gate_seq": 2089
+ }
+}

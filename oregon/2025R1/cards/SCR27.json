@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SCR 27",
+ "measure_id": "SCR27",
+ "subject": "or_legislature/2025R1/SCR27",
+ "title": "Provides that Senators and Representatives may use their services and supplies account to pay for parking permits to be supplied to member staff or to reimburse member staff for parking costs associated with parking at or near the State Capitol.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SCR 27 did not pass",
+ "claims": [
+  {
+   "text": "SCR 27 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624808
+   ]
+  },
+  {
+   "text": "SCR 27 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658956
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624808,
+    625720,
+    658956
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624808
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624808
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SCR' and MeasureNumber eq 27&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SCR27",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10356,
+  "finding_hash": "617a8dc311200214b312e0198b0b3bb2fbe81367ab16c1ec1a53f0583c262bfa",
+  "evidence_digest": "sha256:1213acc365b4bcbf37faa62fda6e9e9f58bcb97ae63ed9b2e0494c95be2d2cc6",
+  "gate_id": "6a14001a8e1d4e16836e1cd081416f8b",
+  "gate_seq": 10357
+ }
+}

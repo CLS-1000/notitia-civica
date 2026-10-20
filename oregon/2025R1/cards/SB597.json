@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "SB 597",
+ "measure_id": "SB597",
+ "subject": "or_legislature/2025R1/SB597",
+ "title": "Directs the Oregon Health Authority to establish a grant program to provide financial support to certified dental sealant programs that promote and engage in oral health care coordination activities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 597 did not pass",
+ "claims": [
+  {
+   "text": "SB 597 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615902
+   ]
+  },
+  {
+   "text": "SB 597 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658788
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615902,
+    618169,
+    622335,
+    623730,
+    633978,
+    635789,
+    635790,
+    658788
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615902
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615902
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623730
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    633978
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    635789
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 597&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB597",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7899,
+  "finding_hash": "6634d8cb0ccf072a86be92a30876da64ec0352c7c1a5e50d7b5c34527fdaed3f",
+  "evidence_digest": "sha256:b93070b0fc2ea1b4e5ee24669aba95622c5c463ac39f490b1bf061ed0a8ca943",
+  "gate_id": "dc017fa1fae341eab796e5d13345afa4",
+  "gate_seq": 7900
+ }
+}

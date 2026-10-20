@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3985",
+ "measure_id": "HB3985",
+ "subject": "or_legislature/2025R1/HB3985",
+ "title": "Modifies the minimum standards for staffing plans for direct care registered nurses in an emergency department.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3985 did not pass",
+ "claims": [
+  {
+   "text": "HB 3985 was introduced in the House on June 13, 2025.",
+   "row_ids": [
+    654474
+   ]
+  },
+  {
+   "text": "HB 3985 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660315
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    654474,
+    655790,
+    660315
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-06-13",
+   "when": "June 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    654474
+   ]
+  },
+  {
+   "date": "2025-06-13",
+   "when": "June 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    654474
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3985&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3985",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5952,
+  "finding_hash": "54093bfd5c66a0791169910bfa1e23a9dd9bed25400a8765c290abcc6ec199a2",
+  "evidence_digest": "sha256:f912ed72200f14268f209885d70c9564c3687d4d5997ca8d7424d92992fb6ac1",
+  "gate_id": "65381651a7ae4e40bb0c46fd677a1e64",
+  "gate_seq": 5953
+ }
+}

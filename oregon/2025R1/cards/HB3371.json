@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3371",
+ "measure_id": "HB3371",
+ "subject": "or_legislature/2025R1/HB3371",
+ "title": "Requires landlords to notify and treat lienholders of abandoned vehicles the same as lienholders of abandoned recreational vehicles, manufactured dwellings or floating homes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3371 did not pass",
+ "claims": [
+  {
+   "text": "HB 3371 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619422
+   ]
+  },
+  {
+   "text": "HB 3371 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660726
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619422,
+    619794,
+    621085,
+    660726
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619422
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619422
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621085
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660726
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3371&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3371",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4110,
+  "finding_hash": "a860325db0e0f2aedf1d7db02324cd069d037b6335adc1d446ad205ca2b9b849",
+  "evidence_digest": "sha256:341b9d736455ab0d0e246216eea45a415c2a0ec5d1f3f9d6f8fb23763563b696",
+  "gate_id": "873b251164d64e81b3fd1b6d57bfbe56",
+  "gate_seq": 4111
+ }
+}

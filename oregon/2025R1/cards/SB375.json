@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 375",
+ "measure_id": "SB375",
+ "subject": "or_legislature/2025R1/SB375",
+ "title": "Establishes certain additional requirements concerning projects under the Good Neighbor Authority Agreement.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 375 did not pass",
+ "claims": [
+  {
+   "text": "SB 375 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615680
+   ]
+  },
+  {
+   "text": "SB 375 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658760
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615680,
+    617947,
+    658760
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615680
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615680
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 375&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB375",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7233,
+  "finding_hash": "a5da886ac0bec2e1bb17b806b72fb55685457126a38949f99a5b363fc75f1980",
+  "evidence_digest": "sha256:54acc18a2da503fde14dd5ee44f9f7f08e6e3b58abfd74643f66a57f31ad671c",
+  "gate_id": "0a3a8e581f3442e083c6371dd68883ea",
+  "gate_seq": 7234
+ }
+}

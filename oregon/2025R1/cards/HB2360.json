@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2360",
+ "measure_id": "HB2360",
+ "subject": "or_legislature/2025R1/HB2360",
+ "title": "Authorizes the involuntary civil commitment of a person with a substance use disorder who meets the criteria for involuntary civil commitment of a person with a mental disorder.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2360 did not pass",
+ "claims": [
+  {
+   "text": "HB 2360 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614324
+   ]
+  },
+  {
+   "text": "HB 2360 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660704
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614324,
+    616533,
+    660704
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614324
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614324
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2360&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2360",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1077,
+  "finding_hash": "e8c63789c3868341741a02038a60cc6ecc2a026fc3f855d6ef6153888634b772",
+  "evidence_digest": "sha256:59ccb43d6344fc612f0a857a14f69457c942311fddb07f0080312d943cc47963",
+  "gate_id": "ebb8fa6d79e14c849269cc9e98e7d040",
+  "gate_seq": 1078
+ }
+}

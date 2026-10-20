@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3186",
+ "measure_id": "HB3186",
+ "subject": "or_legislature/2025R1/HB3186",
+ "title": "Changes the name of the State Board of Towing to the Oregon State Board of Towing.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3186 did not pass",
+ "claims": [
+  {
+   "text": "HB 3186 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615150
+   ]
+  },
+  {
+   "text": "HB 3186 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660883
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615150,
+    617359,
+    645044,
+    648655,
+    649623,
+    649624,
+    660883
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615150
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615150
+   ]
+  },
+  {
+   "date": "2025-05-06",
+   "when": "May 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    645044
+   ]
+  },
+  {
+   "date": "2025-05-20",
+   "when": "May 20, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    648655
+   ]
+  },
+  {
+   "date": "2025-05-27",
+   "when": "May 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    649623
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3186&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3186",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3555,
+  "finding_hash": "d321f97b3aa137b2a991f3fa25444f5617329ec2d8f98fa6b5f1140bef3f2ca7",
+  "evidence_digest": "sha256:1c8fdc984197381c4d33ef621a00c0d95d28b93ee658f54f9578cee704825cc4",
+  "gate_id": "264c6ceccabc433ab168c7d822c194d2",
+  "gate_seq": 3556
+ }
+}

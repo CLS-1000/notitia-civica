@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 781",
+ "measure_id": "SB781",
+ "subject": "or_legislature/2025R1/SB781",
+ "title": "Provides that if a credit union acquires assets of a banking institution, receipts from the business portfolio acquired from the bank remain subject to the corporate excise tax and corporate activity tax.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 781 did not pass",
+ "claims": [
+  {
+   "text": "SB 781 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616085
+   ]
+  },
+  {
+   "text": "SB 781 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659185
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616085,
+    618352,
+    643093,
+    659185
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616085
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616085
+   ]
+  },
+  {
+   "date": "2025-04-28",
+   "when": "April 28, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    643093
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659185
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 781&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB781",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8451,
+  "finding_hash": "9bd4de61e06631956214ee8c8a680a2f39aeb1d8c124c03b14ef1a1b8b2b339a",
+  "evidence_digest": "sha256:04e4c97e58476a0f63ee840b56616e604ff936b5f976bef571b3b3d17f7d459a",
+  "gate_id": "7cb93205b0fc4c7aa9ba268b0e162cfa",
+  "gate_seq": 8452
+ }
+}

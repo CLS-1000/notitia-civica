@@ -1,0 +1,146 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3881",
+ "measure_id": "HB3881",
+ "subject": "or_legislature/2025R1/HB3881",
+ "title": "Adds school districts that apply for and receive a matching fund grant from the Department of Education to the definition of \"qualifying agency\" for the purpose of applying apprenticeship requirements in connection with constructing public improvement projects.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3881 did not pass",
+ "claims": [
+  {
+   "text": "HB 3881 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625057
+   ]
+  },
+  {
+   "text": "HB 3881 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661085
+   ]
+  },
+  {
+   "text": "Each of the 11 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625057,
+    626466,
+    629949,
+    639566,
+    641114,
+    641115,
+    646782,
+    648701,
+    649828,
+    649829,
+    661085
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625057
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625057
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629949
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639566
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    641114
+   ]
+  },
+  {
+   "date": "2025-05-14",
+   "when": "May 14, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    646782
+   ]
+  },
+  {
+   "date": "2025-05-21",
+   "when": "May 21, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    648701
+   ]
+  },
+  {
+   "date": "2025-05-27",
+   "when": "May 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    649828
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3881&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3881",
+ "row_count": 11,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5640,
+  "finding_hash": "c5d59927396c365ef21cd2c18f27a4e01f26c79fe9e5975cc80f36b1917fd8f9",
+  "evidence_digest": "sha256:25fa5a3cd104e94ced6bb85123ffa3f2da2b342afc733c6e7283ec3c819513b0",
+  "gate_id": "8f0c3e4b212f4d539668be7e6918b9be",
+  "gate_seq": 5641
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2031",
+ "measure_id": "HB2031",
+ "subject": "or_legislature/2025R1/HB2031",
+ "title": "Makes changes to the definition of \"appropriate bargaining unit\" to clarify that athletic trainers are included in positions considered to be academically licensed.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2031 did not pass",
+ "claims": [
+  {
+   "text": "HB 2031 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    613995
+   ]
+  },
+  {
+   "text": "HB 2031 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659983
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    613995,
+    616204,
+    659983
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    613995
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    613995
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2031&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2031",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 90,
+  "finding_hash": "02f504e15d697b70a03ee33172005de371da7d6aaaec4d1c62c8185935711e2a",
+  "evidence_digest": "sha256:646e7003f761aa1de7c960edb6ac460563a6605d8ad7ebe9090dfd5d515e63b5",
+  "gate_id": "6145f0d602ff462b87a8efa2f78010cb",
+  "gate_seq": 91
+ }
+}

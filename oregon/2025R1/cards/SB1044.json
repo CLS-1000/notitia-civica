@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1044",
+ "measure_id": "SB1044",
+ "subject": "or_legislature/2025R1/SB1044",
+ "title": "Clarifies for purposes of state wage and hour laws that \"work time\" does not include meal periods.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1044 did not pass",
+ "claims": [
+  {
+   "text": "SB 1044 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623054
+   ]
+  },
+  {
+   "text": "SB 1044 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659135
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623054,
+    623126,
+    629981,
+    659135
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623054
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623054
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629981
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659135
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1044&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1044",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9240,
+  "finding_hash": "eb52463f2ca8723ec8850301cd76a5ff221d69c239dabe1249426d18c699c6f2",
+  "evidence_digest": "sha256:7d0adcc553272e673b5e2d2d31717f68c3bd65f8edcaaaf290b0bd0794710284",
+  "gate_id": "3554d20dc8e34d6b82bb0e745d166d47",
+  "gate_seq": 9241
+ }
+}

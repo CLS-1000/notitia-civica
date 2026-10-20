@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3129",
+ "measure_id": "HB3129",
+ "subject": "or_legislature/2025R1/HB3129",
+ "title": "Establishes the Higher Education Behavioral Health Workforce Expansion Fund.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3129 did not pass",
+ "claims": [
+  {
+   "text": "HB 3129 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615093
+   ]
+  },
+  {
+   "text": "HB 3129 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660019
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615093,
+    617302,
+    624217,
+    629283,
+    630019,
+    630020,
+    660019
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615093
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615093
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624217
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    629283
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    630019
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3129&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3129",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3384,
+  "finding_hash": "4ab8e6d18f82fb01b6446fcde7db237e0f73be123ff753c9f5495217451c9068",
+  "evidence_digest": "sha256:dee3ff284a6bcfccf21e28efbc8318b73a1dc7ef4490580ca4ed3be10fab5580",
+  "gate_id": "7b27ae2d757c467bad39a125fbb00dd8",
+  "gate_seq": 3385
+ }
+}

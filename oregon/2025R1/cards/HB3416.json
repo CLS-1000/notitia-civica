@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3416",
+ "measure_id": "HB3416",
+ "subject": "or_legislature/2025R1/HB3416",
+ "title": "Requires the Legislative Revenue Officer to study the personal income tax system.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3416 did not pass",
+ "claims": [
+  {
+   "text": "HB 3416 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619467
+   ]
+  },
+  {
+   "text": "HB 3416 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659927
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619467,
+    619839,
+    659927
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619467
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619467
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3416&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3416",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4245,
+  "finding_hash": "842a1c646ad456ac7a8cebad6be4aa792ecb2cfa8e3eeb8c9dc3ab22ae3ec73c",
+  "evidence_digest": "sha256:6c4dc1b36d297da437ff8a312a6faac2f878789a3463756162fd23983129403b",
+  "gate_id": "23bb0b330a5d4e5db366046aa6f3d31e",
+  "gate_seq": 4246
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3052",
+ "measure_id": "HB3052",
+ "subject": "or_legislature/2025R1/HB3052",
+ "title": "Requires the Department of Environmental Quality to study perfluoroalkyl and polyfluoroalkyl substances (PFAS).",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3052 did not pass",
+ "claims": [
+  {
+   "text": "HB 3052 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615016
+   ]
+  },
+  {
+   "text": "HB 3052 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660371
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615016,
+    617225,
+    660371
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615016
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615016
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3052&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3052",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3153,
+  "finding_hash": "e34756a302f60454bbb8cece0aee9138e22b35f6e95c98ef082d2879cf4b501e",
+  "evidence_digest": "sha256:91ff831a3ea002a9a6ddc7fff54426dd6aa0317d2a4015651ad2616db42db42a",
+  "gate_id": "b5db09eb960e4a019265f5cfe4dc7fc6",
+  "gate_seq": 3154
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3142",
+ "measure_id": "HB3142",
+ "subject": "or_legislature/2025R1/HB3142",
+ "title": "Exempts employers of noncitizens in agricultural labor who are not eligible for unemployment insurance benefits from liability for contributions related to that labor.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3142 did not pass",
+ "claims": [
+  {
+   "text": "HB 3142 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615106
+   ]
+  },
+  {
+   "text": "HB 3142 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660028
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615106,
+    617315,
+    622185,
+    660028
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615106
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615106
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622185
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660028
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3142&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3142",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3423,
+  "finding_hash": "762fb789a39d24b2da81e829b5a81f5968b0cf40829843cd2b0cb2ccc4069ecc",
+  "evidence_digest": "sha256:870f90b506169f9ac8257bb1ca05ffcd160c2b9dc49da0048f04901efc9c43b6",
+  "gate_id": "9d8d00cefb19434ca6c00240ccc76675",
+  "gate_seq": 3424
+ }
+}

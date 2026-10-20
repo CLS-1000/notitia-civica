@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 261",
+ "measure_id": "SB261",
+ "subject": "or_legislature/2025R1/SB261",
+ "title": "Directs the Department of Justice to study possible modifications to post-conviction relief proceeding procedures to increase efficiency, and provide the results of the study to the interim committees of the Legislative Assembly no later than December 31, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 261 did not pass",
+ "claims": [
+  {
+   "text": "SB 261 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615566
+   ]
+  },
+  {
+   "text": "SB 261 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658657
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615566,
+    617833,
+    658657
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615566
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615566
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 261&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB261",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6891,
+  "finding_hash": "a7132e62c5df829d15c1d7b0bfb769462352e0ca62732379ac854fdb1e700b79",
+  "evidence_digest": "sha256:d3a7573bcbab7cb4c0b484e19504fc4e9e62c8b6a6496be0f4c9d3cd2c0807a4",
+  "gate_id": "cbaac494eaee42ad9c51633785c6ee84",
+  "gate_seq": 6892
+ }
+}

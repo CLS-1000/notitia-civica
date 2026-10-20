@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3674",
+ "measure_id": "HB3674",
+ "subject": "or_legislature/2025R1/HB3674",
+ "title": "Makes certain changes related to members of the Oregon Hatchery Research Center Board.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3674 did not pass",
+ "claims": [
+  {
+   "text": "HB 3674 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624358
+   ]
+  },
+  {
+   "text": "HB 3674 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660424
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624358,
+    625219,
+    660424
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624358
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624358
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3674&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3674",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5019,
+  "finding_hash": "2d6ca496e26e0d159ed7573f9d1729fca33fbdd5392dda38e2328fd513349d51",
+  "evidence_digest": "sha256:9511313c3758d1b8aa901b5faead8d1f3485a1dfa58847272d557a918cabb6d6",
+  "gate_id": "8837266e38944ea5ac7504e629bc5b61",
+  "gate_seq": 5020
+ }
+}

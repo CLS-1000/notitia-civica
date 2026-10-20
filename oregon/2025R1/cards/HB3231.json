@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3231",
+ "measure_id": "HB3231",
+ "subject": "or_legislature/2025R1/HB3231",
+ "title": "Requires the passenger rail plan to include strategies for upgrading and improving railroad track, strategies related to infrastructure and boosting capacity and information about federal grants sought and received.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3231 did not pass",
+ "claims": [
+  {
+   "text": "HB 3231 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615195
+   ]
+  },
+  {
+   "text": "HB 3231 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660183
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615195,
+    617404,
+    620791,
+    660183
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615195
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615195
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620791
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660183
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3231&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3231",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3690,
+  "finding_hash": "f3713924d7306cb6e4097b87ff0b230acb510a78c3e3c54857bf92b13821d2e6",
+  "evidence_digest": "sha256:9af32ec7f7fe6fb3aa2557735c4b51068c106acce57fbebb4767e64b8e83409f",
+  "gate_id": "44c63c4c9a874e4d876aa8438daa710c",
+  "gate_seq": 3691
+ }
+}

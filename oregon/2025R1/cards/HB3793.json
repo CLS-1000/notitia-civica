@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3793",
+ "measure_id": "HB3793",
+ "subject": "or_legislature/2025R1/HB3793",
+ "title": "Requires the Department of Justice to study public records requests.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3793 did not pass",
+ "claims": [
+  {
+   "text": "HB 3793 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624969
+   ]
+  },
+  {
+   "text": "HB 3793 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661361
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624969,
+    626378,
+    661361
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624969
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624969
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3793&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3793",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5376,
+  "finding_hash": "f8c47c503ed89698a5582955131489b1c97072b44780d10b77e747fae707870b",
+  "evidence_digest": "sha256:bf3940cf1a455a0126a24c8a16e7e3f5d3e79c03fb15ebbbf1485119352df5c5",
+  "gate_id": "67e69c5c5f214f4c848f3ad3ae7af1b0",
+  "gate_seq": 5377
+ }
+}

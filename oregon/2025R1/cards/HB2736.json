@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2736",
+ "measure_id": "HB2736",
+ "subject": "or_legislature/2025R1/HB2736",
+ "title": "Requires the Department of Education to study how school districts serve students who have been voluntarily placed outside the students' homes with public or private agencies.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2736 did not pass",
+ "claims": [
+  {
+   "text": "HB 2736 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614700
+   ]
+  },
+  {
+   "text": "HB 2736 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660152
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614700,
+    616909,
+    660152
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614700
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614700
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2736&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2736",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2205,
+  "finding_hash": "f634e643eca3915f4edf0ae45ad71723e2670831d63b17dc69c825ddaeb2ccd8",
+  "evidence_digest": "sha256:a1cd09be7d23727436b92c0f5363353a1b8106ad5b895c11ff9028924064299f",
+  "gate_id": "cdbdb3b8d35d49e387749cf1ec25a270",
+  "gate_seq": 2206
+ }
+}

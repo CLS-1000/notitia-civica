@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2570",
+ "measure_id": "HB2570",
+ "subject": "or_legislature/2025R1/HB2570",
+ "title": "Requires the Director of the Department of Consumer and Business Services to keep confidential and not disclose to the public any personally identifiable information of employees who provided information for or participated in investigations or inspections of places of employment.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2570 did not pass",
+ "claims": [
+  {
+   "text": "HB 2570 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614534
+   ]
+  },
+  {
+   "text": "HB 2570 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660901
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614534,
+    616743,
+    620288,
+    660901
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614534
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614534
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "when": "February 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    620288
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660901
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2570&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2570",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1707,
+  "finding_hash": "9a068f4d7b5c4e6f1585c73918d2c81b8795ef5a5d10bfdcd6f634552a84380a",
+  "evidence_digest": "sha256:aa4ec05ec31aa78edd73b04b505bbc2b11d1086d088224cc0c6fac9a753c72dc",
+  "gate_id": "30cc55622727406db45fabfdfd92f4d8",
+  "gate_seq": 1708
+ }
+}

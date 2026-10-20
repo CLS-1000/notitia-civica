@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3720",
+ "measure_id": "HB3720",
+ "subject": "or_legislature/2025R1/HB3720",
+ "title": "Requires labor negotiations conducted by or on behalf of public bodies to be conducted in open meetings.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3720 did not pass",
+ "claims": [
+  {
+   "text": "HB 3720 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624404
+   ]
+  },
+  {
+   "text": "HB 3720 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660454
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624404,
+    625265,
+    660454
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624404
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624404
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3720&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3720",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5157,
+  "finding_hash": "ee4391a33a82b783564992ae8f59a0886db7028216a1e4fc32b334113fb1e3c1",
+  "evidence_digest": "sha256:0804d765ae1286c068f23e49933d545555d2a3772f9cb36733d9d44aba41490d",
+  "gate_id": "e1bd833f9bc142a8a833ba63583b47a7",
+  "gate_seq": 5158
+ }
+}

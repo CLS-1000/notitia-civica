@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 936",
+ "measure_id": "SB936",
+ "subject": "or_legislature/2025R1/SB936",
+ "title": "Makes a public health infrastructure facility an allowed use on any zone if the Oregon Health Authority, Department of Environmental Quality or United States Environmental Protection Agency has established a deadline for the development of the facility.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 936 did not pass",
+ "claims": [
+  {
+   "text": "SB 936 was introduced in the Senate on January 23, 2025.",
+   "row_ids": [
+    619024
+   ]
+  },
+  {
+   "text": "SB 936 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659348
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619024,
+    619090,
+    659348
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-23",
+   "when": "January 23, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    619024
+   ]
+  },
+  {
+   "date": "2025-01-23",
+   "when": "January 23, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619024
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 936&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB936",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8916,
+  "finding_hash": "0e3a42cc8b982ece2345727af61aaabb96366262ea74e41fa2c08dacbaa26498",
+  "evidence_digest": "sha256:13b610947b9cc5a0e562a1fbf4fa070cc34112ab7b2dfc2a47e3a8a5196d48db",
+  "gate_id": "8c629502024440ebb855ca2a9da8f2d5",
+  "gate_seq": 8917
+ }
+}

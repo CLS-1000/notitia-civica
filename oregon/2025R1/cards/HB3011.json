@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3011",
+ "measure_id": "HB3011",
+ "subject": "or_legislature/2025R1/HB3011",
+ "title": "Establishes the Early Childhood Education Workforce Development Fund and appropriates moneys in the fund to the Higher Education Coordinating Commission to provide funding to community colleges and public universities in this state that offer on-the-job training for students enrolled in early care and education or related degree or certificate programs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3011 did not pass",
+ "claims": [
+  {
+   "text": "HB 3011 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614975
+   ]
+  },
+  {
+   "text": "HB 3011 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660362
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614975,
+    617184,
+    621695,
+    638737,
+    640429,
+    640430,
+    660362
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614975
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614975
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621695
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638737
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640429
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3011&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3011",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3030,
+  "finding_hash": "7d47d3ddb8f68188a5aff5ac9fa36f84960ddb4d94551f1991f5ec4b95fac1a4",
+  "evidence_digest": "sha256:23c28dfc46c9abbb463e4afb4b303b8c3223fa830c312dde86f075e67dfcca28",
+  "gate_id": "6280a2c70e5345eda9062f4fbaf7be77",
+  "gate_seq": 3031
+ }
+}

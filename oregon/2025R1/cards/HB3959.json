@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3959",
+ "measure_id": "HB3959",
+ "subject": "or_legislature/2025R1/HB3959",
+ "title": "Permits the Department of Transportation to not provide electronic records of persons who are program participants in the Address Confidentiality Program to the Secretary of State for purposes of automatic voter registration.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3959 did not pass",
+ "claims": [
+  {
+   "text": "HB 3959 was introduced in the House on April 10, 2025.",
+   "row_ids": [
+    639655
+   ]
+  },
+  {
+   "text": "HB 3959 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660307
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    639655,
+    640678,
+    660307
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    639655
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "when": "April 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    639655
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3959&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3959",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5874,
+  "finding_hash": "a687e1b626abd2f5bfc3bdc501d93c8750bfed08b6bff0b77f356e227dcd04f1",
+  "evidence_digest": "sha256:9a3d97302b987a1476c32352c58902ea3d56bdd356518e6c12c53c3b17640407",
+  "gate_id": "ade5e7a2751a4fb5963ef3ae8187e3aa",
+  "gate_seq": 5875
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2308",
+ "measure_id": "HB2308",
+ "subject": "or_legislature/2025R1/HB2308",
+ "title": "Requires manufacturers of consumer products that enable access to the Internet, that have operating systems that recognize the geographical location where the device is being used and that determine a user's age during setup to also have a parental control filter that blocks access to software applications and Internet sites that provide access to obscene material and to turn the parental control filter on automatically during setup for users who are younger than 18 years of age.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2308 did not pass",
+ "claims": [
+  {
+   "text": "HB 2308 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614272
+   ]
+  },
+  {
+   "text": "HB 2308 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659842
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614272,
+    616481,
+    659842
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614272
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614272
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2308&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2308",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 921,
+  "finding_hash": "18076d36524c2bde238ffe12b39e3ad76228fda5eeadd680fb16dd8f3953e11a",
+  "evidence_digest": "sha256:db6ecf81ecee3526b22fb5386a0804dce841a0c56532201a9621874cb72e8e98",
+  "gate_id": "6a5d791c7af040f2a335215012900603",
+  "gate_seq": 922
+ }
+}

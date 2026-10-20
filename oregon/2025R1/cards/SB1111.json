@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1111",
+ "measure_id": "SB1111",
+ "subject": "or_legislature/2025R1/SB1111",
+ "title": "Changes the term \"marijuana\" to \"cannabis\" in Oregon law.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1111 did not pass",
+ "claims": [
+  {
+   "text": "SB 1111 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624821
+   ]
+  },
+  {
+   "text": "SB 1111 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659212
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624821,
+    625733,
+    629934,
+    659212
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624821
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624821
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629934
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659212
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1111&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1111",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9441,
+  "finding_hash": "2b51618a6e7e2e34909a32c64686e4543d733c665e35b8e66974b34931b6389a",
+  "evidence_digest": "sha256:bbad373f719de27662859e0047e564af716f47041996b8c5406addd17f8d1262",
+  "gate_id": "41aa76f3c67047948ebf82abb2e654dc",
+  "gate_seq": 9442
+ }
+}

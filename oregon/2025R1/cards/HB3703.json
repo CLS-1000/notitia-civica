@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3703",
+ "measure_id": "HB3703",
+ "subject": "or_legislature/2025R1/HB3703",
+ "title": "Directs the Water Resources Department to study the use of voluntary agreements for ground water management.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3703 did not pass",
+ "claims": [
+  {
+   "text": "HB 3703 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624387
+   ]
+  },
+  {
+   "text": "HB 3703 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660437
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624387,
+    625248,
+    660437
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624387
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624387
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3703&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3703",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5106,
+  "finding_hash": "ebcdbb81125327aa8e17319ec2b327b42840f483e23a3f1eb5ef1745520a3bcf",
+  "evidence_digest": "sha256:d611aacc342b18ba299847f68b2adb173de7dd137f81ef57edefb04349a02de3",
+  "gate_id": "155e5cbd0f0348dc8da5397815fb2010",
+  "gate_seq": 5107
+ }
+}

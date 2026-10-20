@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2568",
+ "measure_id": "HB2568",
+ "subject": "or_legislature/2025R1/HB2568",
+ "title": "Establishes two new subaccounts in the Consumer and Business Services Fund: the Consumer Financial Education Account and the Consumer Insurance Education Account.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2568 did not pass",
+ "claims": [
+  {
+   "text": "HB 2568 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614532
+   ]
+  },
+  {
+   "text": "HB 2568 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660899
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614532,
+    616741,
+    660899
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614532
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614532
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2568&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2568",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1701,
+  "finding_hash": "00125ac994cb01299500ea7efbc4a9fc67b2a456304413ee8d6f3a226ff3ae71",
+  "evidence_digest": "sha256:097dcf6bfeb12fdfb74e09f954600adfabfc3ce727e1fa30d5113e7cb31ae782",
+  "gate_id": "ddd073216d1646f08344fd7e2bb06f31",
+  "gate_seq": 1702
+ }
+}

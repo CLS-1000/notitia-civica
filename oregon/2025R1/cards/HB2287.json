@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2287",
+ "measure_id": "HB2287",
+ "subject": "or_legislature/2025R1/HB2287",
+ "title": "Requires the Department of Early Learning and Care to study child care.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2287 did not pass",
+ "claims": [
+  {
+   "text": "HB 2287 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614251
+   ]
+  },
+  {
+   "text": "HB 2287 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659825
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614251,
+    616460,
+    659825
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614251
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614251
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2287&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2287",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 858,
+  "finding_hash": "cab922fac2b94219c9af967518fcb5de15cdfb9bb99446773d82b04746ac082b",
+  "evidence_digest": "sha256:8e602c36e5fd32e9f580526b424023198b4433baeff52a69ebf1c960a4e98bbc",
+  "gate_id": "3c7b5b79e53d4d129e60151b2aacb12d",
+  "gate_seq": 859
+ }
+}

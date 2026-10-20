@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3216",
+ "measure_id": "HB3216",
+ "subject": "or_legislature/2025R1/HB3216",
+ "title": "Directs the Bureau of Labor and Industries to study the feasibility of developing a centralized system for reporting compliance with prevailing wage payment requirements.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3216 did not pass",
+ "claims": [
+  {
+   "text": "HB 3216 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615180
+   ]
+  },
+  {
+   "text": "HB 3216 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660171
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615180,
+    617389,
+    622186,
+    626770,
+    627315,
+    627316,
+    660171
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615180
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615180
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "when": "February 12, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622186
+   ]
+  },
+  {
+   "date": "2025-03-05",
+   "when": "March 5, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    626770
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    627315
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3216&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3216",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3645,
+  "finding_hash": "f0336d9702bf939acfbd3067c9b4fda3fb94ea6df6262c8c2f1ee9e3228c5af6",
+  "evidence_digest": "sha256:0a10329c7d1f71d1d5db5ca271c13faaa3046d79c94981c6e4affeaebc6681f5",
+  "gate_id": "eb1d34b64fe34637af5dd04fb07c5a3d",
+  "gate_seq": 3646
+ }
+}

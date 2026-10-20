@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3265",
+ "measure_id": "HB3265",
+ "subject": "or_legislature/2025R1/HB3265",
+ "title": "Requires the Oregon Department of Administrative Services to study alternative methods to implement retainage provisions in public improvement contracts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3265 did not pass",
+ "claims": [
+  {
+   "text": "HB 3265 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618736
+   ]
+  },
+  {
+   "text": "HB 3265 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660972
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618736,
+    619134,
+    660972
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618736
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618736
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3265&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3265",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3792,
+  "finding_hash": "33510cd902b0d386e135be72f930f9c06d00c82375c865158299829d06f1b659",
+  "evidence_digest": "sha256:b5882c5df510a071c05e136425cfbf47e8c6449b705aed5011b1e704ba575072",
+  "gate_id": "f56ce28cee044821bf261931c55235b3",
+  "gate_seq": 3793
+ }
+}

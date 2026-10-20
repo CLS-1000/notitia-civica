@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2517",
+ "measure_id": "HB2517",
+ "subject": "or_legislature/2025R1/HB2517",
+ "title": "Directs the State Board of Education to adopt by rule criteria by which a school district is required to participate in an intensive program for school districts with the highest needs or may choose to participate in the program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2517 did not pass",
+ "claims": [
+  {
+   "text": "HB 2517 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614481
+   ]
+  },
+  {
+   "text": "HB 2517 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659800
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614481,
+    616690,
+    659800
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614481
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614481
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2517&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2517",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1548,
+  "finding_hash": "8c258487dfc98ede7c862c7b99a895d1f365737047438a2a895671bb57ecbed5",
+  "evidence_digest": "sha256:1a7d4ed511d1010d4eedb1469ef27c40300e7d16c2520b21e9d42e229ed6f24e",
+  "gate_id": "d2cae5bf8ed542b29d44cc24cdc528b1",
+  "gate_seq": 1549
+ }
+}

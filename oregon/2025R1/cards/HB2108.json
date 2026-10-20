@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2108",
+ "measure_id": "HB2108",
+ "subject": "or_legislature/2025R1/HB2108",
+ "title": "Requires the Department of Education to contract with a third party to conduct a study to determine how to promote the effective use of instructional time for the purposes of achieving positive learning outcomes and promoting a positive classroom learning environment.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2108 did not pass",
+ "claims": [
+  {
+   "text": "HB 2108 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614072
+   ]
+  },
+  {
+   "text": "HB 2108 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661263
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614072,
+    616281,
+    661263
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614072
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614072
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2108&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2108",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 321,
+  "finding_hash": "571a5ccb41d0607b90423c7bd7604959b6526bd1300788c5acfb98e965816df6",
+  "evidence_digest": "sha256:42519be552bbd28c64d5467350e6c161391c093ce077910afe6bd8e43bed5ebc",
+  "gate_id": "f75d3284b0b9408a841049ff4d26fb02",
+  "gate_seq": 322
+ }
+}

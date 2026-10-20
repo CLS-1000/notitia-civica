@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1048",
+ "measure_id": "SB1048",
+ "subject": "or_legislature/2025R1/SB1048",
+ "title": "Requires each county clerk to ensure that an equal number of volunteers from each major political party assist with the county clerk's official duties.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1048 did not pass",
+ "claims": [
+  {
+   "text": "SB 1048 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623058
+   ]
+  },
+  {
+   "text": "SB 1048 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659431
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623058,
+    623130,
+    659431
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623058
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623058
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1048&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1048",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9252,
+  "finding_hash": "42acfe53d044b90cfc594b6d035ed0367bd905d41c7812908715d4cac9a62bfd",
+  "evidence_digest": "sha256:4d9af70fbd64ea4e7b834a7491c0be558704a95f4c559f7d20e15741f579556e",
+  "gate_id": "06a20e4f04924e7fb2b3318f08b57ac6",
+  "gate_seq": 9253
+ }
+}

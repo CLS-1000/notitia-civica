@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2754",
+ "measure_id": "HB2754",
+ "subject": "or_legislature/2025R1/HB2754",
+ "title": "Prohibits viewpoint discrimination by nonresidential landlords.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2754 did not pass",
+ "claims": [
+  {
+   "text": "HB 2754 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614718
+   ]
+  },
+  {
+   "text": "HB 2754 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661134
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614718,
+    616927,
+    661134
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614718
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614718
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2754&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2754",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2259,
+  "finding_hash": "ee30d8a92d3d410867eebd26a1ab556cb3c45f34dc1092621884eea503d03311",
+  "evidence_digest": "sha256:b621bad5e47643b37c467e2f140857bb99eac50409b30082ea2758fb3dfe19e3",
+  "gate_id": "be4c4ab7669b48d4a1f251720780f52c",
+  "gate_seq": 2260
+ }
+}

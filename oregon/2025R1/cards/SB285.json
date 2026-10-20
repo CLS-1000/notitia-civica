@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 285",
+ "measure_id": "SB285",
+ "subject": "or_legislature/2025R1/SB285",
+ "title": "Requires the Department of Consumer and Business Services to study health insurance plans.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 285 did not pass",
+ "claims": [
+  {
+   "text": "SB 285 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615590
+   ]
+  },
+  {
+   "text": "SB 285 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658679
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615590,
+    617857,
+    658679
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615590
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615590
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 285&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB285",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6963,
+  "finding_hash": "2c1bdc0a64b916586ae5c29cbdad36663e05019a73e1155bdfc466a605f0b5dd",
+  "evidence_digest": "sha256:6ff3865de94eb59dfd3ea25a67081c00bf9c71d5693feb68f8f7e0313833bcb0",
+  "gate_id": "8368f724451e416ab1f1c850f128528b",
+  "gate_seq": 6964
+ }
+}

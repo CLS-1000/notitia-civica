@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3363",
+ "measure_id": "HB3363",
+ "subject": "or_legislature/2025R1/HB3363",
+ "title": "Modifies how the overtime cap is calculated for use in calculating the final average salary of members of the Oregon Public Service Retirement Plan.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3363 did not pass",
+ "claims": [
+  {
+   "text": "HB 3363 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619414
+   ]
+  },
+  {
+   "text": "HB 3363 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660721
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619414,
+    619786,
+    622788,
+    639564,
+    641108,
+    641109,
+    660721
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619414
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619414
+   ]
+  },
+  {
+   "date": "2025-02-17",
+   "when": "February 17, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    622788
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639564
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "when": "April 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    641108
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3363&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3363",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4086,
+  "finding_hash": "3a057d3c917a67fe1a3756ecc87f631ec6e02afaf9d485a68209ce9d453498da",
+  "evidence_digest": "sha256:9002fab7a8e6edd62f4b1479fb1b648009e4a9d58af6dc039cae80f4e9f0fa2c",
+  "gate_id": "eb94a8c72d9843648c1044292688e51e",
+  "gate_seq": 4087
+ }
+}

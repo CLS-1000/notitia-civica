@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 654",
+ "measure_id": "SB654",
+ "subject": "or_legislature/2025R1/SB654",
+ "title": "Authorizes district school boards to establish a policy to encourage students to develop vocational skills by performing maintenance tasks for school districts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 654 did not pass",
+ "claims": [
+  {
+   "text": "SB 654 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615959
+   ]
+  },
+  {
+   "text": "SB 654 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658848
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615959,
+    618226,
+    658848
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615959
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615959
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 654&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB654",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8070,
+  "finding_hash": "eed1eec6c5a7d8a2496bc1136fbb1942139be17399dd08f716c9b5d169f2c5a2",
+  "evidence_digest": "sha256:3267ff7130eb024e8f7ead4105f9fc17aecca9a6d6d5e98a59fe5df4467bbeae",
+  "gate_id": "5c70b28cede64d98adcab13e70c840cf",
+  "gate_seq": 8071
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3656",
+ "measure_id": "HB3656",
+ "subject": "or_legislature/2025R1/HB3656",
+ "title": "Provides that elections on local option tax measures shall be held only on the date of general elections in even-numbered years, with one exception for certain measures seeking to extend current local option taxes.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3656 did not pass",
+ "claims": [
+  {
+   "text": "HB 3656 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624340
+   ]
+  },
+  {
+   "text": "HB 3656 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660405
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624340,
+    625201,
+    660405
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624340
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624340
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3656&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3656",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4965,
+  "finding_hash": "7b5150a2188ab2f228935ddf2f6cde91fcbc04d11f3eab32de326cefaf1b3ac9",
+  "evidence_digest": "sha256:d7aa5644e83b09401e7e38be2cfb31dca5a5a2e108c8e2ef025e7ef9de957b30",
+  "gate_id": "28f601fe34ac4da8b7bc7f3875f90b8c",
+  "gate_seq": 4966
+ }
+}

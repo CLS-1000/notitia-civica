@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 52",
+ "measure_id": "SB52",
+ "subject": "or_legislature/2025R1/SB52",
+ "title": "Requires the Legislative Policy and Research Director to study affordable housing and to report to the interim committees of the Legislative Assembly related to housing by August 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 52 did not pass",
+ "claims": [
+  {
+   "text": "SB 52 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615357
+   ]
+  },
+  {
+   "text": "SB 52 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658762
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615357,
+    617624,
+    638344,
+    639385,
+    641694,
+    641695,
+    658762
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615357
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615357
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    638344
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639385
+   ]
+  },
+  {
+   "date": "2025-04-17",
+   "when": "April 17, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641694
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 52&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB52",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6264,
+  "finding_hash": "45cbc1bddf2fc80a9c8842d8e169d36d7762e844e88f11286f83a529698bdb78",
+  "evidence_digest": "sha256:265a1c2257024559d0282d62bfbc1a8c137c69a32b9703db12b9ae3f8f285e1a",
+  "gate_id": "cb5d6036779f43fb9789d3bab8d10df9",
+  "gate_seq": 6265
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2281",
+ "measure_id": "HB2281",
+ "subject": "or_legislature/2025R1/HB2281",
+ "title": "Requires the Oregon Business Development Department to study advanced manufacturing in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2281 did not pass",
+ "claims": [
+  {
+   "text": "HB 2281 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614245
+   ]
+  },
+  {
+   "text": "HB 2281 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659820
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614245,
+    616454,
+    659820
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614245
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614245
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2281&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2281",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 840,
+  "finding_hash": "91016fa4d2837a0dcf57d736baf652bad5f56948509ae649562172237be4f5fb",
+  "evidence_digest": "sha256:2df1f4cc4397e597f6ab0a6edb0646daad8bb046980606a6ecedb09f2449127f",
+  "gate_id": "1943ace219f54be0b8cc5f3f1d78af7b",
+  "gate_seq": 841
+ }
+}

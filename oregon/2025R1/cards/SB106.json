@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "SB 106",
+ "measure_id": "SB106",
+ "subject": "or_legislature/2025R1/SB106",
+ "title": "Requires the Legislative Revenue Officer to study the interdependence of the state and local tax systems in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 106 did not pass",
+ "claims": [
+  {
+   "text": "SB 106 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615411
+   ]
+  },
+  {
+   "text": "SB 106 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659448
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615411,
+    617678,
+    657087,
+    655850,
+    657509,
+    659448
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615411
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615411
+   ]
+  },
+  {
+   "date": "2025-06-16",
+   "when": "June 16, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    657087
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659448
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 106&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB106",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6426,
+  "finding_hash": "8f65f98ac9b3a4fbd937829aa41ae5a154ad7fc0b56b2376db6ad2eda761be4b",
+  "evidence_digest": "sha256:0b9ca557d53bb5d1783ba9c40a74ac78b92a109f3ed54164ab876ee4cd088b3b",
+  "gate_id": "d581dbc8ff2e4115a9362ba2bd675157",
+  "gate_seq": 6427
+ }
+}

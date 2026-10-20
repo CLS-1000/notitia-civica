@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2159",
+ "measure_id": "HB2159",
+ "subject": "or_legislature/2025R1/HB2159",
+ "title": "Requires the Department of Transportation to study the development of uniform standards for speed bump height and markings.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2159 did not pass",
+ "claims": [
+  {
+   "text": "HB 2159 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614123
+   ]
+  },
+  {
+   "text": "HB 2159 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660209
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614123,
+    616332,
+    660209
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614123
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614123
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2159&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2159",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 474,
+  "finding_hash": "1e41bd4a54dc1b245efea8cb97f5a4ecceb35b25c24dea13252193f21ef52b44",
+  "evidence_digest": "sha256:bdac7b572e84aab139b28ab824a8b54636dec81759fe78d033922f60eaf81c6c",
+  "gate_id": "90b66ff8390342d1bf98b6bf6d536bf4",
+  "gate_seq": 475
+ }
+}

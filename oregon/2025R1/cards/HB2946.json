@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2946",
+ "measure_id": "HB2946",
+ "subject": "or_legislature/2025R1/HB2946",
+ "title": "Requires the Secretary of State to perform a fiscal audit of the Department of Transportation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2946 did not pass",
+ "claims": [
+  {
+   "text": "HB 2946 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614910
+   ]
+  },
+  {
+   "text": "HB 2946 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660331
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614910,
+    617119,
+    660331
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614910
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614910
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2946&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2946",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2835,
+  "finding_hash": "0dac0af2832d2f83811666f5825fb92e0ebe96872558e797d907972af4667b57",
+  "evidence_digest": "sha256:e48ddfedf079f359c3a0f863da58d5f96200515d4910aa2797d98e94f74140d2",
+  "gate_id": "41e7c8433f7e45a1b7c64fc20806840b",
+  "gate_seq": 2836
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 272",
+ "measure_id": "SB272",
+ "subject": "or_legislature/2025R1/SB272",
+ "title": "Requires the State Court Administrator to study receivership and submit findings to the interim committees of the Legislative Assembly related to the judiciary not later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 272 did not pass",
+ "claims": [
+  {
+   "text": "SB 272 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615577
+   ]
+  },
+  {
+   "text": "SB 272 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658668
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615577,
+    617844,
+    658668
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615577
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615577
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 272&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB272",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6924,
+  "finding_hash": "a363f21bee19bc58c7e289764d5e79dd467fbb81911cfaf8d9da45306c41c611",
+  "evidence_digest": "sha256:b30a93c978449a8b75c6b89ee5bb303047e4644cc79dbe56b59f1790ff27d181",
+  "gate_id": "dfaf48f25be4400b82c2a0730a55acbe",
+  "gate_seq": 6925
+ }
+}

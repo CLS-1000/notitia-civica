@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2487",
+ "measure_id": "HB2487",
+ "subject": "or_legislature/2025R1/HB2487",
+ "title": "Requires the Oregon Health Authority to study civil commitment criteria.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2487 did not pass",
+ "claims": [
+  {
+   "text": "HB 2487 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614451
+   ]
+  },
+  {
+   "text": "HB 2487 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661453
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614451,
+    616660,
+    661453
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614451
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614451
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2487&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2487",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1458,
+  "finding_hash": "d452f0f74f20f075311b5e49d1481d6d41357165251dc6535816dc057c5b974f",
+  "evidence_digest": "sha256:c6b77ddf5375583c8932430bfc21c7f59f0cc19868ceb1eafdf06dff2d845e29",
+  "gate_id": "b4d6450646a14c1ab92680b54b143070",
+  "gate_seq": 1459
+ }
+}

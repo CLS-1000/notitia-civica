@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3571",
+ "measure_id": "HB3571",
+ "subject": "or_legislature/2025R1/HB3571",
+ "title": "Appropriates moneys to the Higher Education Coordinating Commission for distribution to Oregon State University for purposes of the Institute for Water and Watersheds.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3571 did not pass",
+ "claims": [
+  {
+   "text": "HB 3571 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622906
+   ]
+  },
+  {
+   "text": "HB 3571 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661317
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622906,
+    623461,
+    625941,
+    628181,
+    628754,
+    628755,
+    661317
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622906
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622906
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625941
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    628181
+   ]
+  },
+  {
+   "date": "2025-03-14",
+   "when": "March 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    628754
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3571&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3571",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4710,
+  "finding_hash": "eca4ee2e45c8f18bddc143d642561fd533cdc4c0995532421f41c65bc2d70be0",
+  "evidence_digest": "sha256:4c14a12553f28f0f692621a376e4ac7741b03224602f5e721e9c79377a40a4a0",
+  "gate_id": "2eb348b02d7c4a6fb2d98d859a16c44a",
+  "gate_seq": 4711
+ }
+}

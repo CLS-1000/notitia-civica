@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2379",
+ "measure_id": "HB2379",
+ "subject": "or_legislature/2025R1/HB2379",
+ "title": "Requires the Department of Education to conduct a study to identify effective methods for teaching students with dyslexia.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2379 did not pass",
+ "claims": [
+  {
+   "text": "HB 2379 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614343
+   ]
+  },
+  {
+   "text": "HB 2379 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660720
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614343,
+    616552,
+    660720
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614343
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614343
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2379&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2379",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1134,
+  "finding_hash": "ede7a0709c298467be52b6291d90969bfa3044ad09abbc7e9f5b4bcf5ac6ed2f",
+  "evidence_digest": "sha256:8ee6ea93134a31efc55e2fc3a62ad2f99cac54d4a36aa9720679783164153be1",
+  "gate_id": "1312edc9de724c48b537003ca903e1ee",
+  "gate_seq": 1135
+ }
+}

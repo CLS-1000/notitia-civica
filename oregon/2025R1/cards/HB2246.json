@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2246",
+ "measure_id": "HB2246",
+ "subject": "or_legislature/2025R1/HB2246",
+ "title": "Requires the Employment Department to study the implementation of unemployment insurance law in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2246 did not pass",
+ "claims": [
+  {
+   "text": "HB 2246 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614210
+   ]
+  },
+  {
+   "text": "HB 2246 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660251
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614210,
+    616419,
+    660251
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614210
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614210
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2246&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2246",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 735,
+  "finding_hash": "2fcbf0eacecc7d2c27631f32b6a444d079fc79532e0056a20fec7aa31dc21ec3",
+  "evidence_digest": "sha256:e69786e97659d38b9d900da21f507bd5d3accd6aaf9b5653f5d0e7a3e02d3e57",
+  "gate_id": "6ac368140b1d49b98813da774ac14f33",
+  "gate_seq": 736
+ }
+}

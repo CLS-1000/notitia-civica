@@ -1,0 +1,81 @@
+{
+ "session": "2025R1",
+ "measure": "HJR 17",
+ "measure_id": "HJR17",
+ "subject": "or_legislature/2025R1/HJR17",
+ "title": "Proposes an amendment to the Oregon Constitution to make the Secretary of State a nonpartisan office with a term of six years that would apply to elections to the office that occur on or after January 1, 2032. Refers the proposed amendment to the people for their approval or rejection at the next regular general election.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HJR 17 did not pass",
+ "claims": [
+  {
+   "text": "HJR 17 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621725
+   ]
+  },
+  {
+   "text": "HJR 17 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660591
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621725,
+    622102,
+    660591
+   ]
+  },
+  {
+   "text": "HJR 17 is a proposed change to the Oregon Constitution. It would have gone to voters if passed; it did not pass, so it will not be on your ballot.",
+   "row_ids": [
+    660591
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621725
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621725
+   ]
+  }
+ ],
+ "topics": [
+  "ballot",
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HJR' and MeasureNumber eq 17&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HJR17",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9960,
+  "finding_hash": "213fee4a317c8ff9c72880b1643a48888fd2fe0140ffcee55cf762fcddb22517",
+  "evidence_digest": "sha256:c95e1385b963a045027d9ed5ecbcfc4ae4845d55fac24e691734306dd387637e",
+  "gate_id": "afb01d09404a41a987f60fd18d21b466",
+  "gate_seq": 9961
+ }
+}

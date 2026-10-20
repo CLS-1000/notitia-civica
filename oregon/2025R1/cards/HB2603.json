@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2603",
+ "measure_id": "HB2603",
+ "subject": "or_legislature/2025R1/HB2603",
+ "title": "Requires the Judicial Department to study ways to improve the efficiency of the process for setting aside convictions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2603 did not pass",
+ "claims": [
+  {
+   "text": "HB 2603 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614567
+   ]
+  },
+  {
+   "text": "HB 2603 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660740
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614567,
+    616776,
+    660740
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614567
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614567
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2603&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2603",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1806,
+  "finding_hash": "117a7f055f66d4a13b9c338fa8604ff5ab0c5a7dc55019dfcedb6a4cf43e2980",
+  "evidence_digest": "sha256:fab29f25f33cae333e82adda949968e799364ce8e5c2fe892bb4d014b8af7e0b",
+  "gate_id": "10ec9c2cae5d4f4c886f136c7829855e",
+  "gate_seq": 1807
+ }
+}

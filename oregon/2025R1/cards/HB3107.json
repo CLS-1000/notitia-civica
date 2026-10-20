@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3107",
+ "measure_id": "HB3107",
+ "subject": "or_legislature/2025R1/HB3107",
+ "title": "Modifies the authority of the Department of Environmental Quality to enter into agreements with regulated entities to expedite or enhance a regulatory process.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3107 did not pass",
+ "claims": [
+  {
+   "text": "HB 3107 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615071
+   ]
+  },
+  {
+   "text": "HB 3107 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659998
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615071,
+    617280,
+    628206,
+    659998
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615071
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615071
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628206
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659998
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3107&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3107",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3318,
+  "finding_hash": "d994cce1d5ba3c98bb2fdd7cfcf0d9b26047bc668443d500336ba0dccca36319",
+  "evidence_digest": "sha256:78d8ddd44c53417ca1542419785b5f85841434fa59d6d70814099dc6a08a8f15",
+  "gate_id": "7318a09ca025490ebd0f03e63ad0e1a2",
+  "gate_seq": 3319
+ }
+}

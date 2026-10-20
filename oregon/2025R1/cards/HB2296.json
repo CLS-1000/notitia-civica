@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2296",
+ "measure_id": "HB2296",
+ "subject": "or_legislature/2025R1/HB2296",
+ "title": "Directs the governing body of each county to coordinate the provision of public defense services within the county.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2296 did not pass",
+ "claims": [
+  {
+   "text": "HB 2296 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614260
+   ]
+  },
+  {
+   "text": "HB 2296 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659833
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614260,
+    616469,
+    659833
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614260
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614260
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2296&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2296",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 885,
+  "finding_hash": "e706a5c1f8c7a38cd7dedf2c5bdb06bc1f878a3d90bedaec104cb6e1684c9969",
+  "evidence_digest": "sha256:923c3a8b84368b07272a3d5b1251eb502d0e5f7db11136441685aa5bae495c93",
+  "gate_id": "3c58dfc52fb34000ab1d11edc8a7f5f6",
+  "gate_seq": 886
+ }
+}

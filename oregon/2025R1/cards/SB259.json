@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 259",
+ "measure_id": "SB259",
+ "subject": "or_legislature/2025R1/SB259",
+ "title": "Requires the Department of Land Conservation and Development to study the public use of lands and submit findings to the interim committees of the Legislative Assembly related to land use no later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 259 did not pass",
+ "claims": [
+  {
+   "text": "SB 259 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615564
+   ]
+  },
+  {
+   "text": "SB 259 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658655
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615564,
+    617831,
+    658655
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615564
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615564
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 259&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB259",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6885,
+  "finding_hash": "93225e2918aa314ced2b2277844223d2866f99d97e4f903fcd21c73ec87198ed",
+  "evidence_digest": "sha256:26834286392a92d947d7c29e8d9b70216abe55166635f043b508cf6644b53ed1",
+  "gate_id": "957f26255c4d4a5188ebfc83f509792f",
+  "gate_seq": 6886
+ }
+}

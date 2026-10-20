@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 440",
+ "measure_id": "SB440",
+ "subject": "or_legislature/2025R1/SB440",
+ "title": "Increases the exempt amount and the filing threshold for purposes of the corporate activity tax as applicable to homebuilding contracts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 440 did not pass",
+ "claims": [
+  {
+   "text": "SB 440 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615745
+   ]
+  },
+  {
+   "text": "SB 440 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659071
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615745,
+    618012,
+    625657,
+    659071
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615745
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615745
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625657
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659071
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 440&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB440",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7428,
+  "finding_hash": "18ae7376b5e67fcf580fea6c1bdc5534b004eb4278814eca7d85cf13b2369590",
+  "evidence_digest": "sha256:e93e29ed9642c3eb90bbf4c0fc40e10767ca2e137bc7df988a4bad787a118a11",
+  "gate_id": "f6ff0f919712433087e8d4801c5786a1",
+  "gate_seq": 7429
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3798",
+ "measure_id": "HB3798",
+ "subject": "or_legislature/2025R1/HB3798",
+ "title": "Directs the Department of Public Safety Standards and Training to collaborate with the State Fire Marshal to deliver training to emergency responders on responding to fires resulting from lithium-ion batteries and electric vehicles.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3798 did not pass",
+ "claims": [
+  {
+   "text": "HB 3798 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624974
+   ]
+  },
+  {
+   "text": "HB 3798 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661364
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624974,
+    626383,
+    633801,
+    661364
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624974
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624974
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "when": "March 27, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    633801
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661364
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3798&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3798",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5391,
+  "finding_hash": "2063382fdf86120fcd7af3230ad792c8db8aca18c5824cb2c8b5e1954aee05b6",
+  "evidence_digest": "sha256:f0cf3af9434528e13840b4be605106c7df2bc4ee2f442d18e2df14a27fa0ea6b",
+  "gate_id": "1f47f29f0b044e37a83177828d379594",
+  "gate_seq": 5392
+ }
+}

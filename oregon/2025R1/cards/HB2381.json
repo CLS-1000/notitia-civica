@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2381",
+ "measure_id": "HB2381",
+ "subject": "or_legislature/2025R1/HB2381",
+ "title": "Directs the Oregon Health Authority to establish and administer the Pregnancy Launch Program to provide certain services to specified persons.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2381 did not pass",
+ "claims": [
+  {
+   "text": "HB 2381 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614345
+   ]
+  },
+  {
+   "text": "HB 2381 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660052
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614345,
+    616554,
+    660052
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614345
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614345
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2381&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2381",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1140,
+  "finding_hash": "eda6f3d63a910c90afddcfc2bb849218f230a5a89b2469418ad6945fbac96e78",
+  "evidence_digest": "sha256:e0341a2aeca3803b2ae12a3a15da79d035c48165cb17eb8005a428761a303d39",
+  "gate_id": "55b11f00aa7d41c197df153a57d38840",
+  "gate_seq": 1141
+ }
+}

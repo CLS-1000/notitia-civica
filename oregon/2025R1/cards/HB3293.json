@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3293",
+ "measure_id": "HB3293",
+ "subject": "or_legislature/2025R1/HB3293",
+ "title": "Requires the Oregon Department of Emergency Management to study seaport transportation infrastructure resilience.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3293 did not pass",
+ "claims": [
+  {
+   "text": "HB 3293 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618764
+   ]
+  },
+  {
+   "text": "HB 3293 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661000
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618764,
+    619162,
+    661000
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618764
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618764
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3293&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3293",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3876,
+  "finding_hash": "6e0cbbb91c6c23989fc376d7bf808e14587ec8bcfc5ff5c945490e4cd70c07f6",
+  "evidence_digest": "sha256:d122a23acfe27baf830ecab9e320f94221c1c443b4ae771cb5a72b49a4cfa35b",
+  "gate_id": "f02318ed0e5d43879722d5df35fc96c2",
+  "gate_seq": 3877
+ }
+}

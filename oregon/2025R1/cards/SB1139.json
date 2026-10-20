@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1139",
+ "measure_id": "SB1139",
+ "subject": "or_legislature/2025R1/SB1139",
+ "title": "Makes requirements for noncompetition agreements applicable to agreements regarding solicitation of employer's employees or customers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1139 did not pass",
+ "claims": [
+  {
+   "text": "SB 1139 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624849
+   ]
+  },
+  {
+   "text": "SB 1139 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659234
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624849,
+    625761,
+    659234
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624849
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624849
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1139&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1139",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9525,
+  "finding_hash": "2b0f83f1fd4a6900744baf687b804d2565f473ba1d4542fb02b03cc4ad87394f",
+  "evidence_digest": "sha256:785af3b2e757e0a426cb6327d065f8064e066c0c3522a6a1fadb1748f6100e20",
+  "gate_id": "eade74bb6ccb4b24ba7fed5b5eecf4bc",
+  "gate_seq": 9526
+ }
+}

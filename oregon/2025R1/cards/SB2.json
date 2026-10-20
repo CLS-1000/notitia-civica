@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 2",
+ "measure_id": "SB2",
+ "subject": "or_legislature/2025R1/SB2",
+ "title": "Appropriates moneys from the General Fund to the Oregon Department of Administrative Services for distribution to the Salvage Chief (LSM380) Foundation for the purpose of repairing and upgrading a salvage vessel.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 2 did not pass",
+ "claims": [
+  {
+   "text": "SB 2 was introduced in the Senate on March 13, 2025.",
+   "row_ids": [
+    628228
+   ]
+  },
+  {
+   "text": "SB 2 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659400
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    628228,
+    628382,
+    630261,
+    632562,
+    634908,
+    634909,
+    659400
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    628228
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    628228
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    630261
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632562
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    634908
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 2&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB2",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6114,
+  "finding_hash": "506446b560d4889a982c9e31d5c6826f79c3bd7c8af203a53187b91a07d6939b",
+  "evidence_digest": "sha256:a27b2c4b412d752ec097196627c12d03a18e4b2573af5d7642dfca31850f334a",
+  "gate_id": "e8a91e117ea442749e43631a2e5b42e2",
+  "gate_seq": 6115
+ }
+}

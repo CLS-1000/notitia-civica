@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 152",
+ "measure_id": "SB152",
+ "subject": "or_legislature/2025R1/SB152",
+ "title": "Requires the Oregon Department of Emergency Management to study emergency management.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 152 did not pass",
+ "claims": [
+  {
+   "text": "SB 152 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615457
+   ]
+  },
+  {
+   "text": "SB 152 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659487
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615457,
+    617724,
+    659487
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615457
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615457
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 152&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB152",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6564,
+  "finding_hash": "2c97757dfad4c1dff4bb322b55bc4f9122b1235edae108b39a32b7d3ef79dfbf",
+  "evidence_digest": "sha256:4fdee0ef66bb62e2c2064a7e94c093913bb9192bf97de0b4f0b8665fcc03064a",
+  "gate_id": "ed2fc10bcea44b169917278d7881e79d",
+  "gate_seq": 6565
+ }
+}

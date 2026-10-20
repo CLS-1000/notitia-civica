@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2406",
+ "measure_id": "HB2406",
+ "subject": "or_legislature/2025R1/HB2406",
+ "title": "Requires the Department of Education to study career and technical education.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2406 did not pass",
+ "claims": [
+  {
+   "text": "HB 2406 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614370
+   ]
+  },
+  {
+   "text": "HB 2406 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659879
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614370,
+    616579,
+    659879
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614370
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614370
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2406&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2406",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1215,
+  "finding_hash": "55fa96bdd0dccde51e1c0e8e189cc21eca3ea1da3aa00a398c94a3cbfed21701",
+  "evidence_digest": "sha256:99a9fadc25e7bcc3be5eeac3791d7ea2b2a67a7a027407ab4ae7aacaf19b1ccf",
+  "gate_id": "4fa447269f2d4274aa3ba6c402dcedfc",
+  "gate_seq": 1216
+ }
+}

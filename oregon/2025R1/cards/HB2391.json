@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2391",
+ "measure_id": "HB2391",
+ "subject": "or_legislature/2025R1/HB2391",
+ "title": "Establishes an income tax credit for sheriff's deputies employed in rural counties.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2391 did not pass",
+ "claims": [
+  {
+   "text": "HB 2391 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614355
+   ]
+  },
+  {
+   "text": "HB 2391 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660058
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614355,
+    616564,
+    660058
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614355
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614355
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2391&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2391",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1170,
+  "finding_hash": "e450a4fd483595d1d12a74e3adcb3de8905ccb7979b327fb29495ff126609720",
+  "evidence_digest": "sha256:8250b1ca10a4ebe8f16ce5f8bc22b1046286be1a0796c26d9562baece83f48b3",
+  "gate_id": "adf0a6eac06a49058fef4aed0711c9da",
+  "gate_seq": 1171
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3739",
+ "measure_id": "HB3739",
+ "subject": "or_legislature/2025R1/HB3739",
+ "title": "Prohibits a person from removing a dam.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3739 did not pass",
+ "claims": [
+  {
+   "text": "HB 3739 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624423
+   ]
+  },
+  {
+   "text": "HB 3739 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660393
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624423,
+    625284,
+    660393
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624423
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624423
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3739&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3739",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5214,
+  "finding_hash": "081ca8e345f056585cd7c38d6633f452cbb4830f9b7684d73e44492da8150ab5",
+  "evidence_digest": "sha256:6f24fc95b8a0d53c0b6586450cde33f7f0596fa5bcb7bffd98b2b29391763dd7",
+  "gate_id": "bacac0a11f12443c853556641076d468",
+  "gate_seq": 5215
+ }
+}

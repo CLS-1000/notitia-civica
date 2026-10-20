@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 253",
+ "measure_id": "SB253",
+ "subject": "or_legislature/2025R1/SB253",
+ "title": "Directs the Oregon Public Defense Commission to study ways to improve the provision of public defense services within this state, and to provide the results of the study to the appropriate interim committees of the Legislative Assembly no later than December 31, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 253 did not pass",
+ "claims": [
+  {
+   "text": "SB 253 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615558
+   ]
+  },
+  {
+   "text": "SB 253 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658649
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615558,
+    617825,
+    658649
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615558
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615558
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 253&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB253",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6867,
+  "finding_hash": "e295c2f2c22f52d338fb688358e6ea135cc03749685dd50f5b6df15ca2376a40",
+  "evidence_digest": "sha256:6da939291759cb335d934d8a8aef2f9a1beb8c6322c7938174ce4a0376cc3de4",
+  "gate_id": "949b3d6098ea4922b5e57cba653a75a4",
+  "gate_seq": 6868
+ }
+}

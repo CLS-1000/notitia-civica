@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3585",
+ "measure_id": "HB3585",
+ "subject": "or_legislature/2025R1/HB3585",
+ "title": "Increases the penalties for the crime of strangulation constituting a felony.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3585 did not pass",
+ "claims": [
+  {
+   "text": "HB 3585 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622920
+   ]
+  },
+  {
+   "text": "HB 3585 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661418
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622920,
+    623475,
+    661418
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622920
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622920
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3585&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3585",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4752,
+  "finding_hash": "c3b7d6ba77eef5874ba0451763c6255959adf68bb51d446526e0b57f5840e45f",
+  "evidence_digest": "sha256:c694358ac19ef3420bf8145e6f12b06d04f3cc542f5ab3ca766a84e34aec9eed",
+  "gate_id": "7e1470638ba54ffda4378e36b909ae7b",
+  "gate_seq": 4753
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 582",
+ "measure_id": "SB582",
+ "subject": "or_legislature/2025R1/SB582",
+ "title": "Prohibits a police officer involved in a use of deadly physical force incident from reviewing body camera recordings before participating in an interview about the incident.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 582 did not pass",
+ "claims": [
+  {
+   "text": "SB 582 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615887
+   ]
+  },
+  {
+   "text": "SB 582 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658772
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615887,
+    618154,
+    658772
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615887
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615887
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 582&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB582",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7854,
+  "finding_hash": "31c8fd543225066268eef55a1e95bb7ed90832553e7885a29fda6d69af8459bf",
+  "evidence_digest": "sha256:f6d8cf659a51b0f420d7c2057c4f40b4a858a2c4dc27931171aa20a6396b3992",
+  "gate_id": "e6022435bc26408caa1ebadffb753536",
+  "gate_seq": 7855
+ }
+}

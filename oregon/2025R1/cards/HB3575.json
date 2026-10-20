@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3575",
+ "measure_id": "HB3575",
+ "subject": "or_legislature/2025R1/HB3575",
+ "title": "Requires the Department of State Lands to petition the United States Congress for the transfer of certain public lands.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3575 did not pass",
+ "claims": [
+  {
+   "text": "HB 3575 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622910
+   ]
+  },
+  {
+   "text": "HB 3575 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660594
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622910,
+    623465,
+    660594
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622910
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622910
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3575&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3575",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4722,
+  "finding_hash": "a5a5f5b731b61dce002e9239d8ceeca91ace77bb18c03035d3f97d441fbfc841",
+  "evidence_digest": "sha256:f288055c87656705d723a9c7dc4d139e6001daf8ca1b87a90f662ce47a156cdd",
+  "gate_id": "f264c7e03b2642678d1e71acff2a04f2",
+  "gate_seq": 4723
+ }
+}

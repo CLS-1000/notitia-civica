@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2566",
+ "measure_id": "HB2566",
+ "subject": "or_legislature/2025R1/HB2566",
+ "title": "Adds stand-alone energy resilience projects to the categories of projects eligible for a grant under the State Department of Energy's community renewable energy grant program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2566 did not pass",
+ "claims": [
+  {
+   "text": "HB 2566 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614530
+   ]
+  },
+  {
+   "text": "HB 2566 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660898
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614530,
+    616739,
+    621689,
+    630007,
+    632845,
+    632846,
+    660898
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614530
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614530
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621689
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    630007
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    632845
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2566&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2566",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1695,
+  "finding_hash": "211d38f844758bdac9f7c8d599b79029ad28cc00ea9c2e1bedd5a960b23eed9d",
+  "evidence_digest": "sha256:8444aa876e7ea6a8b2e3277079b3bc2ce89e638a9bb4b1b72d092ed8d4f49bc0",
+  "gate_id": "9884d8bccec245c3a2dcc899fa913d25",
+  "gate_seq": 1696
+ }
+}

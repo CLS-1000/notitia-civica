@@ -1,0 +1,111 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1180",
+ "measure_id": "SB1180",
+ "subject": "or_legislature/2025R1/SB1180",
+ "title": "Requires the Legislative Policy and Research Director to submit to the Legislative Assembly, by December 1 of each odd-numbered year, a list of each prospective statewide initiative petition that has been filed for the next general election.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1180 did not pass",
+ "claims": [
+  {
+   "text": "SB 1180 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624890
+   ]
+  },
+  {
+   "text": "SB 1180 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658953
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624890,
+    625802,
+    641460,
+    648013,
+    649808,
+    649809,
+    658953
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624890
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624890
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    641460
+   ]
+  },
+  {
+   "date": "2025-05-19",
+   "when": "May 19, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    648013
+   ]
+  },
+  {
+   "date": "2025-05-27",
+   "when": "May 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    649808
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1180&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1180",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9648,
+  "finding_hash": "774ca0ec5fe07f8a8ddff33c1825122c3a2cc5714ed9f25d09fa13374280534c",
+  "evidence_digest": "sha256:f1669c450c02178a8a9373b801f1ef351659ab477dffdf69a4c432e4bdf5948a",
+  "gate_id": "934bbc92fc2d4aa1b8f3a45550c43657",
+  "gate_seq": 9649
+ }
+}

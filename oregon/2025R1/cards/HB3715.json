@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3715",
+ "measure_id": "HB3715",
+ "subject": "or_legislature/2025R1/HB3715",
+ "title": "Defines \"dangerous to self or others\" for the purpose of taking a person with mental illness into custody.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3715 did not pass",
+ "claims": [
+  {
+   "text": "HB 3715 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624399
+   ]
+  },
+  {
+   "text": "HB 3715 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660449
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624399,
+    625260,
+    660449
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624399
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624399
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3715&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3715",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5142,
+  "finding_hash": "3ad329e43e699d398e83150a6341d47f354aee978cb35f24a0717e6468a91222",
+  "evidence_digest": "sha256:75d0af94ece194bc5eff37ebdef9632d47bb472f5f30b7e819535efcb938dc2c",
+  "gate_id": "670b707076404da284ed1a3235fbda3a",
+  "gate_seq": 5143
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2730",
+ "measure_id": "HB2730",
+ "subject": "or_legislature/2025R1/HB2730",
+ "title": "Establishes a beginning farmer and rancher incentive program in the State Department of Agriculture.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2730 did not pass",
+ "claims": [
+  {
+   "text": "HB 2730 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614694
+   ]
+  },
+  {
+   "text": "HB 2730 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660146
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614694,
+    616903,
+    628920,
+    634599,
+    636947,
+    636948,
+    660146
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614694
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614694
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    628920
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    634599
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    636947
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2730&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2730",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2187,
+  "finding_hash": "d93d81b9279b5b89d5ff9362624e86b3cedaecb24975388a5a742ca2579b3faa",
+  "evidence_digest": "sha256:511eb1fbd0507fef1ef0ef4de7d7250f41221e14137a86b50b43aea393f4a3ae",
+  "gate_id": "09477877d183416e866249440d346083",
+  "gate_seq": 2188
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1110",
+ "measure_id": "SB1110",
+ "subject": "or_legislature/2025R1/SB1110",
+ "title": "Authorizes the issuance of lottery bonds with the proceeds distributed to Williams & Russell CDC for the purpose of developing a business hub to support small businesses, professional development, workforce training and economic growth in Portland's Albina neighborhood.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1110 did not pass",
+ "claims": [
+  {
+   "text": "SB 1110 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624820
+   ]
+  },
+  {
+   "text": "SB 1110 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659211
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624820,
+    625732,
+    629982,
+    632311,
+    634921,
+    634922,
+    659211
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624820
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624820
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629982
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    632311
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "when": "March 31, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    634921
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1110&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1110",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9438,
+  "finding_hash": "031f0db19950f4ce2d614c2362e2588c00bc0341f215f5b9a5e32acea112b17c",
+  "evidence_digest": "sha256:8b1c067ab0edd1112e906a21eb5093b011ca3afeb53ed382d66de26388b465e8",
+  "gate_id": "fd2126720bc046499924b84e366aea97",
+  "gate_seq": 9439
+ }
+}

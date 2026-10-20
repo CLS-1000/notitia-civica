@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3361",
+ "measure_id": "HB3361",
+ "subject": "or_legislature/2025R1/HB3361",
+ "title": "Appropriates moneys from the General Fund to the Department of Education to fund the Summer Learning Grant program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3361 did not pass",
+ "claims": [
+  {
+   "text": "HB 3361 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619412
+   ]
+  },
+  {
+   "text": "HB 3361 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661258
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619412,
+    619784,
+    661258
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619412
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619412
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3361&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3361",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4080,
+  "finding_hash": "717b8c4ea9d9d7356001d849403e8ad1937bbc9f274c643aa46fe47657388979",
+  "evidence_digest": "sha256:8575d271ef9f9ee4cf906c5954891e183f8605d2371bb7a2cb376a5edcfbe81f",
+  "gate_id": "5e7f25f3a21c4c80b4c8afded05b07dd",
+  "gate_seq": 4081
+ }
+}

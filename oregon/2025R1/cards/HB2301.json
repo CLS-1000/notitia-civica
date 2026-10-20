@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2301",
+ "measure_id": "HB2301",
+ "subject": "or_legislature/2025R1/HB2301",
+ "title": "Allows an additional estate tax exclusion of $7 million.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2301 did not pass",
+ "claims": [
+  {
+   "text": "HB 2301 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614265
+   ]
+  },
+  {
+   "text": "HB 2301 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659837
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614265,
+    616474,
+    621137,
+    659837
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614265
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614265
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621137
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659837
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2301&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2301",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 900,
+  "finding_hash": "b4a9bdd67ab85de439e81f5c03ed6798ff903e103dd934f735b058b7adf19129",
+  "evidence_digest": "sha256:37804d6b19150ecf48d952783350426b054a2aea6273530a90874edc62689ff1",
+  "gate_id": "4a7ae1dbcd68499bb8a2221caccc644a",
+  "gate_seq": 901
+ }
+}

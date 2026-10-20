@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2330",
+ "measure_id": "HB2330",
+ "subject": "or_legislature/2025R1/HB2330",
+ "title": "Establishes the Task Force on Law Enforcement Interdiction Against Financial Scams on Older Oregonians.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2330 did not pass",
+ "claims": [
+  {
+   "text": "HB 2330 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614294
+   ]
+  },
+  {
+   "text": "HB 2330 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659861
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614294,
+    616503,
+    621083,
+    626088,
+    627312,
+    627313,
+    659861
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614294
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614294
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621083
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    626088
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    627312
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2330&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2330",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 987,
+  "finding_hash": "644a795746889f8dbb0be63cf9cf836dae5a0ab9802c98453c82bd13cea7f9df",
+  "evidence_digest": "sha256:cb3885b805ba1b08be52858a24559f25684275d0123427cb9af88817a92f0267",
+  "gate_id": "540ee7bc3a6f4d50ab12ee8128d9d348",
+  "gate_seq": 988
+ }
+}

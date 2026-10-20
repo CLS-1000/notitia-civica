@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3401",
+ "measure_id": "HB3401",
+ "subject": "or_legislature/2025R1/HB3401",
+ "title": "Requires the Oregon Department of Administrative Services to study state finance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3401 did not pass",
+ "claims": [
+  {
+   "text": "HB 3401 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619452
+   ]
+  },
+  {
+   "text": "HB 3401 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659915
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619452,
+    619824,
+    659915
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619452
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619452
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3401&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3401",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4200,
+  "finding_hash": "d7ac7f879abdb71cfc73c9571700a8cac5245f1146a268a9c5a662ba868a2201",
+  "evidence_digest": "sha256:650f27cd0b25aa983f705deaf3f116d278142639927e5f4f195905c4da6d47b3",
+  "gate_id": "bd9a0958540143a896d37f320347682f",
+  "gate_seq": 4201
+ }
+}

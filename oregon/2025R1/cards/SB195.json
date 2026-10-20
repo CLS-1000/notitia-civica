@@ -1,0 +1,107 @@
+{
+ "session": "2025R1",
+ "measure": "SB 195",
+ "measure_id": "SB195",
+ "subject": "or_legislature/2025R1/SB195",
+ "title": "Requires the Department of Corrections to study best practices for confining people.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 195 did not pass",
+ "claims": [
+  {
+   "text": "SB 195 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615500
+   ]
+  },
+  {
+   "text": "SB 195 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659519
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615500,
+    617767,
+    639031,
+    639541,
+    659519
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615500
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615500
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    639031
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639541
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659519
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 195&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB195",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6693,
+  "finding_hash": "8b85238f03749b54c71bbacdece57a4777dd48be8d91703dc64d873acef16aa6",
+  "evidence_digest": "sha256:58673df27158f34e8b235f690053339b5a96a377eaf052c48b32e413b4389de6",
+  "gate_id": "a95728738d0b40e49aa2efa3cd92d248",
+  "gate_seq": 6694
+ }
+}

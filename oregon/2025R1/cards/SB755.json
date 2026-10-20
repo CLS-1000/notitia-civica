@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 755",
+ "measure_id": "SB755",
+ "subject": "or_legislature/2025R1/SB755",
+ "title": "Requires the Department of Public Safety Standards and Training to study possibilities for placing police officers or security guards in schools.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 755 did not pass",
+ "claims": [
+  {
+   "text": "SB 755 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616059
+   ]
+  },
+  {
+   "text": "SB 755 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659162
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616059,
+    618326,
+    659162
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616059
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616059
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 755&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB755",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8373,
+  "finding_hash": "7f9879f5edd37cd3c1a11c1b6c09d907ab36b1a29f6a44ccfdc9990c295d1a39",
+  "evidence_digest": "sha256:6fdf419c24c4d3c3f5bc7498eed4669cd13643e0b89ca0bd1fb85f68678af310",
+  "gate_id": "5e02d871cabe4085b7cd6b89ecbfb59e",
+  "gate_seq": 8374
+ }
+}

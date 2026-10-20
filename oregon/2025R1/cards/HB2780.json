@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2780",
+ "measure_id": "HB2780",
+ "subject": "or_legislature/2025R1/HB2780",
+ "title": "Provides that a person is automatically qualified to obtain a permit to purchase a firearm if the person holds a valid concealed handgun license.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2780 did not pass",
+ "claims": [
+  {
+   "text": "HB 2780 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614744
+   ]
+  },
+  {
+   "text": "HB 2780 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660474
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614744,
+    616953,
+    660474
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614744
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614744
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2780&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2780",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2337,
+  "finding_hash": "99fbe8cdc7d195717294ee08b5451673a6f99c2548d55c20f6ea8b93ca871478",
+  "evidence_digest": "sha256:f89d254fe600595473dfc67bedb83eeb540830781d63f296b6daa17e9ab7c7c9",
+  "gate_id": "3bdb1c926ac94ef8adc6993863ce6cbe",
+  "gate_seq": 2338
+ }
+}

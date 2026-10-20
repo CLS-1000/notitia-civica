@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3612",
+ "measure_id": "HB3612",
+ "subject": "or_legislature/2025R1/HB3612",
+ "title": "Requires the Oregon Business Development Department to study access to resources for development in Curry County and submit findings to the interim committees of the Legislative Assembly related to natural resources no later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3612 did not pass",
+ "claims": [
+  {
+   "text": "HB 3612 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622947
+   ]
+  },
+  {
+   "text": "HB 3612 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661392
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622947,
+    623502,
+    661392
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622947
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622947
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3612&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3612",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4833,
+  "finding_hash": "facf313ae04e972678ad0ca07267d81925a399987806ce7799a84294ae0c35f5",
+  "evidence_digest": "sha256:d06a14f3a66e8a82ca4bfd47da1825aada5d81fd0d19b0f8cc7a34858c7e0de6",
+  "gate_id": "0077560a4ab24cc39c76409a632c9852",
+  "gate_seq": 4834
+ }
+}

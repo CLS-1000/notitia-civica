@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 80",
+ "measure_id": "SB80",
+ "subject": "or_legislature/2025R1/SB80",
+ "title": "Prohibits the Department of Environmental Quality from issuing a water quality permit to certain confined animal feeding operations located in a ground water management area.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 80 did not pass",
+ "claims": [
+  {
+   "text": "SB 80 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615385
+   ]
+  },
+  {
+   "text": "SB 80 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658619
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615385,
+    617652,
+    637401,
+    658619
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615385
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615385
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "when": "April 3, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    637401
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658619
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 80&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB80",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6348,
+  "finding_hash": "6638f0057873ad94c562f3cb4a854fc7d779b58d3a0d5ac3e3fa56e7ccd2177f",
+  "evidence_digest": "sha256:276515a0b78dd4c170cf6bece7e9017603c3b93adc5eda2cccb4f054ee88e76a",
+  "gate_id": "e990d2d8a281447e980a303f1d87dee4",
+  "gate_seq": 6349
+ }
+}

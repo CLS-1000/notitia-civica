@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2294",
+ "measure_id": "HB2294",
+ "subject": "or_legislature/2025R1/HB2294",
+ "title": "Directs the Oregon Criminal Justice Commission to classify theft of a firearm as a crime category 8 offense on the sentencing guidelines grid of the commission.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2294 did not pass",
+ "claims": [
+  {
+   "text": "HB 2294 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614258
+   ]
+  },
+  {
+   "text": "HB 2294 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659831
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614258,
+    616467,
+    659831
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614258
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614258
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2294&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2294",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 879,
+  "finding_hash": "edaaea8ed26eebae825fbe931dd5d13761a049bcdc0f16ab4b6b30d8ed35ae82",
+  "evidence_digest": "sha256:c28eeeeffad2951c8bd44c246b626a54c7e190776d39f179466c2930519702ee",
+  "gate_id": "d75ca8bb3db74182919e00dd93cdba09",
+  "gate_seq": 880
+ }
+}

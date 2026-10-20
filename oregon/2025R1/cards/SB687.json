@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 687",
+ "measure_id": "SB687",
+ "subject": "or_legislature/2025R1/SB687",
+ "title": "Provides that certain local governments may enact a fuel tax or vehicle registration fee without first submitting the proposed tax or registration fee to the electors.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 687 did not pass",
+ "claims": [
+  {
+   "text": "SB 687 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615992
+   ]
+  },
+  {
+   "text": "SB 687 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658885
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615992,
+    618259,
+    658885
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615992
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615992
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 687&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB687",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8169,
+  "finding_hash": "adde417e29b4e1d079b163b12da7ad00b8b10c9ebefef9c7089f8ad9270bf503",
+  "evidence_digest": "sha256:5e74831d8b6661faca4a3f08e7c8d92b70fd03f4d568970bf58f51e05f33bcfd",
+  "gate_id": "c4b62c4079ba4fe78cd5c980248d6da1",
+  "gate_seq": 8170
+ }
+}

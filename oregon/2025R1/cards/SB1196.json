@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1196",
+ "measure_id": "SB1196",
+ "subject": "or_legislature/2025R1/SB1196",
+ "title": "Requires the Legislative Revenue Officer to study means for raising dedicated revenue to support recreation activities in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1196 did not pass",
+ "claims": [
+  {
+   "text": "SB 1196 was introduced in the Senate on March 20, 2025.",
+   "row_ids": [
+    630182
+   ]
+  },
+  {
+   "text": "SB 1196 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658572
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    630182,
+    630215,
+    653462,
+    654944,
+    655859,
+    658572
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    630182
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    630182
+   ]
+  },
+  {
+   "date": "2025-06-11",
+   "when": "June 11, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    653462
+   ]
+  },
+  {
+   "date": "2025-06-16",
+   "when": "June 16, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    654944
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1196&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1196",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9696,
+  "finding_hash": "7586f61909ba4d77fb5d60313ba2228900b8c7ab6ccb4d9eb7e2918ba7b19c98",
+  "evidence_digest": "sha256:442bf563f7dd8e002df37d293589eac70cec5b9c2035e5828f26b603e63419f8",
+  "gate_id": "b58f19f15d1c44f3802212d331e9b1fd",
+  "gate_seq": 9697
+ }
+}

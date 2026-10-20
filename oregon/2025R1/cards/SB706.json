@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 706",
+ "measure_id": "SB706",
+ "subject": "or_legislature/2025R1/SB706",
+ "title": "Requires the Oregon Department of Administrative Services to study methods for detecting paycheck errors.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 706 did not pass",
+ "claims": [
+  {
+   "text": "SB 706 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616011
+   ]
+  },
+  {
+   "text": "SB 706 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658900
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616011,
+    618278,
+    658900
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616011
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616011
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 706&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB706",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8226,
+  "finding_hash": "df6a23884e7ebdd84bfb97a5eff7967fdd21c2a8f4ab806868adaa7779164e7b",
+  "evidence_digest": "sha256:f9237dee69aa41e1068a9e2896a7d6a5e38be22c6e7b51178d5fe1bd1efdfce4",
+  "gate_id": "1f051948528e44f99adc814f9407f2fa",
+  "gate_seq": 8227
+ }
+}

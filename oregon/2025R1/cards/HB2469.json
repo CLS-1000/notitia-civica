@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2469",
+ "measure_id": "HB2469",
+ "subject": "or_legislature/2025R1/HB2469",
+ "title": "Establishes a time limit on when a district attorney may submit an indictment to the grand jury on a pending case when a trial date has been scheduled.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2469 did not pass",
+ "claims": [
+  {
+   "text": "HB 2469 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614433
+   ]
+  },
+  {
+   "text": "HB 2469 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661437
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614433,
+    616642,
+    624746,
+    635068,
+    661437
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614433
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614433
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624746
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661437
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2469&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2469",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1404,
+  "finding_hash": "1a1e4f62a1924a2b3ca9ebe656b90d63af06707c46c86d521c7ed032288fb385",
+  "evidence_digest": "sha256:8343b88da3b393f70a88042a58eeb33521896838384aa6abb7ab18db255ab04d",
+  "gate_id": "af2769d0538d4daab0f6a751b529976f",
+  "gate_seq": 1405
+ }
+}

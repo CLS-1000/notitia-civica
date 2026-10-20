@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3913",
+ "measure_id": "HB3913",
+ "subject": "or_legislature/2025R1/HB3913",
+ "title": "Requires the Department of Corrections to reimburse counties for incarcerating a defendant if the defendant is sentenced to a felony and receives credit for time served in a local correctional facility.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3913 did not pass",
+ "claims": [
+  {
+   "text": "HB 3913 was introduced in the House on March 6, 2025.",
+   "row_ids": [
+    626838
+   ]
+  },
+  {
+   "text": "HB 3913 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660824
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    626838,
+    627386,
+    660824
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    626838
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    626838
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3913&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3913",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5736,
+  "finding_hash": "68daeef1fcd88a6485c108fb839acd31b2d9b78871db6bdb4073f54a16492d57",
+  "evidence_digest": "sha256:c7e8359bea49d374608f03def6096f91300234d025d5916580bdb7026a88a35d",
+  "gate_id": "fd611c93d7704dc5907a7fecdc1f913e",
+  "gate_seq": 5737
+ }
+}

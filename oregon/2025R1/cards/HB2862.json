@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2862",
+ "measure_id": "HB2862",
+ "subject": "or_legislature/2025R1/HB2862",
+ "title": "Establishes the Local Markets Small Business Capital Loan Program to be administered by the Oregon Business Development Department for the purpose of making interest-only loans to allow businesses with not more than 50 employees to hire new employees.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2862 did not pass",
+ "claims": [
+  {
+   "text": "HB 2862 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614826
+   ]
+  },
+  {
+   "text": "HB 2862 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661171
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614826,
+    617035,
+    661171
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614826
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614826
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2862&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2862",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2583,
+  "finding_hash": "5d2c901009a57894e6ad3b031a1dd211fc46d5cc1d14c1c438e781b1f0684cec",
+  "evidence_digest": "sha256:a788611b27e5e2271641d851e89e08e895d115fcd1b1f8d0c05f0b2d7fd7a779",
+  "gate_id": "009e855579e146cdad4451125203d713",
+  "gate_seq": 2584
+ }
+}

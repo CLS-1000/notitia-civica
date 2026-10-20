@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3494",
+ "measure_id": "HB3494",
+ "subject": "or_legislature/2025R1/HB3494",
+ "title": "Requires the Oregon Health Authority to establish minimum reimbursement rates for behavioral health services provided to medical assistance recipients.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3494 did not pass",
+ "claims": [
+  {
+   "text": "HB 3494 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620367
+   ]
+  },
+  {
+   "text": "HB 3494 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661328
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620367,
+    621040,
+    661328
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620367
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620367
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3494&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3494",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4479,
+  "finding_hash": "f270007e4058b70e5eb3a0dbbb1ca1bed316d8f64bb13a91e28f4313966f7231",
+  "evidence_digest": "sha256:dec8fd70fce569734bfe3dd7073c08edfb9b289bb639c6db54f3aea6bc77e2f6",
+  "gate_id": "d6c5ada260cb47e2adbdc8eade9b0dde",
+  "gate_seq": 4480
+ }
+}

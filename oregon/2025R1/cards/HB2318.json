@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2318",
+ "measure_id": "HB2318",
+ "subject": "or_legislature/2025R1/HB2318",
+ "title": "Requires the Oregon Health Authority to review studies on temperature excursions during the transit of mail order drugs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2318 did not pass",
+ "claims": [
+  {
+   "text": "HB 2318 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614282
+   ]
+  },
+  {
+   "text": "HB 2318 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659851
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614282,
+    616491,
+    619685,
+    659851
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614282
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614282
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619685
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659851
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2318&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2318",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 951,
+  "finding_hash": "92b697f6941adf972ef783de468a3cbda2cbebf2e19229f1c593c1789738230e",
+  "evidence_digest": "sha256:2b0f102641f39f87426d4406fe16a6d346fcde7ee088f98f2135460ccc9bf897",
+  "gate_id": "7b517ee4c0cd4176b3d2e58713a81227",
+  "gate_seq": 952
+ }
+}

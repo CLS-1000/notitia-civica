@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 305",
+ "measure_id": "SB305",
+ "subject": "or_legislature/2025R1/SB305",
+ "title": "Requires the Department of Education to study the adequacy of public education in this state for kindergarten through grade 12.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 305 did not pass",
+ "claims": [
+  {
+   "text": "SB 305 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615610
+   ]
+  },
+  {
+   "text": "SB 305 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658694
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615610,
+    617877,
+    658694
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615610
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615610
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 305&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB305",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7023,
+  "finding_hash": "926d8a7b9eeea466809be9132e22833497605777fd5e208d231d6ed80eef96de",
+  "evidence_digest": "sha256:fe4af321305c11e78288f9b5a83ca4d373e0cdd1cbe9beeee312fb32a0d1d6d0",
+  "gate_id": "c50daf4847f24cbc95365146435f422c",
+  "gate_seq": 7024
+ }
+}

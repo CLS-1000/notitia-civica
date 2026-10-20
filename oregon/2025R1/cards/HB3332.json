@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3332",
+ "measure_id": "HB3332",
+ "subject": "or_legislature/2025R1/HB3332",
+ "title": "Modifies the uses for certain moneys received by the Oregon Racing Commission from Multi-Jurisdictional Simulcasting and Interactive Wagering Totalizator Hubs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3332 did not pass",
+ "claims": [
+  {
+   "text": "HB 3332 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618803
+   ]
+  },
+  {
+   "text": "HB 3332 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661322
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618803,
+    619201,
+    661322
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618803
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618803
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3332&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3332",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3993,
+  "finding_hash": "e34e4d39092870418401c24936ce45dfb28f07cecb3958dce031151fa5239a56",
+  "evidence_digest": "sha256:cfe791b937b6ba2f93bda89fc05cbd726eb116bd0a69f227068c94c45a5b1c54",
+  "gate_id": "0bd981edfa5c4c6d8a0e0a077fc8442c",
+  "gate_seq": 3994
+ }
+}

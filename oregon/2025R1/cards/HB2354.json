@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2354",
+ "measure_id": "HB2354",
+ "subject": "or_legislature/2025R1/HB2354",
+ "title": "Requires the Department of Human Services to study long term services and supports for older adults and individuals with disabilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2354 did not pass",
+ "claims": [
+  {
+   "text": "HB 2354 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614318
+   ]
+  },
+  {
+   "text": "HB 2354 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660698
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614318,
+    616527,
+    660698
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614318
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614318
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2354&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2354",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1059,
+  "finding_hash": "9933816772864a9e708253e4e92534be405b2ac457f2e3f2d548532a29484708",
+  "evidence_digest": "sha256:54f1b03928551a2738b6ec16023954fafc112d8661f44172a04eee9ddd297833",
+  "gate_id": "628c93c95cca4d95a5e7c0ca11a16c7b",
+  "gate_seq": 1060
+ }
+}

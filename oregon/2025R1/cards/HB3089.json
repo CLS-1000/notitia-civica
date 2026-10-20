@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3089",
+ "measure_id": "HB3089",
+ "subject": "or_legislature/2025R1/HB3089",
+ "title": "Defines \"wildfire risk\" for the purpose of determining certain obligations of insurers related to homeowner insurance.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3089 did not pass",
+ "claims": [
+  {
+   "text": "HB 3089 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615053
+   ]
+  },
+  {
+   "text": "HB 3089 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659973
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615053,
+    617262,
+    622286,
+    623186,
+    659973
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615053
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615053
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623186
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659973
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3089&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3089",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3264,
+  "finding_hash": "cdc4893da393121df35bee73c264872ccabaec89118560b1b2f6502ae1602707",
+  "evidence_digest": "sha256:e381d0e46111ed0ed4f6b22820d1f5bf3c00de1f2bbd8b8913c48e42947c9b2b",
+  "gate_id": "fa7c40a2770e49e997bbe0fe0929e5ff",
+  "gate_seq": 3265
+ }
+}

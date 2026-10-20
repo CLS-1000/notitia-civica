@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 614",
+ "measure_id": "SB614",
+ "subject": "or_legislature/2025R1/SB614",
+ "title": "Allows an operator offering or providing facilities for an inherently dangerous sporting activity to require a patron to provide an anticipatory release from certain claims for liability, including claims arising out of the negligence of the operator and claims for unreasonable conditions created by the operator.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 614 did not pass",
+ "claims": [
+  {
+   "text": "SB 614 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615919
+   ]
+  },
+  {
+   "text": "SB 614 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658801
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615919,
+    618186,
+    658801
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615919
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615919
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 614&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB614",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7950,
+  "finding_hash": "563bc750bcc2766582f6235cbccc70d042d4e75de35a0a1e779e47f97bd5af7e",
+  "evidence_digest": "sha256:507462b5f01eb2ee01a30ed640faa92476398afdf7227530acb9e6a659eb62c0",
+  "gate_id": "cf8e06a09420423eaa1fe836ffb2a165",
+  "gate_seq": 7951
+ }
+}

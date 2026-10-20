@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3436",
+ "measure_id": "HB3436",
+ "subject": "or_legislature/2025R1/HB3436",
+ "title": "Prohibits a city from requiring a property owner to pay for the removal of a tree from public property or repairs to a public sidewalk damaged by a tree on public property.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3436 did not pass",
+ "claims": [
+  {
+   "text": "HB 3436 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619487
+   ]
+  },
+  {
+   "text": "HB 3436 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661508
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619487,
+    619859,
+    661508
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619487
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619487
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3436&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3436",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4305,
+  "finding_hash": "8626f16392aca1a1da7e3d1a07adfd52283e3ef186a1dc8cc76bbd9890c6a0e5",
+  "evidence_digest": "sha256:e660e24f676aa1193cef9b95cf659e13179673c32c0cd061907416f7e023f8ad",
+  "gate_id": "8bc84893e2254da7bd438803ac800bcd",
+  "gate_seq": 4306
+ }
+}

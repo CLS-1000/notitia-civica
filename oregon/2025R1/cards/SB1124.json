@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1124",
+ "measure_id": "SB1124",
+ "subject": "or_legislature/2025R1/SB1124",
+ "title": "Expands the crime of assault in the third degree to include assault of a public transit vehicle operator performing official duties.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1124 did not pass",
+ "claims": [
+  {
+   "text": "SB 1124 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624834
+   ]
+  },
+  {
+   "text": "SB 1124 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659222
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624834,
+    625746,
+    627877,
+    629218,
+    632211,
+    632212,
+    659222
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624834
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624834
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "when": "March 11, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627877
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629218
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    632211
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1124&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1124",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9480,
+  "finding_hash": "6871d61861737bd95df6746318c3b04497543eb22516a6306ec5515dfe373a9c",
+  "evidence_digest": "sha256:0676bc8b3726702aa0dfde15d2b030c09dc01ebc632580999e449a7ec7b1b404",
+  "gate_id": "66122f65330e44a580571549a01a2b9c",
+  "gate_seq": 9481
+ }
+}

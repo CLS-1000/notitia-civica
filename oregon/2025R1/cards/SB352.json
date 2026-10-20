@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 352",
+ "measure_id": "SB352",
+ "subject": "or_legislature/2025R1/SB352",
+ "title": "Directs the State Department of Agriculture to establish a grant program to facilitate the eradication of gorse for wildfire mitigation in southwest Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 352 did not pass",
+ "claims": [
+  {
+   "text": "SB 352 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615657
+   ]
+  },
+  {
+   "text": "SB 352 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658738
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615657,
+    617924,
+    658738
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615657
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615657
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 352&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB352",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7164,
+  "finding_hash": "7438729dd1153ab339fcb127c840e3a6f9b635844dec65e8d38f9af94221217d",
+  "evidence_digest": "sha256:485647e7ef3ad4d0f328c682d9e5b0d84b78d444c6a96f62e5e2245f3c456353",
+  "gate_id": "f6c3e7c4a4ea4487b35330cef2e46c82",
+  "gate_seq": 7165
+ }
+}

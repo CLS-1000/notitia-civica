@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2866",
+ "measure_id": "HB2866",
+ "subject": "or_legislature/2025R1/HB2866",
+ "title": "Permits employees who are not union members to voluntarily consent to make in-lieu-of-dues payment to a labor organization for the organization's representation of the nonmember employees in employment relations with a public employer.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2866 did not pass",
+ "claims": [
+  {
+   "text": "HB 2866 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614830
+   ]
+  },
+  {
+   "text": "HB 2866 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661175
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614830,
+    617039,
+    661175
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614830
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614830
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2866&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2866",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2595,
+  "finding_hash": "c85068199c66d8d465545c8dc43f73096c7d11cdb9669b174c0c1ccd4dd7cca4",
+  "evidence_digest": "sha256:25e3beb4656510805225ecaa64b22233b02218971d3460fab3744517a3cf93f3",
+  "gate_id": "3e52dad9f80b4d778513f9499fd2cd62",
+  "gate_seq": 2596
+ }
+}

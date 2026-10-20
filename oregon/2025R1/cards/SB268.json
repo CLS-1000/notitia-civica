@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 268",
+ "measure_id": "SB268",
+ "subject": "or_legislature/2025R1/SB268",
+ "title": "Directs the Oregon Criminal Justice Commission to study the effect of sentencing types on recidivism rates of sex offenders, and to provide the results of the study to the appropriate interim committees of the Legislative Assembly no later than December 31, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 268 did not pass",
+ "claims": [
+  {
+   "text": "SB 268 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615573
+   ]
+  },
+  {
+   "text": "SB 268 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658664
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615573,
+    617840,
+    658664
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615573
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615573
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 268&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB268",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6912,
+  "finding_hash": "c6ecf390fc118f30f2f557db8813399b822f7caecfc520e34334afa70a584a26",
+  "evidence_digest": "sha256:7184481175af7799a07885ec4b51b9396aae916dcf1452d6e1866346de62294d",
+  "gate_id": "a902ddf7da2a43c2a4c3d7a99dc0865a",
+  "gate_seq": 6913
+ }
+}

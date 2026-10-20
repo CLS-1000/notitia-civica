@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 409",
+ "measure_id": "SB409",
+ "subject": "or_legislature/2025R1/SB409",
+ "title": "Declares that the policy of this state is to include atmospheric carbon sequestered by the lands and waters of this state in any calculation to determine progress toward the greenhouse gas emissions reduction goals.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 409 did not pass",
+ "claims": [
+  {
+   "text": "SB 409 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615714
+   ]
+  },
+  {
+   "text": "SB 409 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659036
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615714,
+    617981,
+    659036
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615714
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615714
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 409&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB409",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7335,
+  "finding_hash": "09f36ba9d58c6d9b2a577bbf658910fe7cc94fa8ce9c6815355f0c2cc1fea669",
+  "evidence_digest": "sha256:f70597487d4d084722a987714183f909df5f045e81dc2ce33bacd5bce137d057",
+  "gate_id": "b9ec6e0447784ff4ad2553e3dbcb9745",
+  "gate_seq": 7336
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2004",
+ "measure_id": "HB2004",
+ "subject": "or_legislature/2025R1/HB2004",
+ "title": "Requires the Oregon Business Development Department to study economic development.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2004 did not pass",
+ "claims": [
+  {
+   "text": "HB 2004 was introduced in the House on June 23, 2025.",
+   "row_ids": [
+    656747
+   ]
+  },
+  {
+   "text": "HB 2004 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660690
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    656747,
+    656787,
+    660690
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    656747
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "when": "June 23, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    656747
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2004&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2004",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9,
+  "finding_hash": "c52b34ba4b38df515aa2926f24b7dd40b530019883e14a529cebe26ea7c2131d",
+  "evidence_digest": "sha256:6597299cae67d72582229b2a3de98a45b27a68558686f76f6b9a54deca55141b",
+  "gate_id": "b7a98dcda3da4a8788a517f49bd62e46",
+  "gate_seq": 10
+ }
+}

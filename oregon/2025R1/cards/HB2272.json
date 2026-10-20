@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2272",
+ "measure_id": "HB2272",
+ "subject": "or_legislature/2025R1/HB2272",
+ "title": "Requires the Oregon Business Development Department to study sports in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2272 did not pass",
+ "claims": [
+  {
+   "text": "HB 2272 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614236
+   ]
+  },
+  {
+   "text": "HB 2272 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659811
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614236,
+    616445,
+    659811
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614236
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614236
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2272&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2272",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 813,
+  "finding_hash": "932a013a2f64fcf85f5dd6358bc51de54944a82b3beeb9b3ce1608cefb4a74ef",
+  "evidence_digest": "sha256:75247af038e066df77ae69931bce8fbfeddfd224d9ad95b02bfb95d21f6cd9fb",
+  "gate_id": "b94a369894074119819a9a5498d09774",
+  "gate_seq": 814
+ }
+}

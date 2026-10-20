@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1054",
+ "measure_id": "SB1054",
+ "subject": "or_legislature/2025R1/SB1054",
+ "title": "Requires each county clerk in this state to provide a live video feed to be made available to the public through the Internet of rooms in which ballots are tallied and official ballot drop sites.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1054 did not pass",
+ "claims": [
+  {
+   "text": "SB 1054 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623064
+   ]
+  },
+  {
+   "text": "SB 1054 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659286
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623064,
+    623136,
+    638294,
+    659286
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623064
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623064
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    638294
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659286
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1054&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1054",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9270,
+  "finding_hash": "790c2a3ff874abc1549bd787c0763c054f555c029adcdef2f5cbed98c091e28b",
+  "evidence_digest": "sha256:aa53e7f92f26928d7847b6b293344d2675b24335094876a40b65248f46fbee3d",
+  "gate_id": "6e02f5b71bd145efb95fa52cafb97c7c",
+  "gate_seq": 9271
+ }
+}

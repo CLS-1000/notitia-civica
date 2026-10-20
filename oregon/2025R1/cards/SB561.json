@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 561",
+ "measure_id": "SB561",
+ "subject": "or_legislature/2025R1/SB561",
+ "title": "Creates an Oregon personal income tax subtraction for child care expenses paid by a taxpayer during the tax year.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 561 did not pass",
+ "claims": [
+  {
+   "text": "SB 561 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615866
+   ]
+  },
+  {
+   "text": "SB 561 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659388
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615866,
+    618133,
+    632832,
+    659388
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615866
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615866
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "when": "March 26, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632832
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659388
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 561&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB561",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7791,
+  "finding_hash": "0dfc881f16c96181a404587af4bca2d5e867826bf1b6596c91873821cc52ab56",
+  "evidence_digest": "sha256:47ef16e7a4db07699dba0f2baabef95349dffaf0f9a47cffa998564b17f602a1",
+  "gate_id": "a8753b70ce204e5987e1d86d10f1a94c",
+  "gate_seq": 7792
+ }
+}

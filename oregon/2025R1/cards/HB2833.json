@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2833",
+ "measure_id": "HB2833",
+ "subject": "or_legislature/2025R1/HB2833",
+ "title": "Expands the application of a law requiring law enforcement officers working in crowd management to wear certain identification to crowd management in a city with a population of over 5,000, instead of 60,000.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2833 did not pass",
+ "claims": [
+  {
+   "text": "HB 2833 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614797
+   ]
+  },
+  {
+   "text": "HB 2833 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660668
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614797,
+    617006,
+    660668
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614797
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614797
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2833&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2833",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2496,
+  "finding_hash": "6bcebefa998db90eb6342175341caa17d05613318b108eb0b969f83f61d55c9c",
+  "evidence_digest": "sha256:70249a94a417f77959aab981ba2855363d501d4eb712cf848c48280d89799bf1",
+  "gate_id": "5d712c37e3de47ed83778093cacdd195",
+  "gate_seq": 2497
+ }
+}

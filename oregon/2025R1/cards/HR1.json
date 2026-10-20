@@ -1,0 +1,144 @@
+{
+ "session": "2025R1",
+ "measure": "HR 1",
+ "measure_id": "HR1",
+ "subject": "or_legislature/2025R1/HR1",
+ "title": "Recognizes and honors Louis Southworth (1830-1917) for his industriousness, perseverance in the face of adversity and remarkable contributions to the State of Oregon.",
+ "outcome": "adopted",
+ "outcome_label": "Adopted",
+ "headline": "HR 1 was adopted",
+ "claims": [
+  {
+   "text": "HR 1 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618715
+   ]
+  },
+  {
+   "text": "HR 1 was adopted; the last recorded step was on March 17, 2025.",
+   "row_ids": [
+    628932
+   ]
+  },
+  {
+   "text": "Each of the 9 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618715,
+    619210,
+    623284,
+    624604,
+    625698,
+    626033,
+    628226,
+    628930,
+    628932
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618715
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618715
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "when": "February 19, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623284
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    624604
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it be adopted",
+   "rule_id": "rec_be_adopted",
+   "row_ids": [
+    625698
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "third_reading",
+   "text": "Final reading on the House floor",
+   "rule_id": "read",
+   "row_ids": [
+    628226
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "when": "March 13, 2025",
+   "chamber": "H",
+   "state": "adopted",
+   "text": "Adopted by the House",
+   "rule_id": "adopted",
+   "row_ids": [
+    628226
+   ]
+  },
+  {
+   "date": "2025-03-17",
+   "when": "March 17, 2025",
+   "chamber": "H",
+   "state": "signed_by_presiding",
+   "text": "Signed by the House Speaker",
+   "rule_id": "speaker_signed",
+   "row_ids": [
+    628930
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-03-17",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HR' and MeasureNumber eq 1&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HR1",
+ "row_count": 9,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10380,
+  "finding_hash": "8b7420aaadee766ed0c64c5e233a2185ce6b0d26f5421e4da161566c0f9a906c",
+  "evidence_digest": "sha256:caecad64c584e6e1c36e3ba719cf15b9f0dcbe641344373c2e0398c90d39cf90",
+  "gate_id": "303a97ea56964774a436600bdc3a1dfb",
+  "gate_seq": 10381
+ }
+}

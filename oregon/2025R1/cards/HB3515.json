@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3515",
+ "measure_id": "HB3515",
+ "subject": "or_legislature/2025R1/HB3515",
+ "title": "Provides that the training required to obtain certification as a public safety officer armed with a firearm must include two hours of training in nonlethal techniques for each hour of training in lethal techniques.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3515 did not pass",
+ "claims": [
+  {
+   "text": "HB 3515 was introduced in the House on February 6, 2025.",
+   "row_ids": [
+    620884
+   ]
+  },
+  {
+   "text": "HB 3515 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661305
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620884,
+    621263,
+    661305
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620884
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620884
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3515&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3515",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4542,
+  "finding_hash": "2b677336bf26dba8e95c543131fbdf1547aab3e27956027172d60aa13788423b",
+  "evidence_digest": "sha256:9e853541d778fd25f56c5fc14e445e16b8b9df13e99c5fc5d9575e7f298cd934",
+  "gate_id": "7162699178204ff2ad4a866c3f2d61bb",
+  "gate_seq": 4543
+ }
+}

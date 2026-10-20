@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 573",
+ "measure_id": "SB573",
+ "subject": "or_legislature/2025R1/SB573",
+ "title": "Discontinues the return of surplus revenue refunds to taxpayers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 573 did not pass",
+ "claims": [
+  {
+   "text": "SB 573 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615878
+   ]
+  },
+  {
+   "text": "SB 573 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658766
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615878,
+    618145,
+    658766
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615878
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615878
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 573&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB573",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7827,
+  "finding_hash": "81a60269f55d38ff3a26fcfc988ea4079a18036b90f645eb72f3ff70d17dcbc3",
+  "evidence_digest": "sha256:11ffe8a5a745f4225dd8912db9297b396171582ef057d61b4fd9e471dd820e79",
+  "gate_id": "0a5222d6a7a9406aabb5cd807947646a",
+  "gate_seq": 7828
+ }
+}

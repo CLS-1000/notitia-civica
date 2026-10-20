@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3283",
+ "measure_id": "HB3283",
+ "subject": "or_legislature/2025R1/HB3283",
+ "title": "Requires the State Department of Fish and Wildlife to study animal sanctuaries.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3283 did not pass",
+ "claims": [
+  {
+   "text": "HB 3283 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618754
+   ]
+  },
+  {
+   "text": "HB 3283 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660990
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618754,
+    619152,
+    660990
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618754
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618754
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3283&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3283",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3846,
+  "finding_hash": "fae6da7088f0d21df24bba6853b6125f6c62e6d4bf697fe7b83837f068fb57c8",
+  "evidence_digest": "sha256:2c9f05d3a8d7ce359f6460147ff1c10ecc6fd1ac2800426dc413fe00af8b5fbb",
+  "gate_id": "adef5e06d9c94bb6a2b26aea34846c06",
+  "gate_seq": 3847
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 970",
+ "measure_id": "SB970",
+ "subject": "or_legislature/2025R1/SB970",
+ "title": "Provides that enrollment in a remote learning program or an online learning program is voluntary.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 970 did not pass",
+ "claims": [
+  {
+   "text": "SB 970 was introduced in the Senate on February 4, 2025.",
+   "row_ids": [
+    620432
+   ]
+  },
+  {
+   "text": "SB 970 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659586
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620432,
+    620457,
+    659586
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620432
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620432
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 970&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB970",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9018,
+  "finding_hash": "b7eb3515358deac2ebff134332480a7937d73477c24a1868a01439d0f68bdbf8",
+  "evidence_digest": "sha256:46efa563b02ac65560e3a12857029b609c52f2fd950f483be8d7b9be9e2315e1",
+  "gate_id": "ac8259e6703143a19df0a2439c0051ae",
+  "gate_seq": 9019
+ }
+}

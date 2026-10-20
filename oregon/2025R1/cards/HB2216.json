@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2216",
+ "measure_id": "HB2216",
+ "subject": "or_legislature/2025R1/HB2216",
+ "title": "Directs the Oregon Health Authority to assess current fee-for-service billing practices and non-fee-for-service payment pathways for community health workers serving medical assistance recipients to identify improvements for ensuring adequate and sustainable funding.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2216 did not pass",
+ "claims": [
+  {
+   "text": "HB 2216 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614180
+   ]
+  },
+  {
+   "text": "HB 2216 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661060
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614180,
+    616389,
+    627021,
+    635903,
+    638443,
+    638444,
+    661060
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614180
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614180
+   ]
+  },
+  {
+   "date": "2025-03-06",
+   "when": "March 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627021
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    635903
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    638443
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2216&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2216",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 645,
+  "finding_hash": "40ae3809c1a62b275dd82ed2f96de5f94db1d7d855275d9c9f986676cb7663ff",
+  "evidence_digest": "sha256:fbce51a3336a2d4b28a90731b3dacfc2b28eab1f4bbb25e87406c1147a52c519",
+  "gate_id": "4a98c24d7de54d869df7d7a3fbd94610",
+  "gate_seq": 646
+ }
+}

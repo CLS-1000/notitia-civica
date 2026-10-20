@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3425",
+ "measure_id": "HB3425",
+ "subject": "or_legislature/2025R1/HB3425",
+ "title": "Creates the crime of grooming.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3425 did not pass",
+ "claims": [
+  {
+   "text": "HB 3425 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619476
+   ]
+  },
+  {
+   "text": "HB 3425 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660132
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619476,
+    619848,
+    660132
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619476
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619476
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3425&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3425",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4272,
+  "finding_hash": "8996d2f7d2f2ddf5fc5439a5770e5fa9d9882a5824725c69435f51aaf0636b03",
+  "evidence_digest": "sha256:6f5746e3e05b06f3dd7c176c1f0a29030c6352232a2bb1e515b27d6c56fe8169",
+  "gate_id": "ec96161041c74f28a33c9167f3bf9473",
+  "gate_seq": 4273
+ }
+}

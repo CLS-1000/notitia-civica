@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2701",
+ "measure_id": "HB2701",
+ "subject": "or_legislature/2025R1/HB2701",
+ "title": "Requires health care facilities, health care providers, local public health authorities and public and private safety agencies to maintain capacity, including sufficient amounts of certain supplies, to continue in normal operation for 120 days at a 25 percent mortality rate.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2701 did not pass",
+ "claims": [
+  {
+   "text": "HB 2701 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614665
+   ]
+  },
+  {
+   "text": "HB 2701 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660098
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614665,
+    616874,
+    660098
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614665
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614665
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2701&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2701",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2100,
+  "finding_hash": "8d7e63f3e9f5baccfbe5e948a39a731588333403a30bb9cc392a91196b703eff",
+  "evidence_digest": "sha256:97dc929cb97b45869040ea31072b8c5cbf3cf21963dd54cc0057da350f1fda48",
+  "gate_id": "18d84f6a67a240ecbc47ec5c614bd4e2",
+  "gate_seq": 2101
+ }
+}

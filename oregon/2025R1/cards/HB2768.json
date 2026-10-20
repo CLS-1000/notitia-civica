@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2768",
+ "measure_id": "HB2768",
+ "subject": "or_legislature/2025R1/HB2768",
+ "title": "Directs the Oregon Department of Emergency Management to contract with one or more philanthropic liaisons.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2768 did not pass",
+ "claims": [
+  {
+   "text": "HB 2768 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614732
+   ]
+  },
+  {
+   "text": "HB 2768 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661148
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614732,
+    616941,
+    661148
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614732
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614732
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2768&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2768",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2301,
+  "finding_hash": "1cc9485339f00978e2aef4bec9fb4155e481fff12294813db0ecd0563428d3fe",
+  "evidence_digest": "sha256:ac8ed930f1059b0d4aba8fb377b6b50ce9ff297d2683b699808e9f678ca4e920",
+  "gate_id": "ac6e3b2009474da7b9b1f0c9c52a7d35",
+  "gate_seq": 2302
+ }
+}

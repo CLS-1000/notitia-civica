@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2734",
+ "measure_id": "HB2734",
+ "subject": "or_legislature/2025R1/HB2734",
+ "title": "Authorizes the Oregon Public Defense Commission to contract with specified individuals and entities for the provision of public defense services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2734 did not pass",
+ "claims": [
+  {
+   "text": "HB 2734 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614698
+   ]
+  },
+  {
+   "text": "HB 2734 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660150
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614698,
+    616907,
+    660150
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614698
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614698
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2734&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2734",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2199,
+  "finding_hash": "2508dbd9349d36cd5e4359be56a4cfb1760188010d4a020c8e445630716e6efd",
+  "evidence_digest": "sha256:2f3ed310f314fe93bc997dcc6ca08bd20749844d3cccf937ce39d706f2abe450",
+  "gate_id": "1a7bde1f1a2442d9807e732ca014b598",
+  "gate_seq": 2200
+ }
+}

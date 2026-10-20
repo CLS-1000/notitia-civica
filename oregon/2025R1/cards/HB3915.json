@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3915",
+ "measure_id": "HB3915",
+ "subject": "or_legislature/2025R1/HB3915",
+ "title": "Directs the State Department of Agriculture to develop and maintain a model list of low-impact pesticides for use with school integrated pest management plans.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3915 did not pass",
+ "claims": [
+  {
+   "text": "HB 3915 was introduced in the House on March 10, 2025.",
+   "row_ids": [
+    627443
+   ]
+  },
+  {
+   "text": "HB 3915 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660861
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    627443,
+    627863,
+    660861
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    627443
+   ]
+  },
+  {
+   "date": "2025-03-10",
+   "when": "March 10, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    627443
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3915&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3915",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5742,
+  "finding_hash": "19615100707712f342f1689ddaea8a848d324886c33e8a2defc2a4960c1b61e7",
+  "evidence_digest": "sha256:acfb0c337d748b41531dc5fcc2860d764675d03de76fe0d6c462f8da1caffbe4",
+  "gate_id": "b59a9de1afba473ba1462df88c338f22",
+  "gate_seq": 5743
+ }
+}

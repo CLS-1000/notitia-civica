@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2262",
+ "measure_id": "HB2262",
+ "subject": "or_legislature/2025R1/HB2262",
+ "title": "Requires the Housing and Community Services Department to study homelessness and submit findings to the interim committees of the Legislative Assembly related to housing no later than September 15, 2026.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2262 did not pass",
+ "claims": [
+  {
+   "text": "HB 2262 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614226
+   ]
+  },
+  {
+   "text": "HB 2262 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660263
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614226,
+    616435,
+    660263
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614226
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614226
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2262&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2262",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 783,
+  "finding_hash": "add8c096270b31ecef0087e000785303c681f235b6f1154227633c3a9db27b09",
+  "evidence_digest": "sha256:2be5fc0d53844e1013bb56825edec0378dc59c5d0a8f3e48d08882e73dc2bf79",
+  "gate_id": "35f715ece7584f569d97e2b2f2aac668",
+  "gate_seq": 784
+ }
+}

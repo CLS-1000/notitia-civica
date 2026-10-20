@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3338",
+ "measure_id": "HB3338",
+ "subject": "or_legislature/2025R1/HB3338",
+ "title": "Directs the Health Evidence Review Commission to evaluate gender-affirming treatment.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3338 did not pass",
+ "claims": [
+  {
+   "text": "HB 3338 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619389
+   ]
+  },
+  {
+   "text": "HB 3338 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660318
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619389,
+    619761,
+    660318
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619389
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619389
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3338&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3338",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4011,
+  "finding_hash": "75e5970eeb7f9ef5f35f97a2bd9b1fb67f71130b856b5b56eb8d25ebe400025e",
+  "evidence_digest": "sha256:d52b66772661c2ea1a1725cd13c60e4532c06a2ab0712f778c8d099d3902c221",
+  "gate_id": "5ab3b580177f4bbb9bc975824fefd462",
+  "gate_seq": 4012
+ }
+}

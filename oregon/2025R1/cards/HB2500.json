@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2500",
+ "measure_id": "HB2500",
+ "subject": "or_legislature/2025R1/HB2500",
+ "title": "Requires the Oregon Health Authority to study changes to laws regarding opioid use disorder medication.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2500 did not pass",
+ "claims": [
+  {
+   "text": "HB 2500 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614464
+   ]
+  },
+  {
+   "text": "HB 2500 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661465
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614464,
+    616673,
+    661465
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614464
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614464
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2500&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2500",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1497,
+  "finding_hash": "5f68655ce52c61b57f7fc0ed3bfa2239ba9d9e5b414c3637af9daee6086cf37b",
+  "evidence_digest": "sha256:e935d17e1d1d100feb5bb01ecbdd04dd2fc28dddd2e6c8c4e9b1455a4742f7b6",
+  "gate_id": "048b40dc9166408eba2c8bf14084b991",
+  "gate_seq": 1498
+ }
+}

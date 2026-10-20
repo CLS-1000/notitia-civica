@@ -1,0 +1,74 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2443",
+ "measure_id": "HB2443",
+ "subject": "or_legislature/2025R1/HB2443",
+ "title": "Requires a county clerk to cancel the registration of an elector if the elector registers to vote in another county, surrenders the elector's driver license upon being issued a license in another state or is excused from jury duty for not being a United States citizen.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2443 did not pass",
+ "claims": [
+  {
+   "text": "HB 2443 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614407
+   ]
+  },
+  {
+   "text": "HB 2443 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661477
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614407,
+    616616,
+    661477
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614407
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614407
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2443&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2443",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1326,
+  "finding_hash": "1d8b91628041b0513f5af86b40f01f67ec27c138b8b27967551903242b2a4f82",
+  "evidence_digest": "sha256:d25b1a5b5f5f26fb5c5412aae61d23f5d665054bb6a19792143544cfafdab05c",
+  "gate_id": "79c7ec70bead465d9df5120407e164c9",
+  "gate_seq": 1327
+ }
+}

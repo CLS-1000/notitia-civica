@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3207",
+ "measure_id": "HB3207",
+ "subject": "or_legislature/2025R1/HB3207",
+ "title": "Directs the Department of Education to use moneys from the Statewide Education Initiatives Account to provide school districts with technology for data analysis systems for the early warning system.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3207 did not pass",
+ "claims": [
+  {
+   "text": "HB 3207 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615171
+   ]
+  },
+  {
+   "text": "HB 3207 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660043
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615171,
+    617380,
+    660043
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615171
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615171
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3207&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3207",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3618,
+  "finding_hash": "1ceddee7acab41a811f484351709044e16bec73cf768659278baba5066b48366",
+  "evidence_digest": "sha256:0b25b1b6ed4c5efc88f9494bf886cbb5fcbbb016a12e45aa770920218b3b3693",
+  "gate_id": "ded481f53e014e618ba88e5cec93882b",
+  "gate_seq": 3619
+ }
+}

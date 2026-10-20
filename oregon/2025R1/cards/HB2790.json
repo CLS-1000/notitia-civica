@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2790",
+ "measure_id": "HB2790",
+ "subject": "or_legislature/2025R1/HB2790",
+ "title": "Clarifies the meaning of \"mental health condition\" for purposes of sick leave provisions to include leave taken to restore the employee or the employee's family member to a state of mental well-being.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2790 did not pass",
+ "claims": [
+  {
+   "text": "HB 2790 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614754
+   ]
+  },
+  {
+   "text": "HB 2790 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660484
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614754,
+    616963,
+    660484
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614754
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614754
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2790&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2790",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2367,
+  "finding_hash": "37a48146523c53805998cc1997449350ebd2048b6b475b20eefffec72484fb19",
+  "evidence_digest": "sha256:a0c6bd8ec6766e448171555075d08de1f1cfbab5f15fbbcf71cf3598c59a031b",
+  "gate_id": "7f367d9bf0b24a579e315a79a3ce0086",
+  "gate_seq": 2368
+ }
+}

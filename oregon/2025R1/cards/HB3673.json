@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3673",
+ "measure_id": "HB3673",
+ "subject": "or_legislature/2025R1/HB3673",
+ "title": "Reduces to 90 days the time under which a city or county must decide a land use application for housing or mental health or addiction facilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3673 did not pass",
+ "claims": [
+  {
+   "text": "HB 3673 was introduced in the House on February 25, 2025.",
+   "row_ids": [
+    624357
+   ]
+  },
+  {
+   "text": "HB 3673 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660423
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624357,
+    625218,
+    660423
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624357
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624357
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3673&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3673",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5016,
+  "finding_hash": "ac507e5eb7d609749e1a2fffdd3cbf339712f4e0c9bd0f4388128536b9ba513a",
+  "evidence_digest": "sha256:dd98d5a63efa2f5ef0bc168a21b6526ea13d98c0681abb93d533c7e5129c9db7",
+  "gate_id": "9af26b6e44314aa690cb329347b9de9d",
+  "gate_seq": 5017
+ }
+}

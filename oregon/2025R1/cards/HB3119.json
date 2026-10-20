@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3119",
+ "measure_id": "HB3119",
+ "subject": "or_legislature/2025R1/HB3119",
+ "title": "Prohibits the Department of Environmental Quality from implementing or enforcing the Advanced Clean Trucks regulations before January 1, 2027.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3119 did not pass",
+ "claims": [
+  {
+   "text": "HB 3119 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615083
+   ]
+  },
+  {
+   "text": "HB 3119 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660009
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615083,
+    617292,
+    619727,
+    660009
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615083
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615083
+   ]
+  },
+  {
+   "date": "2025-01-30",
+   "when": "January 30, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    619727
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660009
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3119&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3119",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3354,
+  "finding_hash": "891cbb29d69e8285d61155e1d10e904939e08bb1b7aef539358c6b66631c172c",
+  "evidence_digest": "sha256:0f1d625113273324e483080ae8e1d2e62d9051cd8c1dc1fcf55073b39daf05af",
+  "gate_id": "88090bd93d83428f9026e95ee13308a6",
+  "gate_seq": 3355
+ }
+}

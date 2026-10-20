@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3573",
+ "measure_id": "HB3573",
+ "subject": "or_legislature/2025R1/HB3573",
+ "title": "Appropriates moneys from the General Fund to the Water Resources Department for specified purposes relating to water resources data collection and monitoring for the biennium beginning July 1, 2025.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3573 did not pass",
+ "claims": [
+  {
+   "text": "HB 3573 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622908
+   ]
+  },
+  {
+   "text": "HB 3573 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660592
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622908,
+    623463,
+    660592
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622908
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622908
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3573&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3573",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4716,
+  "finding_hash": "31ac5316bd8d7aa841912be4e9e7438b8b7b9cdf1227ab44813b3f636b296d70",
+  "evidence_digest": "sha256:948e9bfaee795c2b5d2512798f4b67d0a7a60f570613022b31984db0f8af8a8f",
+  "gate_id": "39d6bea84f4b4bbc9e0bda44c58d9068",
+  "gate_seq": 4717
+ }
+}

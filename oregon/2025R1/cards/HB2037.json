@@ -1,0 +1,73 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2037",
+ "measure_id": "HB2037",
+ "subject": "or_legislature/2025R1/HB2037",
+ "title": "Requires each athletic association, conference or organization with authority over intercollegiate sports, post-secondary institution of education and school district to designate athletic competitions and extracurricular sports according to biological sex.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2037 did not pass",
+ "claims": [
+  {
+   "text": "HB 2037 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614001
+   ]
+  },
+  {
+   "text": "HB 2037 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660853
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614001,
+    616210,
+    652063,
+    660853
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614001
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614001
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2037&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2037",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 108,
+  "finding_hash": "b8779a04458be5cfc806741a2b795f7fb3c7771b188752c2cbd43c8df0d2953b",
+  "evidence_digest": "sha256:13a8c0f5845759878c4329ea6ea87af807cbb1e94efff4f39f9f5798136b9456",
+  "gate_id": "45663f2fb00344998191df7a3ff9dbe9",
+  "gate_seq": 109
+ }
+}

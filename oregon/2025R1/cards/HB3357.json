@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3357",
+ "measure_id": "HB3357",
+ "subject": "or_legislature/2025R1/HB3357",
+ "title": "Directs the Department of Education to implement a method to be used by school districts and education service districts to record school workplace safety incidents.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3357 did not pass",
+ "claims": [
+  {
+   "text": "HB 3357 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619408
+   ]
+  },
+  {
+   "text": "HB 3357 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661253
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619408,
+    619780,
+    625861,
+    661253
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619408
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619408
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "when": "March 3, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    625861
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661253
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3357&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3357",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4068,
+  "finding_hash": "d8de590919626dc43bed5df80b0444fcb9fd671c4ab2ff5f9f8ada9a5c56a5a8",
+  "evidence_digest": "sha256:a7c9c633c7a72306a2f9438eb4e8cb4bb2c98c2ad8ced9fc5ec24280f95ed6f3",
+  "gate_id": "dbb2fc36528a483e993bb5eddde5ff86",
+  "gate_seq": 4069
+ }
+}

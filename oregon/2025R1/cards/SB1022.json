@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1022",
+ "measure_id": "SB1022",
+ "subject": "or_legislature/2025R1/SB1022",
+ "title": "Modifies the special registration plate program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1022 did not pass",
+ "claims": [
+  {
+   "text": "SB 1022 was introduced in the Senate on February 11, 2025.",
+   "row_ids": [
+    621792
+   ]
+  },
+  {
+   "text": "SB 1022 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659000
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621792,
+    621897,
+    642167,
+    659000
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    621792
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621792
+   ]
+  },
+  {
+   "date": "2025-04-21",
+   "when": "April 21, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    642167
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659000
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1022&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1022",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9174,
+  "finding_hash": "030feaf6fb55cca4d777cbce00b1c6870a56c0cb3ace47df92291a0af04355b2",
+  "evidence_digest": "sha256:8bd9636be05a049993e1df4b81d14f1b7f78c384285126bdec83141206edd0ac",
+  "gate_id": "aeff76b178aa4ecb9bfb0e4d00736a03",
+  "gate_seq": 9175
+ }
+}

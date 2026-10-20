@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1197",
+ "measure_id": "SB1197",
+ "subject": "or_legislature/2025R1/SB1197",
+ "title": "Requires respite care services to be provided through the state medical assistance program to provide relief to children or youth under the age of 26 who have complex behavioral health needs or an intellectual or developmental disability and to the caregivers of such children or youth.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1197 did not pass",
+ "claims": [
+  {
+   "text": "SB 1197 was introduced in the Senate on March 20, 2025.",
+   "row_ids": [
+    630183
+   ]
+  },
+  {
+   "text": "SB 1197 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659121
+   ]
+  },
+  {
+   "text": "Each of the 6 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    630183,
+    630216,
+    639604,
+    641838,
+    641839,
+    659121
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    630183
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "when": "March 20, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    630183
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "hearing_and_work_session",
+   "row_ids": [
+    639604
+   ]
+  },
+  {
+   "date": "2025-04-18",
+   "when": "April 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    641838
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1197&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1197",
+ "row_count": 6,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9699,
+  "finding_hash": "df97a2edf5070e5c1e38c3c51ae22944b935861c6d7f235a8dabf470f23abb5d",
+  "evidence_digest": "sha256:4db044d6be1626dd6552bebf851cad3934b2bc1c7e7f8761545fceabf57deecd",
+  "gate_id": "c314b308537d4a47b9f003b79950e2f2",
+  "gate_seq": 9700
+ }
+}

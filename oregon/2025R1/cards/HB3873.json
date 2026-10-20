@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3873",
+ "measure_id": "HB3873",
+ "subject": "or_legislature/2025R1/HB3873",
+ "title": "Requires that the sex offender risk assessment methodology take into consideration victim input and other specified information.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3873 did not pass",
+ "claims": [
+  {
+   "text": "HB 3873 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625049
+   ]
+  },
+  {
+   "text": "HB 3873 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661079
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625049,
+    626458,
+    661079
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625049
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625049
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3873&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3873",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5616,
+  "finding_hash": "bbbbb79ed23ea3b0d1277c988b73020da28b376ccde0009d06ed6db74f2bab12",
+  "evidence_digest": "sha256:f096aa32c07e3d93c8d61a703cf5a16620baef8f78ebed4a9bc94030a37741a2",
+  "gate_id": "53da3ce080de46e4b1836f8bf0a9b908",
+  "gate_seq": 5617
+ }
+}

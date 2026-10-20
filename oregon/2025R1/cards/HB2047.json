@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2047",
+ "measure_id": "HB2047",
+ "subject": "or_legislature/2025R1/HB2047",
+ "title": "Declares the state's public policy regarding the rights of a parent to the care, custody and control of the parent's child.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2047 did not pass",
+ "claims": [
+  {
+   "text": "HB 2047 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614011
+   ]
+  },
+  {
+   "text": "HB 2047 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660814
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614011,
+    616220,
+    660814
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614011
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614011
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2047&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2047",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 138,
+  "finding_hash": "b93d652e55a539593121d58473b42b8d1fe12700c8e0ae79ea89f4890d43403a",
+  "evidence_digest": "sha256:31c5951512dca8e5c95c2a2405844cccb2703fc1e6a608de9507cf2cd3d8db9b",
+  "gate_id": "b99f2468474a490885c0e3aabd133de7",
+  "gate_seq": 139
+ }
+}

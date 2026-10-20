@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3756",
+ "measure_id": "HB3756",
+ "subject": "or_legislature/2025R1/HB3756",
+ "title": "Establishes the Task Force on Electromagnetic Weapons to study the usage of electromagnetic weapons in this state and identify gaps in Oregon law that need to be revised to address such usage.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3756 did not pass",
+ "claims": [
+  {
+   "text": "HB 3756 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624932
+   ]
+  },
+  {
+   "text": "HB 3756 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660469
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624932,
+    626341,
+    660469
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624932
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624932
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3756&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3756",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5265,
+  "finding_hash": "3054fe3521e1ea0cbf8819d8ef3671a54f9ba783c0bc08be005b65f314f2c2d3",
+  "evidence_digest": "sha256:40e5c49353feb7813c2bf64093c3819b98821343dfd20da1a15f04246c2eb1b2",
+  "gate_id": "921f4bdd172d477991769b88656a690f",
+  "gate_seq": 5266
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3973",
+ "measure_id": "HB3973",
+ "subject": "or_legislature/2025R1/HB3973",
+ "title": "Removes the requirement that architectural paint be collected by a stewardship organization to be excluded from the definition of \"covered product\" under the packaging, printing and writing paper and food serviceware producer responsibility law.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3973 did not pass",
+ "claims": [
+  {
+   "text": "HB 3973 was introduced in the House on May 15, 2025.",
+   "row_ids": [
+    647303
+   ]
+  },
+  {
+   "text": "HB 3973 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660826
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    647303,
+    648765,
+    660826
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-05-15",
+   "when": "May 15, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    647303
+   ]
+  },
+  {
+   "date": "2025-05-15",
+   "when": "May 15, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    647303
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3973&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3973",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5916,
+  "finding_hash": "4449d34a4cee64ac1675087977c07b37af2c9b82431c1fab57633fc1a97e8027",
+  "evidence_digest": "sha256:27a497b16d0ae1d2a52a896107a3d9b641160911e6e978d265eadf2afa4b3190",
+  "gate_id": "1442540bbdf24cc6a58bc00b31f19a1c",
+  "gate_seq": 5917
+ }
+}

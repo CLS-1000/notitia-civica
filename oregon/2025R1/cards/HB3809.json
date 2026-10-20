@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3809",
+ "measure_id": "HB3809",
+ "subject": "or_legislature/2025R1/HB3809",
+ "title": "Establishes a quarterly allocation of lottery moneys to the Housing and Community Services Department for the individual development account program.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3809 did not pass",
+ "claims": [
+  {
+   "text": "HB 3809 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624985
+   ]
+  },
+  {
+   "text": "HB 3809 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661374
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624985,
+    626394,
+    632308,
+    635228,
+    637847,
+    637848,
+    661374
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624985
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624985
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632308
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "when": "April 1, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    635228
+   ]
+  },
+  {
+   "date": "2025-04-04",
+   "when": "April 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    637847
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3809&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3809",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5424,
+  "finding_hash": "bdf4534c150a6228878538d5351fb233f2daad20a089bc02cc5a30a237560b17",
+  "evidence_digest": "sha256:1638ba1003d68e28da4dc7ad17ad60da691c958c2af485f7bf60f0cee9e3d957",
+  "gate_id": "61faa29de13542caa98c0f3917660b66",
+  "gate_seq": 5425
+ }
+}

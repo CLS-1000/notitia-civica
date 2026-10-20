@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2987",
+ "measure_id": "HB2987",
+ "subject": "or_legislature/2025R1/HB2987",
+ "title": "Requires the Oregon Department of Administrative Services to study compensation for members of state boards and commissions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2987 did not pass",
+ "claims": [
+  {
+   "text": "HB 2987 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614951
+   ]
+  },
+  {
+   "text": "HB 2987 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661243
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614951,
+    617160,
+    621915,
+    661243
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614951
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614951
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621915
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661243
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2987&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2987",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2958,
+  "finding_hash": "8a565ace2b3420dc47bfeb14168a7e3fa92ef32ff848f07e89fe4dabfa918cb1",
+  "evidence_digest": "sha256:e4e90f1761395dfeb99a0b4feffc3ed0e17887dc2e520e74cad0937678acf811",
+  "gate_id": "355c08a74cf34a99870b525224786455",
+  "gate_seq": 2959
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 636",
+ "measure_id": "SB636",
+ "subject": "or_legislature/2025R1/SB636",
+ "title": "Requires the Department of Transportation to study the creation of a road usage charge to ensure that electric and hybrid motor vehicles pay their equitable share for the wear they cause to the highways in Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 636 did not pass",
+ "claims": [
+  {
+   "text": "SB 636 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615941
+   ]
+  },
+  {
+   "text": "SB 636 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658830
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615941,
+    618208,
+    658830
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615941
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615941
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 636&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB636",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8016,
+  "finding_hash": "2afdabc3ea1c354dab14e79171c0bec02af92a26e785b07a0c4f607b112b8ca5",
+  "evidence_digest": "sha256:f27658339347abc0db5dcd328de4d36c3a39b27dcd19012426d4b7584ca94638",
+  "gate_id": "80d91556d751462e85751bc655cf819a",
+  "gate_seq": 8017
+ }
+}

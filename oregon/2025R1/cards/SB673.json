@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 673",
+ "measure_id": "SB673",
+ "subject": "or_legislature/2025R1/SB673",
+ "title": "Instructs the Water Resources Commission to allow the appropriation of water from the mainstem of the Columbia River for use in eastern Oregon.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 673 did not pass",
+ "claims": [
+  {
+   "text": "SB 673 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615978
+   ]
+  },
+  {
+   "text": "SB 673 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658867
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615978,
+    618245,
+    658867
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615978
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615978
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 673&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB673",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8127,
+  "finding_hash": "910492fad38e5fb6dbb812d3909983bb18f4933aa693b8293aa3359f751899cb",
+  "evidence_digest": "sha256:e40354de9d9bed7082dee83b50fec327d95b2bd320a8486f30c960f82a2b9392",
+  "gate_id": "3a0a04fa209e46f793655e26547f414a",
+  "gate_seq": 8128
+ }
+}

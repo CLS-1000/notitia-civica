@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HCR 11",
+ "measure_id": "HCR11",
+ "subject": "or_legislature/2025R1/HCR11",
+ "title": "Declares June 4, 2025, Communist Survival Day in honor of all those who lost their lives during the June 4, 1989, massacre on Tiananmen Square.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HCR 11 did not pass",
+ "claims": [
+  {
+   "text": "HCR 11 was introduced in the House on January 28, 2025.",
+   "row_ids": [
+    619504
+   ]
+  },
+  {
+   "text": "HCR 11 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659934
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    619504,
+    619876,
+    659934
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    619504
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "when": "January 28, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    619504
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HCR' and MeasureNumber eq 11&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HCR11",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 10182,
+  "finding_hash": "440aa17d1410ec6c8bc1c6b9266a9fbf5d2417043198f2856af9e0ba2cfecaad",
+  "evidence_digest": "sha256:c1949b60af6ad43315e536aa7f65175106e5888b7cdf720d42edb2dab549d996",
+  "gate_id": "205f3ada9fc444e88759a44de57e94bf",
+  "gate_seq": 10183
+ }
+}

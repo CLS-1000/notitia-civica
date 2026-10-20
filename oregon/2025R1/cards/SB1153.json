@@ -1,0 +1,135 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1153",
+ "measure_id": "SB1153",
+ "subject": "or_legislature/2025R1/SB1153",
+ "title": "Directs the Water Resources Department to consider whether certain water right transfers will result in a loss of in-stream habitat for sensitive, threatened or endangered aquatic species in stream reaches not protected by an existing water right or contribute to water quality impairment in water quality limited streams.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1153 did not pass",
+ "claims": [
+  {
+   "text": "SB 1153 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624863
+   ]
+  },
+  {
+   "text": "SB 1153 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658571
+   ]
+  },
+  {
+   "text": "Each of the 11 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624863,
+    625775,
+    632587,
+    639130,
+    640465,
+    640466,
+    651487,
+    651488,
+    652278,
+    652922,
+    658571
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624863
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624863
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "when": "March 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    632587
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639130
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Senate committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    640465
+   ]
+  },
+  {
+   "date": "2025-06-03",
+   "when": "June 3, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    651488
+   ]
+  },
+  {
+   "date": "2025-06-05",
+   "when": "June 5, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    652278
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1153&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1153",
+ "row_count": 11,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9567,
+  "finding_hash": "d156c01f884680291e69ec84da058a24806a7bc07b00f2bcb5c6f1092423c8d5",
+  "evidence_digest": "sha256:74f9c58b7247aa4697a3a2ad8a862c401e57095acc186d13564c7d09834c5c64",
+  "gate_id": "f4bafacdab4340538fe76e59cb381ea5",
+  "gate_seq": 9568
+ }
+}

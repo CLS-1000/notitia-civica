@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3542",
+ "measure_id": "HB3542",
+ "subject": "or_legislature/2025R1/HB3542",
+ "title": "Allows a motorcycle operator to travel between lanes of traffic under certain conditions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3542 did not pass",
+ "claims": [
+  {
+   "text": "HB 3542 was introduced in the House on February 11, 2025.",
+   "row_ids": [
+    621748
+   ]
+  },
+  {
+   "text": "HB 3542 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660125
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    621748,
+    622085,
+    638643,
+    660125
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    621748
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    621748
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "when": "April 7, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    638643
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660125
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3542&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3542",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4623,
+  "finding_hash": "f6a7d1e00dffce5c914e501651762d326760e3b5fb9e6c274946f77f93167138",
+  "evidence_digest": "sha256:a2674cf0f79ed4a2ac00eb63a6574f75457c4157528cbf5410c8f762183f5d6f",
+  "gate_id": "45929a4c74be4a7cac98ffc257112637",
+  "gate_seq": 4624
+ }
+}

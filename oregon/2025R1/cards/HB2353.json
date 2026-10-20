@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2353",
+ "measure_id": "HB2353",
+ "subject": "or_legislature/2025R1/HB2353",
+ "title": "Requires the Oregon Health Authority to study behavioral health services and supports for older adults and individuals with disabilities.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2353 did not pass",
+ "claims": [
+  {
+   "text": "HB 2353 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614317
+   ]
+  },
+  {
+   "text": "HB 2353 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660697
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614317,
+    616526,
+    660697
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614317
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614317
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2353&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2353",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1056,
+  "finding_hash": "56ce04ddcb091d4687944acfceedb9f38476366e9c78b5711193cc58fa9b6ee6",
+  "evidence_digest": "sha256:3828b2dbe3751ba62e7ca9dad07d976ea8f61268002a388374e7f93577739b57",
+  "gate_id": "53321c6512dc49cc9faf660ae1f34497",
+  "gate_seq": 1057
+ }
+}

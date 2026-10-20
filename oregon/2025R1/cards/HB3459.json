@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3459",
+ "measure_id": "HB3459",
+ "subject": "or_legislature/2025R1/HB3459",
+ "title": "Directs school districts to teach about human biology related to pregnancy and human development inside the womb and to show related videos.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3459 did not pass",
+ "claims": [
+  {
+   "text": "HB 3459 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620332
+   ]
+  },
+  {
+   "text": "HB 3459 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660837
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620332,
+    621005,
+    660837
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620332
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620332
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3459&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3459",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4374,
+  "finding_hash": "e9e332c9077d1c49c221e9d0cc3995f42f6112b1fedfb04f0f7b7a6b4728de23",
+  "evidence_digest": "sha256:b1a500fbd0439ad2794978d661662275f5c86d03d4f2dc969901773319961941",
+  "gate_id": "518291e4ab66496abb6d4647bb21e00c",
+  "gate_seq": 4375
+ }
+}

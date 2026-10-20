@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 232",
+ "measure_id": "SB232",
+ "subject": "or_legislature/2025R1/SB232",
+ "title": "Directs the Superintendent of State Police to establish a division for the purpose of identifying and implementing ways to better serve and protect drug endangered children.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 232 did not pass",
+ "claims": [
+  {
+   "text": "SB 232 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615537
+   ]
+  },
+  {
+   "text": "SB 232 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658631
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615537,
+    617804,
+    658631
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615537
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615537
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 232&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB232",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6804,
+  "finding_hash": "cb0153c21911977d1b147a7ecd2ebbf9ea757ca84e79e5183f7ec9f7968c6cd9",
+  "evidence_digest": "sha256:06fed16b7910567feea144382a3d30b0bb41853e3d9ab720e699360c818ca061",
+  "gate_id": "40f375bfba0a478da1cb3cf8ce3fe537",
+  "gate_seq": 6805
+ }
+}

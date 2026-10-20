@@ -1,0 +1,107 @@
+{
+ "session": "2025R1",
+ "measure": "SB 981",
+ "measure_id": "SB981",
+ "subject": "or_legislature/2025R1/SB981",
+ "title": "Increases the maximum age under which a student may receive a public education.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 981 did not pass",
+ "claims": [
+  {
+   "text": "SB 981 was introduced in the Senate on February 4, 2025.",
+   "row_ids": [
+    620443
+   ]
+  },
+  {
+   "text": "SB 981 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658997
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620443,
+    620468,
+    626613,
+    629628,
+    658997
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    620443
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620443
+   ]
+  },
+  {
+   "date": "2025-03-05",
+   "when": "March 5, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626613
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "when": "March 19, 2025",
+   "chamber": "S",
+   "state": "work_session",
+   "text": "Senate committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    629628
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658997
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 981&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB981",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9051,
+  "finding_hash": "05d169d00c5542e9b386474e6ed54a3112c89223a17763b3971cc196a17a2bf7",
+  "evidence_digest": "sha256:6230a8c1dfe0c2f9581b8878007ea9b87fca107cc0220ec35ab33f0acfa661b7",
+  "gate_id": "867d5b8c85d349aea9cf61f7adc5e65c",
+  "gate_seq": 9052
+ }
+}

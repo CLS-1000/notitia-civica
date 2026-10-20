@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3628",
+ "measure_id": "HB3628",
+ "subject": "or_legislature/2025R1/HB3628",
+ "title": "Establishes the Oregon Electric Transmission Authority as an independent public corporation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3628 did not pass",
+ "claims": [
+  {
+   "text": "HB 3628 was introduced in the House on February 20, 2025.",
+   "row_ids": [
+    623563
+   ]
+  },
+  {
+   "text": "HB 3628 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659941
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623563,
+    623855,
+    624240,
+    659941
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    623563
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623563
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624240
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    659941
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3628&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3628",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4881,
+  "finding_hash": "2c9627e816f194843bff63e06128df059e6dca00274aa28248c18ad08dc398ff",
+  "evidence_digest": "sha256:59dc8cb66b633aea0bb10967680b4ff79c44a882240662812b51fa2caa7434fc",
+  "gate_id": "10278d9320a1462ea00e29570c1b21cc",
+  "gate_seq": 4882
+ }
+}

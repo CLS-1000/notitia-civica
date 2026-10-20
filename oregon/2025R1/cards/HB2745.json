@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2745",
+ "measure_id": "HB2745",
+ "subject": "or_legislature/2025R1/HB2745",
+ "title": "Provides the timeline for payment of temporary disability compensation during an investigation of the compliance of the worker's employer with workers' compensation law.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2745 did not pass",
+ "claims": [
+  {
+   "text": "HB 2745 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614709
+   ]
+  },
+  {
+   "text": "HB 2745 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660160
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614709,
+    616918,
+    660160
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614709
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614709
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2745&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2745",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2232,
+  "finding_hash": "ac394e2ead2fd77de352474e7670928deb882d4a6057ac6ab82331ee0137450f",
+  "evidence_digest": "sha256:62ed023e976076f30b2ae11b9750b53add15b6cb8135e471115fd5ac98f2563c",
+  "gate_id": "55c326d4a7db47688f7ba83da73824c1",
+  "gate_seq": 2233
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 848",
+ "measure_id": "SB848",
+ "subject": "or_legislature/2025R1/SB848",
+ "title": "Creates a task force on driving while under the influence of intoxicants.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 848 did not pass",
+ "claims": [
+  {
+   "text": "SB 848 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616152
+   ]
+  },
+  {
+   "text": "SB 848 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658944
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616152,
+    618419,
+    621960,
+    658944
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616152
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616152
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "when": "February 11, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621960
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658944
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 848&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB848",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8652,
+  "finding_hash": "a9f4e6148561a0e1763ef45d2bffee7e138fc8a26ef4f625c23523f96c8861e0",
+  "evidence_digest": "sha256:178bba90121ab7b2846efc60047c83337a4d37b5b07948ae9f44863fce3151f5",
+  "gate_id": "b298727cdf924dbca25f82717f529a08",
+  "gate_seq": 8653
+ }
+}

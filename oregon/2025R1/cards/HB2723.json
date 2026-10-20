@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2723",
+ "measure_id": "HB2723",
+ "subject": "or_legislature/2025R1/HB2723",
+ "title": "Requires the Department of Human Services to adopt rules requiring licensed long term care facilities, outpatient renal dialysis facilities and residential facilities to acquire and maintain backup power sources to be used during power outages.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2723 did not pass",
+ "claims": [
+  {
+   "text": "HB 2723 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614687
+   ]
+  },
+  {
+   "text": "HB 2723 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660118
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614687,
+    616896,
+    660118
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614687
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614687
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2723&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2723",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2166,
+  "finding_hash": "1735ebb2f02b781bb871a81c9eb8936b754f1f75932019e8cab7e522ba49e43a",
+  "evidence_digest": "sha256:9fb9857efd72c6e42fe040ed5e05dbfb399691c0231f2dc7eeec7f1a1b33fa39",
+  "gate_id": "da7eac113d174b339e2814a5df800418",
+  "gate_seq": 2167
+ }
+}

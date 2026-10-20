@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3311",
+ "measure_id": "HB3311",
+ "subject": "or_legislature/2025R1/HB3311",
+ "title": "Removes the limitation on the types of degrees that may be offered by Western Oregon University, Southern Oregon University and Eastern Oregon University.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3311 did not pass",
+ "claims": [
+  {
+   "text": "HB 3311 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618782
+   ]
+  },
+  {
+   "text": "HB 3311 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661017
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618782,
+    619180,
+    661017
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618782
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618782
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3311&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3311",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3930,
+  "finding_hash": "34ae51b685aaa64115877c7f18df66192fc3d2d186594695b2d137dc36b70562",
+  "evidence_digest": "sha256:ba56de05bb78e7fdb69988298d46167f7782f38c9e91a0ad82b25d39c5020109",
+  "gate_id": "b4e05f9c53264566b8b1c4f890aa5498",
+  "gate_seq": 3931
+ }
+}

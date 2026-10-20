@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2686",
+ "measure_id": "HB2686",
+ "subject": "or_legislature/2025R1/HB2686",
+ "title": "Provides funding to the Higher Education Coordinating Commission for purposes of providing a grant to an organization that manages a statewide strategy to re-enroll residents of this state into certain programs.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2686 did not pass",
+ "claims": [
+  {
+   "text": "HB 2686 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614650
+   ]
+  },
+  {
+   "text": "HB 2686 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660291
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614650,
+    616859,
+    623541,
+    636881,
+    638735,
+    640422,
+    640423,
+    660291
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614650
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614650
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    623541
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "when": "April 8, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    638735
+   ]
+  },
+  {
+   "date": "2025-04-14",
+   "when": "April 14, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    640422
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2686&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2686",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2055,
+  "finding_hash": "c382115a4811ab93ea933d1c727b8eef6b70327677cfc0d9d0deba723961b5f1",
+  "evidence_digest": "sha256:0a981b63a1f850e6e4894436913960b4ba9ddd4c4eab5d04a17bdb044c8cded0",
+  "gate_id": "21b34e54f7b84ccca97fb98ed7a8c6a3",
+  "gate_seq": 2056
+ }
+}

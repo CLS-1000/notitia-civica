@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3590",
+ "measure_id": "HB3590",
+ "subject": "or_legislature/2025R1/HB3590",
+ "title": "Prohibits out-of-network providers from balance billing for pediatric care in certain circumstances.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3590 did not pass",
+ "claims": [
+  {
+   "text": "HB 3590 was introduced in the House on February 18, 2025.",
+   "row_ids": [
+    622925
+   ]
+  },
+  {
+   "text": "HB 3590 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661421
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    622925,
+    623480,
+    661421
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    622925
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    622925
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3590&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3590",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4767,
+  "finding_hash": "97be3cbc28aaddf45ff22a891a6b73bfc6f7c8fd7d444a1c573d8d2ec17195d8",
+  "evidence_digest": "sha256:ddd939a4c46979d9a3d903270cdb1c87c7a418af350ef7a2f416433c1be93ecd",
+  "gate_id": "45c5e645d5504b30bc221d62271def01",
+  "gate_seq": 4768
+ }
+}

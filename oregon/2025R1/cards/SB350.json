@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 350",
+ "measure_id": "SB350",
+ "subject": "or_legislature/2025R1/SB350",
+ "title": "Finds that barred owls are known to prey on spotted owls.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 350 did not pass",
+ "claims": [
+  {
+   "text": "SB 350 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615655
+   ]
+  },
+  {
+   "text": "SB 350 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658736
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615655,
+    617922,
+    658736
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615655
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615655
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 350&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB350",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7158,
+  "finding_hash": "6a22281214261108ae3485c0c38fdc2fd61d5e26d8f26d0247bdbb6e2b663386",
+  "evidence_digest": "sha256:885a596cb60322ea885713664bb497ecf74e8da2cb8dda720f2e1aebb06704e8",
+  "gate_id": "ba300f0c4a4c449192a9c31ee92530fe",
+  "gate_seq": 7159
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3272",
+ "measure_id": "HB3272",
+ "subject": "or_legislature/2025R1/HB3272",
+ "title": "Requires a public institution of higher education to award academic credit when an enrolled student completed a high school class or participated in a high school program that offered learning and experiences comparable to an introductory communications, public speaking or argumentation course offered at the institution.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3272 did not pass",
+ "claims": [
+  {
+   "text": "HB 3272 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618743
+   ]
+  },
+  {
+   "text": "HB 3272 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660979
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618743,
+    619141,
+    660979
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618743
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618743
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3272&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3272",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3813,
+  "finding_hash": "412f1d9c416508db239fdc40fb7f06751590a9374f7a03662ec0bb7c1fd56c65",
+  "evidence_digest": "sha256:829c4ba87ea757e5f8dd25f6e17cafc2e9271dba6705e6187e3c2d9f17b42a68",
+  "gate_id": "90ca7d16b39949b3b237488b5c9b822d",
+  "gate_seq": 3814
+ }
+}

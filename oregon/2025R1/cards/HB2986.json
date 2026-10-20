@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2986",
+ "measure_id": "HB2986",
+ "subject": "or_legislature/2025R1/HB2986",
+ "title": "Provides that an irrigation district that receives a request from a user for delivery of a lower rate or duty of water during an irrigation season may not deliver to the user a higher rate or duty of water during the irrigation season than was requested.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2986 did not pass",
+ "claims": [
+  {
+   "text": "HB 2986 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614950
+   ]
+  },
+  {
+   "text": "HB 2986 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661242
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614950,
+    617159,
+    661242
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614950
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614950
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2986&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2986",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2955,
+  "finding_hash": "918155f1859dd4b5b33ca08ea083a7f3739f771320d66cd343ec0bd1ba4b17a3",
+  "evidence_digest": "sha256:1d6fee136adca57b4abbc23c8a0567b327bd551896dbd11789bbf65c2ad90866",
+  "gate_id": "18a16e65b9724fae994b5450bc7c6f2e",
+  "gate_seq": 2956
+ }
+}

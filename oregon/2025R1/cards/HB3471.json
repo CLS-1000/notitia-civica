@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3471",
+ "measure_id": "HB3471",
+ "subject": "or_legislature/2025R1/HB3471",
+ "title": "Directs the Division of Audits to conduct a performance audit of state agencies related to emergencies.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3471 did not pass",
+ "claims": [
+  {
+   "text": "HB 3471 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620344
+   ]
+  },
+  {
+   "text": "HB 3471 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660849
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620344,
+    621017,
+    660849
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620344
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620344
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3471&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3471",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4410,
+  "finding_hash": "17289ce08b87804fbede081137505ba6a545ca0a8d9f209bb0eb43c9e9e56f44",
+  "evidence_digest": "sha256:b43c337321818c8a276a062d7c8da88a2810ccb24fb7b42bcc906ab951145cbe",
+  "gate_id": "7baf8b52906049f7a3e69c4b127a4ec5",
+  "gate_seq": 4411
+ }
+}

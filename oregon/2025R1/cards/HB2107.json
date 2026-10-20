@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2107",
+ "measure_id": "HB2107",
+ "subject": "or_legislature/2025R1/HB2107",
+ "title": "Directs the Department of Justice to report each year to an interim committee of the Legislative Assembly related to the judiciary on court cases in the previous year that have resulted in a judgment against the state or in a settlement that requires the state to pay money to another party.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2107 did not pass",
+ "claims": [
+  {
+   "text": "HB 2107 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614071
+   ]
+  },
+  {
+   "text": "HB 2107 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661262
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614071,
+    616280,
+    661262
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614071
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614071
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2107&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2107",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 318,
+  "finding_hash": "ba046e024fe79df08617510ac183c4b9e1a382b95ad74e2150a3ddc0358b7a13",
+  "evidence_digest": "sha256:2cc8fb91e85b5d336ddb0124daae0a638e7236db5f7fab5b82218ecc7efb0194",
+  "gate_id": "8b397abbc0ef43c38355492c32ca1a59",
+  "gate_seq": 319
+ }
+}

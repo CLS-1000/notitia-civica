@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 697",
+ "measure_id": "SB697",
+ "subject": "or_legislature/2025R1/SB697",
+ "title": "Prohibits a person under 21 years of age from possessing firearms with specified exceptions.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 697 did not pass",
+ "claims": [
+  {
+   "text": "SB 697 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    616002
+   ]
+  },
+  {
+   "text": "SB 697 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658892
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    616002,
+    618269,
+    658892
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    616002
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    616002
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 697&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB697",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 8199,
+  "finding_hash": "211a19097321deaad54595a6891cb0bea5271163f709445419c3ff50339658e9",
+  "evidence_digest": "sha256:40136847a946b023e4b25cbb4ed39e4d1c51738372adfce0b23495633c329091",
+  "gate_id": "5eeb30f9fc1046758e3c32aa72f57a40",
+  "gate_seq": 8200
+ }
+}

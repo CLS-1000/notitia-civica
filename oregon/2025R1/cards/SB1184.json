@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1184",
+ "measure_id": "SB1184",
+ "subject": "or_legislature/2025R1/SB1184",
+ "title": "Appropriates moneys from the General Fund to the Legislative Assembly to support a year-round legislative assistant position for each member of the Legislative Assembly.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1184 did not pass",
+ "claims": [
+  {
+   "text": "SB 1184 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624894
+   ]
+  },
+  {
+   "text": "SB 1184 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658955
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624894,
+    625806,
+    658955
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624894
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624894
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1184&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1184",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9660,
+  "finding_hash": "dfe6058295cf342410c8a98848cab00406d257ee2f58eada3927d65fed36a982",
+  "evidence_digest": "sha256:aefac684c39bd4d3e39b337f7cc554d42519b80dca78df5d989737b5d3f105d7",
+  "gate_id": "796ec9be5a8643de9aa1cc9285a89245",
+  "gate_seq": 9661
+ }
+}

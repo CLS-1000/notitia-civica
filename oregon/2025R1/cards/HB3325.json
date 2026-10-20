@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3325",
+ "measure_id": "HB3325",
+ "subject": "or_legislature/2025R1/HB3325",
+ "title": "Provides that taxing districts within counties with high averaged annual ratios of tourists to residents may expend a certain percentage of net transient lodging taxes for essential services that benefit both residents and tourists.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3325 did not pass",
+ "claims": [
+  {
+   "text": "HB 3325 was introduced in the House on January 21, 2025.",
+   "row_ids": [
+    618796
+   ]
+  },
+  {
+   "text": "HB 3325 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661029
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    618796,
+    619194,
+    661029
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    618796
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "when": "January 21, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    618796
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3325&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3325",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3972,
+  "finding_hash": "e3fcd40123d1ceb8ef9ea2a7a19f333d833a651f3b93452e1f3abc41c913a4df",
+  "evidence_digest": "sha256:b04dbd8fef89b20ef471b4727902df9c4f918aafbc1e7fee83d2a8e827859678",
+  "gate_id": "3df48c96e5314174aebb1be1c3508a1b",
+  "gate_seq": 3973
+ }
+}

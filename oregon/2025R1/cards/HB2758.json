@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2758",
+ "measure_id": "HB2758",
+ "subject": "or_legislature/2025R1/HB2758",
+ "title": "Directs the Oregon Tourism Commission to identify, designate and monitor tourism districts in this state.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2758 did not pass",
+ "claims": [
+  {
+   "text": "HB 2758 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614722
+   ]
+  },
+  {
+   "text": "HB 2758 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661138
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614722,
+    616931,
+    661138
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614722
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614722
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2758&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2758",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2271,
+  "finding_hash": "947586061722049334bc0af4d15c08f00f55b28ab7c75eba4eb113fdc95829d2",
+  "evidence_digest": "sha256:a7d90dca25124bba834f8b81e24fb59a81faac3b6dc4d0df8fa1a13a32721fd8",
+  "gate_id": "66865b44195d49eda56f4eee165d269f",
+  "gate_seq": 2272
+ }
+}

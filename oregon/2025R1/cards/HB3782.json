@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3782",
+ "measure_id": "HB3782",
+ "subject": "or_legislature/2025R1/HB3782",
+ "title": "Requires the Department of Environmental Quality to study the climate.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3782 did not pass",
+ "claims": [
+  {
+   "text": "HB 3782 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    624958
+   ]
+  },
+  {
+   "text": "HB 3782 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661352
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624958,
+    626367,
+    661352
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    624958
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624958
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3782&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3782",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5343,
+  "finding_hash": "9733830c178505d12fc4630b68387dda5fcf7283778e59821c473b6171b837a9",
+  "evidence_digest": "sha256:d08cf27b6d2faaa594291003c64d4728790ff0d3dc24e98be8f512367c042de5",
+  "gate_id": "e8c8d7c8869342f5a19608bcf09f312d",
+  "gate_seq": 5344
+ }
+}

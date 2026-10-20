@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3843",
+ "measure_id": "HB3843",
+ "subject": "or_legislature/2025R1/HB3843",
+ "title": "Requires the Oregon Department of Administrative Services to study state financial administration.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3843 did not pass",
+ "claims": [
+  {
+   "text": "HB 3843 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625019
+   ]
+  },
+  {
+   "text": "HB 3843 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660549
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625019,
+    626428,
+    660549
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625019
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625019
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3843&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3843",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5526,
+  "finding_hash": "2b137cb0b47d4c91269a674be395c349cfbe8fecf7cd2659a6a397d67159642e",
+  "evidence_digest": "sha256:12badd0d1ed59aa47a515d1327fee2c46c477f16f74c2f036c593fff3100279b",
+  "gate_id": "5b55f64d21a140bdaf95e5a3982358a5",
+  "gate_seq": 5527
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3132",
+ "measure_id": "HB3132",
+ "subject": "or_legislature/2025R1/HB3132",
+ "title": "Directs the Oregon Department of Emergency Management to procure and maintain vehicles for purposes related to fuel and personnel needs at certain airports.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3132 did not pass",
+ "claims": [
+  {
+   "text": "HB 3132 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615096
+   ]
+  },
+  {
+   "text": "HB 3132 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660022
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615096,
+    617305,
+    660022
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615096
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615096
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3132&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3132",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3393,
+  "finding_hash": "c3c617d10d5429d74593fe09e6b244565998e2f8c717b5b521723585f4ce67c9",
+  "evidence_digest": "sha256:33489c9bc3ca42e19caa85a111705a3b0a944fae0d4cc9b3f0d7d4e0426f0257",
+  "gate_id": "a8f9b1597ad74d7a9d7794a361ab7cd9",
+  "gate_seq": 3394
+ }
+}

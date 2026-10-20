@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3836",
+ "measure_id": "HB3836",
+ "subject": "or_legislature/2025R1/HB3836",
+ "title": "Removes the Department of State Police as the designated state point of contact for purposes of the National Instant Criminal Background Check System.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3836 did not pass",
+ "claims": [
+  {
+   "text": "HB 3836 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625012
+   ]
+  },
+  {
+   "text": "HB 3836 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660541
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625012,
+    626421,
+    660541
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625012
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625012
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3836&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3836",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5505,
+  "finding_hash": "93e5d08cead8f9b59343a24ed690c513c78388c62a4c4c38f901b27b98f27c79",
+  "evidence_digest": "sha256:af335f2358d1c843e37a86f77f2f17977dbd357c369d45f4c01cb8e2ba2b9fa5",
+  "gate_id": "dd36fd9ea09e4fcc84c9a43b875bc5ad",
+  "gate_seq": 5506
+ }
+}

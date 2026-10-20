@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1071",
+ "measure_id": "SB1071",
+ "subject": "or_legislature/2025R1/SB1071",
+ "title": "Directs the Land Conservation and Development Commission to approve amendments to the urban growth boundary submitted by the City of Coos Bay.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1071 did not pass",
+ "claims": [
+  {
+   "text": "SB 1071 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624270
+   ]
+  },
+  {
+   "text": "SB 1071 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659114
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624270,
+    624446,
+    659114
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624270
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624270
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1071&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1071",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9321,
+  "finding_hash": "ec7b07f58c441fb1ca5e8038d27e2c7704f3c39e0aa8fceb4f396b842bb06107",
+  "evidence_digest": "sha256:20f65daad5188b22b6d51782f8c2be480195389420842353c806ca4a35a5276e",
+  "gate_id": "827d9b037404424189d1a5c836da58e1",
+  "gate_seq": 9322
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2724",
+ "measure_id": "HB2724",
+ "subject": "or_legislature/2025R1/HB2724",
+ "title": "Requires every corporation to annually file an affidavit with the Department of Revenue attesting that the corporation has registered or attempted to register with the United States Selective Service System.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2724 did not pass",
+ "claims": [
+  {
+   "text": "HB 2724 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614688
+   ]
+  },
+  {
+   "text": "HB 2724 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660119
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614688,
+    616897,
+    660119
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614688
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614688
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2724&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2724",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2169,
+  "finding_hash": "8a1527ff296bbdd3dc4b17165f2fee63a793479511b51cb9cea187df51f07c6a",
+  "evidence_digest": "sha256:b7e368112c0e5709dc871dfbe965745df81d23cc2e5be93a0f5971c226aff9a0",
+  "gate_id": "b2237ba5164a470ea6f7504571207fdd",
+  "gate_seq": 2170
+ }
+}

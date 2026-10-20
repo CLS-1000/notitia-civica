@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1056",
+ "measure_id": "SB1056",
+ "subject": "or_legislature/2025R1/SB1056",
+ "title": "Directs the Department of State Police to establish a section dedicated to drug enforcement and human trafficking with at least 10 officers.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1056 did not pass",
+ "claims": [
+  {
+   "text": "SB 1056 was introduced in the Senate on February 18, 2025.",
+   "row_ids": [
+    623066
+   ]
+  },
+  {
+   "text": "SB 1056 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659288
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    623066,
+    623138,
+    659288
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    623066
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "when": "February 18, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    623066
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1056&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1056",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9276,
+  "finding_hash": "23a8933ef52ca72a2006e51b7307d85761f59c950589536e4d579b57ff2ede1e",
+  "evidence_digest": "sha256:c4fea6e3e474fd8d6d27ada18edd98a58494472be8e7c3a5132fd0d61fb4d719",
+  "gate_id": "ebc591eaaa3f4c3c9e8bc48cb0fd94b0",
+  "gate_seq": 9277
+ }
+}

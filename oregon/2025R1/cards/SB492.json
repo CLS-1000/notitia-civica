@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 492",
+ "measure_id": "SB492",
+ "subject": "or_legislature/2025R1/SB492",
+ "title": "Establishes a division in the Department of State Police to enforce laws related to illegal marijuana cultivation.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 492 did not pass",
+ "claims": [
+  {
+   "text": "SB 492 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615797
+   ]
+  },
+  {
+   "text": "SB 492 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659330
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615797,
+    618064,
+    659330
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615797
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615797
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 492&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB492",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 7584,
+  "finding_hash": "585143ba66b047ad8bb796aac339ea472e0589cadb4269196d53146153eaed5c",
+  "evidence_digest": "sha256:3e3786f1c720af6ab0b5b5177cd856e03d08402db77223d523c53e1d4daaf520",
+  "gate_id": "f7df384effd5430a82159dd36fae3ef1",
+  "gate_seq": 7585
+ }
+}

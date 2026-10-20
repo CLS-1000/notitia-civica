@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3899",
+ "measure_id": "HB3899",
+ "subject": "or_legislature/2025R1/HB3899",
+ "title": "Lowers the thresholds above which, in applicable circumstances, controllers are subject to regulation in processing consumers' personal data.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3899 did not pass",
+ "claims": [
+  {
+   "text": "HB 3899 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625075
+   ]
+  },
+  {
+   "text": "HB 3899 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661103
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625075,
+    626484,
+    629467,
+    661103
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625075
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625075
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "when": "March 18, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    629467
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661103
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3899&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3899",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5694,
+  "finding_hash": "4dd3f7e818ae300cd6affa67dd51acab57d5aee7f3a6fd74bfc36334689925a3",
+  "evidence_digest": "sha256:1b7f85247ec8decf82d9ceed0081e4e794ec740b5b13e7cde7f6657e8b21d79b",
+  "gate_id": "714b013108b0412bbebb6f9756a2e83f",
+  "gate_seq": 5695
+ }
+}

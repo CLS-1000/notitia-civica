@@ -1,0 +1,95 @@
+{
+ "session": "2025R1",
+ "measure": "SB 61",
+ "measure_id": "SB61",
+ "subject": "or_legislature/2025R1/SB61",
+ "title": "Prohibits the recovery of reimbursements paid on claims in the medical assistance program if the provider can verify that the patient visit occurred or the service or item was provided.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 61 did not pass",
+ "claims": [
+  {
+   "text": "SB 61 was introduced in the Senate on January 13, 2025.",
+   "row_ids": [
+    615366
+   ]
+  },
+  {
+   "text": "SB 61 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    658603
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615366,
+    617633,
+    624571,
+    658603
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    615366
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615366
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "public_hearing",
+   "text": "Public hearing held in a Senate committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624571
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    658603
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 61&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB61",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 6291,
+  "finding_hash": "41f0d9480d010f6d12717060fb36a815bcc14882db974893afe0c8d260b45b80",
+  "evidence_digest": "sha256:418d5429c72ab994561c5ce6f794722c41c26cc4b7da1220217a1bb081bf0fec",
+  "gate_id": "5f3c92402a2c4f9aaa4b6351d3c46c59",
+  "gate_seq": 6292
+ }
+}

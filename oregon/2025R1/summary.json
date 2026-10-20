@@ -1,0 +1,46 @@
+{
+ "headline": "Oregon 2025R1: 3466 measures published, 633 became law, 7 vetoed",
+ "session": "2025R1",
+ "session_closed": true,
+ "measures_published": 3466,
+ "measures_withheld": 0,
+ "rows_in_cache": 27488,
+ "outcomes": {
+  "adopted": 66,
+  "failed": 1,
+  "law": 633,
+  "stopped": 2759,
+  "vetoed": 7
+ },
+ "unverified": [],
+ "constitutional_amendments": {
+  "proposed": 56,
+  "passed": []
+ },
+ "vetoed": [
+  "HB 2596",
+  "HB 3795",
+  "SB 302",
+  "SB 736",
+  "SB 875",
+  "SB 976",
+  "SB 1047"
+ ],
+ "history_cache": {
+  "file": "2025R1.json",
+  "sha256": "sha256:5f9ca6de12888f9b8a42de2f005b76ed49175c3b90ebd9e17e0b8d1c562ece2f"
+ },
+ "built_at": "2026-10-20T09:33:51Z",
+ "summary_finding_seq": 10398,
+ "anchor": {
+  "chain_id": "civica.publish",
+  "seq": 10399,
+  "h": "09f48fd428384d7c06931d25809b4e7cf1403450dd5777b80dfcd53872752d5b",
+  "sig": "01755605377279f7b530bfee33f0464b49681dc8118e678844a354f06490d33825d07d9bb815991c3532e7019f1c67552b73c23911ece5defed8d1c93fbfbf0d"
+ },
+ "key_id": "f7b1282a4a9ccf50",
+ "public_key_hex": "c7dbbf86b2e014fad70190276f4e20969743d2fa2bc7c13e48c95fdd91a7d0ad",
+ "demo_key": false,
+ "withheld": [],
+ "chain_zip": "chain.zip"
+}

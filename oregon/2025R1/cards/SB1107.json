@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1107",
+ "measure_id": "SB1107",
+ "subject": "or_legislature/2025R1/SB1107",
+ "title": "Creates a rebuttable presumption that equal parenting time is in the best interests of the child.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1107 did not pass",
+ "claims": [
+  {
+   "text": "SB 1107 was introduced in the Senate on February 27, 2025.",
+   "row_ids": [
+    624817
+   ]
+  },
+  {
+   "text": "SB 1107 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659210
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624817,
+    625729,
+    659210
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624817
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624817
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1107&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1107",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9429,
+  "finding_hash": "9805f26c8ad7f06023a72334b93c2b25815e38ea6d7855c533a1bc3c44f9e5d7",
+  "evidence_digest": "sha256:8eab8b397871fad6a277a88ae345ebc37df67a3c6395249ddcaa22ae4234666a",
+  "gate_id": "00968c2ba2124a029a7a65a0f491b683",
+  "gate_seq": 9430
+ }
+}

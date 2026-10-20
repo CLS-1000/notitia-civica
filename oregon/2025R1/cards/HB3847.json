@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3847",
+ "measure_id": "HB3847",
+ "subject": "or_legislature/2025R1/HB3847",
+ "title": "Requires the Department of Land Conservation and Development to provide grants to local governments to support middle housing infrastructure.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3847 did not pass",
+ "claims": [
+  {
+   "text": "HB 3847 was introduced in the House on February 27, 2025.",
+   "row_ids": [
+    625023
+   ]
+  },
+  {
+   "text": "HB 3847 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661280
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    625023,
+    626432,
+    661280
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    625023
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "when": "February 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    625023
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3847&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3847",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 5538,
+  "finding_hash": "bcdf5449d1183d4ce0e5d184a1d901eb0f65acf59df2c591c044c6a2842459c9",
+  "evidence_digest": "sha256:a046a03d229217849e5dd9cc280be3461157419a6de66629ae85f12d21154c75",
+  "gate_id": "338f320bcf154114a7df43b71df62946",
+  "gate_seq": 5539
+ }
+}

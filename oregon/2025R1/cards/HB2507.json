@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2507",
+ "measure_id": "HB2507",
+ "subject": "or_legislature/2025R1/HB2507",
+ "title": "Directs the Alcohol and Drug Policy Commission, in collaboration with the System of Care Advisory Council, to study needed treatment and recovery services for youth with co-occurring diagnoses and the barriers to accessing and receiving holistic services.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2507 did not pass",
+ "claims": [
+  {
+   "text": "HB 2507 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614471
+   ]
+  },
+  {
+   "text": "HB 2507 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661472
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614471,
+    616680,
+    661472
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614471
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614471
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2507&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2507",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1518,
+  "finding_hash": "7da08064a5d311b026e02729eb89c422d3f42ecbdef7e833220e178ba1dcdb99",
+  "evidence_digest": "sha256:8c85dafe52aef821e38f0b801322e9dafac770329bf43ab8356a9e346835488a",
+  "gate_id": "670ba76d01474f37a8409374fbd0b019",
+  "gate_seq": 1519
+ }
+}

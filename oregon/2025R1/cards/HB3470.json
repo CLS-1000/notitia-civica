@@ -1,0 +1,97 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3470",
+ "measure_id": "HB3470",
+ "subject": "or_legislature/2025R1/HB3470",
+ "title": "Requires the Secretary of State to verify information provided to the secretary by the Department of Transportation and the Oregon Health Authority regarding voter registration.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3470 did not pass",
+ "claims": [
+  {
+   "text": "HB 3470 was introduced in the House on February 4, 2025.",
+   "row_ids": [
+    620343
+   ]
+  },
+  {
+   "text": "HB 3470 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660848
+   ]
+  },
+  {
+   "text": "Each of the 4 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    620343,
+    621016,
+    627957,
+    660848
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    620343
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "when": "February 4, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    620343
+   ]
+  },
+  {
+   "date": "2025-03-12",
+   "when": "March 12, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    627957
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    660848
+   ]
+  }
+ ],
+ "topics": [
+  "elections"
+ ],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3470&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3470",
+ "row_count": 4,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 4407,
+  "finding_hash": "ad7ec47781ce63a34aa48b4776f6854f0d41e04c1b60598ed81706d231ee54c6",
+  "evidence_digest": "sha256:a359584f02e5cee94f6da51a74d738935bd3cbbd4f35d2c327b8e8f85679a48b",
+  "gate_id": "ece0311c11614c77b44e985e22a90778",
+  "gate_seq": 4408
+ }
+}

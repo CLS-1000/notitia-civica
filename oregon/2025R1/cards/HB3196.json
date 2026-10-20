@@ -1,0 +1,109 @@
+{
+ "session": "2025R1",
+ "measure": "HB 3196",
+ "measure_id": "HB3196",
+ "subject": "or_legislature/2025R1/HB3196",
+ "title": "Appropriates moneys to the Department of Justicefor purposes related to federal Victims of Crime Act grants.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 3196 did not pass",
+ "claims": [
+  {
+   "text": "HB 3196 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    615160
+   ]
+  },
+  {
+   "text": "HB 3196 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660033
+   ]
+  },
+  {
+   "text": "Each of the 7 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    615160,
+    617369,
+    621988,
+    623728,
+    624686,
+    624687,
+    660033
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    615160
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    615160
+   ]
+  },
+  {
+   "date": "2025-02-06",
+   "when": "February 6, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    621988
+   ]
+  },
+  {
+   "date": "2025-02-20",
+   "when": "February 20, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    623728
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee recommended it pass",
+   "rule_id": "rec_do_pass",
+   "row_ids": [
+    624686
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 3196&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3196",
+ "row_count": 7,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 3585,
+  "finding_hash": "6d93e93336943850c77d9d49c667f4f1c6754677df14cd08b2ef893aca20766a",
+  "evidence_digest": "sha256:a3110734bf731fe0a368b9552da69c1eb0734363b60b8e29c0654a225f296954",
+  "gate_id": "e16eabffb98c4207ab88a40f64f83978",
+  "gate_seq": 3586
+ }
+}

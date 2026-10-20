@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2665",
+ "measure_id": "HB2665",
+ "subject": "or_legislature/2025R1/HB2665",
+ "title": "Establishes Central Oregon University as a separate public university, distinct from Oregon State University.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2665 did not pass",
+ "claims": [
+  {
+   "text": "HB 2665 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614629
+   ]
+  },
+  {
+   "text": "HB 2665 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660094
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614629,
+    616838,
+    660094
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614629
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614629
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2665&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2665",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1992,
+  "finding_hash": "904f013b0db5298cc80600ab28aafdcf64a2030f6d3dccdca1ebabff2af8a103",
+  "evidence_digest": "sha256:c54376f5abadfbf8ce891e9ba1a210f8a0ca0e46122d880daa494a29fbcb1de5",
+  "gate_id": "2e45156d1c43461abc73f9f5cbb5fa46",
+  "gate_seq": 1993
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "session": "2025R1",
+ "measure": "SB 1092",
+ "measure_id": "SB1092",
+ "subject": "or_legislature/2025R1/SB1092",
+ "title": "Updates and streamlines the process and procedure for conducting cooperative procurements for public contracts and public improvement contracts.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "SB 1092 did not pass",
+ "claims": [
+  {
+   "text": "SB 1092 was introduced in the Senate on February 25, 2025.",
+   "row_ids": [
+    624291
+   ]
+  },
+  {
+   "text": "SB 1092 was still in a Senate committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    659590
+   ]
+  },
+  {
+   "text": "Each of the 3 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    624291,
+    624467,
+    659590
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "introduced",
+   "text": "Introduced in the Senate",
+   "rule_id": "introduction_first_reading",
+   "row_ids": [
+    624291
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "when": "February 25, 2025",
+   "chamber": "S",
+   "state": "committee",
+   "text": "Sent to a Senate committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    624291
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'SB' and MeasureNumber eq 1092&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB1092",
+ "row_count": 3,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 9384,
+  "finding_hash": "b5bac6a429ee1ae1862b23d352541e26bb73ba8fa2c77deba28b6b75f4580813",
+  "evidence_digest": "sha256:a3a23ce7030eaa6a283e0bc552949397c0af0fb293e6dccabd63ab268838e358",
+  "gate_id": "100ea57ca9dd410abd77b82de3645268",
+  "gate_seq": 9385
+ }
+}

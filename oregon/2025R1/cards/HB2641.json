@@ -1,0 +1,110 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2641",
+ "measure_id": "HB2641",
+ "subject": "or_legislature/2025R1/HB2641",
+ "title": "Modifies when a prior conviction is admissible to impeach the character of a witness.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2641 did not pass",
+ "claims": [
+  {
+   "text": "HB 2641 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614605
+   ]
+  },
+  {
+   "text": "HB 2641 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    660776
+   ]
+  },
+  {
+   "text": "Each of the 8 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614605,
+    616814,
+    624747,
+    635907,
+    639557,
+    641167,
+    641168,
+    660776
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614605
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614605
+   ]
+  },
+  {
+   "date": "2025-02-26",
+   "when": "February 26, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    624747
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "when": "April 9, 2025",
+   "chamber": "H",
+   "state": "work_session",
+   "text": "House committee met to work on it",
+   "rule_id": "work_session_held",
+   "row_ids": [
+    639557
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "when": "April 16, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "House committee sent it on with no recommendation",
+   "rule_id": "rec_none",
+   "row_ids": [
+    641167
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2641&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2641",
+ "row_count": 8,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 1920,
+  "finding_hash": "4a5ec0004abbffbaaca0f9213eb93d87c9722bf2f71a0a1481fc83395c5c9d4d",
+  "evidence_digest": "sha256:9e7082ca956bea604efb711442da8218cf8229306e3df35eb02f17ccd9938ea6",
+  "gate_id": "24ae330b11ab4875b7e8b6dfce7219a5",
+  "gate_seq": 1921
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "session": "2025R1",
+ "measure": "HB 2871",
+ "measure_id": "HB2871",
+ "subject": "or_legislature/2025R1/HB2871",
+ "title": "Requires businesses receiving more than 20 percent of gross receipts from public contracts to include a statement of the amount received with a tax return filed with the Department of Revenue.",
+ "outcome": "stopped",
+ "outcome_label": "Did not pass",
+ "headline": "HB 2871 did not pass",
+ "claims": [
+  {
+   "text": "HB 2871 was introduced in the House on January 13, 2025.",
+   "row_ids": [
+    614835
+   ]
+  },
+  {
+   "text": "HB 2871 was still in a House committee when the session ended. Last recorded step: June 27, 2025.",
+   "row_ids": [
+    661180
+   ]
+  },
+  {
+   "text": "Each of the 5 recorded steps was checked against Oregon's chamber procedure and every move was a legal one.",
+   "row_ids": [
+    614835,
+    617044,
+    622309,
+    626145,
+    661180
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "introduced",
+   "text": "Introduced in the House",
+   "rule_id": "first_reading",
+   "row_ids": [
+    614835
+   ]
+  },
+  {
+   "date": "2025-01-13",
+   "when": "January 13, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "referred_to",
+   "row_ids": [
+    614835
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "when": "March 4, 2025",
+   "chamber": "H",
+   "state": "public_hearing",
+   "text": "Public hearing held in a House committee",
+   "rule_id": "public_hearing_held",
+   "row_ids": [
+    626145
+   ]
+  },
+  {
+   "date": "2025-06-27",
+   "when": "June 27, 2025",
+   "chamber": "H",
+   "state": "committee",
+   "text": "Sent to a House committee",
+   "rule_id": "in_committee_adjournment",
+   "row_ids": [
+    661180
+   ]
+  }
+ ],
+ "topics": [],
+ "verified": true,
+ "halt_reason": null,
+ "last_action_date": "2025-06-27",
+ "source_url": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureHistoryActions?$filter=SessionKey eq '2025R1' and MeasurePrefix eq 'HB' and MeasureNumber eq 2871&$orderby=ActionDate&$format=json",
+ "public_url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2871",
+ "row_count": 5,
+ "extra": {},
+ "record": {
+  "chain_id": "civica.publish",
+  "finding_seq": 2610,
+  "finding_hash": "020de983b278e8d04588101761682b1baa0a2328bf486cae93fef6569c69b83a",
+  "evidence_digest": "sha256:86387e50825ba90adea6ed3a73c0cf8dee84fd31fba8e9d5a17bd93384a18951",
+  "gate_id": "2a17a05d881942fa94f3c470f2e05494",
+  "gate_seq": 2611
+ }
+}
