@@ -86,7 +86,30 @@ pre{font-family:var(--mono);font-size:.82rem;background:var(--soft);border:1px s
 footer{border-top:1px solid var(--line);padding:1.4rem 0 2.4rem;color:var(--muted);font-size:.9rem}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
-</style>
+
+    /* SCDS-26 Hard Reset for Light/Tan Containers */
+    div, section, article, header, aside, main, fieldset, form,
+    .box, .notice, .alert, .summary, .stats, .panel, .container, .overview {
+      background-color: var(--scds-bg-surface) !important;
+      border-color: var(--scds-border-hairline) !important;
+      color: var(--scds-text-primary) !important;
+    }
+
+    /* Elevate highlight and notice boxes with an amber accent */
+    .notice, .alert, .summary, .overview, [class*="notice"], [class*="alert"] {
+      background-color: var(--scds-bg-surface-elev) !important;
+      border: 1px solid var(--scds-border-subtle) !important;
+      border-left: 3px solid var(--scds-amber-core) !important;
+    }
+
+    /* Keep inputs on deep surface */
+    input, select, textarea {
+      background-color: var(--scds-bg-surface-elev) !important;
+      color: var(--scds-text-primary) !important;
+      border: 1px solid var(--scds-border-subtle) !important;
+    }
+
+    </style>
 
     <!-- SCDS-26 Design System Stylesheet -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
