@@ -1,70 +1,60 @@
-## SPEC-1 DAILY BRIEF — 2026-10-24
+## SPEC-1 DAILY BRIEF — 2026-10-25
 
-*AI brief unavailable — API key not configured. Rule-based brief generated from cycle data.*
+*AI brief unavailable — API call failed. Rule-based brief generated from cycle data.*
 
-**Run:** run-12c063793f70  
-**Completed:** 2026-10-24T17:07:21.332728+00:00  
-**Signals harvested:** 698  
-**Opportunities found:** 58  
-**Records stored:** 58
+**Run:** run-8a88a4bd2e23  
+**Completed:** 2026-10-25T21:09:20.045300+00:00  
+**Signals harvested:** 702  
+**Opportunities found:** 19  
+**Records stored:** 0
 
 ### Executive Summary
-The cycle harvested 698 signals, 58 cleared all four gates and 58 records were stored. 3 record(s) were elevated (CORROBORATED or ESCALATE). No narrative synthesis was performed; treat every entry as unverified until reviewed.
+The cycle harvested 702 signals, 19 cleared all four gates and 0 records were stored. 0 record(s) were elevated (CORROBORATED or ESCALATE). No narrative synthesis was performed; treat every entry as unverified until reviewed.
 
 ### Elevated Signals
-- **JUST_SECURITY** — The reporting from Just Security concerning Guantanamo Dispatches, Ahead, Jury S (confidence 0.73) <https://www.justsecurity.org/161589/defense-psychiatrist-uss-cole-defendant-unfit-trial/?utm_source=rss&utm_medium=rss&utm_campaign=defense-psychiatrist-uss-cole-defendant-unfit-trial>
-- **CIPHER_BRIEF** — The reporting from Cipher Brief concerning Hybrid Threats, Why Awareness Must Tr (confidence 0.72) <https://www.thecipherbrief.com/hybrid-threats-why-awareness-must-transcend-individual-cyberattacks>
-- **JUST_SECURITY** — The reporting from Just Security concerning Early Edition, October, Sign regardi (confidence 0.71) <https://www.justsecurity.org/161692/early-edition-october-22-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-22-2026>
+No signals cleared the elevated threshold this cycle.
 
 ### Domain Briefings
 
 **Geopolitics**
-- **WAR_ON_THE_ROCKS** — The reporting from War On The Rocks concerning Fighting, Ethiopia, Risk regardin (confidence 0.63) <https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/>
-- **NK_NEWS** — The reporting from Nk News concerning Chinese, North Korea, China regarding chin (confidence 0.63) <https://www.nknews.org/2026/10/chinese-officials-visit-north-korea-to-mark-chinas-entry-into-korean-war/>
-- **NK_NEWS** — The reporting from Nk News concerning How North Korea, North Korea, Down regardi (confidence 0.63) <https://www.nknews.org/2026/10/how-north-korea-built-its-founding-mythology-around-an-obscure-communist-group/>
-- **RAND** — The reporting from Rand concerning Why Quick Compensation Hasn, Replaced Eaton F (confidence 0.62) <https://www.rand.org/pubs/commentary/2026/10/why-quick-compensation-hasnt-replaced-eaton-fire-lawsuits.html>
-- **ATLANTIC_COUNCIL** — The reporting from Atlantic Council concerning Donovan, Ezratty, Irregular Warfa (confidence 0.62) <https://www.atlanticcouncil.org/insight-impact/in-the-news/donovan-and-ezratty-cited-in-irregular-warfare-initiative-piece-on-us-influence-in-the-global-economy/>
+No geopolitics signals this cycle.
 
 **Cyber / Info Ops**
-- **CIPHER_BRIEF** — The reporting from Cipher Brief concerning Technology, Outrunning, Way regarding (confidence 0.63) <https://www.thecipherbrief.com/technology-is-outrunning-the-way-we-fight>
-- **JUST_SECURITY** — The reporting from Just Security concerning How Civil Society Can Help Unlock Mo (confidence 0.63) <https://www.justsecurity.org/161544/civil-society-unlock-universal-extraterritorial-jurisdiction-cases/?utm_source=rss&utm_medium=rss&utm_campaign=civil-society-unlock-universal-extraterritorial-jurisdiction-cases>
-- **JUST_SECURITY** — The reporting from Just Security concerning Emissions Gap Report, The Point, Ret (confidence 0.63) <https://www.justsecurity.org/161874/unep-emissions-gap-report-seven-questions/?utm_source=rss&utm_medium=rss&utm_campaign=unep-emissions-gap-report-seven-questions>
-- **JUST_SECURITY** — The reporting from Just Security concerning Frontier, Independent Evaluations, S (confidence 0.62) <https://www.justsecurity.org/161488/frontier-ai-independent-evaluations-inconvenient-questions/?utm_source=rss&utm_medium=rss&utm_campaign=frontier-ai-independent-evaluations-inconvenient-questions>
-- **CIPHER_BRIEF** — The reporting from Cipher Brief concerning Turkey Has Outsourced Its Censorship, (confidence 0.61) <https://www.thecipherbrief.com/turkey-has-outsourced-its-censorship-to-american-companies>
+No cyber / info-ops signals this cycle.
 
 **Psyop / Narrative Analysis**
 - NARRATIVE_CLUSTER (confidence 0.95): 10 sources published north assessments — pattern: NARRATIVE_CLUSTER, confidence: 0.95
 
 ### Story Leads
-
-**LEAD: The reporting from Just Security concerning Guantanamo Dispatches, Ahead, Jury S**
-Signal: just_security, confidence 0.73
-The question: The reporting from Just Security concerning Guantanamo Dispatches, Ahead, Jury S
-Documents to request: https://www.justsecurity.org/161589/defense-psychiatrist-uss-cole-defendant-unfit-trial/?utm_source=rss&utm_medium=rss&utm_campaign=defense-psychiatrist-uss-cole-defendant-unfit-trial
-Confidence: HIGH
-
-**LEAD: The reporting from Cipher Brief concerning Hybrid Threats, Why Awareness Must Tr**
-Signal: cipher_brief, confidence 0.72
-The question: The reporting from Cipher Brief concerning Hybrid Threats, Why Awareness Must Tr
-Documents to request: https://www.thecipherbrief.com/hybrid-threats-why-awareness-must-transcend-individual-cyberattacks
-Confidence: HIGH
-
-**LEAD: The reporting from Just Security concerning Early Edition, October, Sign regardi**
-Signal: just_security, confidence 0.71
-The question: The reporting from Just Security concerning Early Edition, October, Sign regardi
-Documents to request: https://www.justsecurity.org/161692/early-edition-october-22-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-22-2026
-Confidence: HIGH
+No leads this cycle.
 
 ### Watch List — Tomorrow
-- just_security: The reporting from Just Security concerning Guantanamo Dispatches, Ahead, Jury S
-- cipher_brief: The reporting from Cipher Brief concerning Hybrid Threats, Why Awareness Must Tr
-- just_security: The reporting from Just Security concerning Early Edition, October, Sign regardi
+- Nothing to monitor.
 
 ### Psyop Assessment
 Classification: NOISE · Score: 2 · Patterns fired: NARRATIVE_CLUSTER
 
 ### Signal Notes
-No harvest errors this cycle.
+**Harvest errors (19):**
+  - pipeline:opp-8827f3878edd:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-6ffbec1431da:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-d0aca3da6edb:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-cea04beb3a35:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-0507798800cb:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-7e358d04b6eb:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-6aea6c2e1f45:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-a35b715f0bd6:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-692542ed9742:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-a7d751f9ddde:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-80117a43dfee:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-733903e29210:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-3434e7f9ba6a:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-f4597ec782a4:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-c346aa6b5d34:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-b8da751ee157:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-ab1ccd6aa3d4:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-4336744af9e2:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
+  - pipeline:opp-3f3c5884a2f3:cannot import name 'FallbackLLMClient' from 'spec1_core.llm.fallback_client' (/home/mjlak/spec-1/src/spec1_core/llm/fallback_client.py)
 
 ---
 
@@ -75,19 +65,19 @@ This brief is Markdown. To produce a PDF:
 1. Pandoc (recommended):
 
    ```
-   pandoc briefs/spec1_brief_2026-10-24.md -o briefs/spec1_brief_2026-10-24.pdf --pdf-engine=xelatex
+   pandoc briefs/spec1_brief_2026-10-25.md -o briefs/spec1_brief_2026-10-25.pdf --pdf-engine=xelatex
    ```
 
 2. HTML export, then PDF (weasyprint or wkhtmltopdf):
 
    ```
-   pandoc briefs/spec1_brief_2026-10-24.md -s -o briefs/spec1_brief_2026-10-24.html
-   weasyprint briefs/spec1_brief_2026-10-24.html briefs/spec1_brief_2026-10-24.pdf
-   wkhtmltopdf briefs/spec1_brief_2026-10-24.html briefs/spec1_brief_2026-10-24.pdf
+   pandoc briefs/spec1_brief_2026-10-25.md -s -o briefs/spec1_brief_2026-10-25.html
+   weasyprint briefs/spec1_brief_2026-10-25.html briefs/spec1_brief_2026-10-25.pdf
+   wkhtmltopdf briefs/spec1_brief_2026-10-25.html briefs/spec1_brief_2026-10-25.pdf
    ```
 
 3. SPEC-1 built-in renderer:
 
    ```
-   python -m spec1_core.tools.pdf_render --brief-md briefs/spec1_brief_2026-10-24.md --out briefs/spec1_brief_2026-10-24.pdf
+   python -m spec1_core.tools.pdf_render --brief-md briefs/spec1_brief_2026-10-25.md --out briefs/spec1_brief_2026-10-25.pdf
    ```
