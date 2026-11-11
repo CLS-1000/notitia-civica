@@ -1,4 +1,4 @@
-# Notitia Civica
+# [Notitia Civica]^ux
 
 Notitia Civica is a public-interest publication that turns public signals into newsworthy civic and geopolitical reporting.
 
