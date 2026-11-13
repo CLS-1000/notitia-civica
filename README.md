@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/brand/notitia-civica-banner.png" alt="Notitia Civica" width="100%"></p>
+
 # [Notitia Civica]^ux
 
 Notitia Civica is a public-interest publication that turns public signals into newsworthy civic and geopolitical reporting.
